@@ -1,7 +1,7 @@
 """
-Supplementhub scraper
-- Haalt alle producten op via products.json (alle pagina's)
-- Berekent prijs incl. BTW (9% bij low_vat_rate tag, anders 21%)
+Supplementhub scraper (Storefront API)
+- Haalt alle producten op via Shopify Storefront GraphQL API
+- Prijzen exact incl. correcte BTW via @inContext(country: NL)
 - Genereert één gecombineerde XML voor Stock Sync
 """
 
@@ -9,92 +9,122 @@ import requests
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import time
-import re
-import os
+import json
 
-BASE_URL = "https://supplementhub.com"
-LOCALE = "/nl"
+STOREFRONT_TOKEN = "78b4cf4eea62489af1b61f38cc674fdc"
+API_URL = "https://supplementhub.com/api/2024-01/graphql.json"
 OUTPUT_FILE = "supplementhub_feed.xml"
-BTW_HOOG = 1.21
-BTW_LAAG = 1.09
-REQUEST_DELAY = 0.75
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; StockSyncBot/1.0)",
-    "Accept-Language": "nl-NL,nl;q=0.9",
+    "Content-Type": "application/json",
+    "X-Shopify-Storefront-Access-Token": STOREFRONT_TOKEN,
 }
 
+PRODUCTS_QUERY = """
+query ($cursor: String) @inContext(country: NL) {
+  products(first: 50, after: $cursor) {
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+    edges {
+      node {
+        title
+        handle
+        vendor
+        productType
+        descriptionHtml
+        tags
+        images(first: 5) {
+          edges {
+            node {
+              url
+            }
+          }
+        }
+        variants(first: 10) {
+          edges {
+            node {
+              sku
+              barcode
+              title
+              price {
+                amount
+              }
+              compareAtPrice {
+                amount
+              }
+              availableForSale
+              selectedOptions {
+                name
+                value
+              }
+              weight
+              weightUnit
+              image {
+                url
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+"""
 
-def fetch_with_retry(url, max_retries=3):
-    """Fetch een URL met retry-logica bij fouten."""
+
+def fetch_with_retry(query, variables=None, max_retries=3):
+    """GraphQL request met retry-logica."""
     for attempt in range(max_retries):
         try:
-            response = requests.get(url, headers=HEADERS, timeout=15)
+            payload = {"query": query}
+            if variables:
+                payload["variables"] = variables
+            response = requests.post(API_URL, headers=HEADERS, json=payload, timeout=30)
             response.raise_for_status()
-            return response
+            data = response.json()
+            if "errors" in data:
+                print(f"    ⚠️  GraphQL errors: {data['errors']}")
+            return data
         except Exception as e:
             if attempt < max_retries - 1:
                 wait = (attempt + 1) * 30
                 print(f"    ⚠️  Fout ({e}), opnieuw proberen in {wait}s...")
                 time.sleep(wait)
             else:
-                print(f"    ❌ Mislukt na {max_retries} pogingen: {e}")
                 raise
 
 
 def fetch_all_products():
+    """Haalt alle producten op via Storefront API met cursor-paginatie."""
     products = []
+    cursor = None
     page = 1
-    print("📦 Producten ophalen via JSON API...")
+
+    print("📦 Producten ophalen via Storefront API...")
 
     while True:
-        url = f"{BASE_URL}/products.json?limit=250&page={page}"
-        response = fetch_with_retry(url)
-        batch = response.json().get("products", [])
-        if not batch:
+        variables = {"cursor": cursor} if cursor else {}
+        data = fetch_with_retry(PRODUCTS_QUERY, variables)
+
+        edges = data.get("data", {}).get("products", {}).get("edges", [])
+        page_info = data.get("data", {}).get("products", {}).get("pageInfo", {})
+
+        for edge in edges:
+            products.append(edge["node"])
+
+        print(f"  Pagina {page}: {len(edges)} producten (totaal: {len(products)})")
+
+        if not page_info.get("hasNextPage", False):
             break
-        products.extend(batch)
-        print(f"  Pagina {page}: {len(batch)} producten (totaal: {len(products)})")
-        if len(batch) < 250:
-            break
+
+        cursor = page_info.get("endCursor")
         page += 1
-        time.sleep(REQUEST_DELAY)
+        time.sleep(1)  # Rate limiting
 
     print(f"✅ {len(products)} producten gevonden\n")
     return products
-
-
-def extract_meta(html, property_name):
-    """Haal een meta-tag waarde op uit HTML."""
-    match = re.search(
-        rf'<meta[^>]+property=["\']og:{property_name}["\'][^>]+content=["\']([^"\']+)["\']',
-        html
-    )
-    if not match:
-        match = re.search(
-            rf'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:{property_name}["\']',
-            html
-        )
-    return match.group(1) if match else None
-
-
-def fetch_live_details(handle):
-    """Haalt beschrijving op van de live productpagina."""
-    url = f"{BASE_URL}{LOCALE}/products/{handle}"
-    result = {"description": None}
-
-    try:
-        response = fetch_with_retry(url, max_retries=2)
-        html = response.text
-
-        desc = extract_meta(html, "description")
-        if desc:
-            result["description"] = desc
-
-    except Exception as e:
-        print(f"    ⚠️  Fout bij {handle}: {e}")
-
-    return result
 
 
 def build_xml(products):
@@ -105,41 +135,40 @@ def build_xml(products):
         handle = product.get("handle", "")
         title = product.get("title", "")
         vendor = product.get("vendor", "")
-        product_type = product.get("product_type", "")
-        body_html = product.get("body_html", "") or ""
+        product_type = product.get("productType", "")
+        description_html = product.get("descriptionHtml", "") or ""
         tags = product.get("tags", [])
         tags_str = ", ".join(tags)
-        images = product.get("images", [])
-        image_url = images[0].get("src", "") if images else ""
 
-        # BTW bepalen op basis van tags
-        btw = BTW_LAAG if "low_vat_rate" in tags else BTW_HOOG
-        btw_label = "9%" if btw == BTW_LAAG else "21%"
+        images = product.get("images", {}).get("edges", [])
+        image_url = images[0]["node"]["url"] if images else ""
 
-        print(f"  [{i}/{total}] {title[:60]}... (BTW: {btw_label})")
-        live = fetch_live_details(handle)
+        variants = product.get("variants", {}).get("edges", [])
 
-        description = live.get("description") or body_html
+        print(f"  [{i}/{total}] {title[:60]}...")
 
-        for variant in product.get("variants", []):
-            sku = variant.get("sku", "")
+        for variant_edge in variants:
+            variant = variant_edge["node"]
+            sku = variant.get("sku", "") or ""
             barcode = variant.get("barcode", "") or ""
-            available = variant.get("available", False)
-            quantity = variant.get("inventory_quantity", 0)
+            available = variant.get("availableForSale", False)
+            price = float(variant.get("price", {}).get("amount", "0"))
 
-            # Prijs: JSON prijs × juiste BTW
-            raw_price = float(variant.get("price", "0"))
-            price = round(raw_price * btw, 2)
+            compare_at = variant.get("compareAtPrice")
+            compare_at_price = float(compare_at["amount"]) if compare_at else ""
 
-            raw_compare = variant.get("compare_at_price")
-            compare_at_price = round(float(raw_compare) * btw, 2) if raw_compare else ""
+            # Variant afbeelding
+            variant_image = variant.get("image", {})
+            variant_image_url = variant_image.get("url", image_url) if variant_image else image_url
 
-            variant_image_id = variant.get("image_id")
-            variant_image = image_url
-            for img in images:
-                if img.get("id") == variant_image_id:
-                    variant_image = img.get("src", image_url)
-                    break
+            # Opties
+            options = variant.get("selectedOptions", [])
+            option1 = options[0]["value"] if len(options) > 0 else ""
+            option2 = options[1]["value"] if len(options) > 1 else ""
+
+            variant_title = variant.get("title", "")
+            weight = variant.get("weight") or ""
+            weight_unit = variant.get("weightUnit", "") or ""
 
             item = ET.SubElement(root, "product")
 
@@ -152,21 +181,19 @@ def build_xml(products):
             add("title", title)
             add("vendor", vendor)
             add("product_type", product_type)
-            add("description", description)
+            add("description", description_html)
             add("tags", tags_str)
             add("price", f"{price:.2f}")
             add("compare_at_price", f"{compare_at_price:.2f}" if compare_at_price else "")
             add("available", "true" if available else "false")
-            add("quantity", quantity if available else 0)
+            add("quantity", "0")
             add("handle", handle)
-            add("image", variant_image)
-            add("variant_title", variant.get("title", ""))
-            add("option1", variant.get("option1", "") or "")
-            add("option2", variant.get("option2", "") or "")
-            add("weight", variant.get("weight", ""))
-            add("weight_unit", variant.get("weight_unit", ""))
-
-        time.sleep(REQUEST_DELAY)
+            add("image", variant_image_url)
+            add("variant_title", variant_title)
+            add("option1", option1)
+            add("option2", option2)
+            add("weight", weight)
+            add("weight_unit", weight_unit)
 
     return root
 
