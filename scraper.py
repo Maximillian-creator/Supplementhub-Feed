@@ -1,7 +1,7 @@
 """
 Supplementhub scraper
 - Haalt alle producten op via products.json (alle pagina's)
-- Scrapt live pagina voor: prijs (og:price), beschrijving (og:description)
+- Berekent prijs incl. BTW (9% bij low_vat_rate tag, anders 21%)
 - Genereert één gecombineerde XML voor Stock Sync
 """
 
@@ -15,17 +15,31 @@ import os
 BASE_URL = "https://supplementhub.com"
 LOCALE = "/nl"
 OUTPUT_FILE = "supplementhub_feed.xml"
+BTW_HOOG = 1.21
+BTW_LAAG = 1.09
 REQUEST_DELAY = 0.75
-
-# Supplementhub prijzen lijken incl. BTW te zijn (site zegt "Inclusief belasting")
-# Zet op True als og:price EXCL BTW is, dan wordt BTW berekend
-APPLY_BTW = False
-BTW = 1.21
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; StockSyncBot/1.0)",
     "Accept-Language": "nl-NL,nl;q=0.9",
 }
+
+
+def fetch_with_retry(url, max_retries=3):
+    """Fetch een URL met retry-logica bij fouten."""
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=15)
+            response.raise_for_status()
+            return response
+        except Exception as e:
+            if attempt < max_retries - 1:
+                wait = (attempt + 1) * 30
+                print(f"    ⚠️  Fout ({e}), opnieuw proberen in {wait}s...")
+                time.sleep(wait)
+            else:
+                print(f"    ❌ Mislukt na {max_retries} pogingen: {e}")
+                raise
 
 
 def fetch_all_products():
@@ -35,8 +49,7 @@ def fetch_all_products():
 
     while True:
         url = f"{BASE_URL}/products.json?limit=250&page={page}"
-        response = requests.get(url, headers=HEADERS, timeout=15)
-        response.raise_for_status()
+        response = fetch_with_retry(url)
         batch = response.json().get("products", [])
         if not batch:
             break
@@ -66,19 +79,13 @@ def extract_meta(html, property_name):
 
 
 def fetch_live_details(handle):
-    """Haalt prijs en beschrijving op van de live productpagina."""
+    """Haalt beschrijving op van de live productpagina."""
     url = f"{BASE_URL}{LOCALE}/products/{handle}"
-    result = {"price": None, "description": None}
+    result = {"description": None}
 
     try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
-        response.raise_for_status()
+        response = fetch_with_retry(url, max_retries=2)
         html = response.text
-
-        price_str = extract_meta(html, "price:amount")
-        if price_str:
-            price = float(price_str.replace(",", "."))
-            result["price"] = round(price * BTW, 2) if APPLY_BTW else price
 
         desc = extract_meta(html, "description")
         if desc:
@@ -105,7 +112,11 @@ def build_xml(products):
         images = product.get("images", [])
         image_url = images[0].get("src", "") if images else ""
 
-        print(f"  [{i}/{total}] {title[:60]}...")
+        # BTW bepalen op basis van tags
+        btw = BTW_LAAG if "low_vat_rate" in tags else BTW_HOOG
+        btw_label = "9%" if btw == BTW_LAAG else "21%"
+
+        print(f"  [{i}/{total}] {title[:60]}... (BTW: {btw_label})")
         live = fetch_live_details(handle)
 
         description = live.get("description") or body_html
@@ -116,17 +127,12 @@ def build_xml(products):
             available = variant.get("available", False)
             quantity = variant.get("inventory_quantity", 0)
 
-            if live.get("price") is not None:
-                price = live["price"]
-            else:
-                raw_price = float(variant.get("price", "0"))
-                price = round(raw_price * BTW, 2) if APPLY_BTW else raw_price
+            # Prijs: JSON prijs × juiste BTW
+            raw_price = float(variant.get("price", "0"))
+            price = round(raw_price * btw, 2)
 
             raw_compare = variant.get("compare_at_price")
-            if raw_compare:
-                compare_at_price = round(float(raw_compare) * BTW, 2) if APPLY_BTW else float(raw_compare)
-            else:
-                compare_at_price = ""
+            compare_at_price = round(float(raw_compare) * btw, 2) if raw_compare else ""
 
             variant_image_id = variant.get("image_id")
             variant_image = image_url
@@ -187,7 +193,7 @@ def main():
     elapsed = time.time() - start
     print(f"⏱️  Klaar in {elapsed:.0f} seconden")
     print(f"\n📋 Feed URL voor Stock Sync:")
-    print(f"https://raw.githubusercontent.com/Maximillian-creator/supplementhub-feed/main/supplementhub_feed.xml")
+    print(f"https://raw.githubusercontent.com/Maximillian-creator/Supplementhub-Feed/main/supplementhub_feed.xml")
 
 
 if __name__ == "__main__":
