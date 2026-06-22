@@ -8685,7 +8685,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mega-sporebiotic-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaSporeBiotic-PLUS-Bottle-Active-Bacteria-FRONT_adcdd3e2-6611-4136-b868-3d58e6171eae.jpg?v=1764586904</image>
@@ -14814,7 +14814,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-vitamin-c-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-23T161143.837.webp?v=1764586184</image>
@@ -14973,7 +14973,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>butyrate-calcium-magnesium-100-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T113348.622.webp?v=1764586607</image>
@@ -16740,7 +16740,7 @@
     <tags>low_vat_rate</tags>
     <price>91.60</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mito-pqq-60-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mito-pqq_60_capsules-1.png?v=1764586788</image>
@@ -17634,7 +17634,7 @@
     <tags>low_vat_rate</tags>
     <price>51.71</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>paleo-protein-unflavored-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Unflavored_20-_2020_20Servings_20_20Amy_20Myers_20MD_02.webp?v=1764586802</image>
