@@ -1176,7 +1176,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultra-purifiant-cleanse-210-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0077NRHEurope_UltraPurifiantCleanse210capsules_75892eb1-9a61-442e-bd65-bc2dde1f4101.png?v=1764586147</image>
@@ -8615,7 +8615,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mico-cord-cordyceps-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Cord-01.png?v=1764585726</image>
@@ -16740,7 +16740,7 @@
     <tags>low_vat_rate</tags>
     <price>91.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mito-pqq-60-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mito-pqq_60_capsules-1.png?v=1764586788</image>
