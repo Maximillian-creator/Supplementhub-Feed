@@ -4234,7 +4234,7 @@
     <tags>low_vat_rate</tags>
     <price>95.91</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-glutathione-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/kjkjkkj.png?v=1781735036</image>
@@ -8702,7 +8702,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mega-sporebiotic-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaSporeBiotic-PLUS-Bottle-Active-Bacteria-FRONT_adcdd3e2-6611-4136-b868-3d58e6171eae.jpg?v=1764586904</image>
@@ -14811,7 +14811,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>55.15</price>
     <compare_at_price>67.57</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>tudca-tauroursodeoxycholic-acid-supplement-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA.webp?v=1774048710</image>
@@ -16604,7 +16604,7 @@
     <tags>low_vat_rate</tags>
     <price>83.92</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamycobalance-180-softgels-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaMycoBalance-UK-Bottle-FRONT_20_283_29.jpg?v=1764586669</image>
@@ -18372,7 +18372,7 @@
     <tags>low_vat_rate</tags>
     <price>189.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>stemregen-release-stemregen</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Stemregen_20Release_20-_2060_20Capsules_20_20STEMREGEN_01.webp?v=1764585920</image>
@@ -20800,7 +20800,7 @@
     <tags>low_vat_rate</tags>
     <price>46.86</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-pc-90-softgels-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-PC-SG_R_medium_20_281_29.webp?v=1764586521</image>
@@ -21104,7 +21104,7 @@
     <tags>low_vat_rate</tags>
     <price>66.48</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>motility-assist-30-capsules-biocidin-botanicals</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_021_2.webp?v=1765235955</image>
