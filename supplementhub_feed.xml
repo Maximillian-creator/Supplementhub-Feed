@@ -13827,7 +13827,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-power-cacao-300g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Power_20cacao.png?v=1764586270</image>
@@ -17386,7 +17386,7 @@
     <title>MegaMucosa - 180 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;MegaMucosa&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; contains a blend of five specifically selected amino acids and bioflavonoids.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;The mucosal system is a very important part of the human immune system. Not many people think of mucus as being protective, but it is the main interface between the human body and the outside world. The mucosal system contains 150 times more surface area than skin, which makes it one of the most important immune barriers. The health of the mucosa determines how the body interacts with antigens; therefore, the integrity of the intestinal mucosa can dictate overall immune function.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;There are four key amino acids that play an important role in the production of intestinal mucosa include: L-proline, L-serine, L-cysteine, and L-threonine. These four amino acids have been shown to increase mucin2 production.. MicrobiomeX® is a natural citrus extract rich in polyphenols.&lt;/span&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;MegaMucosa contains a blend of five specifically selected amino acids and bioflavonoids.&lt;/p&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;The mucosal system forms an important interface between the human body and the outside world, covering a large surface area throughout the body. It plays a role in how the body interacts with its environment. Four amino acids are found naturally in the intestinal mucosa: L-proline, L-serine, L-cysteine, and L-threonine. MicrobiomeX® is a natural citrus extract rich in polyphenols.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
@@ -24132,6 +24132,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>MET_037</sku>
+    <barcode>5028392002100</barcode>
+    <title>Gluco-Chrome - 60 Capsules | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>This supplement features Chromium Picolinate, Alpha-Lipoic Acid, and Cinnamon Extract, providing a high-quality, concentrated serving to fit into your daily routine. Formulated to support the maintenance of normal blood sugar levels, this formula offers consistent, daily support for your metabolic goals, allowing you to approach your health with an advanced, science-backed approach to balance.Developed with a highly bioavailable form for excellent absorption, this trusted blend features 500µg of Chromium Picolinate alongside 150mg of Alpha-Lipoic Acid to provide a precise, high-quality serving that fits seamlessly into your life. Each capsule delivers a concentrated 100mg of Cinnamon Extract (15:1), providing the strength equivalent to 1.5g of dry cinnamon bark in a convenient daily dose. Built with pure, premium ingredients, this expert formulation offers optimal daily support, long-term consistency, and complete peace of mind for your health journey.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>42.92</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>gluco-chrome</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gluco-chrome_60_32703_web_20_281_29_20_281_29.webp?v=1780997159</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>44.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>MET_054</sku>
     <barcode>5028392002681</barcode>
     <title>MegaMag PeriMeno Plus 30 Servings | Metagenics</title>
@@ -24149,6 +24169,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>223.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_038</sku>
+    <barcode>5028392002674</barcode>
+    <title>Berberine 250 - 60 Capsules | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Berberine 250 by Metagenics introduces a premium, botanical approach to your daily routine, combining the power of traditional plant extracts in one advanced capsule formula. Sourced from high-quality Berberis aristata extract, each serving delivers 250mg of premium Berberine paired with 50mg of standardized Milk Thistle to create a balanced, high-quality botanical partnership. Developed for those looking to add trusted, plant-derived support to their life, this specialized herbal blend fits seamlessly into your established health journey. Designed as an easy-to-swallow capsule, it provides absolute dosing convenience for a practical, once-daily routine. Built with pure, premium ingredients and extensively verified for quality, it offers a reliable, non-hormonal option crafted to bring you complete long-term consistency and daily confidence.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>36.11</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>berberine-250-60-caps</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/berberine_250_60_32898_web_1.webp?v=1780996230</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>51.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -24172,6 +24212,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>MET_036</sku>
+    <barcode>5028392002414</barcode>
+    <title>Oestrogen Balance - 120g | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Oestrogen Balance by Metagenics offers a premium, comprehensive approach to your daily wellness routine. This advanced multi-nutrient powder formula is thoughtfully designed to provide a natural way to support normal hormonal activity. Featuring an expertly selected blend of active ingredients, including Vitamin B6, broccoli extract, and isoflavones from kudzu, it works naturally with your body to maintain daily balance. The addition of 350mg of flaxseed extract offers a high-quality source of plant-derived lignans, while essential nutrients like 160mg of Vitamin C and 400IU of Vitamin D work to support the normal function of the immune system and general vitality. Enriched with choline to assist the maintenance of normal liver function, alongside B vitamins, glycine, curcumin, and NAC, this versatile formula is suitable for any woman wishing to care for her lifestyle and nutritional needs from age 18 up to and including the years around the menopause (approx. age 18–55). It is equally ideal for women of childbearing age wishing to support normal fertility and reproduction, women of 40+ seeking targeted nutrient support for life's natural transitions, or men looking to support healthy daily metabolism.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>67.37</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>oestrogen-balance</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/oestrogen_balance_14_35356-web.webp?v=1780996602</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>120.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>MET_057</sku>
     <barcode>5028392002261</barcode>
     <title>MetaActive Curcumin MegaSorb - 60 Capsules  | Metagenics</title>
@@ -24189,6 +24249,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>94.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_034</sku>
+    <barcode>5400433363256</barcode>
+    <title>HerWellness Perimenopause - 30 Capsules | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Discover a premium, plant-based approach to your daily wellness routine. This advanced formula features ERr 731®, a specialized, standardized Siberian rhubarb root extract backed by extensive human nutritional research and multiple scientific trials.Designed specifically as a non-hormonal option for women, this safe, plant-based supplement provides targeted botanical support that fits seamlessly into your everyday life. With a practical and convenient once-daily dose, each single tablet delivers a consistent, high-quality serving of active components. Extensively verified for safety and purity, it is a trusted choice crafted for your long-term peace of mind and daily confidence.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>29.34</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>herwellness-perimenopause</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2111217688_max_20_281_29.webp?v=1780958020</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>21.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -24253,6 +24333,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>30.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_035</sku>
+    <barcode>5028392002964</barcode>
+    <title>MegaMag PeriMeno - 60 Tablets | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Elevate your daily routine with a comprehensive, science-backed approach to modern wellness. Thoughtfully developed using highly bioavailable, active nutrients, this advanced daily formula is perfectly tailored to fit seamlessly into the lifestyle of women over 40. At its core is a premium blend of standardized botanicals, featuring ashwagandha, saffron, and sage extract, chosen for their purity and structural consistency. Combined with an optimally absorbed form of magnesium glycinate, this formulation provides targeted support for energy levels, a normal functioning nervous system, and healthy psychological function. Each easy-to-swallow, once-daily tablet delivers a reliable, consistent serving of high-quality ingredients, offering an entirely vegan-friendly, non-hormonal choice built to support long-term quality and your complete peace of mind.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>44.25</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-perimeno-tablets</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/megamag_perimeno_60_32824_web.webp?v=1780996163</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>110.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
