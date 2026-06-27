@@ -2644,7 +2644,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>110.08</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultra-binder-universal-toxin-binder-120g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraBinder120gPowder2000_Render.png?v=1772838993</image>
@@ -13777,7 +13777,7 @@
     <tags/>
     <price>27.24</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pure-mct-creamer-250g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20MCT_20creamer.png?v=1764586017</image>
@@ -14878,7 +14878,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>butyrate-sodium-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T111442.983.webp?v=1764586185</image>
@@ -20520,62 +20520,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>350.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>THO_002</sku>
-    <barcode>693749104032</barcode>
-    <title>Basic B Complex - 60 Capsules | Thorne</title>
-    <vendor>Thorne</vendor>
-    <product_type/>
-    <description>&lt;div&gt;
-&lt;h4 class=&quot;product title is-4&quot; data-mce-fragment=&quot;1&quot;&gt;Cover the basics of wellness with a balanced complex of all eight B vitamins.&lt;/h4&gt;
-&lt;p&gt;8 easily-absorbed B vitamins, plus Choline – packed into one capsule for a simple way to promote neurological function and cellular energy production.&lt;/p&gt;
-&lt;p&gt;Thorne’s Basic B Complex formula contains the active forms of the B vitamins, making it easy for your body to absorb them.&lt;/p&gt;
-&lt;p&gt;Because most B vitamins don’t remain in the body, they must be acquired from diet and supplementation to help maintain optimal health.&lt;/p&gt;
-&lt;p&gt;Supplementing with tissue-ready B vitamins is important for everyone&lt;/p&gt;
-&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;Thiamine, Riboflavin, Niacin, Biotin &amp;amp; Vitamin B12 contribute to normal energy-yielding metabolism&lt;/li&gt;
-&lt;li&gt;Thiamine, Biotin, Vitamin B12, Riboflavin &amp;amp; Niacin contribute to normal functioning of the nervous system&lt;/li&gt;
-&lt;li&gt;Thiamine, Biotin, Folate, Vitamin B6, B12, &amp;amp; Niacin contribute to normal psychological function&lt;/li&gt;
-&lt;li&gt;Thiamine contributes to the normal function of the heart&lt;/li&gt;
-&lt;li&gt;Riboflavin contributes to the maintenance of normal mucous membranes, skin, vision &amp;amp; red blood cells&lt;/li&gt;
-&lt;li&gt;Riboflavin contributes to the normal metabolism of iron&lt;/li&gt;
-&lt;li&gt;Riboflavin contributes to the protection of cells from oxidative stress&lt;/li&gt;
-&lt;li&gt;Niacin contributes to the maintenance of normal mucous membranes &amp;amp; skin&lt;/li&gt;
-&lt;li&gt;Pantothenic acid contributes to normal synthesis and metabolism of steroid hormones, vitamin D and some neurotransmitters&lt;/li&gt;
-&lt;li&gt;Vitamin B6 contribute to normal homocysteine,  energy-yielding , protein and glycogen metabolism&lt;/li&gt;
-&lt;li&gt;Vitamin B6 contributes to normal red blood cell formation&lt;/li&gt;
-&lt;li&gt;Vitamin B6 contributes to the normal function of the immune &amp;amp; nervous system&lt;/li&gt;
-&lt;li&gt;Vitamin B6 contributes to the regulation of hormonal activity&lt;/li&gt;
-&lt;li&gt;Vitamin B6 contributes to normal cysteine synthesis&lt;/li&gt;
-&lt;li&gt;Biotin contributes to the maintenance of normal mucous membranes&lt;/li&gt;
-&lt;li&gt;Biotin contributes to normal macronutrient metabolism&lt;/li&gt;
-&lt;li&gt;Biotin contributes to the maintenance of normal hair &amp;amp; skin&lt;/li&gt;
-&lt;li&gt;Folate contributes to maternal tissue growth during pregnancy&lt;/li&gt;
-&lt;li&gt;Folate contributes to normal amino acid synthesis&lt;/li&gt;
-&lt;li&gt;Folate contributes to normal blood formation&lt;/li&gt;
-&lt;li&gt;Folate, Vitamin B12 &amp;amp; Choline contribute to normal homocysteine metabolism&lt;/li&gt;
-&lt;li&gt;Folate &amp;amp; Vitamin B12 contribute to the normal function of the immune system&lt;/li&gt;
-&lt;li&gt;Folate, Niacin, Vitamin B12, B6 &amp;amp; Riboflavin contribute to the reduction of tiredness and fatigue&lt;/li&gt;
-&lt;li&gt;Folate has a role in the process of cell division&lt;/li&gt;
-&lt;li&gt;Supplemental folic acid intake increases maternal folate status. Low maternal folate status is a risk factor in the development of neural tube defects in the developing foetus.&lt;/li&gt;
-&lt;li&gt;Vitamin B12 contributes to normal red blood cell formation&lt;/li&gt;
-&lt;li&gt;Vitamin B12 has a role in the process of cell division&lt;/li&gt;
-&lt;li&gt;Choline contributes to normal lipid metabolism&lt;/li&gt;
-&lt;li&gt;Choline contributes to the maintenance of normal liver function&lt;/li&gt;
-&lt;/ul&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
-    <price>58.85</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>basic-b-complex-60-capsules-thorne</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/THO_002-Basic-B-Complex.png?v=1764586648</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>80.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
