@@ -8852,7 +8852,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>epa-dha-essentials-90-softgel-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0007-EPA-DHA-Essentials-90s.jpg?v=1764586401</image>
@@ -12326,7 +12326,7 @@
     <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thiamax-high-absorption-vitamin-b1-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2814_29-converted-from-png.webp?v=1769728927</image>
@@ -12863,7 +12863,7 @@
     <tags>low_vat_rate</tags>
     <price>76.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>sensitol-120-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_114-Sensitol_40vrl7_4f960f02-2028-4c32-83d3-e0cc176deeb3.png?v=1764586367</image>
@@ -18781,7 +18781,7 @@
     <tags>low_vat_rate</tags>
     <price>38.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>perfectamino-electrolytes-watermelon-150g-bodyhealth</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/watermelonfront.jpg?v=1764586692</image>
