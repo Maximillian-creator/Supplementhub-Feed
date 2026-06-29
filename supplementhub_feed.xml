@@ -282,7 +282,7 @@
     <tags>low_vat_rate</tags>
     <price>23.97</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>rhizinate-fructose-free-100-chewable-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_16-Rhizinate-Fructose-Free_aa9e8b0f-73cc-4f34-8fff-253dfa4e6065.png?v=1764586163</image>
@@ -3911,7 +3911,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price>54.49</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>probiota-bifido-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-FIDO-CAP_1_Front_R_medium_3ccdbc29-2d9c-4975-aec9-3bc92a0e6046.webp?v=1764586217</image>
@@ -5263,7 +5263,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glycine-powder-250g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_20_4409f594-b09c-4aa9-87e3-925f929fa761.png?v=1764585598</image>
@@ -5455,7 +5455,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-malate-120mg-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_28_b7a49648-72c2-461b-8721-3810f1ec5ffb.png?v=1764585591</image>
@@ -8852,7 +8852,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>epa-dha-essentials-90-softgel-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0007-EPA-DHA-Essentials-90s.jpg?v=1764586401</image>
@@ -9217,7 +9217,7 @@
     <tags>low_vat_rate</tags>
     <price>44.50</price>
     <compare_at_price>57.76</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-glutathione-with-lemon-mint-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_009-Liposomal-Glutathione_e2707c37-e78e-4fe7-9be8-2af2ede5908a.png?v=1764585698</image>
@@ -12132,7 +12132,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>29.42</price>
     <compare_at_price>34.87</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hawthorn-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_065-Hawthorn_129e10c2-e94a-4177-9e34-d89a6819003d.jpg?v=1764586200</image>
@@ -12326,7 +12326,7 @@
     <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thiamax-high-absorption-vitamin-b1-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2814_29-converted-from-png.webp?v=1769728927</image>
@@ -13116,7 +13116,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>h2-elite-60-tablets-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_029_b3d4b5b1-6def-4122-a633-15ea0da584c3.png?v=1764586541</image>
@@ -14791,7 +14791,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-vitamin-c-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-23T161143.837.webp?v=1764586184</image>
@@ -14811,7 +14811,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>55.15</price>
     <compare_at_price>67.57</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tudca-tauroursodeoxycholic-acid-supplement-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA.webp?v=1774048710</image>
@@ -14878,7 +14878,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>butyrate-sodium-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T111442.983.webp?v=1764586185</image>
@@ -14899,7 +14899,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>butyrate-sodium-100-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T112818.782.webp?v=1764586439</image>
@@ -15107,7 +15107,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>balance-oil-liquid-omega-6-3-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T142026.635.webp?v=1764585746</image>
@@ -15167,7 +15167,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>196.61</price>
     <compare_at_price>231.07</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T132028.157.webp?v=1764586012</image>
@@ -19664,7 +19664,7 @@
     <tags>low_vat_rate</tags>
     <price>71.93</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>purehmo®-human-milk-oligosaccharide-hmo-2fl-super-prebiotic-powder-layer-origin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1_61RmHOzpWfL_desktop.webp?v=1781606088</image>
