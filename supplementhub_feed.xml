@@ -8605,7 +8605,7 @@
     <tags>low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mico-five-chaga-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Five-01.png?v=1764585909</image>
@@ -8762,7 +8762,7 @@
     <tags>low_vat_rate</tags>
     <price>22.33</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>tmg-500mg-60-liquid-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LE_123-TMG_4ca67a69-3be7-4276-8f94-32d70a5def13.png?v=1764586671</image>
@@ -10166,7 +10166,7 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MW_16</sku>
+    <sku>MW_27</sku>
     <barcode>4260591790490</barcode>
     <title>CDA+ - 180 Capsules | Candida &amp; Gut Support | MakeWell</title>
     <vendor>MakeWell</vendor>
@@ -11440,7 +11440,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>anti-sibo-60-capsules-thera-nordic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TN_05-1_8t6qk8_595fa2e0-0484-4b21-bd40-f51393deeef3.png?v=1764586281</image>
@@ -12326,7 +12326,7 @@
     <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thiamax-high-absorption-vitamin-b1-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2814_29-converted-from-png.webp?v=1769728927</image>
@@ -18611,7 +18611,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>v-probiotics-30-suppository-capsules-vitanica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-06-04T171947.143.png?v=1764586178</image>
