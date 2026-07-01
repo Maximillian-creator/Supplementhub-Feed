@@ -12326,7 +12326,7 @@
     <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thiamax-high-absorption-vitamin-b1-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2814_29-converted-from-png.webp?v=1769728927</image>
@@ -14639,7 +14639,7 @@
     <tags>low_vat_rate</tags>
     <price>97.00</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>primeadine®-original-spermidine-supplements-90-capsules-oxford-healthspan-1</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/primeadine-original-oxford-healthspan_3b1ec5fb-67a0-4bb0-bc44-da122713e763.webp?v=1764586370</image>
@@ -20767,7 +20767,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>creatine-monohydrate-450mg-creatine-monohydrate-designs-for-sport</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-23T134746.331.webp?v=1764586690</image>
