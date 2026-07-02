@@ -434,7 +434,7 @@
     <tags>low_vat_rate</tags>
     <price>94.82</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>heartburn-advantage-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_37-Heartburn-Advantage_fddb96c7-5f8d-4156-944c-2a906cb9e02d.png?v=1764585728</image>
@@ -839,7 +839,7 @@
     <tags>low_vat_rate</tags>
     <price>82.83</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>veggie-fusion-protein</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MEL_13-Veggie-Protein-Vanilla.png?v=1764585716</image>
@@ -1116,7 +1116,7 @@
     <tags>low_vat_rate</tags>
     <price>53.40</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pro-boulardii-plus-21-billion-cfu-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE2016NRHEurope_ProBoulardiiPlus30capsules_20d1c8f9-1891-40dd-be7e-4adc239a23dc.png?v=1764585803</image>
@@ -1196,7 +1196,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultra-purifiant-cleanse-210-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0077NRHEurope_UltraPurifiantCleanse210capsules_75892eb1-9a61-442e-bd65-bc2dde1f4101.png?v=1764586147</image>
@@ -1236,7 +1236,7 @@
     <tags>low_vat_rate</tags>
     <price>42.27</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>lions-mane-500mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/fe1868-nrh-europe_-lion_s-mane-60-capsules_ab5f4359-e8ba-4c16-bc00-d3f485550f66.png?v=1764586763</image>
@@ -1623,7 +1623,7 @@
     <tags>low_vat_rate</tags>
     <price>27.71</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>keep-klear-acne-eczema-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20KK-019_20UK_20PMD_20Keep_20Klear_20Oct_202025-2.webp?v=1768000967</image>
@@ -5850,7 +5850,7 @@
     <tags>low_vat_rate</tags>
     <price>46.07</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>adrenotone-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_06-90-Adrenotone.png?v=1764585999</image>
@@ -6648,7 +6648,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-glutamine-850mg-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-11T124811.915.webp?v=1764586068</image>
@@ -8203,7 +8203,7 @@
     <tags>low_vat_rate</tags>
     <price>83.39</price>
     <compare_at_price>95.91</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biocidin-broad-spectrum-liquid-formula-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biocidin_2dfb7b5d-e418-48b3-a2e2-2956e04d0508.png?v=1764586344</image>
@@ -8468,26 +8468,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>HDT_01</sku>
-    <barcode>8436561602193</barcode>
-    <title>Askorbato K-HdT (Vitamin C) - 30 Tablets | Hifas da Terra</title>
-    <vendor>Hifas da Terra</vendor>
-    <product_type/>
-    <description>&lt;div&gt;More than just vitamin C. For a more complete protection with more ascorbic acid. The new highly concentrated Askorbato K Time Release formula adds the benefits of Mediterranean polyphenols and, thanks to the delayed release in gastroresistant tablets and potassium bicarbonate, helps prevent heartburn.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Askorbato K Time Release is suitable for coeliacs, vegetarians and vegans. Hifas da Terra products are free of heavy metals and pesticides.&lt;/div&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>20.70</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>askorbato-k-hdt-70-tablets</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_01.webp?v=1764585729</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>28.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>HDT_14</sku>
     <barcode>8436561601578</barcode>
     <title>Bio-Defense - 60 Capsules | Hifas da Terra</title>
@@ -8508,33 +8488,6 @@
     <quantity>0</quantity>
     <handle>bio-defense-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_14-Bio-Defense_bc927f67-6208-40cc-8f51-1072e8130b37.png?v=1764586675</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>41.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>HDT_13</sku>
-    <barcode>8436561601608</barcode>
-    <title>Bio-Intestin - 60 Capsules | Hifas da Terra</title>
-    <vendor>Hifas da Terra</vendor>
-    <product_type/>
-    <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Bio-Intestin is an organic supplement of bioactive compounds from a synergistic blend of prebiotic medicinal mushrooms and calcium.&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;It can help restore digestive balance&lt;/li&gt;
-&lt;li&gt;Prebiotics feed good bacteria in the gut&lt;/li&gt;
-&lt;li&gt;Contains calcium which can help enhance the functioning of digestive enzymes&lt;/li&gt;
-&lt;li&gt;May help to support the immune system&lt;/li&gt;
-&lt;li&gt;Contains a source of dietary fibre&lt;/li&gt;
-&lt;li&gt;Can enhance wellbeing&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Bio-Intestin contains bioactive substances from Shiitake, Lion’s Mane, Pleurotus ostreatus and Pleurotus eryngii. A natural source of beta-glucans, dietary fibre, protein, iron, zinc and other compounds that help protect you and be beneficial for gut health.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Suggested use is 2 capsules before breakfast or a meal.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>33.78</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>bio-intestin-60-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_13-Bio-Intestin_5382efd2-6450-4550-a6b9-4c2cebe38de6.png?v=1764586075</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
@@ -8762,7 +8715,7 @@
     <tags>low_vat_rate</tags>
     <price>22.33</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tmg-500mg-60-liquid-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LE_123-TMG_4ca67a69-3be7-4276-8f94-32d70a5def13.png?v=1764586671</image>
@@ -8782,7 +8735,7 @@
     <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glycine-1000mg-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LE_142-Glycine_861a56f6-75f8-447f-99ca-2b72fc31d87c.png?v=1764586409</image>
@@ -9849,7 +9802,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>complete-omega-565mg-lemon-flavour-180-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_04-Complete-Omega-180s_81e79dfb-b5b2-48b6-80f4-a77e76d019b5.jpg?v=1764586665</image>
@@ -9922,7 +9875,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>prenatal-dha-830mg-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_19-Prenatal-DHA_a4ad28f5-816e-42fb-9a4d-6ff6232782cd.jpg?v=1764585893</image>
@@ -10195,7 +10148,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price>54.49</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>cpn-immune-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_EU_CPN_S_white_20240623.jpg?v=1764585901</image>
@@ -10388,7 +10341,7 @@
     <tags>low_vat_rate</tags>
     <price>148.23</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>s-acetyl-glutathione-300-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_SAG_269db88e-9192-42bf-9a0b-429943c3bfc3.jpg?v=1764585979</image>
@@ -10897,7 +10850,7 @@
     <tags>low_vat_rate</tags>
     <price>51.73</price>
     <compare_at_price>56.67</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gi-detox-int-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GI_Detox-INT-s.png?v=1764585587</image>
@@ -12032,7 +11985,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>cissus-supreme-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_061-Cissus-Supreme_5f127bb3-5ac5-488a-952b-b1375b132833.png?v=1764586725</image>
@@ -12588,7 +12541,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price>39.23</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>womens-health-silver-ear-seed-kit-bundle-acu-seeds</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ACU_04-Womens-Health-Silver-Bundle_y64wk2.png?v=1764585939</image>
@@ -12863,7 +12816,7 @@
     <tags>low_vat_rate</tags>
     <price>76.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>sensitol-120-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_114-Sensitol_40vrl7_4f960f02-2028-4c32-83d3-e0cc176deeb3.png?v=1764586367</image>
@@ -13777,7 +13730,7 @@
     <tags/>
     <price>27.24</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pure-mct-creamer-250g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20MCT_20creamer.png?v=1764586017</image>
@@ -13827,7 +13780,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-power-cacao-300g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Power_20cacao.png?v=1764586270</image>
@@ -14461,7 +14414,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-quercetin-60-capsules-purovitalis</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3_7sow8k_98ba001c-fbdc-47ff-8b22-a4518e6c03fb.png?v=1764585655</image>
@@ -15523,7 +15476,7 @@
     <tags>low_vat_rate</tags>
     <price>41.52</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>inflammatone-60-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_53-60-1.png?v=1764585846</image>
@@ -16338,7 +16291,7 @@
     <tags>low_vat_rate, Practitioner Only</tags>
     <price>28.33</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-chewables-100-chewable-tablets-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0178-Zinc-Chewables-100s_04f5e606-bc2a-4990-8ec2-d938683f5668.png?v=1738238805</image>
@@ -16717,7 +16670,7 @@
     <tags>low_vat_rate</tags>
     <price>91.60</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mito-pqq-60-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mito-pqq_60_capsules-1.png?v=1764586788</image>
@@ -20383,6 +20336,244 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>BBH_003</sku>
+    <barcode>850033362183</barcode>
+    <title>Microbiome Rejuvenate - 120 Capsules| Big Bold Health</title>
+    <vendor>Big Bold Health</vendor>
+    <product_type/>
+    <description>&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;Microbiome Rejuvenate from Big Bold Health&lt;/b&gt; is a cutting-edge formula. With a powerful blend of prebiotics, probiotics, and polyphenol-rich ingredients like the Himalayan Tartary Buckwheat supplement.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;This all-in-one solution includes gut probiotics, gut vitamins, and prebiotics supplements, making it one of the best prebiotics and probiotic supplements If you're searching for healthy gut supplements, gut &lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px; font-family: noto-sans;&quot;&gt;microbiome with trusted microbiome products.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt;A potent blend of prebiotics, probiotics, and immune-active ingredients crafted from Himalayan Tartary Buckwheat with our clinically-studied formula.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;ul&gt;&lt;li&gt;Beta-glucans contribute to the maintenance of normal blood cholesterol levels&lt;br&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;
+&lt;b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;*Disclaimer: &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/span&gt;</description>
+    <tags>low_vat_rate</tags>
+    <price>129.70</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>microbiome-rejuvenate-120-capsules-big-bold-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/shopping.webp?v=1768951191</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>138.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BBH_001</sku>
+    <barcode>850033362176</barcode>
+    <title>Himalayan Tartary Buckwheat Sprout Powder| Big Bold Health</title>
+    <vendor>Big Bold Health</vendor>
+    <product_type/>
+    <description>&lt;p class=&quot;pf0&quot;&gt;&lt;span style=&quot;font-family: noto-sans; letter-spacing: 0px;&quot;&gt;&lt;b&gt;Nurture the vital connections between your gut, your immune system, and the natural world.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span style=&quot;font-family: noto-sans; letter-spacing: 0px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf1&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Found in Earth's harshest climates, &lt;b&gt;Himalayan Tartary Buckwheat (HTB)&lt;/b&gt; is an ancient plant &lt;/span&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;with powerful immune-restoring properties.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf1&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf1&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;We sprout our certified organic HTB seeds to optimize nutritional value and deliver key phytonutrients.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Thiamine contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Thiamine contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Thiamine contributes to normal psychological function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Thiamine contributes to the normal function of the heart&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Niacin contributes to normal psychological function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Niacin contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Niacin contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Niacin contributes to the maintenance of normal mucous membranes &amp;amp; skin&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Niacin contributes to the reduction of tiredness and fatigue&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Zinc contributes to the normal function of the immune system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Zinc contributes to normal protein &amp;amp; DNA synthesis&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Zinc contributes to normal metabolism of fatty acids &amp;amp; vitamin A&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Zinc contributes to normal macronutrient, carbohydrate &amp;amp; acid-base metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Zinc has a role in the process of cell division&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Zinc contributes to the protection of cells from oxidative stress&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to a reduction of tiredness and fatigue&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal muscle function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium has a role in the process of cell division&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal psychological function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal protein synthesis&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to the maintenance of normal bones &amp;amp; teeth&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to electrolyte balance&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Potassium contributes to normal muscle function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Potassium contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Potassium contributes to the maintenance of normal blood pressure&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron contributes to normal cognitive development of children&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron contributes to normal cognitive function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron contributes to normal formation of red blood cells and haemoglobin&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron contributes to normal oxygen transport in the body&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron has a role in the process of cell division&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron contributes to the normal function of the immune system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Iron contributes to the reduction of tiredness and fatigue&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium is needed for normal growth and development of bone in children.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium contributes to normal blood clotting&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium contributes to normal muscle function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium contributes to normal neurotransmission&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium contributes to the normal function of digestive enzymes&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium has a role in the process of cell division and specialisation&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium is needed for the maintenance of normal bones&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Calcium is needed for the maintenance of normal teeth&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: noto-sans; letter-spacing: 0px;&quot;&gt;Calcium helps to reduce the loss of bone mineral in post-menopausal women. Low bone mineral density is a risk factor for osteoporotic bone fractures&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
+    <tags>low_vat_rate</tags>
+    <price>106.81</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>himalayan-tartary-buckwheat-sprout-powder-28g-big-bold-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/shopping_20_281_29.webp?v=1770078418</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>28.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BBH_006</sku>
+    <barcode>860002901701</barcode>
+    <title>HTB Rejuvenate - 120 Capsules | Big Bold Health</title>
+    <vendor>Big Bold Health</vendor>
+    <product_type/>
+    <description>&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;span style=&quot;letter-spacing: 0px; font-family: noto-sans;&quot;&gt;Maintain your immunity and energy, and thrive with &lt;b&gt;HTB Rejuvenate&lt;/b&gt;®, our exclusive blend of Himalayan Tartary Buckwheat phytonutrients.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;A custom blend of phytonutrients that naturally occur in Himalayan Tartary Buckwheat (HTB), an ancient plant with powerful properties.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Calcium is needed for normal growth and development of bone in children.&lt;/li&gt;
+&lt;li&gt;Calcium contributes to normal blood clotting&lt;/li&gt;
+&lt;li&gt;Calcium contributes to normal energy-yielding metabolism&lt;/li&gt;
+&lt;li&gt;Calcium contributes to normal muscle function&lt;/li&gt;
+&lt;li&gt;Calcium contributes to normal neurotransmission&lt;/li&gt;
+&lt;li&gt;Calcium contributes to the normal function of digestive enzymes&lt;/li&gt;
+&lt;li&gt;Calcium has a role in the process of cell division and specialisation&lt;/li&gt;
+&lt;li&gt;Calcium is needed for the maintenance of normal bones&lt;/li&gt;
+&lt;li&gt;Calcium is needed for the maintenance of normal teeth&lt;/li&gt;
+&lt;li&gt;Calcium helps to reduce the loss of bone mineral in post-menopausal women. Low bone mineral density is a risk factor for osteoporotic bone fractures&lt;/li&gt;
+&lt;li&gt;Copper contributes to maintenance of normal connective tissues&lt;/li&gt;
+&lt;li&gt;Copper contributes to normal energy-yielding metabolism&lt;/li&gt;
+&lt;li&gt;Copper contributes to normal functioning of the nervous system&lt;/li&gt;
+&lt;li&gt;Copper contributes to normal iron transport in the body&lt;/li&gt;
+&lt;li&gt;Copper contributes to the normal function of the immune system&lt;/li&gt;
+&lt;li&gt;Copper contributes to the protection of cells from oxidative stress&lt;/li&gt;
+&lt;li&gt;Copper contributes to normal hair &amp;amp; skin pigmentation&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to maintain the normal function of the immune system during and after intense physical exercise&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to normal collagen formation for the normal function of blood vessels, bones, cartilage, skin, teeth &amp;amp; gums&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to normal energy-yielding metabolism&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to normal functioning of the nervous system&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to normal psychological function&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to the normal function of the immune system&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to the reduction of tiredness and fatigue&lt;/li&gt;
+&lt;li&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/li&gt;
+&lt;li&gt;Vitamin C increases iron absorption&lt;/li&gt;
+&lt;/ul&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>108.99</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>htb-rejuvenate-60-capsules-big-bold-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71cekenGCLL._AC_UF1000_2C1000_QL80__4u474h.jpg?v=1776723760</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>28.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BBH_004</sku>
+    <barcode>850033362008</barcode>
+    <title>Omega-3 Rejuvenate® - 120 Softgels| Big Bold Health</title>
+    <vendor>Big Bold Health</vendor>
+    <product_type/>
+    <description>&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;Omega-3 Rejuvenate&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;b&gt;®&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: noto-sans; letter-spacing: 0px;&quot;&gt; from Big Bold Health delivers a powerful, sustainable source of omega 3 fatty acids through its premium blend of wild Alaskan salmon oil and pure Alaska omega 3.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;This omega 3 supplement is crafted for those seeking the highest quality omega 3 fish oil with a focus on both health and environmental responsibility.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Packed with natural omega 3, omega vitamins, and essential omega 3 oil, it supports cardiovascular, cognitive, and immune health. As a fish oil omega 3 supplement, Omega-3 Rejuvenate uses Alaska wild fish oil sourced from pristine waters, offering the benefits of omega 3 capsules in a clean, potent formula.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Whether you're looking for Alaskan fish oil, omega 3 salmon oil, or Alaska salmon omega 3, this product delivers the highest quality fish oil supplement on the market. Ideal for daily use, it combines rejuvenate supplement benefits with omega 3 Alaska fish oil purity, making it one of the best choices for those who want to buy omega 3 fish oil that is both effective and ethicall&lt;/span&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt;—your trusted omega supplement for lifelong wellness.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf1&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt;Minimally-processed, sustainably-sourced fish oil from Alaska with naturally-&lt;/span&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt;occuring&lt;/span&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt; pro- resolving mediators (PRMs) and vitamins A and D.&lt;/span&gt;&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin A contributes to normal iron metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin A contributes to the maintenance of normal mucous membranes, skin &amp;amp; vision&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin A contributes to the normal function of the immune system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin A has a role in the process of cell specialisation&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D contributes to normal absorption of calcium and phosphorus&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D contributes to normal blood calcium levels&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D is needed for normal growth and development of bone in children.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D helps to reduce the risk of falling associated with postural instability and muscle weakness. Falling is a risk factor for bone fractures among men and women 60 years of age and older.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the maintenance of normal bones&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the maintenance of normal muscle function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the maintenance of normal teeth&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the normal function of the immune system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D has a role in the process of cell division&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the normal function of the immune system in children.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;DHA and EPA contribute to the maintenance of normal blood triglyceride levels&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;EPA and DHA contribute to the normal function of the heart&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: noto-sans; letter-spacing: 0px;&quot;&gt;DHA and EPA contribute to the maintenance of normal blood pressure&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
+    <tags>low_vat_rate</tags>
+    <price>115.53</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>omega-3-rejuvenate®-120-softgels-big-bold-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/O3R_Variant_60_20_281_29.webp?v=1768951080</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>258.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BBH_005</sku>
+    <barcode>850033362251</barcode>
+    <title>HTB Immune Energy Chews (Chocolate) - 60 chews | Big Bold Health</title>
+    <vendor>Big Bold Health</vendor>
+    <product_type/>
+    <description>&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;A delicious dose of organic sprouted Himalayan Tartary Buckwheat (HTB) enhanced with zinc, magnesium, vitamin C, vitamin D and cocoa for daily immune and energy support.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf1&quot; style=&quot;font-family: noto-sans;&quot;&gt;Nurture the vital connections between your gut, your immune system, and the natural world.&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;font-family: noto-sans; letter-spacing: 0px;&quot;&gt;A tasty daily dose of polyphenols, vitamins, and minerals&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium and vitamin D help to reduce the loss of bone mineral in post-menopausal women. &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium and vitamin D are needed for normal growth and development of bone in children.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium contributes to normal blood clotting&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium contributes to normal muscle function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium contributes to normal neurotransmission&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium contributes to the normal function of digestive enzymes&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium has a role in the process of cell division and specialisation&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Calcium is needed for the maintenance of normal bones &amp;amp; teeth&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to a reduction of tiredness and fatigue&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal muscle function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium has a role in the process of cell division&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal psychological function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal protein synthesis&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to the maintenance of normal bones &amp;amp; teeth&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to electrolyte balance&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Magnesium contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to maintain the normal function of the immune system during and after intense physical exercise&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to normal collagen formation for the normal function of blood vessels, bones, cartilage, skin, teeth &amp;amp; gums&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to normal energy-yielding metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to normal psychological function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to the normal function of the immune system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to the reduction of tiredness and fatigue&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin C increases iron absorption&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D contributes to normal absorption of calcium and phosphorus&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D contributes to normal blood calcium levels&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the maintenance of normal bones&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the maintenance of normal muscle function&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the maintenance of normal teeth&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the normal function of the immune system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D has a role in the process of cell division&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Vitamin D contributes to the normal function of the immune system in children.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Zinc contributes to the normal function of the immune system&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Zinc contributes to normal protein &amp;amp; DNA synthesis&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Zinc contributes to normal metabolism of fatty acids &amp;amp; vitamin A&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Zinc contributes to normal macronutrient, carbohydrate &amp;amp; acid-base metabolism&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans&quot;&gt;Zinc has a role in the process of cell division&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: rgb(27, 12, 49); font-family: noto-sans; letter-spacing: 0px;&quot;&gt;Zinc contributes to the protection of cells from oxidative stress&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;*Disclaimer:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;</description>
+    <tags>low_vat_rate</tags>
+    <price>98.09</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>htb-immune-energy-chews-chocolate-60-chews-big-bold-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-13T141531.478.png?v=1764586799</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>39.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>QSL_075</sku>
     <barcode>810147500499</barcode>
     <title>Cryptolepis - 50 ml | Quicksilver Scientific</title>
@@ -20592,7 +20783,7 @@
     <tags>low_vat_rate</tags>
     <price>47.95</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>gi-repair-190-g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T145714.703.webp?v=1764586799</image>
@@ -20616,7 +20807,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>saffron-60-capsules-new-roots-herbal</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T153923.591.png?v=1764586429</image>
