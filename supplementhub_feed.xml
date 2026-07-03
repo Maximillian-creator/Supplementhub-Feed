@@ -8805,7 +8805,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>epa-dha-essentials-90-softgel-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0007-EPA-DHA-Essentials-90s.jpg?v=1764586401</image>
@@ -9398,7 +9398,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>support-mucosa-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BM_19_a2a16ebc-2e16-4391-905c-8b0a821d6fee.jpg?v=1764585733</image>
@@ -10850,7 +10850,7 @@
     <tags>low_vat_rate</tags>
     <price>51.73</price>
     <compare_at_price>56.67</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>gi-detox-int-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GI_Detox-INT-s.png?v=1764585587</image>
@@ -16710,7 +16710,7 @@
     <tags>low_vat_rate</tags>
     <price>97.00</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>purepaleo-bone-broth-protein-unflavoured-unsweetened-810g-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_104-PurePaleo-Unflavoured_1tic16.png?v=1764586196</image>
@@ -16730,7 +16730,7 @@
     <tags>low_vat_rate</tags>
     <price>69.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>histagest-dao-60-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HistaGest-DAO_20-_2060_20Capsules_20_20Designs_20For_20Health_01.jpg?v=1764585649</image>
@@ -21239,7 +21239,7 @@
     <tags>low_vat_rate</tags>
     <price>66.48</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>motility-assist-30-capsules-biocidin-botanicals</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_021_2.webp?v=1765235955</image>
@@ -23091,26 +23091,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>1040.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>SH_193</sku>
-    <barcode>810007521824</barcode>
-    <title>Optimal Focus 60 g | Seeking Health</title>
-    <vendor>Seeking Health</vendor>
-    <product_type/>
-    <description>Acetylcholine is your brain’s #1 calming neurotransmitter—by far. Your brain utilizes acetylcholine to help you learn new things, recall names and places, keep your memory sharp, your focus dialed in, your bowels moving, and even support healthy muscle movement. It’s also a key player in REM sleep, which is the time your brain processes and stores new information.1 When acetylcholine levels drop, you may feel mentally foggy, struggle to focus, have difficulty learning new things, experience constipation, move more rigidly, forget names and events, or notice that you don’t dream as much.2 Several factors can contribute to low acetylcholine, including aging, inflammation, genetics (like the APOE4 gene), vegetarian or vegan diets, and exposure to certain pesticides.3,4 Some health conditions, such as difficulty with hyperactivity, dyslexia, spectrum disorder, myasthenia gravis, and dementia, have also been linked to low acetylcholine levels.5, 21 Keeping this neurotransmitter in balance is essential for staying sharp and supporting long-term brain health! The positive effects of supporting healthy acetylcholine levels are subtle: paying attention, focusing, listening, not switching or interrupting, being calmer in prior stressful situations, better sleep, and the ability to learn more easily.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>50.21</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>0</quantity>
-    <handle>optimal-focus-60g</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-FOC-CAP_1_Front_R_1000x1000_crop_center_07920a51-5452-49f7-9def-4231710cdb0c.webp?v=1771456992</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>60.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
