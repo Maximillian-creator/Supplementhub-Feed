@@ -6518,7 +6518,7 @@
     <tags>low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ubiquinol-qh-absorb-200mg-30-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_30_f02723a7-d6f3-4a50-89b3-4c95869e2338.png?v=1764585987</image>
@@ -13178,7 +13178,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>astaxanthin-12mg-60-softgels-jarrow-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706</image>
@@ -18068,7 +18068,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>h2-elite-30-tablets-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/H2_20Elite_2030_20Tablets_20Quicksilver_20Scientific_01.webp?v=1764586693</image>
@@ -23042,10 +23042,10 @@
   <product>
     <sku>NC_036</sku>
     <barcode>8720648640643</barcode>
-    <title>Ultimate D3 + K2 | NoordCode</title>
+    <title>Ultimate D3 + K2 - 10ml | NoordCode</title>
     <vendor>NoordCode</vendor>
     <product_type/>
-    <description>NoordCode Ultimate D3+K2 provides 75 mcg (3,000 IU) of vitamin D3 and 200 mcg of vitamin K2 as MK-4/MK-7 per serving. For bones, muscles, immune function, and blood clotting. With MenaQ7速 natural vitamin K2 MK-7. In extra virgin olive oil. NZVT certified. 10 mL bottle for 60 days.</description>
+    <description>NoordCode Ultimate D3+K2 provides 75 mcg (3,000 IU) of vitamin D3 and 200 mcg of vitamin K2 as MK-4/MK-7 per serving. This advanced liquid formula features vitamin D, which contributes to the maintenance of normal bones, normal muscle function, and the normal function of the immune system. It also contains vitamin K, which contributes to normal blood clotting and supports the maintenance of normal bones. Formulated with premium MenaQ7® natural vitamin K2 MK-7 suspended in high-purity extra virgin olive oil, this NZVT-certified supplement comes in a 10 mL bottle designed for a 60-day routine.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>32.65</price>
     <compare_at_price/>
@@ -23647,10 +23647,10 @@
   <product>
     <sku>DFH_213</sku>
     <barcode/>
-    <title>Liposomal B Supreme 50 ml | Designs For Health</title>
+    <title>Liposomal B Supreme - 50 ml | Designs For Health</title>
     <vendor>Designs For Health</vendor>
     <product_type/>
-    <description>Highly Bioavailable B-Complex with TrimethylglycineLiposomal vitamin B complex and trimethylglycine (betaine) formulated to support cellular energy production, liver function, brain health, and a healthy stress response. Includes clinically relevant amounts of all eight B vitamins to support overall well-being.• Promotes healthy vitamin B status*• Supports cellular energy production*• Promotes physical and mental health*• Supports heart, brain, and liver health*• Promotes a healthy stress response*• May support normal methylation*</description>
+    <description>Liposomal vitamin B complex and trimethylglycine (betaine) formulated with vitamins B6, B12, thiamin, riboflavin, niacin, and biotin, which contribute to normal cellular energy production, and pantothenic acid, which supports normal mental performance. Includes clinically relevant amounts of all eight B vitamins to support overall well-being.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>30.93</price>
     <compare_at_price/>
