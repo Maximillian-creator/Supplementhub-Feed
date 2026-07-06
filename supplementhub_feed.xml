@@ -6588,7 +6588,7 @@
     <tags>low_vat_rate</tags>
     <price>66.18</price>
     <compare_at_price>99.18</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biofilm-defense-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KRK_02-Biofilm-Defense_bb96ff29-bfe9-4d35-98d1-79cf0a6db4ee.jpg?v=1764586507</image>
@@ -7337,7 +7337,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>uva-ursi-500mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_048-Uva-Ursi.png?v=1764586845</image>
@@ -9358,7 +9358,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>microb-defend-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BM_08-Microb-Defend.png?v=1764586336</image>
@@ -10666,7 +10666,7 @@
     <tags>low_vat_rate</tags>
     <price>62.12</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-methyl-b12-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_013-Liposomal-Methyl-B12_8c41dd6c-419e-43eb-b449-9d047c19d4d6.png?v=1764586055</image>
@@ -12085,7 +12085,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>29.42</price>
     <compare_at_price>34.87</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hawthorn-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_065-Hawthorn_129e10c2-e94a-4177-9e34-d89a6819003d.jpg?v=1764586200</image>
@@ -18325,7 +18325,7 @@
     <tags>low_vat_rate</tags>
     <price>189.58</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>stemregen-release-stemregen</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Stemregen_20Release_20-_2060_20Capsules_20_20STEMREGEN_01.webp?v=1764585920</image>
@@ -21086,7 +21086,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hair-growth-complex-for-women-60-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-29T141205.568.webp?v=1764585827</image>
@@ -23522,7 +23522,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nualipid</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3bd82ee0d3c5dfd6cd07c3821ccf6667.webp?v=1772752753</image>
