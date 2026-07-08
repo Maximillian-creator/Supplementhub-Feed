@@ -727,14 +727,14 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MBL_27</sku>
+    <sku>MBL_05</sku>
     <barcode>674306523787</barcode>
-    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
+    <title>RestorFlora - 50 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>56.66</price>
+    <tags>low_vat_rate</tags>
+    <price>59.94</price>
     <compare_at_price/>
     <available>true</available>
     <quantity>0</quantity>
@@ -1384,7 +1384,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>iron-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20IRP-004_20UK_20PMD_20Iron_20Oct_202025-2_20_281_29.webp?v=1768000833</image>
@@ -1463,7 +1463,7 @@
     <tags>low_vat_rate</tags>
     <price>28.33</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vitamin-c-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20VC-014_20UK_20PMD_20Vitamin_20C_20Oct_202025-2.webp?v=1768000596</image>
@@ -1507,7 +1507,7 @@
     <tags>low_vat_rate</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glutathione-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20GLUT-011_20UK_20PMD_20Glutathione_20Oct_202025-2.webp?v=1768001075</image>
@@ -1757,7 +1757,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>kids-multivitamin-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20KMV-018_20UK_20PMD_20Kids_20Multi_20Oct_202025-2.webp?v=1767914567</image>
@@ -1777,7 +1777,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>allergy-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20ALG-025_20UK_20PMD_20Allergy_20Oct_202025-2.webp?v=1767914412</image>
@@ -5535,7 +5535,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>taurine-1000mg-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VN_AmazonSlides_VNTAU1.REV01_NEWLOOK_20_281_29.jpg?v=1764586036</image>
@@ -9190,7 +9190,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-vitamin-c-120ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_011-Vitamin-C_fbd18a0a-b271-4c98-a478-0f110c0dda25.png?v=1764585611</image>
@@ -10116,26 +10116,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>80.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>MW_27</sku>
-    <barcode>4260591790490</barcode>
-    <title>CDA+ - 180 Capsules | Candida &amp; Gut Support | MakeWell</title>
-    <vendor>MakeWell</vendor>
-    <product_type/>
-    <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;MakeWell's CDA+ gut support supplement, enhanced with an anti-microbial and anti-fungal formula, is crafted to address imbalances in the gut, such as&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;em data-mce-fragment=&quot;1&quot;&gt;Candida albicans&lt;/em&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;overgrowth.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Made up of fifteen herbal ingredients this product is tailored to fortify the intestinal membrane. Enriched with BioPerine®, Vitamin B3, B12, and Zinc, CDA+ provides a comprehensive approach to maintaining a harmonious gut environment.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>33.78</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>cda-180-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-12-23T151148.861.webp?v=1766531955</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>90.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -11623,7 +11603,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -12248,7 +12228,7 @@
     <tags>low_vat_rate</tags>
     <price>129.70</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>holoimmune-30-capsules-healthy-gut</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HG_03-HoloImmune.jpg?v=1764586711</image>
@@ -13261,7 +13241,7 @@
     <tags>low_vat_rate</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>collagen-plus-topical-patch-30-day-supply-30-patches-patchmd</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/products/patchmd-collagen-plus-topical-patch-1.jpg?v=1729602890</image>
@@ -17056,7 +17036,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vaginal-balance-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Vaginal_20Balance_20-_2060_20Capsules_20_20Microbiome_20Labs_01_q1ccv6.webp?v=1764585832</image>
@@ -17604,7 +17584,7 @@
     <tags>low_vat_rate</tags>
     <price>51.71</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>paleo-protein-vanilla-bean-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Vanilla_20Bean_20-_2020_20ServingsAmy_20Myers_20MD_02.webp?v=1764586605</image>
@@ -18853,26 +18833,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>191.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>SN_074</sku>
-    <barcode>1992841677339</barcode>
-    <title>Alchornea Supreme - 90 Capsules | Supreme Nutrition Products</title>
-    <vendor>Supreme Nutrition Products</vendor>
-    <product_type/>
-    <description>&lt;p&gt;&lt;strong&gt;Alchornea Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Alchornea cordifolia&lt;/em&gt;, a botanical traditionally used in African herbal practice.&lt;/p&gt;&lt;p&gt;The plant naturally contains tannins, flavonoids, alkaloids, and other constituents characteristic of the species. This capsule format presents alchornea as a focused single-botanical preparation.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
-    <tags>low_vat_rate, supreme_nutrition</tags>
-    <price>37.71</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>0</quantity>
-    <handle>alchornea-supreme-90-capsules-supreme-nutrition-products</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_Supreme_Bottle_Front__90544.webp?v=1765841225</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>200.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -20419,9 +20379,9 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>BBH_006</sku>
+    <sku>BBH_002</sku>
     <barcode>860002901701</barcode>
-    <title>HTB Rejuvenate - 120 Capsules | Big Bold Health</title>
+    <title>HTB (Immune) Rejuvenate - 60 Capsules | Big Bold Health</title>
     <vendor>Big Bold Health</vendor>
     <product_type/>
     <description>&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;span style=&quot;letter-spacing: 0px; font-family: noto-sans;&quot;&gt;Maintain your immunity and energy, and thrive with &lt;b&gt;HTB Rejuvenate&lt;/b&gt;®, our exclusive blend of Himalayan Tartary Buckwheat phytonutrients.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;A custom blend of phytonutrients that naturally occur in Himalayan Tartary Buckwheat (HTB), an ancient plant with powerful properties.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
@@ -20452,17 +20412,17 @@
 &lt;li&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/li&gt;
 &lt;li&gt;Vitamin C increases iron absorption&lt;/li&gt;
 &lt;/ul&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>108.99</price>
     <compare_at_price/>
     <available>true</available>
     <quantity>0</quantity>
     <handle>htb-rejuvenate-60-capsules-big-bold-health</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71cekenGCLL._AC_UF1000_2C1000_QL80__4u474h.jpg?v=1776723760</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/bbh.webp?v=1776723579</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
-    <weight>28.0</weight>
+    <weight>14.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
