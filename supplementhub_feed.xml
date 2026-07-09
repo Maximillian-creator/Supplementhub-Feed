@@ -1966,7 +1966,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>buffered-ascorbic-acid-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0002-Buffered-Ascorbic-Acid-90s.jpg?v=1764585707</image>
@@ -4894,7 +4894,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>slow-flow-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Slow-Flow-front_11352026-7350-4924-ab91-ffb12babe29d.png?v=1764585594</image>
@@ -8392,7 +8392,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pregnenolone-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BM_10-Pregnenolone_5d42d4b3-282c-49c4-ad79-ac445aeca8ab.jpg?v=1764585998</image>
@@ -9170,7 +9170,7 @@
     <tags>low_vat_rate</tags>
     <price>44.50</price>
     <compare_at_price>57.76</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-glutathione-with-lemon-mint-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_009-Liposomal-Glutathione_e2707c37-e78e-4fe7-9be8-2af2ede5908a.png?v=1764585698</image>
@@ -9190,7 +9190,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-vitamin-c-120ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_011-Vitamin-C_fbd18a0a-b271-4c98-a478-0f110c0dda25.png?v=1764585611</image>
@@ -10666,7 +10666,7 @@
     <tags>low_vat_rate</tags>
     <price>62.12</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-methyl-b12-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_013-Liposomal-Methyl-B12_8c41dd6c-419e-43eb-b449-9d047c19d4d6.png?v=1764586055</image>
@@ -10686,7 +10686,7 @@
     <tags>low_vat_rate</tags>
     <price>56.67</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dr-shades-bitterx-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_021-BitterX.png?v=1764585694</image>
@@ -11797,8 +11797,8 @@
     <product_type/>
     <description>Adaptogenic coffee with Ashwagandha &amp;amp; L-theanine. This balancing and calming blend is designed to promote a sense of peace, combatting the effects of stress, tension and irritability. Feel alert, calm, focused and adapt to physical &amp;amp; mental stressors. Unwind, chill and add some Zen to your life. Free from preservatives &amp;amp; artificial sweeteners. Just pure natural ingredients. 12 sachet box.</description>
     <tags>low_vat_rate</tags>
-    <price>22.88</price>
-    <compare_at_price>22.33</compare_at_price>
+    <price>18.52</price>
+    <compare_at_price>22.88</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
     <handle>zen-coffee-12-sachets-london-nootropics</handle>
@@ -11823,8 +11823,8 @@
 &lt;li&gt;Golden root contributes to normal blood circulation, which is associated with brain performance, reactivity, optimal mental and cognitive activity&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3877 pending European approval.&lt;/li&gt;
 &lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
-    <price>22.88</price>
-    <compare_at_price/>
+    <price>18.52</price>
+    <compare_at_price>22.88</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
     <handle>flow-coffee-12-sachets-london-nootropics</handle>
@@ -11843,8 +11843,8 @@
     <product_type/>
     <description>&lt;p&gt;Find inner strength and endurance with Mojo. Great when you need powering up before exercise, hiking in nature or when you feel fatigued. Learn more about Mojo’s powerful ingredients below.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Power up with Cordyceps&lt;/h3&gt;&lt;p&gt;Cordyceps are known to support energy and stamina; they can increase oxygen flow to muscles, aerobic capacity &amp;amp; resistance to fatigue. They’ve also been found to have strong antioxidant and immune-boosting properties.&lt;/p&gt;&lt;p&gt;A study in 2020, found that cordycepin, the active compound in cordyceps, can help to reset the body block after jet lag.&lt;/p&gt;&lt;p&gt;We use a pure 8:1 fruiting body dual-extract of Cordyceps with 0.535% cordycepin &amp;amp; 27.4% beta-glucans.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Siberian Ginseng&lt;/h3&gt;&lt;p&gt;This mighty adaptogen has been used for thousands of years in the East. Recognised for its ability to help you adapt to physical &amp;amp; mental stressors by increasing blood flow &amp;amp; oxygenation of cells – it pairs perfectly with Cordyceps for a natural boost to your day.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
-    <price>24.51</price>
-    <compare_at_price/>
+    <price>18.52</price>
+    <compare_at_price>22.88</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
     <handle>mojo-coffee-12-sachets-london-nootropics</handle>
@@ -11883,8 +11883,8 @@
     <product_type/>
     <description>&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Find Mental Clarity &amp;amp; Focus with Flow Coffee&lt;/h3&gt;&lt;p&gt;Power through long hours of work, meetings or study with Flow. Great for tackling brain fog &amp;amp; distractions and getting in the zone for reading, writing &amp;amp; creative work.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Discover Endurance &amp;amp; Vitality with Mojo Coffee&lt;/h3&gt;&lt;p&gt;Find inner strength and endurance with Mojo. Great when you need powering up before exercise, hiking in nature or when you feel fatigued.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
-    <price>16.34</price>
-    <compare_at_price/>
+    <price>13.07</price>
+    <compare_at_price>16.34</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
     <handle>mushroom-coffee-box-12-sachets-london-nootropics</handle>
@@ -13069,7 +13069,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>h2-elite-60-tablets-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_029_b3d4b5b1-6def-4122-a633-15ea0da584c3.png?v=1764586541</image>
@@ -14903,7 +14903,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>butyrate-calcium-magnesium-100-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T113348.622.webp?v=1764586607</image>
@@ -14977,7 +14977,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>69.75</price>
     <compare_at_price>79.56</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>evening-primrose-oil-softgels-180-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T140622.283.webp?v=1764586094</image>
@@ -15203,7 +15203,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>107.90</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-100-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen_20_281_29.webp?v=1764586809</image>
@@ -15223,7 +15223,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-60-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen.webp?v=1764586012</image>
@@ -16996,7 +16996,7 @@
     <tags>low_vat_rate</tags>
     <price>62.12</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>facial-beauty-serum-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Facial_20Beauty_20Serum_20_20Quicksilver_20Scientific_01_bu9z7a.webp?v=1764586009</image>
@@ -17211,7 +17211,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-gaba-with-l-theanine-50ml-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_008-Liposomal-GABA_39591648-6846-4318-b843-666a7926f9b4.png?v=1764586055</image>
@@ -17231,7 +17231,7 @@
     <tags>low_vat_rate</tags>
     <price>88.28</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-magtein-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Liposomal_20Magtein_20_20Quicksilver_20Scientific_01.webp?v=1764586008</image>
@@ -20120,7 +20120,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>awake-toothpaste-nano-hydroxyapatite-bentonite-zero-sensitivity-whitening-refreshes-activates-protects-with-guarana-mint-lime-fluoride-sls-free-32ml-karmicare</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KC-BTP-AWK-01-en_01.webp?v=1764585829</image>
@@ -20536,7 +20536,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>cryptolepis-50-ml-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CRYPTOLEPIS_20Front.png?v=1764586534</image>
@@ -21488,7 +21488,7 @@
     <description>&lt;p&gt;Mush Love Coffee is an adaptogenic coffee blend created with Fantastic Fungi. It combines soluble coffee with Lion’s Mane, Cordyceps, and Chaga mushroom extracts. Made without preservatives or artificial sweeteners and suitable for vegan and plant-based diets.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
     <tags>all_products_tag</tags>
     <price>22.88</price>
-    <compare_at_price/>
+    <compare_at_price>22.88</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
     <handle>mush-love-adaptogenic-coffee-12-sachets</handle>
