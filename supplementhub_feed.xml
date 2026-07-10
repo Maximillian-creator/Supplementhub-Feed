@@ -5770,7 +5770,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>vitex-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Vitex_LAP73060_102_PDP_ff754f84-01f2-48c7-bc09-6a19dcf539f0.png?v=1764586786</image>
@@ -11309,7 +11309,7 @@
     <tags/>
     <price>10.89</price>
     <compare_at_price>19.61</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gutology-mineral-toothpaste-120ml-gutology</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ToothpasteProductCarousel_NEW_1_1000x1000_675cfaa5-5b6f-4220-96ff-20f5979585fd.webp?v=1764586632</image>
@@ -11603,7 +11603,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -21486,7 +21486,7 @@
     <vendor>London Nootropics</vendor>
     <product_type/>
     <description>&lt;p&gt;Mush Love Coffee is an adaptogenic coffee blend created with Fantastic Fungi. It combines soluble coffee with Lion’s Mane, Cordyceps, and Chaga mushroom extracts. Made without preservatives or artificial sweeteners and suitable for vegan and plant-based diets.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>all_products_tag</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price>22.88</compare_at_price>
     <available>true</available>
