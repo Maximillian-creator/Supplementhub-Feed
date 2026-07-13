@@ -11269,7 +11269,7 @@
     <tags>low_vat_rate</tags>
     <price>127.52</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>endocalyx-pro-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MV_01-Endocalyx-Pro_077d9cc8-a05c-4c42-b92d-cdb703b57db3.jpg?v=1764586373</image>
@@ -11309,7 +11309,7 @@
     <tags/>
     <price>10.89</price>
     <compare_at_price>19.61</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>gutology-mineral-toothpaste-120ml-gutology</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ToothpasteProductCarousel_NEW_1_1000x1000_675cfaa5-5b6f-4220-96ff-20f5979585fd.webp?v=1764586632</image>
@@ -11603,7 +11603,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -22440,7 +22440,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>42.92</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultraflora-regular-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ultraflora_regular_web.webp?v=1773184876</image>
