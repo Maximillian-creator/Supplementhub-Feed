@@ -2444,7 +2444,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>quercetin-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0116-Quercetin_227300dd-d629-4bf7-acc9-29d61cbf1084.jpg?v=1764586570</image>
@@ -5910,7 +5910,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>oil-of-oregano-230mg-60-liquid-phyto-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GH_09_c322cac6-9b02-42dd-b7c3-103ecef05ad2.jpg?v=1764586592</image>
@@ -11556,7 +11556,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mico-vir-reishi-cordyceps-70-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Vir-01_2d634528-9f4e-43de-9720-d3da108bab0a.png?v=1764586514</image>
