@@ -676,7 +676,7 @@
     <tags>low_vat_rate</tags>
     <price>123.16</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>absorb-element-unsweetened-chocolate-1kg</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LTYG_17-Unsweetened-Choc_1_47773fcf-095f-4da9-8d3d-bee37a813291.png?v=1764585982</image>
@@ -2240,7 +2240,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mg9uk_rgb_7b5c7dc1-4a75-474b-a2e1-f7c45c1ddf3f.jpg?v=1764586900</image>
@@ -3978,7 +3978,7 @@
     <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>saccharomyces-boulardii-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SAC-BOUL-CAP_1_Front_R_0d074964-2890-4d37-9318-f1e9177f47f3.png?v=1764586731</image>
@@ -10552,7 +10552,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>o-n-e-omega-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ono3uk_rgb_fd2d660e-1142-4cac-ae48-4d84bd6802d0.jpg?v=1764586051</image>
@@ -17584,7 +17584,7 @@
     <tags>low_vat_rate</tags>
     <price>51.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-vanilla-bean-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Vanilla_20Bean_20-_2020_20ServingsAmy_20Myers_20MD_02.webp?v=1764586605</image>
@@ -20911,7 +20911,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>creatine-monohydrate-450mg-creatine-monohydrate-designs-for-sport</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-23T134746.331.webp?v=1764586690</image>
@@ -23015,7 +23015,7 @@
   <product>
     <sku>NC_036</sku>
     <barcode>8720648640643</barcode>
-    <title>Ultimate D3 + K2 - 10ml | NoordCode</title>
+    <title>Ultimate D3 + K2 | NoordCode</title>
     <vendor>NoordCode</vendor>
     <product_type/>
     <description>NoordCode Ultimate D3+K2 provides 75 mcg (3,000 IU) of vitamin D3 and 200 mcg of vitamin K2 as MK-4/MK-7 per serving. This advanced liquid formula features vitamin D, which contributes to the maintenance of normal bones, normal muscle function, and the normal function of the immune system. It also contains vitamin K, which contributes to normal blood clotting and supports the maintenance of normal bones. Formulated with premium MenaQ7® natural vitamin K2 MK-7 suspended in high-purity extra virgin olive oil, this NZVT-certified supplement comes in a 10 mL bottle designed for a 60-day routine.</description>
@@ -23620,7 +23620,7 @@
   <product>
     <sku>DFH_213</sku>
     <barcode/>
-    <title>Liposomal B Supreme - 50 ml | Designs For Health</title>
+    <title>Liposomal B Supreme 50 ml | Designs For Health</title>
     <vendor>Designs For Health</vendor>
     <product_type/>
     <description>Liposomal vitamin B complex and trimethylglycine (betaine) formulated with vitamins B6, B12, thiamin, riboflavin, niacin, and biotin, which contribute to normal cellular energy production, and pantothenic acid, which supports normal mental performance. Includes clinically relevant amounts of all eight B vitamins to support overall well-being.</description>
