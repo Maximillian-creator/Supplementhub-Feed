@@ -6688,7 +6688,7 @@
     <tags>low_vat_rate</tags>
     <price>49.66</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>candifense-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_288_29.jpg?v=1764586579</image>
@@ -11309,7 +11309,7 @@
     <tags/>
     <price>10.89</price>
     <compare_at_price>19.61</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gutology-mineral-toothpaste-120ml-gutology</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ToothpasteProductCarousel_NEW_1_1000x1000_675cfaa5-5b6f-4220-96ff-20f5979585fd.webp?v=1764586632</image>
@@ -16189,7 +16189,7 @@
     <tags>low_vat_rate, Practitioner Only</tags>
     <price>56.67</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>poly-proflora-powder-138g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0173-Poly-ProFlora-Powder.jpg?v=1738238787</image>
@@ -21112,7 +21112,7 @@
     <tags>low_vat_rate</tags>
     <price>55.52</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dao-enzyme-formerly-histamine-digest™-30-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HIST-DIG-CAP_1_White.webp?v=1776118746</image>
