@@ -115,7 +115,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>healthy-fiber-phgg-225g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HO_01-Healthy-Fiber_15234a24-167c-4b12-87f0-4cbe7279b348.png?v=1764586511</image>
@@ -2584,7 +2584,7 @@
     <tags>low_vat_rate</tags>
     <price>92.64</price>
     <compare_at_price>97.00</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-360-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0131-Magnesium-Glycinate-360s_0f4c1a92-fc0f-4c90-a0b5-a8665db91b82.jpg?v=1764586483</image>
@@ -13293,7 +13293,7 @@
     <tags>low_vat_rate</tags>
     <price>34.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>sleepdeep-oral-spray-foodsporen</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FoodsporenSleepdeep_Oral_Spray_874f3e1b-df2d-4d78-b338-a0273a6cf230.png?v=1764586019</image>
