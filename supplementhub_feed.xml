@@ -2280,7 +2280,7 @@
     <tags>low_vat_rate</tags>
     <price>47.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-30-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0046-Zinc-30-180s.jpg?v=1764586231</image>
@@ -2584,7 +2584,7 @@
     <tags>low_vat_rate</tags>
     <price>92.64</price>
     <compare_at_price>97.00</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-360-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0131-Magnesium-Glycinate-360s_0f4c1a92-fc0f-4c90-a0b5-a8665db91b82.jpg?v=1764586483</image>
@@ -2624,7 +2624,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nanoemulsified-d3k2-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_014-D3K2_44caa9da-10ae-4420-acf6-f1d44acfa280.png?v=1764586311</image>
@@ -5910,7 +5910,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>oil-of-oregano-230mg-60-liquid-phyto-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GH_09_c322cac6-9b02-42dd-b7c3-103ecef05ad2.jpg?v=1764586592</image>
@@ -6458,7 +6458,7 @@
     <tags>low_vat_rate</tags>
     <price>50.13</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>co-q10-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_11.png?v=1764586071</image>
@@ -6608,7 +6608,7 @@
     <tags>low_vat_rate</tags>
     <price>54.79</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>leaky-gut-revive-174g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LeakyGutReviveMYE_01.png?v=1764585899</image>
@@ -6688,7 +6688,7 @@
     <tags>low_vat_rate</tags>
     <price>49.66</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>candifense-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_288_29.jpg?v=1764586579</image>
@@ -7337,7 +7337,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>uva-ursi-500mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_048-Uva-Ursi.png?v=1764586845</image>
@@ -8310,7 +8310,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>collagen-protein-powder-456g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Collagen-Protein_PDP_White_OPT.webp?v=1770679374</image>
@@ -8392,7 +8392,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pregnenolone-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BM_10-Pregnenolone_5d42d4b3-282c-49c4-ad79-ac445aeca8ab.jpg?v=1764585998</image>
@@ -8534,7 +8534,7 @@
     <tags>low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-sol-royal-sun-agaricus-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Sol-2024-F.webp?v=1764586167</image>
@@ -8585,7 +8585,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-cord-cordyceps-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Cord-01.png?v=1764585726</image>
@@ -9025,7 +9025,7 @@
     <tags>low_vat_rate</tags>
     <price>58.85</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>inositol-powder-250g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0085-Inositol-Powder_76a230d8-ff1f-454f-b10f-a60e1246ca96.jpg?v=1764585797</image>
@@ -9358,7 +9358,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>microb-defend-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BM_08-Microb-Defend.png?v=1764586336</image>
@@ -11269,7 +11269,7 @@
     <tags>low_vat_rate</tags>
     <price>127.52</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>endocalyx-pro-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MV_01-Endocalyx-Pro_077d9cc8-a05c-4c42-b92d-cdb703b57db3.jpg?v=1764586373</image>
@@ -11413,7 +11413,7 @@
     <tags>low_vat_rate</tags>
     <price>39.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hdt-detox-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_27-HdT_Detox-removebg-preview.png?v=1764586114</image>
@@ -11513,7 +11513,7 @@
     <tags>low_vat_rate</tags>
     <price>62.12</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vitex-reproductive-formula-60-liquid-phyto-caps-gaia-herbs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-PRO-VitexReproductiveFormula_LAQ87060_102_PDP_a3c258d3-36d0-4325-be49-fb558620cbdd.png?v=1764586778</image>
@@ -11556,7 +11556,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-vir-reishi-cordyceps-70-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Vir-01_2d634528-9f4e-43de-9720-d3da108bab0a.png?v=1764586514</image>
@@ -11583,7 +11583,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>primal-earth-microbiotic-30-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-11T132113.203.webp?v=1764586578</image>
@@ -11985,7 +11985,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>cissus-supreme-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_061-Cissus-Supreme_5f127bb3-5ac5-488a-952b-b1375b132833.png?v=1764586725</image>
@@ -12085,7 +12085,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>29.42</price>
     <compare_at_price>34.87</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hawthorn-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_065-Hawthorn_129e10c2-e94a-4177-9e34-d89a6819003d.jpg?v=1764586200</image>
@@ -12319,7 +12319,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thiamega-high-dose-thiamine-complex-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Thiamega_20transparent.webp?v=1769728898</image>
@@ -13987,26 +13987,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>150.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>MYE_48</sku>
-    <barcode>810014390468</barcode>
-    <title>Paleo Protein - Salted Caramel - 831g | Amy Myers MD</title>
-    <vendor>Amy Myers MD</vendor>
-    <product_type/>
-    <description>&lt;div&gt;A protein powder with a sweet and savory taste&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Salted Caramel Protein Powder - A New Experience&lt;/div&gt;&lt;div&gt;My Salted Caramel Paleo Protein is an indulgent mix of sweet and savory. My sweet tooth was always getting me in trouble growing up which is why I created my Salted Caramel Paleo Protein as a healthy alternative. It’s just the right blend of rich caramel and savory sea salt to satisfy your cravings. Even the robust, sweet aroma is enough to send my daughter Elle running into the room every time I open the bag to make a smoothie.   A protein powder with a sweet and savory taste&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Myers Way® Salted Caramel Paleo Protein is one of the only clean, AIP protein powders on the market. It’s gluten, dairy, and sugar-free, and sourced from non-GMO, hormone- and antibiotic-free, grass-fed beef. You also won’t find other ingredients on your ‘avoid’ list including grains, corn, or legumes in my Paleo Protein. It’s truly perfect for everyone, especially those following an AIP/autoimmune protocol, Keto or Paleo diet, or simply avoiding inflammatory foods!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Every serving contains a whopping 21 grams of pure protein. Fantastic for those concerned about getting protein in their diet. Not everyone always has a source of clean, collagen-based protein on hand, so Salted Caramel Paleo Protein comes to the rescue as the perfect way to incorporate an essential supplementation of daily protein.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;My Salted Caramel Paleo Protein is quick and easy to prepare. What’s better than clean, pure protein? One that you can mix in a heartbeat and be on your way—that’s why I made sure that my formula mixes so easily—even in water! NO BLENDER NEEDED. It’s great as a quick morning shake or added into a delicious smoothie. Fast, easy, convenient, and fabulous for you. Kids absolutely love it too! It’s perfect for those finicky eaters out there.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
-    <price>111.17</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>paleo-protein-salted-caramel-831g-amy-myers-md</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20-_20Salted_20Caramel_20-_20831g_20_20Amy_20Myers_20MD.png?v=1764585656</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>833.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -17191,7 +17171,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hdt-menopause-60-caps-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HdT_20Menopause_20-_2060_20capsHifas_20da_20Terra_01.webp?v=1764586803</image>
@@ -17532,7 +17512,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-double-chocolate-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Double_20Chocolate_20-_2020_20ServingsAmy_20Myers_20MD_01.webp?v=1764586264</image>
@@ -17564,7 +17544,7 @@
     <tags>low_vat_rate</tags>
     <price>51.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-unflavored-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Unflavored_20-_2020_20Servings_20_20Amy_20Myers_20MD_02.webp?v=1764586802</image>
@@ -19570,7 +19550,7 @@
     <tags>low_vat_rate</tags>
     <price>71.93</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>purehmo®-human-milk-oligosaccharide-hmo-2fl-super-prebiotic-powder-layer-origin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1_61RmHOzpWfL_desktop.webp?v=1781606088</image>
@@ -21469,7 +21449,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bromelain-2400-500mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_286_29.png?v=1765755428</image>
@@ -23687,7 +23667,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-menopause-refill</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hifas-Menopause_2024_S.webp?v=1774364710</image>
