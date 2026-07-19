@@ -3094,7 +3094,7 @@
     <tags>low_vat_rate</tags>
     <price>35.49</price>
     <compare_at_price>38.14</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b-minus-b12-and-folate-free-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BMINUS-CAP_1_Front_R_31e5c13a-c250-4e18-9d8d-503b577a40a5.png?v=1764585883</image>
@@ -4516,7 +4516,7 @@
     <tags>low_vat_rate</tags>
     <price>34.32</price>
     <compare_at_price>37.05</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>prenatal-essentials-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Prenatal_20Essentials_20-_2060_20Capsules_20_20Seeking_20Health_01.webp?v=1764586647</image>
@@ -10321,7 +10321,7 @@
     <tags>low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mito-immune-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_MITO_0932994b-ddcf-447e-b91a-b0fbb05fb70a.jpg?v=1764585630</image>
