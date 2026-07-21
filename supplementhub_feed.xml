@@ -996,7 +996,7 @@
     <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>triphala-500mg-120-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_28-Triphala_abd8bdb2-f40f-49cb-a70a-0f0b2c1f77eb.png?v=1764586500</image>
@@ -2127,7 +2127,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thyroid-support-complex-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0020-Thyroid-Support-Complex-60s_8ffd85ad-f966-488b-a7aa-0157c5e7d32d.jpg?v=1764586856</image>
@@ -2360,7 +2360,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-glutamine-powder-227g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0070-L-Glutamine-Powder.jpg?v=1764585706</image>
@@ -5770,7 +5770,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vitex-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Vitex_LAP73060_102_PDP_ff754f84-01f2-48c7-bc09-6a19dcf539f0.png?v=1764586786</image>
@@ -6588,7 +6588,7 @@
     <tags>low_vat_rate</tags>
     <price>66.18</price>
     <compare_at_price>99.18</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biofilm-defense-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KRK_02-Biofilm-Defense_bb96ff29-bfe9-4d35-98d1-79cf0a6db4ee.jpg?v=1764586507</image>
@@ -9503,7 +9503,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>daytime-hpa-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Professional-Solutions-Daytime-HPA_LAP57060_104_PDP_bbb8174c-4f38-426e-9c24-2c06df9aca71.png?v=1764586513</image>
@@ -10740,7 +10740,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>milk-thistle-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_031-Milk-Thistle_666c3690-713a-4cd3-9c11-475b53409290.png?v=1764586048</image>
@@ -10996,7 +10996,7 @@
     <tags>low_vat_rate</tags>
     <price>66.48</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pycnogenol-superior-100-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gold-Pycnogenol100-UK-Biogena-30Kps-125cc-2012_0eb1e245-0b6b-4ff1-a19a-2b0c21758995.jpg?v=1764585825</image>
@@ -11623,7 +11623,7 @@
     <tags>low_vat_rate</tags>
     <price>98.09</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pancreatic-enzymes-1000mg-full-strength-180-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VN_AmazonSlides_VNPE180.REV04_NEWLOOK_20_281_29.jpg?v=1764586644</image>
@@ -11905,7 +11905,7 @@
     <tags>low_vat_rate</tags>
     <price>85.01</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>undecylenic-acid-250-gelcaps-thorne</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/THO_051-Undecylenic-Acid.png?v=1764585766</image>
@@ -12279,7 +12279,7 @@
     <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thiamax-high-absorption-vitamin-b1-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2814_29-converted-from-png.webp?v=1769728927</image>
@@ -23475,7 +23475,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nualipid</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3bd82ee0d3c5dfd6cd07c3821ccf6667.webp?v=1772752753</image>
