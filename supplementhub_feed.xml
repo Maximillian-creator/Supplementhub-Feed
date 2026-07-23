@@ -736,7 +736,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>restorflora-50-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084</image>
@@ -2691,7 +2691,7 @@
     <tags>low_vat_rate</tags>
     <price>28.33</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>alkalizing-mouthwash-474ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_02-Alkalizing-Mouthwash.png?v=1764585876</image>
@@ -2715,7 +2715,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>kids-hydroxyapatite-toothpaste-100ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_03-Kids-Hydroxyapatite-Toothpaste_1_8f2125f2-164f-44ff-8fb1-7dc1930816e4.png?v=1764585688</image>
@@ -11453,7 +11453,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hdt-microbiota-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_29-HdT-Microbiota.png?v=1764586202</image>
@@ -11683,7 +11683,7 @@
     <tags/>
     <price>31.60</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pro-mineral-toothpaste-100-ml-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-19T170319.570.webp?v=1764586546</image>
@@ -14456,7 +14456,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pure-collagen-168g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_017_02.png?v=1764586892</image>
@@ -17076,7 +17076,7 @@
     <tags>low_vat_rate</tags>
     <price>19.70</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pregnenolone-10mg-60-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VN_AmazonSlides_VNPRG.REV01_NEWLOOK_20_281_29.jpg?v=1764586729</image>
@@ -18291,43 +18291,10 @@
   <product>
     <sku>QSL_083</sku>
     <barcode>810147501342</barcode>
-    <title>GLP-1 Amplifier| Quicksilver Scientific</title>
+    <title>GLP-1 Amplifier | Quicksilver Scientific</title>
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
-    <description>&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; letter-spacing: 0px;'&gt;Natural GLP-1 Support GLP-1 Amplifie&lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; letter-spacing: 0px;'&gt;r is a plant-based formula designed to support GLP-1 hormone activity—key for healthy blood sugar balance, appetite control, and metabolic wellness.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;It features a targeted blend of phytonutrients, including berberine, cinnamon bark oil, diindolylmethane (DIM), milk thistle extract, quercetin, and resveratrol.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;These ingredients have been studied for their ability to help regulate glucose metabolism, support digestion, and maintain a healthy inflammatory response.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
-&lt;li&gt;
-&lt;strong data-start=&quot;121&quot; data-end=&quot;153&quot;&gt;Plant-Based GLP-1 Activation&lt;/strong&gt; – Supports &lt;strong data-start=&quot;165&quot; data-end=&quot;191&quot;&gt;GLP-1 hormone activity&lt;/strong&gt; to promote &lt;strong data-start=&quot;203&quot; data-end=&quot;226&quot;&gt;appetite regulation&lt;/strong&gt;, &lt;strong data-start=&quot;228&quot; data-end=&quot;251&quot;&gt;blood sugar balance&lt;/strong&gt;, and &lt;strong data-start=&quot;257&quot; data-end=&quot;279&quot;&gt;metabolic wellness&lt;/strong&gt; using only &lt;strong data-start=&quot;291&quot; data-end=&quot;325&quot;&gt;natural, botanical ingredients&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;strong data-start=&quot;331&quot; data-end=&quot;361&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Phytonutrient-Rich Formula&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; – Includes a synergistic blend of &lt;/span&gt;&lt;strong data-start=&quot;396&quot; data-end=&quot;458&quot; style=&quot;letter-spacing: 0px;&quot;&gt;berberine, cinnamon bark oil, DIM, milk thistle, quercetin&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;, and &lt;/span&gt;&lt;strong data-start=&quot;464&quot; data-end=&quot;479&quot; style=&quot;letter-spacing: 0px;&quot;&gt;resveratrol&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;, all known to support &lt;/span&gt;&lt;strong data-start=&quot;502&quot; data-end=&quot;524&quot; style=&quot;letter-spacing: 0px;&quot;&gt;glucose metabolism&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; and &lt;/span&gt;&lt;strong data-start=&quot;529&quot; data-end=&quot;549&quot; style=&quot;letter-spacing: 0px;&quot;&gt;digestive health&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;.&lt;/span&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong data-start=&quot;555&quot; data-end=&quot;591&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Metabolic &amp;amp; Inflammatory Balance&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; – Helps maintain a &lt;/span&gt;&lt;strong data-start=&quot;611&quot; data-end=&quot;644&quot; style=&quot;letter-spacing: 0px;&quot;&gt;healthy inflammatory response&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; and supports &lt;/span&gt;&lt;strong data-start=&quot;658&quot; data-end=&quot;681&quot; style=&quot;letter-spacing: 0px;&quot;&gt;insulin sensitivity&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;, &lt;/span&gt;&lt;strong data-start=&quot;683&quot; data-end=&quot;705&quot; style=&quot;letter-spacing: 0px;&quot;&gt;digestive function&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;, and &lt;/span&gt;&lt;strong data-start=&quot;711&quot; data-end=&quot;732&quot; style=&quot;letter-spacing: 0px;&quot;&gt;energy regulation&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;.&lt;/span&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong data-start=&quot;738&quot; data-end=&quot;768&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Non-Pharmaceutical Support&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; – Offers a &lt;/span&gt;&lt;strong data-start=&quot;780&quot; data-end=&quot;803&quot; style=&quot;letter-spacing: 0px;&quot;&gt;natural alternative&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; to synthetic GLP-1 interventions, making it ideal for those seeking &lt;/span&gt;&lt;strong data-start=&quot;872&quot; data-end=&quot;907&quot; style=&quot;letter-spacing: 0px;&quot;&gt;gentle, daily metabolic support&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;.&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;b&gt;The Quicksilver Advantage GLP-1 Amplifier&lt;/b&gt; uses our advanced nanoemulsion delivery system technology to help this blend of bioactive phytocompounds reach your cells quickly.&lt;/p&gt;&lt;p&gt;Efficient absorption of ingredients means faster action and targeted support for healthy blood sugar levels, appetite regulation, and metabolic clarity&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Cinnamon may help maintain healthy blood sugar levels and healthy weight&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3323 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon helps to maintenance a healthy blood sugar level and contributes to normal glucose level&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2013 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon enlivens the appetite and digestion and helps maintain normal stomach gas and stomach comfort.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2014 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon helps to maintain comfort in the body, head and teeth.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2015 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon supports the health of the upper respiratory tract.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2016 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon supports the heart, circulation and the production of HDL (good) cholesterol and helps to purify the blood.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2017 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon (Internal use of whole bark) supports the health of the skin and mouth&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2018 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon helps to strengthen the body, makes you feel more energetic and has stimulating and tonic properties that contribute to the resistance against mental and physical fatigue&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2242 pending European approval.&lt;/li&gt;
-&lt;li&gt;Cinnamon supports the intestinal health and releaves diarrhoea&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3907 pending European approval.&lt;/li&gt;
-&lt;li&gt;Japanese knotweed dumps menopause symptoms&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4463 pending European approval.&lt;/li&gt;
-&lt;li&gt;Japanese knotweed Resveratrol is for cardiovascular health.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 1849 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle helps to maintain the heart health&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3584 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle is useful to maintain the physiological purifying functions.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3585 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle supports liver health, contributes to liver protection and detoxifying potential of the liver,  helps to maintain the liver function and additionally promote the digestion and the body´s purification&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3821 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle is a hepatoprotector and hepatic regenerator, protector and regenerator when products that oxidise at hepatic level are administered&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4481 pending European approval.&lt;/li&gt;
-&lt;li&gt;Berberine stem supports skin health&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3990 pending European approval.&lt;/li&gt;
-&lt;li&gt;Berberine helps to reduce blood triglyceride levels&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 1691 pending European approval.&lt;/li&gt;
-&lt;li&gt;Berberine helps to maintain a normal cholesterol level, contributes in a cholesterol lowering diet&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3272 pending European approval.&lt;/li&gt;
-&lt;li&gt;Berberine fruit supports the health of the reproductive and urinary organs.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3988 pending European approval.&lt;/li&gt;
-&lt;li&gt;Berberis aristata root supports liver health&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3989 pending European approval.&lt;/li&gt;
-&lt;/ul&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
+    <description>&lt;p&gt;GLP-1 Amplifier is a plant-based food supplement formulated to deliver a unique combination of botanicals and phytonutrients to complement a balanced daily nutrition routine. It features a targeted liquid blend of phytonutrients, including berberine, cinnamon bark oil, diindolylmethane (DIM), milk thistle seed extract, quercetin dihydrate, and resveratrol. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Cinnamon bark oil is a traditional spice that naturally contributes to normal glucose metabolism and helps maintain a healthy blood sugar level*. This is paired with milk thistle seed extract, which naturally contributes to maintaining the detoxifying potential of the liver, supports general digestive comfort, and contributes to maintain a healthy blood sugar level*. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;The Quicksilver Advantage&lt;/b&gt;&lt;/p&gt;&lt;p&gt;GLP-1 Amplifier uses an advanced nanoemulsion delivery system technology designed to optimize the physical stability and structural uniformness of these bioactive phytocompounds in a convenient liquid format. The rapid dispersibility of these highly soluble plant extracts ensures effortless integration into water or your favorite beverages. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;*Health claim pending European approval.&lt;/i&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>63.21</price>
     <compare_at_price/>
@@ -23845,7 +23812,7 @@
     <title>Pro-Flora™ Women’s - 30 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Pro-Flora™ Women’s Probiotic contains a combination of two well-characterised bacterial strains: Lactobacillus rhamnosus GR-1® and Lactobacillus reuteri RC-14®.These selected Lactobacillus strains are naturally occurring bacterial cultures commonly used in food supplements and are part of the human microbiota.Pro-Flora™ Women’s Probiotic provides Lactobacillus rhamnosus GR-1® and Lactobacillus reuteri RC-14® in a convenient daily capsule format, designed for supplementation with live bacterial cultures.</description>
+    <description>Pro-Flora™ Women’s Probiotic contains a combination of two well-characterised bacterial strains: Lactobacillus rhamnosus GR-1® and Lactobacillus reuteri RC-14®. These selected Lactobacillus strains are naturally occurring bacterial cultures commonly used in food supplements and are part of the human microbiota. Pro-Flora™ Women’s Probiotic provides Lactobacillus rhamnosus GR-1® and Lactobacillus reuteri RC-14® in a convenient daily capsule format, designed for supplementation with live bacterial cultures.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>41.17</price>
     <compare_at_price/>
@@ -23865,7 +23832,7 @@
     <title>Berberine Phytomax - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Berberine Phytomax delivers Berbevis®, an Indena Phytosome® berberine formulation combining berberine extract with pea protein, sunflower lecithin, and grape seed extract.Standard berberine HCl has limited oral bioavailability. The Indena Phytosome® delivery system addresses this by embedding berberine in a phospholipid matrix alongside pea protein and grape seed extract, enhancing solubility and intestinal absorption compared to conventional berberine preparations.Berbevis® and Indena Phytosome® are registered trademarks of Indena S.p.A., Italy.</description>
+    <description>&lt;p&gt;Berberine Phytomax delivers Berbevis®, an Indena Phytosome® berberine formulation combining berberine extract with pea protein, sunflower lecithin, and grape seed extract. Standard berberine HCl has limited oral bioavailability. The Indena Phytosome® delivery system addresses this by embedding berberine in a phospholipid matrix alongside pea protein and grape seed extract, enhancing solubility and intestinal absorption compared to conventional berberine preparations.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Berbevis® and Indena Phytosome® are registered trademarks of Indena S.p.A., Italy.&lt;/i&gt;&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>47.31</price>
     <compare_at_price/>
@@ -23905,7 +23872,7 @@
     <title>Magnesium Glycinate Plus - 120 Tablets | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Magnesium Glycinate Plus is a highly bioavailable magnesium supplement designed to support normal muscle function and the normal functioning of the nervous system, using magnesium in a well-tolerated glycinate form.Magnesium is an essential mineral involved in hundreds of enzymatic processes in the body, including those related to muscle function, nerve signalling, and energy-yielding metabolism. Low magnesium intake or increased demand due to exercise or lifestyle factors can affect these systems.Magnesium glycinate is a chelated form of magnesium bound to the amino acid glycine. This form is popular for its high absorption and gentle effect on the digestive system, making it suitable for consistent use without the gastrointestinal discomfort sometimes associated with other forms of magnesium.Magnesium contributes to normal muscle function, normal psychological function, and the normal functioning of the nervous system, as well as helping to reduce tiredness and fatigue. This formulation is designed to seamlessly complement your daily routine.By contributing to normal muscle function and the normal functioning of the nervous system, magnesium supports the body's everyday processes, making it a practical choice for individuals with active lifestyles or increased physical demand.As a well-absorbed form of magnesium, this formulation supports effective utilisation within the body, making it a practical option for individuals looking to maintain adequate magnesium levels.This formulation is designed to be clean and well tolerated, without artificial additives or fillers, making it suitable for regular use.Magnesium Glycinate Plus is particularly suited to individuals looking to support normal muscle function, the normal functioning of the nervous system, and normal psychological function, especially during periods of increased physical or mental demand.</description>
+    <description>Magnesium Glycinate Plus is a highly bioavailable magnesium supplement designed to support normal muscle function and the normal functioning of the nervous system, using magnesium in a well-tolerated glycinate form. Magnesium is an essential mineral involved in hundreds of enzymatic processes in the body, including those related to muscle function, nerve signalling, and energy-yielding metabolism. Low magnesium intake or increased demand due to exercise or lifestyle factors can affect these systems. Magnesium glycinate is a chelated form of magnesium bound to the amino acid glycine. This form is popular for its high absorption and gentle effect on the digestive system, making it suitable for consistent use without the gastrointestinal discomfort sometimes associated with other forms of magnesium. Magnesium contributes to normal muscle function, normal psychological function, and the normal functioning of the nervous system, as well as helping to reduce tiredness and fatigue. This formulation is designed to seamlessly complement your daily routine. By contributing to normal muscle function and the normal functioning of the nervous system, magnesium supports the body's everyday processes, making it a practical choice for individuals with active lifestyles or increased physical demand. As a well-absorbed form of magnesium, this formulation supports effective utilisation within the body, making it a practical option for individuals looking to maintain adequate magnesium levels. This formulation is designed to be clean and well tolerated, without artificial additives or fillers, making it suitable for regular use. Magnesium Glycinate Plus is particularly suited to individuals looking to support normal muscle function, the normal functioning of the nervous system, and normal psychological function, especially during periods of increased physical or mental demand.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>36.01</price>
     <compare_at_price/>
@@ -23925,7 +23892,7 @@
     <title>Riboflavin - 30 Tablets | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Riboflavin (vitamin B2) is a water-soluble vitamin that functions as a component of coenzymes FMN (flavin mononucleotide) and FAD (flavin adenine dinucleotide), which are involved in normal energy-yielding metabolism.Vitamin B2 contributes to normal metabolic processes as part of enzyme systems involved in the utilisation of nutrients.Vitamin B2 contributes to normal formation of red blood cells and plays a role in the normal functioning of enzyme systems involved in vitamin metabolism.</description>
+    <description>Riboflavin (vitamin B2) is a water-soluble vitamin that functions as a component of coenzymes FMN (flavin mononucleotide) and FAD (flavin adenine dinucleotide), which are involved in normal energy-yielding metabolism. Vitamin B2 contributes to normal metabolic processes as part of enzyme systems involved in the utilisation of nutrients. Vitamin B2 contributes to normal formation of red blood cells and plays a role in the normal functioning of enzyme systems involved in vitamin metabolism.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>18.03</price>
     <compare_at_price/>
@@ -23965,7 +23932,7 @@
     <title>Phosphatidylserine - 60 Softgels | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Phosphatidylserine (PS) is a naturally occurring phospholipid. Like other phospholipids, PS is an important structural component of cell membranes and is found throughout the body. It occurs in relatively high concentrations in the brain and nervous tissues, primarily within the cell membranes of neurons.Phosphatidylserine is widely studied for its role in cellular structure and function and is a naturally occurring constituent of human tissues.Integrative Therapeutics' Phosphatidylserine is derived from sunflower oil and is 100% soy-free. This makes it an excellent choice for individuals seeking a soy-free alternative to traditional phosphatidylserine supplements.</description>
+    <description>Phosphatidylserine (PS) is a naturally occurring phospholipid. Like other phospholipids, PS is an important structural component of cell membranes and is found throughout the body. It occurs in relatively high concentrations in the brain and nervous tissues, primarily within the cell membranes of neurons. Phosphatidylserine is widely studied for its role in cellular structure and function and is a naturally occurring constituent of human tissues. Integrative Therapeutics' Phosphatidylserine is derived from sunflower oil and is 100% soy-free. This makes it an excellent choice for individuals seeking a soy-free alternative to traditional phosphatidylserine supplements.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>58.04</price>
     <compare_at_price/>
@@ -23985,7 +23952,7 @@
     <title>Pro-Flora™ Concentrate - 90 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Pro-Flora™ Concentrate with Pearls Technology delivers 1 billion live cultures of 6 carefully selected bacterial strains per capsule in an easy-to-swallow format.The formulation contains bacterial strains with a long history of use in food supplements, selected to complement a varied and balanced diet as part of a healthy lifestyle.Pro-Flora™ Pearls use True Delivery™ Technology, a triple-layer coating designed to help protect live cultures from environmental factors such as heat, air, and moisture, as well as from gastric conditions during passage through the stomach.The encapsulation system supports product stability and helps maintain viable cultures throughout shelf life, without the need for refrigeration.</description>
+    <description>Pro-Flora™ Concentrate with Pearls Technology delivers 1 billion live cultures of 6 carefully selected bacterial strains per capsule in an easy-to-swallow format. The formulation contains bacterial strains with a long history of use in food supplements, selected to complement a varied and balanced diet as part of a healthy lifestyle. Pro-Flora™ Pearls use True Delivery™ Technology, a triple-layer coating designed to help protect live cultures from environmental factors such as heat, air, and moisture, as well as from gastric conditions during passage through the stomach. The encapsulation system supports product stability and helps maintain viable cultures throughout shelf life, without the need for refrigeration.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>64.58</price>
     <compare_at_price/>
@@ -24045,7 +24012,7 @@
     <title>NAC - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>N-Acetyl L-Cysteine (NAC) is a source of the amino acid L-cysteine, a naturally occurring compound involved in the body’s natural protein and amino acid metabolism. L-cysteine is present in the body as part of essential biological processes.Pro-Flora™ NAC provides NAC in a convenient daily capsule, designed for easy inclusion in everyday nutritional routines.</description>
+    <description>N-Acetyl L-Cysteine (NAC) is a source of the amino acid L-cysteine, a naturally occurring compound involved in the body’s natural protein and amino acid metabolism. L-cysteine is present in the body as part of essential biological processes. Pro-Flora™ NAC provides NAC in a convenient daily capsule, designed for easy inclusion in everyday nutritional routines.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>23.23</price>
     <compare_at_price/>
@@ -24065,7 +24032,7 @@
     <title>Glutamine Forté - 201g | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Glutamine Forté delivers a robust 5 grams of pure L-glutamine per serving, blended with Theracurmin®, a distinctive water-dispersible form of turmeric. This high-purity formula is designed to integrate cleanly into your daily routine.L-glutamine is a conditionally essential amino acid found naturally in protein-rich foods such as meat, fish, eggs, and dairy. Combined with Theracurmin®, a water-dispersible turmeric, this well-tolerated formulation fits seamlessly into active daily schedules, offering a clean addition to your long-term habits without artificial fillers or additives.</description>
+    <description>Glutamine Forté delivers a robust 5 grams of pure L-glutamine per serving, blended with Theracurmin®, a distinctive water-dispersible form of turmeric. This high-purity formula is designed to integrate cleanly into your daily routine. L-glutamine is a conditionally essential amino acid found naturally in protein-rich foods such as meat, fish, eggs, and dairy. Combined with Theracurmin®, a water-dispersible turmeric, this well-tolerated formulation fits seamlessly into active daily schedules, offering a clean addition to your long-term habits without artificial fillers or additives.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>66.09</price>
     <compare_at_price/>
@@ -24105,7 +24072,7 @@
     <title>Glycemic Manager™ - 60 Tablets | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>A unique blend of nutrients and botanicals designed to support normal carbohydrate metabolism after meals.Glycemic Manager™ combines essential vitamins, minerals, and plant extracts to support normal energy-yielding metabolism and overall nutritional balance.</description>
+    <description>A unique blend of nutrients and botanicals designed to support normal carbohydrate metabolism after meals. Glycemic Manager™ combines essential vitamins, minerals, and plant extracts to support normal energy-yielding metabolism and overall nutritional balance.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>35.02</price>
     <compare_at_price/>
@@ -24125,7 +24092,7 @@
     <title>Magtein® L-Threonate Plus - 90 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Integrative Therapeutics Magtein® L-Threonate Plus features clinically studied Magtein® magnesium L-threonate, combined with vitamins C and D3 to support normal psychological function and the normal functioning of the nervous system. It is formulated with premium, highly bioavailable sources of nutrients to cleanly complement your active lifestyle.This formula delivers a meaningful dose of vitamin C, which contributes to normal psychological function and the normal functioning of the nervous system, in a clean capsule without artificial fillers.Vitamin D contributes to the normal absorption and utilisation of calcium and phosphorus. This combination of magnesium L-threonate and vitamins C and D3 offers a straightforward, clean addition to a structured supplementation routine.(Magtein® is a trademark of Magceutics, Inc. and is distributed exclusively by AIDP, Inc. Magtein® is protected under a family of US patents, pending patents, and is protected worldwide.)</description>
+    <description>&lt;p&gt;Integrative Therapeutics Magtein® L-Threonate Plus features clinically studied Magtein® magnesium L-threonate, combined with vitamins C and D3 to support normal psychological function and the normal functioning of the nervous system. It is formulated with premium, highly bioavailable sources of nutrients to cleanly complement your active lifestyle.This formula delivers a meaningful dose of vitamin C, which contributes to normal psychological function and the normal functioning of the nervous system, in a clean capsule without artificial fillers.Vitamin D contributes to the normal absorption and utilisation of calcium and phosphorus. This combination of magnesium L-threonate and vitamins C and D3 offers a straightforward, clean addition to a structured supplementation routine.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;(Magtein® is a trademark of Magceutics, Inc. and is distributed exclusively by AIDP, Inc. Magtein® is protected under a family of US patents, pending patents, and is protected worldwide.)&lt;/i&gt;&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>48.37</price>
     <compare_at_price/>
@@ -24185,7 +24152,7 @@
     <title>Barrier Complex Drink Mix - 93g | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
-    <description>Barrier Complex is a food supplement featuring a blend of botanicals and specialized ingredients, formulated as part of a balanced lifestyle.Brightseed® BIO Gut Core™ and Myoceram® are innovative ingredients used in food supplement formulations focused on digestive and skin nutrition.The formula also contains the amino acid L-glutamine; Gutgard® DGL (a deglycyrrhizinated licorice extract); slippery elm bark; marshmallow root; and N-acetyl glucosamine (NAG).The lemon-lime flavoured powder is easy to mix into water or other beverages for daily use. One daily scoop as part of your routine nutritional intake.</description>
+    <description>Barrier Complex is a food supplement featuring a blend of botanicals and specialized ingredients, formulated as part of a balanced lifestyle.Brightseed® BIO Gut Core™ and Myoceram® are innovative ingredients used in food supplement formulations focused on digestive and skin nutrition. The formula also contains the amino acid L-glutamine; Gutgard® DGL (a deglycyrrhizinated licorice extract); slippery elm bark; marshmallow root; and N-acetyl glucosamine (NAG).The lemon-lime flavoured powder is easy to mix into water or other beverages for daily use. One daily scoop as part of your routine nutritional intake.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>85.29</price>
     <compare_at_price/>
@@ -24205,7 +24172,7 @@
     <title>Gluco-Chrome - 60 Capsules | Metagenics</title>
     <vendor>Metagenics</vendor>
     <product_type/>
-    <description>This supplement features Chromium Picolinate, Alpha-Lipoic Acid, and Cinnamon Extract, providing a high-quality, concentrated serving to fit into your daily routine. Formulated to support the maintenance of normal blood sugar levels, this formula offers consistent, daily support for your metabolic goals, allowing you to approach your health with an advanced, science-backed approach to balance.Developed with a highly bioavailable form for excellent absorption, this trusted blend features 500µg of Chromium Picolinate alongside 150mg of Alpha-Lipoic Acid to provide a precise, high-quality serving that fits seamlessly into your life. Each capsule delivers a concentrated 100mg of Cinnamon Extract (15:1), providing the strength equivalent to 1.5g of dry cinnamon bark in a convenient daily dose. Built with pure, premium ingredients, this expert formulation offers optimal daily support, long-term consistency, and complete peace of mind for your health journey.</description>
+    <description>This supplement features Chromium Picolinate, Alpha-Lipoic Acid, and Cinnamon Extract, providing a high-quality, concentrated serving to fit into your daily routine. Formulated to support the maintenance of normal blood sugar levels, this formula offers consistent, daily support for your metabolic goals, allowing you to approach your health with an advanced, science-backed approach to balance. Developed with a highly bioavailable form for excellent absorption, this trusted blend features 500µg of Chromium Picolinate alongside 150mg of Alpha-Lipoic Acid to provide a precise, high-quality serving that fits seamlessly into your life. Each capsule delivers a concentrated 100mg of Cinnamon Extract (15:1), providing the strength equivalent to 1.5g of dry cinnamon bark in a convenient daily dose. Built with pure, premium ingredients, this expert formulation offers optimal daily support, long-term consistency, and complete peace of mind for your health journey.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>42.92</price>
     <compare_at_price/>
@@ -24325,7 +24292,7 @@
     <title>HerWellness Perimenopause - 30 Capsules | Metagenics</title>
     <vendor>Metagenics</vendor>
     <product_type/>
-    <description>Discover a premium, plant-based approach to your daily wellness routine. This advanced formula features ERr 731®, a specialized, standardized Siberian rhubarb root extract backed by extensive human nutritional research and multiple scientific trials.Designed specifically as a non-hormonal option for women, this safe, plant-based supplement provides targeted botanical support that fits seamlessly into your everyday life. With a practical and convenient once-daily dose, each single tablet delivers a consistent, high-quality serving of active components. Extensively verified for safety and purity, it is a trusted choice crafted for your long-term peace of mind and daily confidence.</description>
+    <description>Discover a premium, plant-based approach to your daily wellness routine. This advanced formula features ERr 731®, a specialized, standardized Siberian rhubarb root extract backed by extensive human nutritional research and multiple scientific trials. Designed specifically as a non-hormonal option for women, this safe, plant-based supplement provides targeted botanical support that fits seamlessly into your everyday life. With a practical and convenient once-daily dose, each single tablet delivers a consistent, high-quality serving of active components. Extensively verified for safety and purity, it is a trusted choice crafted for your long-term peace of mind and daily confidence.</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>29.34</price>
     <compare_at_price/>
