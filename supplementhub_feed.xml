@@ -839,7 +839,7 @@
     <tags>low_vat_rate</tags>
     <price>82.83</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>veggie-fusion-protein</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MEL_13-Veggie-Protein-Vanilla.png?v=1764585716</image>
@@ -1623,7 +1623,7 @@
     <tags>low_vat_rate</tags>
     <price>27.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>keep-klear-acne-eczema-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20KK-019_20UK_20PMD_20Keep_20Klear_20Oct_202025-2.webp?v=1768000967</image>
@@ -2584,7 +2584,7 @@
     <tags>low_vat_rate</tags>
     <price>92.64</price>
     <compare_at_price>97.00</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-360-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0131-Magnesium-Glycinate-360s_0f4c1a92-fc0f-4c90-a0b5-a8665db91b82.jpg?v=1764586483</image>
@@ -3492,7 +3492,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price>45.37</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-electrolyte-berry-flavour-250g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ELYTE-B-POW_1_Front_medium_c74d4b8f-8594-435f-8446-aaeec1df8eb8.png?v=1764585963</image>
@@ -19375,7 +19375,7 @@
     <tags>low_vat_rate</tags>
     <price>34.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>multivitamin-one-sensitive-45-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Multivitamin_20One_20Sensitive_20front_20_281_29.jpg?v=1764586694</image>
@@ -24428,6 +24428,66 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>286.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>SH_201</sku>
+    <barcode/>
+    <title>Methyl B12 5000 - 60 Lozenges | Seeking Health</title>
+    <vendor>Seeking Health</vendor>
+    <product_type/>
+    <description>Methyl B12 5000 delivers 5,000 mcg of vitamin B12 per lozenge as MECOBALACTIVE® methylcobalamin and adenosylcobalamin. These bioactive coenzyme forms are readily recognized and utilized by the body without requiring conversion. Vitamin B12 supports red blood cell formation, neurological function, DNA synthesis, methylation pathways, energy metabolism and cardiovascular health. This high-potency formula is particularly suitable for individuals with increased B12 requirements, impaired absorption, vegetarian or vegan diets, or those seeking methylation support.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>32.72</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>methyl-b12-5000-60-lozenges-seeking-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AB12-LOZ_1_Front_931d4b73-76bd-4624-ad7d-bb00643a0773.webp?v=1781216278</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>45.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>SH_199</sku>
+    <barcode/>
+    <title>Kids Optimal Focus - 60 Chewable Tablets | Seeking Health</title>
+    <vendor>Seeking Health</vendor>
+    <product_type/>
+    <description>Kids Optimal Focus provides citicoline (Xerenoos®), AlphaSize® Alpha-GPC, bacopa extract, uridine, huperzine, magnesium and pantothenic acid in a child-friendly chewable tablet. These nutrients are selected to support attention, focus, learning ability, memory consolidation, emotional balance and healthy cognitive development. The formula is designed for children who may benefit from additional support with concentration, school performance, mental clarity and emotional regulation.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>32.30</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>kids-optimal-focus-60-chewable-tablets-seeking-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KIDS-OP-FOC-TAB_1_Front_5eeae434-6084-4e84-983f-6e984f8d255a.webp?v=1781216421</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>90.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>SH_196</sku>
+    <barcode/>
+    <title>Digestive Enzymes Chewable - 60 Tablets | Seeking Health</title>
+    <vendor>Seeking Health</vendor>
+    <product_type/>
+    <description>Digestive Enzymes Chewable contains a comprehensive blend of vegetarian-derived enzymes active across a broad pH range to support proper food breakdown throughout the digestive tract. This formula helps support digestion of proteins, fats, carbohydrates, dairy sugars, legumes, grains, vegetables, and fiber-rich foods. It is ideal for individuals experiencing occasional bloating, gas, indigestion, nutrient malabsorption, food sensitivities, or digestive discomfort after meals. Suitable for adults and children who prefer chewable tablets over capsules. (Supplement Hub UK)</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>28.66</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>digestive-enzymes-chewable-60-tablets-seeking-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DIG-ENZ-TAB_1_Front_a92663b1-fcd3-47a8-aef7-63c38af70f55.webp?v=1781216606</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>90.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
 </products>
