@@ -1966,7 +1966,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>buffered-ascorbic-acid-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0002-Buffered-Ascorbic-Acid-90s.jpg?v=1764585707</image>
@@ -2127,7 +2127,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thyroid-support-complex-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0020-Thyroid-Support-Complex-60s_8ffd85ad-f966-488b-a7aa-0157c5e7d32d.jpg?v=1764586856</image>
@@ -2240,7 +2240,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mg9uk_rgb_7b5c7dc1-4a75-474b-a2e1-f7c45c1ddf3f.jpg?v=1764586900</image>
@@ -2280,7 +2280,7 @@
     <tags>low_vat_rate</tags>
     <price>47.95</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>zinc-30-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0046-Zinc-30-180s.jpg?v=1764586231</image>
@@ -2360,7 +2360,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>l-glutamine-powder-227g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0070-L-Glutamine-Powder.jpg?v=1764585706</image>
@@ -2444,7 +2444,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>quercetin-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0116-Quercetin_227300dd-d629-4bf7-acc9-29d61cbf1084.jpg?v=1764586570</image>
@@ -2484,7 +2484,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vision-support-formula-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0120-Vision-Support-Formula.jpg?v=1764585791</image>
@@ -3942,6 +3942,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>SH_128</sku>
+    <barcode>810007527895</barcode>
+    <title>ProBiota Woman - 30 Capsules | Seeking Health</title>
+    <vendor>Seeking Health</vendor>
+    <product_type/>
+    <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;ProBiota Woman is a specialised blend of 10 different types of probiotics in a prebiotic base.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;ProBiota Woman contains Lactobacillus and Bifidobacterium species. This formula also contains inulin, a prebiotic fibre sourced from chicory root.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
+    <tags>low_vat_rate</tags>
+    <price>51.22</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>probiota-woman-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_medium_87b59f02-28b6-49d9-9d16-5beb333ae5fc.jpg?v=1764585841</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>46.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>SH_131</sku>
     <barcode>810007521190</barcode>
     <title>Riboflavin 400mg - 60 Capsules | Seeking Health</title>
@@ -5263,7 +5283,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>glycine-powder-250g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_20_4409f594-b09c-4aa9-87e3-925f929fa761.png?v=1764585598</image>
@@ -8805,7 +8825,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>epa-dha-essentials-90-softgel-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0007-EPA-DHA-Essentials-90s.jpg?v=1764586401</image>
@@ -9025,7 +9045,7 @@
     <tags>low_vat_rate</tags>
     <price>58.85</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>inositol-powder-250g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0085-Inositol-Powder_76a230d8-ff1f-454f-b10f-a60e1246ca96.jpg?v=1764585797</image>
@@ -11140,7 +11160,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>curcumasorb-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0166-CurcumaSorb-90s_84698bf5-18ae-4859-9398-0dd83d72ec4a.png?v=1764585701</image>
@@ -11160,7 +11180,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dgl-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0168-DGL-Plus_c87a250b-4d3f-4405-873e-5995ab093af2.png?v=1764585796</image>
@@ -11393,7 +11413,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>anti-sibo-60-capsules-thera-nordic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TN_05-1_8t6qk8_595fa2e0-0484-4b21-bd40-f51393deeef3.png?v=1764586281</image>
@@ -11603,7 +11623,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -16169,7 +16189,7 @@
     <tags>low_vat_rate, Practitioner Only</tags>
     <price>56.67</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>poly-proflora-powder-138g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0173-Poly-ProFlora-Powder.jpg?v=1738238787</image>
@@ -16271,7 +16291,7 @@
     <tags>low_vat_rate, Practitioner Only</tags>
     <price>28.33</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>zinc-chewables-100-chewable-tablets-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0178-Zinc-Chewables-100s_04f5e606-bc2a-4990-8ec2-d938683f5668.png?v=1738238805</image>
@@ -21804,7 +21824,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>34.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>womens-one-a-day-multivitamin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CoQ10_30_31750_WEB.webp?v=1768432993</image>
