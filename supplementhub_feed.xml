@@ -2691,7 +2691,7 @@
     <tags>low_vat_rate</tags>
     <price>28.33</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>alkalizing-mouthwash-474ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_02-Alkalizing-Mouthwash.png?v=1764585876</image>
@@ -2715,7 +2715,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>kids-hydroxyapatite-toothpaste-100ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_03-Kids-Hydroxyapatite-Toothpaste_1_8f2125f2-164f-44ff-8fb1-7dc1930816e4.png?v=1764585688</image>
@@ -11703,7 +11703,7 @@
     <tags/>
     <price>31.60</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pro-mineral-toothpaste-100-ml-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-19T170319.570.webp?v=1764586546</image>
@@ -12541,7 +12541,7 @@
     <tags>low_vat_rate</tags>
     <price>34.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>24k-gold-plated-ear-seed-kit-acu-seeds</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ACU_01-24k-Gold-Plated-Ear-Seed-Kit_ai4n95.png?v=1764586452</image>
@@ -16888,7 +16888,7 @@
     <tags>low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>lanto-sinus-probiotic-powder-15g-lanto-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bath_20Bomb_20Lavender_20-_201_hu6sh8.png?v=1764586703</image>
@@ -17343,7 +17343,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>megamucosa-180-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaMucosa-Bottle-UK-FRONT_20_281_29.jpg?v=1764585588</image>
