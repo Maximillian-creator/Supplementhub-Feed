@@ -8192,7 +8192,7 @@
     <tags>low_vat_rate</tags>
     <price>95.91</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biocidin-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biocidin-Capsules.png?v=1764586604</image>
@@ -9824,7 +9824,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>prenatal-dha-830mg-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_19-Prenatal-DHA_a4ad28f5-816e-42fb-9a4d-6ff6232782cd.jpg?v=1764585893</image>
@@ -20487,7 +20487,7 @@
     <tags>low_vat_rate</tags>
     <price>55.52</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dao-enzyme-formerly-histamine-digest™-30-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HIST-DIG-CAP_1_White.webp?v=1776118746</image>
