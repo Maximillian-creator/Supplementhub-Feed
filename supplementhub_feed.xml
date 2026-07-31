@@ -2624,7 +2624,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nanoemulsified-d3k2-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_014-D3K2_44caa9da-10ae-4420-acf6-f1d44acfa280.png?v=1764586311</image>
@@ -10649,7 +10649,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>milk-thistle-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_031-Milk-Thistle_666c3690-713a-4cd3-9c11-475b53409290.png?v=1764586048</image>
@@ -17926,7 +17926,7 @@
     <tags>low_vat_rate</tags>
     <price>63.21</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glp-1-amplifier-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-31T111508.637.webp?v=1764586178</image>
@@ -20111,7 +20111,7 @@
     <tags>low_vat_rate</tags>
     <price>47.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gi-repair-190-g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T145714.703.webp?v=1764586799</image>
