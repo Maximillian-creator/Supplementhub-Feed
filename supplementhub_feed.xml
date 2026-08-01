@@ -8453,7 +8453,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-defense-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_14-Bio-Defense_bc927f67-6208-40cc-8f51-1072e8130b37.png?v=1764586675</image>
@@ -12362,7 +12362,7 @@
   </product>
   <product>
     <sku>SBT_001</sku>
-    <barcode>0</barcode>
+    <barcode>5060855720022</barcode>
     <title>Ashwagandha KSM-66® + Saffron Extract® - 60 Capsules | Super Botanic</title>
     <vendor>Super Botanic</vendor>
     <product_type/>
@@ -20135,7 +20135,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>saffron-60-capsules-new-roots-herbal</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T153923.591.png?v=1764586429</image>
