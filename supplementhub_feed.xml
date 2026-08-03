@@ -514,7 +514,7 @@
     <tags>low_vat_rate</tags>
     <price>70.84</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>berberine-500mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_08-Berberine-500mg_6b33fb32-5e16-4d57-b4a7-0963f41188e2.png?v=1764585601</image>
@@ -2420,7 +2420,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-carnitine-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0087-L-Carnitine.jpg?v=1764585968</image>
@@ -6722,7 +6722,7 @@
     <tags>low_vat_rate</tags>
     <price>30.98</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>n-acetyl-cysteine-nac-600mg-100-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/p0085b_v8.png?v=1764586575</image>
@@ -8704,7 +8704,7 @@
     <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>glycine-1000mg-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LE_142-Glycine_861a56f6-75f8-447f-99ca-2b72fc31d87c.png?v=1764586409</image>
@@ -13517,7 +13517,7 @@
     <tags>low_vat_rate</tags>
     <price>53.00</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>complete-collagen-450g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Complete_20collagen.png?v=1764586700</image>
@@ -18519,7 +18519,7 @@
     <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>creatine-pro-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-29T154553.845.jpg?v=1764586347</image>
