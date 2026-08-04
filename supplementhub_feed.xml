@@ -3404,7 +3404,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>n-acetyl-l-cysteine-nac-500mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NAC-CAP_1_Front_R_medium_81574676-f9ba-48e8-bb8b-7e2b0a833be2.webp?v=1764586133</image>
@@ -3931,7 +3931,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price>45.64</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>probiota-histaminx-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-HIS-CAP_1_Front_R_eba7bb20-14ce-4a9e-ac0a-f9e90f6fac52.png?v=1764585690</image>
@@ -6407,7 +6407,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>citicoline-cdp-choline-250mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71j16H05m_2BL._AC_SL1500.jpg?v=1764586770</image>
@@ -11954,7 +11954,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>usnea-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_066-Usnea_988160f1-f89f-4c0e-80a3-5232d1d02ed6.jpg?v=1764585851</image>
@@ -12246,7 +12246,7 @@
   </product>
   <product>
     <sku>PTCH_35</sku>
-    <barcode>0</barcode>
+    <barcode>895606002585</barcode>
     <title>T-Synergy (Topical Patch 30 Day Supply) - 30 Patches | PatchMD</title>
     <vendor>PatchMD</vendor>
     <product_type/>
@@ -14708,7 +14708,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>balance-oil-liquid-omega-6-3-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T142026.635.webp?v=1764585746</image>
