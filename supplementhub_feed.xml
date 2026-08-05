@@ -2003,7 +2003,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b-complex-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0003-BComplex-Plus-60s.jpg?v=1764586497</image>
@@ -7246,7 +7246,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>lu-rong-supreme-deer-antler-570mg-45-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_012-Lu-Rong-Supreme.png?v=1764585692</image>
@@ -11049,7 +11049,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>curcumasorb-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0166-CurcumaSorb-90s_84698bf5-18ae-4859-9398-0dd83d72ec4a.png?v=1764585701</image>
@@ -11445,7 +11445,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mico-vir-reishi-cordyceps-70-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Vir-01_2d634528-9f4e-43de-9720-d3da108bab0a.png?v=1764586514</image>
@@ -12108,7 +12108,7 @@
     <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thiamax-high-absorption-vitamin-b1-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2814_29-converted-from-png.webp?v=1769728927</image>
@@ -14271,7 +14271,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>63.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>complete-collagen-orange-470g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_19.png?v=1764586441</image>
@@ -14768,7 +14768,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>196.61</price>
     <compare_at_price>231.07</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T132028.157.webp?v=1764586012</image>
@@ -19319,7 +19319,7 @@
   </product>
   <product>
     <sku>SH_173</sku>
-    <barcode>810007521992</barcode>
+    <barcode>810007521817</barcode>
     <title>Optimal Glutathione Plus - 60 Lozenges | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
@@ -20298,7 +20298,7 @@
   </product>
   <product>
     <sku>RISE_14</sku>
-    <barcode/>
+    <barcode>860001463507</barcode>
     <title>Natural Hydroxyapatite Toothpaste (Wild Mint) - 96g | Risewell</title>
     <vendor>RiseWell</vendor>
     <product_type/>
@@ -22749,7 +22749,7 @@
   </product>
   <product>
     <sku>NUA_20</sku>
-    <barcode>8437009953051</barcode>
+    <barcode>8437009953273</barcode>
     <title>AndroNuaDHA - 60 pearls | Nua Biological</title>
     <vendor>Nua Biological</vendor>
     <product_type/>
