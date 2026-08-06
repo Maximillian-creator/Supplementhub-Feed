@@ -6152,7 +6152,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-s-boulardii-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/S.Boulardii_Web.png?v=1764585906</image>
@@ -6597,7 +6597,7 @@
     <tags>low_vat_rate</tags>
     <price>54.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>leaky-gut-revive-174g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LeakyGutReviveMYE_01.png?v=1764585899</image>
@@ -8172,7 +8172,7 @@
     <tags>low_vat_rate</tags>
     <price>83.39</price>
     <compare_at_price>95.91</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biocidin-broad-spectrum-liquid-formula-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biocidin_2dfb7b5d-e418-48b3-a2e2-2956e04d0508.png?v=1764586344</image>
@@ -8954,7 +8954,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ashwagandha-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0076-Ashwagandha-120s_126e8ffd-7884-46fc-81b4-6e7730bc96ff.jpg?v=1764586494</image>
@@ -10813,7 +10813,7 @@
     <tags>low_vat_rate</tags>
     <price>40.37</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>7-salt-magnesium-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/7-Salt-Magnesium-UK-Biogena-60Kps-125cc-2012_low.jpg?v=1764586602</image>
@@ -11492,7 +11492,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -12148,7 +12148,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thiamega-high-dose-thiamine-complex-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Thiamega_20transparent.webp?v=1769728898</image>
@@ -12967,7 +12967,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>astaxanthin-12mg-60-softgels-jarrow-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706</image>
@@ -14954,7 +14954,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-650g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Whey_20.png?v=1764586443</image>
@@ -16594,7 +16594,7 @@
   </product>
   <product>
     <sku>QSL_079</sku>
-    <barcode/>
+    <barcode>810147500284</barcode>
     <title>Facial Beauty Serum | Quicksilver Scientific</title>
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
@@ -18423,7 +18423,7 @@
     <tags>low_vat_rate</tags>
     <price>29.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>performance-forest-berries-electrolytes-sachets-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Forest_20Berries_20Electrolytes_20-_2031_20Portions_20NoordCode_01.webp?v=1764586524</image>
@@ -20924,7 +20924,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>33.43</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ginger-artichoke-gastric-motility</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/N-Acetyl-L-Cysteine_90_WEB.webp?v=1768432618</image>
@@ -21081,7 +21081,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>38.84</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-sleep-muscle-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Candex_SIBO_45_24359_WEB.webp?v=1768432768</image>
@@ -22146,7 +22146,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>42.92</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>metarelax-90-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MetaRelax_90.webp?v=1769556183</image>
