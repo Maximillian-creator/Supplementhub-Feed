@@ -2504,7 +2504,7 @@
     <tags>low_vat_rate</tags>
     <price>21.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-15-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0121-Zinc-15-60s.jpg?v=1764586397</image>
@@ -3230,7 +3230,7 @@
     <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price>29.42</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hydroxo-b12-60-lozenges</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61.webp?v=1781130085</image>
@@ -7749,7 +7749,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>morinda-supreme-noni-600mg-130-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_016-Morinda-Supreme.png?v=1764586478</image>
@@ -8092,7 +8092,7 @@
     <tags/>
     <price>54.49</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dentalcidin-90ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/dentalcidin.png?v=1764586083</image>
@@ -9139,7 +9139,7 @@
     <tags>low_vat_rate</tags>
     <price>44.50</price>
     <compare_at_price>57.76</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-glutathione-with-lemon-mint-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_009-Liposomal-Glutathione_e2707c37-e78e-4fe7-9be8-2af2ede5908a.png?v=1764585698</image>
@@ -9897,7 +9897,7 @@
     <tags>low_vat_rate</tags>
     <price>21.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>sunflower-lecithin-1200mg-100-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_25-Sunflower-Lecithin-Softgels_1174d182-d013-4536-949d-9188afe9b45e.png?v=1764585626</image>
@@ -10833,7 +10833,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mirachol-3-0-gold-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gold-MiraCHOL-3-0-UK-Biogena-90Kps-125cc-2012_6de23ae0-263d-4f55-838e-4b4179949b1a.jpg?v=1764586906</image>
@@ -11029,7 +11029,7 @@
     <tags>low_vat_rate</tags>
     <price>64.30</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dim-ultra-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0098-DIM-Ultra.jpg?v=1764586855</image>
@@ -15038,7 +15038,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>63.21</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>vascanox-hp-60-capsules-calroy-health-sciences</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CURRENT_20Vascanox-HP-bottle-front_cd677110-1c69-4986-bc4d-b9ef742fbb8a.jpg?v=1764586439</image>
@@ -16799,7 +16799,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hdt-menopause-60-caps-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HdT_20Menopause_20-_2060_20capsHifas_20da_20Terra_01.webp?v=1764586803</image>
@@ -18877,7 +18877,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>46.86</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gud-for-all-multivitamin-60-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Screenshot_202025-07-03_20155405_20_281_29.jpg?v=1764586087</image>
