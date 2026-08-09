@@ -35,7 +35,7 @@
     <tags>low_vat_rate</tags>
     <price>62.63</price>
     <compare_at_price>70.84</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>allimed-450mg-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AI_02-Allimed_7becd4f6-100c-4943-a915-45ab40d30551.jpg?v=1764586601</image>
@@ -5699,7 +5699,7 @@
     <tags>low_vat_rate</tags>
     <price>46.86</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-theanine-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_87_c59a6cab-5157-4796-b097-e521d9c44264.png?v=1764586382</image>
@@ -10310,7 +10310,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>megasporebiotic-spores-only-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL_21-1_547760ce-d846-4642-8dbe-e37380a2fdba.png?v=1764585768</image>
@@ -13557,7 +13557,7 @@
     <tags>low_vat_rate</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-360g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_18_232839ab-dbc4-4d97-adba-4bb671ec6f64.png?v=1764586609</image>
@@ -18082,7 +18082,7 @@
     <tags>low_vat_rate</tags>
     <price>71.93</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-2x-lemon-60-softgels-nordic-naturals</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/nn-0540_front_neu__1__16220_1000x1000_jpg_20_281_29.jpg?v=1764585919</image>
