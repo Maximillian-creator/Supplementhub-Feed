@@ -534,7 +534,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ideal-bowel-support-l-plantarum-299v-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_18_35e736cf-adfc-410b-84a0-5ab0d8875df2.png?v=1764586782</image>
@@ -2564,7 +2564,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price>53.40</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mg1uk_rgb_75ef6e3f-8eff-49d0-ba31-310e2bba5016.jpg?v=1764586221</image>
@@ -7849,7 +7849,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hemo-guard-supreme-120-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/hemo_guard_transparent_aefd2244-2e24-432b-9fc2-b0dec3fdf10f.png?v=1764586218</image>
@@ -8426,7 +8426,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>support-glucose-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BM_16-Support-Glucose_0cae1b55-59fd-4072-8068-3e75301591b0.jpg?v=1764586000</image>
@@ -9977,7 +9977,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b-complex-plus-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0042-BComplex-Plus-120s_ec8bf2e1-6384-4877-9092-01e6870d2649.jpg?v=1764585802</image>
@@ -15562,7 +15562,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>augmented-nac-90-capsules-augmented-nac</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NAC_single_woocommerce.webp?v=1781216648</image>
@@ -16931,7 +16931,7 @@
     <tags>low_vat_rate</tags>
     <price>74.11</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>megapre-180-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaPre-UK-Bottle-FRONT.jpg?v=1764586872</image>
@@ -17906,7 +17906,7 @@
     <tags>low_vat_rate</tags>
     <price>189.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>stemregen-release-stemregen</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Stemregen_20Release_20-_2060_20Capsules_20_20STEMREGEN_01.webp?v=1764585920</image>
@@ -20306,7 +20306,7 @@
     <tags/>
     <price>19.61</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-wild-mint-96g-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-30T150841.434.webp?v=1764586690</image>
