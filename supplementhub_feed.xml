@@ -192,7 +192,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <description>&lt;p&gt;Cellular Forté® is a rich source of IP-6 and Inositol; but it also delivers essential minerals like calcium and magnesium. &lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
     <available>true</available>
@@ -222,7 +222,7 @@
     <tags>low_vat_rate</tags>
     <price>95.91</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>cortisol-manager-90-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_05-Cortisol-Manager.png?v=1764586421</image>
@@ -411,7 +411,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <description>Pro-Som™ by Integrative Therapeutics contains L-theanine. This formula also includes magnesium and magnolia bark. </description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>69.75</price>
     <compare_at_price/>
     <available>true</available>
@@ -2240,7 +2240,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mg9uk_rgb_7b5c7dc1-4a75-474b-a2e1-f7c45c1ddf3f.jpg?v=1764586900</image>
@@ -2444,7 +2444,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>quercetin-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0116-Quercetin_227300dd-d629-4bf7-acc9-29d61cbf1084.jpg?v=1764586570</image>
@@ -2715,7 +2715,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>kids-hydroxyapatite-toothpaste-100ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_03-Kids-Hydroxyapatite-Toothpaste_1_8f2125f2-164f-44ff-8fb1-7dc1930816e4.png?v=1764585688</image>
@@ -2929,7 +2929,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>27.08</price>
     <compare_at_price/>
     <available>true</available>
@@ -3300,22 +3300,14 @@
     <title>Liver Nutrients - 60 Capsules | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
-    <description>&lt;p&gt;Liver Nutrients is an all-in-one liver support dietary supplement that supports the healthy metabolism of toxins and hormones in the liver.&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;span style=&quot;font-weight: 400;&quot;&gt; &lt;/span&gt;Milk thistle helps to maintain the heart health&lt;span style=&quot;font-weight: 400; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Health claim ID 3584 pending European approval.&lt;/span&gt;
-&lt;/li&gt;
-&lt;li&gt;Milk thistle is useful to maintain the physiological purifying functions.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3585 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle supports liver health, contributes to liver protection and detoxifying potential of the liver,  helps to maintain the liver function and additionally promote the digestion and the body´s purification&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3821 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle is a hepatoprotector and hepatic regenerator, protector and regenerator when products that oxidise at hepatic level are administered&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4481 pending European approval.&lt;/li&gt;
-&lt;li&gt;Betaine contributes to normal homocysteine metabolism&lt;/li&gt;
-&lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
+    <description>&lt;p&gt;Liver Nutrients combines Siliphos® Phytosome Milk Thistle Extract (Silybum marianum, fruit), complexed with sunflower lecithin, alongside N-Acetyl-L-Cysteine, Taurine, Betaine Anhydrous (trimethylglycine), and Alpha-Lipoic Acid, in a single daily capsule.Siliphos® uses phytosome technology, complexing silybin with phosphatidylcholine — a formulation approach associated with improved oral bioavailability compared with conventional, non-complexed silymarin extracts.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price>30.51</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
     <handle>liver-nutrients-60-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_R.jpg?v=1764586853</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Front_R.webp?v=1786400565</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
@@ -3329,7 +3321,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;p&gt;Magnesium Glycinate Powder by Seeking Health contains an easy to take powder that delivers a gentle form of magnesium. Magnesium deficiency is common due to a decreasing amount of magnesium being present in foods.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Magnesium is an important mineral that is involved in over 300 biochemical reactions in the body.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 scoop daily.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>39.49</price>
     <compare_at_price>42.50</compare_at_price>
     <available>true</available>
@@ -3361,7 +3353,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;*Disclaimer:&lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>29.51</price>
     <compare_at_price>30.51</compare_at_price>
     <available>true</available>
@@ -3489,7 +3481,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price>45.37</compare_at_price>
     <available>true</available>
@@ -3525,7 +3517,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>46.31</price>
     <compare_at_price/>
     <available>true</available>
@@ -3561,7 +3553,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>44.72</price>
     <compare_at_price>46.83</compare_at_price>
     <available>true</available>
@@ -3597,7 +3589,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>46.31</price>
     <compare_at_price/>
     <available>true</available>
@@ -4522,7 +4514,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;p&gt;Optimal Electrolyte Powder is a natural electrolyte supplement that supports optimal hydration.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Supports optimal hydration and fluid balance&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Optimal Electrolyte Powder is formulated to support all-day hydration. The powder has a delicious lemonade flavour and can be easily mixed with water to enjoy sipping it throughout the day. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>44.72</price>
     <compare_at_price>46.83</compare_at_price>
     <available>true</available>
@@ -4630,7 +4622,7 @@
 &lt;li style=&quot;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;&lt;b&gt;Curcumin helps to keep the skin healthy&lt;/b&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 4008 pending European approval.&lt;/font&gt;&lt;/li&gt;
 &lt;li style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;Betaine  contributes to normal homocysteine metabolism&lt;/b&gt;&lt;/li&gt;
 &lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Many issues occur if one does not have healthy bile production and flow.&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Bile Nutrients is a powerful herbal formula that supports your liver’s bile production. &lt;/span&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Bile helps to break down fats from food in the small intestine. Due to its ability to regulate which microbes can survive in the upper intestinal tract, bile also supports the healthy balance of microbes in your small intestines.&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>40.97</price>
     <compare_at_price>51.22</compare_at_price>
     <available>true</available>
@@ -5819,7 +5811,7 @@
     <tags>low_vat_rate</tags>
     <price>77.37</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>adrenotone</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_06-180-Adrenotone_cdb87863-cc63-4f91-8ad9-df4d2fee4abc.png?v=1764585823</image>
@@ -6092,7 +6084,7 @@
     <tags>low_vat_rate</tags>
     <price>71.93</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-femme-v-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FemmeV60_Web.png?v=1764586249</image>
@@ -7646,7 +7638,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>schisandra-supreme-shisandra-chinesis-502mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_022-Schisandra-Supreme.png?v=1764586214</image>
@@ -8624,7 +8616,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mega-sporebiotic-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaSporeBiotic-PLUS-Bottle-Active-Bacteria-FRONT_adcdd3e2-6611-4136-b868-3d58e6171eae.jpg?v=1764586904</image>
@@ -8794,7 +8786,7 @@
     <tags>low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liver-g-i-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0009-Liver-GI.jpg?v=1764586226</image>
@@ -10501,7 +10493,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-vitamin-c-liquid-120ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0158-Liposomal-Vitamin-C.jpg?v=1764586319</image>
@@ -12125,7 +12117,7 @@
     <vendor>Objective Nutrients</vendor>
     <product_type/>
     <description>&lt;div&gt;ThiAssist is designed to support the actions of thiamine at the cellular level and contains five minerals in their bioavailable form. This formula is intended to compliment supplementation with Thiamax or any other form of thiamine taken in higher dosages. This formula does not contain a full spectrum of minerals and should not be used to replace zinc, copper, iron, or any other trace mineral not included in this product.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Magnesium is a cofactor mineral necessary for the activity of thiamine-dependent enzymes (transketolase, pyruvate dehydrogenase, and alpha ketoglutarate dehydrogenase). Two varieties of magnesium with enhanced bioavailability are contained within ThiAssist. Magnesium malate is composed of malic acid, an organic acid involved in the production of cellular energy. Alternatively, magnesium taurate provides the amino acid taurine, which serves numerous roles including supporting antioxidant activity, electrolyte balance, and neurological function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Potassium is another electrolyte mineral which may become low in thiamine deficiency states. In the form of potassium citrate, this mineral serves the dual function of urinary alkalinization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Molybdenum is a dietary mineral incorporated into the molybdate cofactor, which acts as a cofactor for oxidase enzymes including xanthine oxidase and sulphite oxidase. Sulphite oxidase plays an important processing of sulphur compounds, reducing the accumulation of the sulphite toxin and converting this into inorganic sulphate. Molybdenum may therefore be useful for improving sulphur metabolism. The molybdenum incorporated into this formula is bound with the amino acid glycine for improved absorption.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Selenomethionine provides the selenium mineral bound with the amino acid methionine, which is the main form found in foods. Selenium is necessary for the action of glutathione peroxidase, a critical enzyme utilized by the endogenous antioxidant system. Selenium is therefore useful in maintaining protection against oxidative stress and may also support health thyroid function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Finally, ThiAssist also contains the manganese mineral in the form of manganese gluconate. Manganese is necessary for the activity of manganese-superoxide dismutase, a mitochondrial antioxidant. It also serves as a cofactor for a variety of other enzymes including Pyruvate carboxylase, phosphoenolpyruvate carboxykinase, arginase, glutamine synthetase, prolidase, and glycosyltransferases. Earlier research highlighted a potential relationship between manganese and thiamine status, although this connection has not been well elucidated.&lt;/div&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
     <available>true</available>
@@ -12479,7 +12471,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>allithiamine-b1-50mg-250-capsules-ecological-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EF_12-Allthiamine-250s_8mlajt_70c67216-09f6-4976-939d-4666cadb181b.png?v=1764585937</image>
@@ -14240,7 +14232,7 @@
     <tags>low_vat_rate</tags>
     <price>97.00</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>primeadine®-original-spermidine-supplements-90-capsules-oxford-healthspan-1</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/primeadine-original-oxford-healthspan_3b1ec5fb-67a0-4bb0-bc44-da122713e763.webp?v=1764586370</image>
@@ -14523,7 +14515,7 @@
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;br&gt;
 &lt;/div&gt;</description>
-    <tags>all_products_tag, body_bio, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, body_bio, low_vat_rate</tags>
     <price>86.10</price>
     <compare_at_price/>
     <available>true</available>
@@ -14548,7 +14540,7 @@
 &lt;p&gt;Calcium Magnesium Butyrate includes two important minerals - magnesium contributes to electrolyte balance, to normal functioning of the nervous system, to normal energy-yielding metabolism, to normal muscle function, to normal protein synthesis, to the maintenance of normal teeth and bones and has a role in the process of cell division.* Calcium is the most abundant mineral in the body and is involved in making strong bones, nerve to nerve communication, muscle contraction, and activating blood clotting factors.*&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/div&gt;</description>
-    <tags>all_products_tag, body_bio, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
     <available>true</available>
@@ -14851,7 +14843,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>107.90</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-100-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen_20_281_29.webp?v=1764586809</image>
@@ -14901,7 +14893,7 @@
 &lt;li&gt;Potassium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;li&gt;Potassium contributes to the maintenance of normal blood pressure&lt;/li&gt;
 &lt;/ul&gt;&lt;div&gt;Pro-tip:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Replace that afternoon coffee with elyte for a brain and body boost sans sleepless nights.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>all_products_tag, body_bio, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, body_bio, low_vat_rate</tags>
     <price>35.96</price>
     <compare_at_price/>
     <available>true</available>
@@ -14931,7 +14923,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pro-tip:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Replace that afternoon coffee with elyte for a brain and body boost sans sleepless nights.&lt;/div&gt;</description>
-    <tags>all_products_tag, body_bio, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, body_bio, low_vat_rate</tags>
     <price>15.25</price>
     <compare_at_price/>
     <available>true</available>
@@ -15137,7 +15129,7 @@
   <product>
     <sku>MBL_26</sku>
     <barcode>793888527966</barcode>
-    <title>ZenBiome DUAL - 60 Capsules | Microbiome Labs</title>
+    <title>Gut-Brain Reset (formerly ZenBiome DUAL) - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <description>&lt;p&gt;Zenbiome™ DUAL is a dual-action probiotic combination powered by two innovative probiotic strains, Zenbiome™ DUAL provides around-the-clock digestive maintenance.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
@@ -15147,7 +15139,7 @@
     <available>false</available>
     <quantity>0</quantity>
     <handle>zenbiome-dual-60-capsules-microbiome-labs</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL_26.png?v=1764586268</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gutbrainreset_bottle.webp?v=1786400202</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
@@ -15679,7 +15671,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>46.31</price>
     <compare_at_price/>
     <available>true</available>
@@ -16473,7 +16465,7 @@
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Magnesium contributes to electrolyte balance&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Magnesium contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;i&gt;Optimal Magnesium&lt;/i&gt; offers the best health benefits of magnesium in one simple capsule. Now you can enjoy the best forms of magnesium in one easy capsule!&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <price>26.12</price>
     <compare_at_price>27.24</compare_at_price>
     <available>true</available>
@@ -17140,7 +17132,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>paleo-protein-double-chocolate-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Double_20Chocolate_20-_2020_20ServingsAmy_20Myers_20MD_01.webp?v=1764586264</image>
@@ -17842,7 +17834,7 @@
 &lt;strong data-start=&quot;670&quot; data-end=&quot;705&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Ionic Formula &amp;amp; Glass Packaging&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; – Delivers minerals in &lt;/span&gt;&lt;strong data-start=&quot;729&quot; data-end=&quot;766&quot; style=&quot;letter-spacing: 0px;&quot;&gt;ionic form for optimal absorption&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; and is packaged in &lt;/span&gt;&lt;strong data-start=&quot;786&quot; data-end=&quot;836&quot; style=&quot;letter-spacing: 0px;&quot;&gt;preservative-free, eco-conscious glass bottles&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;.&lt;/span&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>body_bio, low_vat_rate</tags>
+    <tags>2xpoints, body_bio, low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
     <available>true</available>
@@ -21517,7 +21509,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <price>33.43</price>
     <compare_at_price/>
     <available>true</available>
@@ -22334,7 +22326,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>Over 70% of your body's water is found inside your cells.1 Optimal Electrolyte is a uniquely formulated electrolyte designed to support healthy intracellular hydration. The intracellular hydration is made possible due to the higher ratio of potassium to sodium, added creatine and taurine along with the PeakATP.†</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <price>52.32</price>
     <compare_at_price/>
     <available>true</available>
@@ -22374,7 +22366,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>Over 70% of your body's water is found inside your cells.1 Optimal Electrolyte is a uniquely formulated electrolyte designed to support healthy intracellular hydration. The intracellular hydration is made possible due to the higher ratio of potassium to sodium, added creatine and taurine along with the PeakATP.†</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <price>52.32</price>
     <compare_at_price/>
     <available>true</available>
@@ -23301,7 +23293,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <description>Magnesium Glycinate Plus is a highly bioavailable magnesium supplement designed to support normal muscle function and the normal functioning of the nervous system, using magnesium in a well-tolerated glycinate form. Magnesium is an essential mineral involved in hundreds of enzymatic processes in the body, including those related to muscle function, nerve signalling, and energy-yielding metabolism. Low magnesium intake or increased demand due to exercise or lifestyle factors can affect these systems. Magnesium glycinate is a chelated form of magnesium bound to the amino acid glycine. This form is popular for its high absorption and gentle effect on the digestive system, making it suitable for consistent use without the gastrointestinal discomfort sometimes associated with other forms of magnesium. Magnesium contributes to normal muscle function, normal psychological function, and the normal functioning of the nervous system, as well as helping to reduce tiredness and fatigue. This formulation is designed to seamlessly complement your daily routine. By contributing to normal muscle function and the normal functioning of the nervous system, magnesium supports the body's everyday processes, making it a practical choice for individuals with active lifestyles or increased physical demand. As a well-absorbed form of magnesium, this formulation supports effective utilisation within the body, making it a practical option for individuals looking to maintain adequate magnesium levels. This formulation is designed to be clean and well tolerated, without artificial additives or fillers, making it suitable for regular use. Magnesium Glycinate Plus is particularly suited to individuals looking to support normal muscle function, the normal functioning of the nervous system, and normal psychological function, especially during periods of increased physical or mental demand.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <price>36.01</price>
     <compare_at_price/>
     <available>true</available>
@@ -23805,7 +23797,7 @@
     <vendor>Metagenics</vendor>
     <product_type/>
     <description>Elevate your daily routine with a comprehensive, science-backed approach to modern wellness. Thoughtfully developed using highly bioavailable, active nutrients, this advanced daily formula is perfectly tailored to fit seamlessly into the lifestyle of women over 40. At its core is a premium blend of standardized botanicals, featuring ashwagandha, saffron, and sage extract, chosen for their purity and structural consistency. Combined with an optimally absorbed form of magnesium glycinate, this formulation provides targeted support for energy levels, a normal functioning nervous system, and healthy psychological function. Each easy-to-swallow, once-daily tablet delivers a reliable, consistent serving of high-quality ingredients, offering an entirely vegan-friendly, non-hormonal choice built to support long-term quality and your complete peace of mind.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <price>44.25</price>
     <compare_at_price/>
     <available>true</available>
