@@ -727,14 +727,14 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MBL_05</sku>
-    <barcode>793888532762</barcode>
-    <title>RestorFlora - 50 Capsules | Microbiome Labs</title>
+    <sku>MBL_27</sku>
+    <barcode>674306523787</barcode>
+    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>59.94</price>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>56.66</price>
     <compare_at_price/>
     <available>true</available>
     <quantity>0</quantity>
@@ -1384,7 +1384,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>iron-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20IRP-004_20UK_20PMD_20Iron_20Oct_202025-2_20_281_29.webp?v=1768000833</image>
@@ -2420,7 +2420,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>l-carnitine-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0087-L-Carnitine.jpg?v=1764585968</image>
@@ -2504,7 +2504,7 @@
     <tags>low_vat_rate</tags>
     <price>21.79</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>zinc-15-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0121-Zinc-15-60s.jpg?v=1764586397</image>
@@ -2742,7 +2742,7 @@
     <tags/>
     <price>11.98</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>teflon-free-floss</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_04-Teflon-Free-Floss_2_8fd5ad8a-1613-496f-8ee7-219352d2a2ce.png?v=1764586045</image>
@@ -3970,7 +3970,7 @@
     <tags>low_vat_rate</tags>
     <price>28.83</price>
     <compare_at_price>31.05</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>riboflavin-400mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RIBO-FLAV-CAP_1_Front_R.jpg?v=1764586847</image>
@@ -4110,7 +4110,7 @@
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price>27.24</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>optimal-iron-chewable-60-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Iron_20Chewable_20-_2060_20Tablets_20_20Seeking_20Health_01.webp?v=1764585963</image>
@@ -8602,7 +8602,7 @@
   </product>
   <product>
     <sku>MBL_04</sku>
-    <barcode>793888530065</barcode>
+    <barcode>850080281017</barcode>
     <title>MegaSporeBiotic Plus - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
@@ -8616,7 +8616,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mega-sporebiotic-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaSporeBiotic-PLUS-Bottle-Active-Bacteria-FRONT_adcdd3e2-6611-4136-b868-3d58e6171eae.jpg?v=1764586904</image>
@@ -9118,7 +9118,7 @@
   </product>
   <product>
     <sku>QSL_009</sku>
-    <barcode>19962509117</barcode>
+    <barcode>019962509117</barcode>
     <title>Liposomal Glutathione with Lemon Mint - 50ml | Quicksilver Scientific</title>
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
@@ -9131,7 +9131,7 @@
     <tags>low_vat_rate</tags>
     <price>44.50</price>
     <compare_at_price>57.76</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-glutathione-with-lemon-mint-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_009-Liposomal-Glutathione_e2707c37-e78e-4fe7-9be8-2af2ede5908a.png?v=1764585698</image>
@@ -9795,7 +9795,7 @@
   </product>
   <product>
     <sku>NORD_19</sku>
-    <barcode>768990891144</barcode>
+    <barcode>68990017414</barcode>
     <title>Prenatal DHA 830mg - 90 Softgels | Nordic Naturals</title>
     <vendor>Nordic Naturals</vendor>
     <product_type/>
@@ -10294,7 +10294,7 @@
   </product>
   <product>
     <sku>MBL_21</sku>
-    <barcode>793888530065</barcode>
+    <barcode>850080281000</barcode>
     <title>MegaSporeBiotic (Spores Only) - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
@@ -10302,7 +10302,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megasporebiotic-spores-only-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL_21-1_547760ce-d846-4642-8dbe-e37380a2fdba.png?v=1764585768</image>
@@ -10539,7 +10539,7 @@
   </product>
   <product>
     <sku>QSL_012</sku>
-    <barcode>19962509018</barcode>
+    <barcode>019962509018</barcode>
     <title>Liposomal Vitamin C with R Lipoic Acid - 50ml | Quicksilver Scientific</title>
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
@@ -11484,7 +11484,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -14780,7 +14780,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>110.56</price>
     <compare_at_price>137.33</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-236-59-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T141006.678.webp?v=1764586185</image>
@@ -14946,7 +14946,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-650g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Whey_20.png?v=1764586443</image>
@@ -15030,7 +15030,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>63.21</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vascanox-hp-60-capsules-calroy-health-sciences</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CURRENT_20Vascanox-HP-bottle-front_cd677110-1c69-4986-bc4d-b9ef742fbb8a.jpg?v=1764586439</image>
@@ -15050,7 +15050,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>94.82</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>arterosil-hp-60-capsules-calroy-health-sciences</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CURRENT_20Arterosil-HP-bottle-FRONT_f10426be-46c4-4d4d-8679-5ab19a55723d.jpg?v=1764585567</image>
@@ -15148,7 +15148,7 @@
   </product>
   <product>
     <sku>MBL_25</sku>
-    <barcode>793888528963</barcode>
+    <barcode>793888527362</barcode>
     <title>MegaPre Dairy-Free - 180 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
@@ -15240,7 +15240,7 @@
     <tags/>
     <price>93.18</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pre-workout-nutrients-302-g-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PWO-NUT-POW.png?v=1725436919</image>
@@ -15541,7 +15541,7 @@
   </product>
   <product>
     <sku>NAC_001</sku>
-    <barcode>762999951169</barcode>
+    <barcode>7629999511699</barcode>
     <title>Augmented NAC - 90 Capsules | AUGMENTED NAC</title>
     <vendor>AUGMENTED NAC</vendor>
     <product_type/>
@@ -16137,7 +16137,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>74.11</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hu58-high-potency-bacillus-subtillis-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-HU58-UK-Bottle-FRONT_20_281_29.jpg?v=1764585807</image>
@@ -16169,7 +16169,7 @@
   </product>
   <product>
     <sku>MBL_12</sku>
-    <barcode>793888532366</barcode>
+    <barcode>752830476196</barcode>
     <title>MegaGuard - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
@@ -16420,7 +16420,7 @@
   </product>
   <product>
     <sku>RS_30</sku>
-    <barcode>RSVS45E</barcode>
+    <barcode>RSVS45</barcode>
     <title>Magnesium Malate - 100 Capsules | Researched Supplements</title>
     <vendor>Researched Supplements</vendor>
     <product_type/>
@@ -16935,7 +16935,7 @@
   </product>
   <product>
     <sku>MBL_23</sku>
-    <barcode>793888527461</barcode>
+    <barcode>793888527669</barcode>
     <title>MegaMucosa - 180 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
@@ -17898,7 +17898,7 @@
     <tags>low_vat_rate</tags>
     <price>189.58</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>stemregen-release-stemregen</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Stemregen_20Release_20-_2060_20Capsules_20_20STEMREGEN_01.webp?v=1764585920</image>
@@ -18066,7 +18066,7 @@
   </product>
   <product>
     <sku>NORD_20</sku>
-    <barcode>768990021558</barcode>
+    <barcode>768990021503</barcode>
     <title>Ultimate Omega- D3 2X, lemon - 60 softgels | Nordic Naturals</title>
     <vendor>Nordic Naturals</vendor>
     <product_type/>
@@ -18755,7 +18755,7 @@
     <tags>low_vat_rate</tags>
     <price>56.12</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-1280mg-lemon-flavour-60-softgels-nordic-naturals</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_12-60-Ultimate-Omega-60s_3d9bc9c4-b316-470d-a814-fd7e25afb2ad.jpg?v=1764585941</image>
@@ -20290,7 +20290,7 @@
   </product>
   <product>
     <sku>RISE_14</sku>
-    <barcode>860001463507</barcode>
+    <barcode>86000718464</barcode>
     <title>Natural Hydroxyapatite Toothpaste (Wild Mint) - 96g | Risewell</title>
     <vendor>RiseWell</vendor>
     <product_type/>
@@ -20298,7 +20298,7 @@
     <tags/>
     <price>19.61</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-wild-mint-96g-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-30T150841.434.webp?v=1764586690</image>
@@ -20697,7 +20697,7 @@
   </product>
   <product>
     <sku>PUR_0189</sku>
-    <barcode>766298000696</barcode>
+    <barcode>766298022055</barcode>
     <title>Copper Glycinate - 60 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -20772,7 +20772,7 @@
   </product>
   <product>
     <sku>PUR_0193</sku>
-    <barcode>766298116341</barcode>
+    <barcode>766298020419</barcode>
     <title>L-Tyrosine - 90 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -22138,7 +22138,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>42.92</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>metarelax-90-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MetaRelax_90.webp?v=1769556183</image>
@@ -23228,7 +23228,7 @@
   </product>
   <product>
     <sku>IT_65</sku>
-    <barcode>871792000000</barcode>
+    <barcode>871791706712</barcode>
     <title>Pro-Flora™ Women’s - 30 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23248,7 +23248,7 @@
   </product>
   <product>
     <sku>IT_62</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791110458</barcode>
     <title>Berberine Phytomax - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23268,7 +23268,7 @@
   </product>
   <product>
     <sku>IT_57</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791002364</barcode>
     <title>Betaine HCl - 250 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23288,7 +23288,7 @@
   </product>
   <product>
     <sku>IT_54</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791001572</barcode>
     <title>Magnesium Glycinate Plus - 120 Tablets | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23308,7 +23308,7 @@
   </product>
   <product>
     <sku>IT_68</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791004085</barcode>
     <title>Riboflavin - 30 Tablets | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23328,7 +23328,7 @@
   </product>
   <product>
     <sku>IT_53</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791110403</barcode>
     <title>K2 + D3 - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23348,7 +23348,7 @@
   </product>
   <product>
     <sku>IT_63</sku>
-    <barcode>871792000000</barcode>
+    <barcode>871791706576</barcode>
     <title>Phosphatidylserine - 60 Softgels | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23368,7 +23368,7 @@
   </product>
   <product>
     <sku>IT_64</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791003972</barcode>
     <title>Pro-Flora™ Concentrate - 90 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23388,7 +23388,7 @@
   </product>
   <product>
     <sku>IT_56</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791003354</barcode>
     <title>Buffered Vitamin C - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23408,7 +23408,7 @@
   </product>
   <product>
     <sku>IT_52</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791001565</barcode>
     <title>L-Theanine - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23428,7 +23428,7 @@
   </product>
   <product>
     <sku>IT_67</sku>
-    <barcode/>
+    <barcode>871791001749</barcode>
     <title>NAC - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23448,7 +23448,7 @@
   </product>
   <product>
     <sku>IT_59</sku>
-    <barcode>871792000000</barcode>
+    <barcode>871791706767</barcode>
     <title>Glutamine Forté - 201g | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23468,7 +23468,7 @@
   </product>
   <product>
     <sku>IT_58</sku>
-    <barcode>871792000000</barcode>
+    <barcode>871791706675</barcode>
     <title>Enterogenic™ Intensive 100 - 30 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23488,7 +23488,7 @@
   </product>
   <product>
     <sku>IT_66</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791004245</barcode>
     <title>Glycemic Manager™ - 60 Tablets | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23508,7 +23508,7 @@
   </product>
   <product>
     <sku>IT_55</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791110410</barcode>
     <title>Magtein® L-Threonate Plus - 90 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23528,7 +23528,7 @@
   </product>
   <product>
     <sku>IT_61</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791000445</barcode>
     <title>Detoxication Factors™ - 120 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23548,7 +23548,7 @@
   </product>
   <product>
     <sku>IT_60</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791000438</barcode>
     <title>Detoxication Factors™ - 60 Capsules | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
@@ -23568,7 +23568,7 @@
   </product>
   <product>
     <sku>IT_69</sku>
-    <barcode>871791000000</barcode>
+    <barcode>871791110465</barcode>
     <title>Barrier Complex Drink Mix - 93g | Integrative Therapeutics</title>
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
