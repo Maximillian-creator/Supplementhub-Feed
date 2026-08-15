@@ -175,7 +175,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>blue-heron-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_03-Blue-Heron.png?v=1764585637</image>
@@ -2159,7 +2159,7 @@
   </product>
   <product>
     <sku>PUR_0023</sku>
-    <barcode>766298022802</barcode>
+    <barcode>766298025353</barcode>
     <title>O.N.E Multivitamin - 60 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -3408,7 +3408,7 @@
   </product>
   <product>
     <sku>SH_049</sku>
-    <barcode>810007520735</barcode>
+    <barcode>810007521909</barcode>
     <title>Energy Nutrients (formely NADH + CoQ10) - 30 Lozenges | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
@@ -4757,7 +4757,7 @@
   </product>
   <product>
     <sku>VIT_02</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118010064</barcode>
     <title>CandidaStat - 60 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4777,7 +4777,7 @@
   </product>
   <product>
     <sku>VIT_03</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118011511</barcode>
     <title>Bladder Ease - 180 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4797,7 +4797,7 @@
   </product>
   <product>
     <sku>VIT_04</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118013089</barcode>
     <title>Colon Motility Blend - 90 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4817,7 +4817,7 @@
   </product>
   <product>
     <sku>VIT_05</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118012679</barcode>
     <title>Fem Rebalance - 60 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4837,7 +4837,7 @@
   </product>
   <product>
     <sku>VIT_07</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118011177</barcode>
     <title>Iron Tonic - 118ml | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4867,7 +4867,7 @@
   </product>
   <product>
     <sku>VIT_08</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118011306</barcode>
     <title>Slow Flow - 60 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4887,7 +4887,7 @@
   </product>
   <product>
     <sku>VIT_15</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118010217</barcode>
     <title>Women's Phase I - 120 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4907,7 +4907,7 @@
   </product>
   <product>
     <sku>VIT_18</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118013225</barcode>
     <title>Bitters Tonic - 118ml | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4927,7 +4927,7 @@
   </product>
   <product>
     <sku>VIT_20</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118012945</barcode>
     <title>Adrenal Assist - 90 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4947,7 +4947,7 @@
   </product>
   <product>
     <sku>VIT_28</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118011900</barcode>
     <title>Lactation Blend - 60 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -4985,7 +4985,7 @@
   </product>
   <product>
     <sku>VIT_35</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118010057</barcode>
     <title>Yeast Arrest - 14 Suppositories | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -5005,7 +5005,7 @@
   </product>
   <product>
     <sku>VIT_36</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118013416</barcode>
     <title>Adrenal Tonic - 118 ml | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -5025,7 +5025,7 @@
   </product>
   <product>
     <sku>VIT_37</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118013171</barcode>
     <title>Flora Symmetry - 60 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -5045,7 +5045,7 @@
   </product>
   <product>
     <sku>VIT_38</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118013058</barcode>
     <title>FemVitality - 60 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -6056,7 +6056,7 @@
   </product>
   <product>
     <sku>INVIVO_08</sku>
-    <barcode>710535365924</barcode>
+    <barcode>7105353659240</barcode>
     <title>Bio.Me Femme UT - 90g | Invivo Healthcare</title>
     <vendor>Invivo Healthcare</vendor>
     <product_type/>
@@ -6846,7 +6846,7 @@
   </product>
   <product>
     <sku>RNA_04</sku>
-    <barcode>792435638957</barcode>
+    <barcode>850006075003</barcode>
     <title>ACZ Nano - 120ml | Results RNA</title>
     <vendor>Results RNA</vendor>
     <product_type/>
@@ -6946,7 +6946,7 @@
   </product>
   <product>
     <sku>VIT_27</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118011153</barcode>
     <title>Iron Extra - 60 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -7881,7 +7881,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>endo-supreme-pfaffia-paniculata-330mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_008-Endo-Supreme.png?v=1764586219</image>
@@ -8507,7 +8507,7 @@
   </product>
   <product>
     <sku>HDT_05</sku>
-    <barcode>8436561602414</barcode>
+    <barcode>8436561601639</barcode>
     <title>Mico-Five - 70 Capsules | Hifas da Terra</title>
     <vendor>Hifas da Terra</vendor>
     <product_type/>
@@ -8708,7 +8708,7 @@
   </product>
   <product>
     <sku>NORD_07</sku>
-    <barcode>768990017537</barcode>
+    <barcode>768990017438</barcode>
     <title>DHA 830mg (Strawberry Flavour) - 90 Softgels | Nordic Naturals</title>
     <vendor>Nordic Naturals</vendor>
     <product_type/>
@@ -9131,7 +9131,7 @@
     <tags>low_vat_rate</tags>
     <price>44.50</price>
     <compare_at_price>57.76</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-glutathione-with-lemon-mint-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_009-Liposomal-Glutathione_e2707c37-e78e-4fe7-9be8-2af2ede5908a.png?v=1764585698</image>
@@ -9647,7 +9647,7 @@
   </product>
   <product>
     <sku>LE_069</sku>
-    <barcode>737870202165</barcode>
+    <barcode>737870202264</barcode>
     <title>Enhanced Super Digestive Enzymes - 60 Capsules | Life Extension</title>
     <vendor>Life Extension</vendor>
     <product_type/>
@@ -9755,7 +9755,7 @@
   </product>
   <product>
     <sku>NORD_04-120</sku>
-    <barcode>768990027703</barcode>
+    <barcode>768990027789</barcode>
     <title>Complete Omega  565mg (Lemon Flavour) - 120 Softgels | Nordic Naturals</title>
     <vendor>Nordic Naturals</vendor>
     <product_type/>
@@ -9795,7 +9795,7 @@
   </product>
   <product>
     <sku>NORD_19</sku>
-    <barcode>68990017414</barcode>
+    <barcode>768990017414</barcode>
     <title>Prenatal DHA 830mg - 90 Softgels | Nordic Naturals</title>
     <vendor>Nordic Naturals</vendor>
     <product_type/>
@@ -9816,7 +9816,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>prenatal-dha-830mg-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_19-Prenatal-DHA_a4ad28f5-816e-42fb-9a4d-6ff6232782cd.jpg?v=1764585893</image>
@@ -11242,7 +11242,7 @@
   </product>
   <product>
     <sku>TN_03</sku>
-    <barcode>6430071290064</barcode>
+    <barcode>6430071290415</barcode>
     <title>Triple HCL - 60 Capsules | THERA Nordic</title>
     <vendor>THERA Nordic</vendor>
     <product_type/>
@@ -11314,7 +11314,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hdt-equilibrium-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_28-HdT-Equilibrium.png?v=1764585669</image>
@@ -11672,7 +11672,7 @@
   </product>
   <product>
     <sku>LN_02</sku>
-    <barcode>5065005626049</barcode>
+    <barcode>5065005626216</barcode>
     <title>Zen Adaptogenic Coffee - 12 Sachets | London Nootropics</title>
     <vendor>London Nootropics</vendor>
     <product_type/>
@@ -11692,7 +11692,7 @@
   </product>
   <product>
     <sku>LN_01</sku>
-    <barcode>5065005626001</barcode>
+    <barcode>5065005626209</barcode>
     <title>Flow Lion's Mane Mushroom Coffee - 12 Sachets | London Nootropics</title>
     <vendor>London Nootropics</vendor>
     <product_type/>
@@ -11718,7 +11718,7 @@
   </product>
   <product>
     <sku>LN_03</sku>
-    <barcode>5065005626025</barcode>
+    <barcode>5065005626223</barcode>
     <title>Mojo Cordyceps Mushroom Coffee - 12 Sachets | London Nootropics</title>
     <vendor>London Nootropics</vendor>
     <product_type/>
@@ -12192,7 +12192,7 @@
   </product>
   <product>
     <sku>SH_177</sku>
-    <barcode>810007521961</barcode>
+    <barcode>810007521879</barcode>
     <title>Joint Nutrients - 60 Capsules | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
@@ -13034,7 +13034,7 @@
   </product>
   <product>
     <sku>EMR_002</sku>
-    <barcode>754748936755</barcode>
+    <barcode>356163646785</barcode>
     <title>Estriol Cream - 118ml | Emerita</title>
     <vendor>Emerita</vendor>
     <product_type/>
@@ -13221,7 +13221,7 @@
   </product>
   <product>
     <sku>VV_05</sku>
-    <barcode>850060355127</barcode>
+    <barcode>850060355028</barcode>
     <title>Immune-Rmor - 90 Capsules | VerVita</title>
     <vendor>VerVita</vendor>
     <product_type/>
@@ -13363,7 +13363,7 @@
   </product>
   <product>
     <sku>VV_06</sku>
-    <barcode>850060355172</barcode>
+    <barcode>850060355080</barcode>
     <title>ReGenerZyme Heart - 90 Capsules | VerVita</title>
     <vendor>VerVita</vendor>
     <product_type/>
@@ -13393,7 +13393,7 @@
   </product>
   <product>
     <sku>VV_07</sku>
-    <barcode>850060355165</barcode>
+    <barcode>850060355066</barcode>
     <title>Matrix Synergy - 90 Capsules | VerVita</title>
     <vendor>VerVita</vendor>
     <product_type/>
@@ -14066,7 +14066,7 @@
   </product>
   <product>
     <sku>PRV_005</sku>
-    <barcode>8720726160018</barcode>
+    <barcode>8720726160162</barcode>
     <title>Liposomal Resveratrol – 60 Capsules | Purovitalis</title>
     <vendor>Purovitalis</vendor>
     <product_type/>
@@ -15554,7 +15554,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>augmented-nac-90-capsules-augmented-nac</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NAC_single_woocommerce.webp?v=1781216648</image>
@@ -16169,7 +16169,7 @@
   </product>
   <product>
     <sku>MBL_12</sku>
-    <barcode>752830476196</barcode>
+    <barcode>793888532366</barcode>
     <title>MegaGuard - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
@@ -16390,7 +16390,7 @@
   </product>
   <product>
     <sku>RS_31</sku>
-    <barcode>RSVS45240E</barcode>
+    <barcode>RSVS45240</barcode>
     <title>Magnesium Malate - 240 Capsules | Researched Supplements</title>
     <vendor>Researched Supplements</vendor>
     <product_type/>
@@ -18086,7 +18086,7 @@
   </product>
   <product>
     <sku>VIT_49</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118013393</barcode>
     <title>V-Probiotics - 30 Suppository Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -18104,7 +18104,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>v-probiotics-30-suppository-capsules-vitanica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-06-04T171947.143.png?v=1764586178</image>
@@ -18246,7 +18246,7 @@
   </product>
   <product>
     <sku>GLOB_01</sku>
-    <barcode>811839030256</barcode>
+    <barcode>811839030317</barcode>
     <title>Oxy-Powder® - 60 capsules| Global Healing Center</title>
     <vendor>Global Healing</vendor>
     <product_type/>
@@ -18276,6 +18276,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>191.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>SN_074</sku>
+    <barcode>199284167339</barcode>
+    <title>Alchornea Supreme - 90 Capsules | Supreme Nutrition Products</title>
+    <vendor>Supreme Nutrition Products</vendor>
+    <product_type/>
+    <description>&lt;p&gt;&lt;strong&gt;Alchornea Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Alchornea cordifolia&lt;/em&gt;, a botanical traditionally used in African herbal practice.&lt;/p&gt;&lt;p&gt;The plant naturally contains tannins, flavonoids, alkaloids, and other constituents characteristic of the species. This capsule format presents alchornea as a focused single-botanical preparation.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
+    <tags>low_vat_rate, supreme_nutrition</tags>
+    <price>37.71</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>alchornea-supreme-90-capsules-supreme-nutrition-products</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_20Supreme_20-_2090_20capsules_20Supreme_20Nutrition_20Products_01.webp?v=1764586431</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>200.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -19311,7 +19331,7 @@
   </product>
   <product>
     <sku>SH_173</sku>
-    <barcode>810007521992</barcode>
+    <barcode>810007521817</barcode>
     <title>Optimal Glutathione Plus - 60 Lozenges | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
@@ -19347,7 +19367,7 @@
   </product>
   <product>
     <sku>MW_25</sku>
-    <barcode>4260591790612</barcode>
+    <barcode>4260591790483</barcode>
     <title>BAB+ - 120 Capsules | Babesia &amp; Lyme Support | MakeWell</title>
     <vendor>MakeWell</vendor>
     <product_type/>
@@ -20438,7 +20458,7 @@
   </product>
   <product>
     <sku>NORD_22</sku>
-    <barcode>768990891045</barcode>
+    <barcode>768990017483</barcode>
     <title>Prenatal DHA - 180 Sofgels | Nordic Naturals</title>
     <vendor>Nordic Naturals</vendor>
     <product_type/>
@@ -20591,7 +20611,7 @@
   </product>
   <product>
     <sku>PUR_0190</sku>
-    <barcode>766298020557</barcode>
+    <barcode>766298020556</barcode>
     <title>Iodine Potassium Iodide- 60 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -20618,7 +20638,7 @@
   </product>
   <product>
     <sku>PUR_0199</sku>
-    <barcode>766298105697</barcode>
+    <barcode>766298018911</barcode>
     <title>Rhodiola Rosea - 90 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -20644,7 +20664,7 @@
   </product>
   <product>
     <sku>PUR_0196</sku>
-    <barcode>766298001968</barcode>
+    <barcode>766298020501</barcode>
     <title>Niacitol 500mg - 60 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -20752,7 +20772,7 @@
   </product>
   <product>
     <sku>PUR_0192</sku>
-    <barcode>766298012421</barcode>
+    <barcode>766298020365</barcode>
     <title>L-Lysine - 270 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -21524,7 +21544,7 @@
   </product>
   <product>
     <sku>VIT_26-15</sku>
-    <barcode>708118000000</barcode>
+    <barcode>708118013034</barcode>
     <title>GABA Ease - 15 Capsules | Vitanica</title>
     <vendor>Vitanica</vendor>
     <product_type/>
@@ -22361,12 +22381,12 @@
   </product>
   <product>
     <sku>SH_192</sku>
-    <barcode>810007521921</barcode>
+    <barcode>810007529240</barcode>
     <title>Optimal Electrolyte (Green Apple Flavour) 182g| Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>Over 70% of your body's water is found inside your cells.1 Optimal Electrolyte is a uniquely formulated electrolyte designed to support healthy intracellular hydration. The intracellular hydration is made possible due to the higher ratio of potassium to sodium, added creatine and taurine along with the PeakATP.†</description>
-    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <price>52.32</price>
     <compare_at_price/>
     <available>true</available>
@@ -23752,7 +23772,7 @@
   </product>
   <product>
     <sku>MET_056</sku>
-    <barcode>5028392002704</barcode>
+    <barcode>5028392000137</barcode>
     <title>Berberine 250 - 120 Capsules  | Metagenics</title>
     <vendor>Metagenics</vendor>
     <product_type/>
@@ -23892,7 +23912,7 @@
   </product>
   <product>
     <sku>SH_196</sku>
-    <barcode/>
+    <barcode>810007521848</barcode>
     <title>Digestive Enzymes Chewable - 60 Tablets | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
