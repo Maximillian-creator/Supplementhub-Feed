@@ -45,7 +45,7 @@
     <barcode>5060082340024</barcode>
     <price>62.63</price>
     <compare_at_price>70.84</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Allimed® 100 capsule pack provides a one month’s supply of stabilised allicin, the active compound extracted from garlic, made in the United Kingdom. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Each capsule contains 450 mg of Allisure allicin powder. Allicin is the active compound extracted from the highly used and versatile herb: Garlic. The Allimed® range is designed for Health Professionals.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -268,7 +268,7 @@
     <barcode>871791000636</barcode>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Blue Heron™ is a blend of dietary fibre, nutritional herbs, and probiotics formulated for intestinal support. The gentle fibres and herbs support colon function.&lt;/p&gt;&lt;p&gt;• Gentle detoxification support&lt;/p&gt;&lt;p&gt;• Encourages bowel movements&lt;/p&gt;&lt;p&gt;• Soothing intestinal blend&lt;/p&gt;&lt;p&gt;• Digestive protection via specifically selected probiotic blend&lt;/p&gt;&lt;p&gt;• With fenugreek, to help improve cholesterol levels&lt;/p&gt;&lt;p&gt;• With slippery elm to soothe the digestive system&lt;/p&gt;&lt;p&gt;The formula in Blue Heron supports detoxification and colon function. The technology used allows for the dispersion of the ingredients and avoids clumping when dissolved in water, so that they can be completely released for optimum digestive results.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -305,7 +305,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Cellular Forté® is a rich source of IP-6 and Inositol; but it also delivers essential minerals like calcium and magnesium. &lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -667,7 +667,7 @@
     <available>true</available>
     <quantity/>
     <description>Pro-Som™ by Integrative Therapeutics contains L-theanine. This formula also includes magnesium and magnolia bark. </description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -834,7 +834,7 @@
     <barcode>693465283110</barcode>
     <price>70.84</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Berberine 500mg helps support healthy glucose levels, insulin metabolism and cardiovascular function.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;• Promotes healthy blood sugar levels&lt;/p&gt;&lt;p&gt;• Promotes cardiovascular health&lt;/p&gt;&lt;p&gt;• Helps to maintain healthy cholesterol levels&lt;/p&gt;&lt;p&gt;• Helps to maintain healthy triglyceride levels&lt;/p&gt;&lt;p&gt;• Supports the immune system&lt;/p&gt;&lt;p&gt;• May contribute to maintain a healthy weight&lt;/p&gt;&lt;p&gt;Berberine is a compound found naturally in many plants that can help support healthy glucose levels and cardiovascular function. It can contribute to maintain healthy cholesterol levels and triglyceride levels, and can therefore play a role in the management of weight. It may help improve NAFLD (non-alcoholic fatty liver disease) and type 2 diabetes. Berberine can help lower inflammation in the body and supports the immune system.&lt;/p&gt;&lt;p&gt;Suggested use is 1-2 capsules two times daily.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -905,7 +905,7 @@
     <vendor>KBS Research</vendor>
     <product_type>Health &amp; Wellness &gt; Condition &gt; Gut Health</product_type>
     <sku>KBS_01</sku>
-    <barcode>863594000142</barcode>
+    <barcode>8437024519355</barcode>
     <price>43.59</price>
     <compare_at_price>51.22</compare_at_price>
     <available>true</available>
@@ -1163,17 +1163,17 @@
   </product>
   <product>
     <handle>restorflora-50-capsules</handle>
-    <title>RestorFlora - 50 Capsules | Microbiome Labs</title>
+    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
-    <sku>MBL_05</sku>
+    <sku>MBL_27</sku>
     <barcode>674306523787</barcode>
-    <price>59.94</price>
+    <price>56.66</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -2051,7 +2051,7 @@
     <barcode>895606002028</barcode>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Iron Plus Topical Patch provides a non-constipating, well-absorbed form of iron - iron bisglycinate - which comes without the negative side effects of oral iron supplements. A great choice if you need to boost your iron levels.&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
 &lt;li&gt;Vitamin A contributes to normal iron metabolism&lt;/li&gt;
@@ -2925,7 +2925,7 @@
     <barcode>766298018393</barcode>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-sanitized-data-mce-fragment=&quot;1&quot; style='margin-bottom: 1rem; color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;font color=&quot;#1f2124&quot; face=&quot;-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;B Complex Plus by Pure Encapsulations is a comprehensive blend of B vitamins. The B vitamins provided are in their active form.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li style='margin-bottom: 1rem; color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;font color=&quot;#1f2124&quot; face=&quot;-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Biotin, Vitamin B12, B6 &amp;amp; Riboflavin contribute to normal energy-yielding metabolism&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;
@@ -3067,7 +3067,7 @@
     <barcode>766298018478</barcode>
     <price>45.03</price>
     <compare_at_price>46.86</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;NAC by Pure Encapsulations provides pure n-acetyl-l-carnitine (NAC), which is important for the production of glutathione, otherwise known as the body's master antioxidant.&lt;br&gt;&lt;br&gt;As a dietary supplement, take 1 capsule, 1-3 times daily, between meals. &lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -3176,7 +3176,7 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0023</sku>
-    <barcode>766298022802</barcode>
+    <barcode>766298025353</barcode>
     <price>53.40</price>
     <compare_at_price/>
     <available>true</available>
@@ -3543,7 +3543,7 @@
     <barcode>766298020334</barcode>
     <price>57.76</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;L-Carnitine by Pure Encapsulations provides a highly absorbable form of carnitine.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Suggested use is 2-4 capsules daily.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -3665,7 +3665,7 @@
     <barcode>766298020181</barcode>
     <price>21.79</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Zinc 15 by Pure Encapsulations provides 15mg of zinc picolinate in a chelated form, making it highly absorbable. Zinc is a mineral that is needed by many different systems in the body.&lt;/p&gt;&lt;p&gt;- Contributes to a healthy immune system&lt;/p&gt;&lt;p&gt;- May help to support fertility for both men and women&lt;/p&gt;&lt;p&gt;- Important for healthy hair, skin and nails&lt;/p&gt;&lt;p&gt;- May help to support normal cognitive function&lt;/p&gt;&lt;p&gt;- May support male health and virility by increasing testosterone levels&lt;/p&gt;&lt;p&gt;- Contributes to the normal production of DNA&lt;/p&gt;&lt;p&gt;Zinc is an important mineral for health. It works alongside vitamin C and D to support the immune system. It is needed by the brain for optimal brain function. Zinc may also be beneficial for fertility as one of its key roles is to help to replicate DNA to make new cells, helping to improve the quality of eggs and sperm. In men, it has also found to have a beneficial effect on testerone levels. It is also an important mineral for healthy and strong hair, skin and nails.&lt;/p&gt;&lt;p&gt;Suggested use is 1 capsule daily.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -3758,7 +3758,7 @@
     <barcode>766298019895</barcode>
     <price>49.04</price>
     <compare_at_price>53.40</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Magnesium Glycinate by Pure Encapsulations is a well tolerated form of magnesium, therefore suitable for those with sensitive digestive systems. It is in a chelated form, which makes it more absorbable. Magnesium is needed for over 300 enzymatic reactions in the body.&lt;/p&gt;&lt;p&gt;- Supports the maintenance of healthy bones and teeth&lt;/p&gt;&lt;p&gt;- Can support muscle health and may prevent or reduce cramps&lt;/p&gt;&lt;p&gt;- Supports the normal functioning of the nervous system&lt;/p&gt;&lt;p&gt;- May boost energy levels&lt;/p&gt;&lt;p&gt;- May help to reduce tiredness and fatigue&lt;/p&gt;&lt;p&gt;- May support mood and emotional health&lt;/p&gt;&lt;p&gt;Magnesium Glycinate is well tolerated and highly bioavailable and absorbable for those who struggle to take other forms of magnesium. Magnesium levels are often depleted in foods, as a result of poor soil quality. Yet, it is one of the most important minerals and needed for so many reactions to occur in the body. Without a plentiful supply of magnesium, the electrolyte balance is out of balance and this can lead to things like muscle cramps. Magnesium works alongside calcium and phosphorus to support bone and dental health. It is also needed for the process of making energy and therefore when we have sufficient magnesium, our energy levels are often higher.&lt;/p&gt;&lt;p&gt;Suggested use is 1-4 capsules daily.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -3839,7 +3839,7 @@
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
     <sku>QSL_014</sku>
-    <barcode>810147500079</barcode>
+    <barcode>653341621009</barcode>
     <price>57.76</price>
     <compare_at_price/>
     <available>true</available>
@@ -4345,7 +4345,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4973,15 +4973,7 @@
     <compare_at_price>30.51</compare_at_price>
     <available>true</available>
     <quantity/>
-    <description>&lt;p&gt;Liver Nutrients is an all-in-one liver support dietary supplement that supports the healthy metabolism of toxins and hormones in the liver.&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;span style=&quot;font-weight: 400;&quot;&gt; &lt;/span&gt;Milk thistle helps to maintain the heart health&lt;span style=&quot;font-weight: 400; white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Health claim ID 3584 pending European approval.&lt;/span&gt;
-&lt;/li&gt;
-&lt;li&gt;Milk thistle is useful to maintain the physiological purifying functions.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3585 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle supports liver health, contributes to liver protection and detoxifying potential of the liver,  helps to maintain the liver function and additionally promote the digestion and the body´s purification&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3821 pending European approval.&lt;/li&gt;
-&lt;li&gt;Milk thistle is a hepatoprotector and hepatic regenerator, protector and regenerator when products that oxidise at hepatic level are administered&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4481 pending European approval.&lt;/li&gt;
-&lt;li&gt;Betaine contributes to normal homocysteine metabolism&lt;/li&gt;
-&lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
+    <description>&lt;p&gt;Liver Nutrients combines Siliphos® Phytosome Milk Thistle Extract (Silybum marianum, fruit), complexed with sunflower lecithin, alongside N-Acetyl-L-Cysteine, Taurine, Betaine Anhydrous (trimethylglycine), and Alpha-Lipoic Acid, in a single daily capsule.Siliphos® uses phytosome technology, complexing silybin with phosphatidylcholine — a formulation approach associated with improved oral bioavailability compared with conventional, non-complexed silymarin extracts.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
@@ -4990,25 +4982,25 @@
     <variant_title>Default Title</variant_title>
     <weight>83.0</weight>
     <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_R.jpg?v=1764586853</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Front_R.webp?v=1786400565</image>
     <images>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_R.jpg?v=1764586853</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Front_R.webp?v=1786400565</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_9_Lifestyle.jpg?v=1764586853</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Info-Panel_R.webp?v=1786400565</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_8_Why-Choose_R.jpg?v=1764586853</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Supp-Lbl_R.webp?v=1786400565</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_8_Lifestyle.jpg?v=1764586853</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_2_Supp-Panel_R.webp?v=1786400565</src>
       </image>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_7_Lifestyle.jpg?v=1764586853</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_3_Allergen_R.webp?v=1786400565</src>
       </image>
     </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_R.jpg?v=1764586853,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_9_Lifestyle.jpg?v=1764586853,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_8_Why-Choose_R.jpg?v=1764586853,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_8_Lifestyle.jpg?v=1764586853,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_7_Lifestyle.jpg?v=1764586853</image_links>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Front_R.webp?v=1786400565,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Info-Panel_R.webp?v=1786400565,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_1_Supp-Lbl_R.webp?v=1786400565,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_2_Supp-Panel_R.webp?v=1786400565,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LIV-NUT-CAP_3_Allergen_R.webp?v=1786400565</image_links>
   </product>
   <product>
     <handle>magnesium-glycinate-powder-200mg-250g</handle>
@@ -5022,7 +5014,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Magnesium Glycinate Powder by Seeking Health contains an easy to take powder that delivers a gentle form of magnesium. Magnesium deficiency is common due to a decreasing amount of magnesium being present in foods.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Magnesium is an important mineral that is involved in over 300 biochemical reactions in the body.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 scoop daily.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5074,7 +5066,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;*Disclaimer:&lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5188,7 +5180,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <sku>SH_049</sku>
-    <barcode>810007520735</barcode>
+    <barcode>810007521909</barcode>
     <price>30.01</price>
     <compare_at_price>39.77</compare_at_price>
     <available>true</available>
@@ -5302,7 +5294,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5358,7 +5350,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5414,7 +5406,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5470,7 +5462,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -6923,7 +6915,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Optimal Electrolyte Powder is a natural electrolyte supplement that supports optimal hydration.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Supports optimal hydration and fluid balance&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Optimal Electrolyte Powder is formulated to support all-day hydration. The powder has a delicious lemonade flavour and can be easily mixed with water to enjoy sipping it throughout the day. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -7051,7 +7043,7 @@
 &lt;li style=&quot;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;&lt;b&gt;Curcumin helps to keep the skin healthy&lt;/b&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 4008 pending European approval.&lt;/font&gt;&lt;/li&gt;
 &lt;li style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;Betaine  contributes to normal homocysteine metabolism&lt;/b&gt;&lt;/li&gt;
 &lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Many issues occur if one does not have healthy bile production and flow.&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Bile Nutrients is a powerful herbal formula that supports your liver’s bile production. &lt;/span&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Bile helps to break down fats from food in the small intestine. Due to its ability to regulate which microbes can survive in the upper intestinal tract, bile also supports the healthy balance of microbes in your small intestines.&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -7240,7 +7232,7 @@
     <vendor>Vitanica</vendor>
     <product_type/>
     <sku>VIT_01</sku>
-    <barcode>708118010071</barcode>
+    <barcode>708118000000</barcode>
     <price>57.76</price>
     <compare_at_price/>
     <available>true</available>
@@ -7421,7 +7413,7 @@
     <barcode>708118011306</barcode>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Slow Flow™ &lt;span style=&quot;letter-spacing: 0px;&quot;&gt;this supplement by Vitanica &lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;offers a combination of well researched vitamins and botanicals&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Vitamin K &lt;/p&gt;&lt;p&gt;• Contains vitamin A &lt;/p&gt;&lt;p&gt;• With yarrow flower &lt;/p&gt;&lt;p&gt;• With ginger &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -8395,7 +8387,7 @@
     <barcode>693465116111</barcode>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; letter-spacing: 0px;'&gt;Taurine is a conditionally essential amino acid found in the highest concentrations in the heart, brain, retina and muscles. &lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Since our bodies cannot make taurine, we can only get it through diet or supplementation.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -8685,7 +8677,7 @@
     <barcode>693465263112</barcode>
     <price>46.86</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;L-Theanine by Vital Nutrients - delivers 200 mg L-Theanine per serving.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;L-theanine is an amino acid naturally found in tea leaves, particularly in green tea. L-theanine has been consumed for centuries, primarily through tea consumption. Traditional tea-drinking cultures, especially in East Asia where green tea is prevalent, have unknowingly incorporated L-theanine into their daily routines. While the historical use of L-theanine is deeply rooted in tea-drinking traditions, its isolated supplementation has become more common in recent years. Researchers and consumers alike have shown growing interest in exploring its potential benefits, leading to an increase in studies and awareness surrounding L-theanine.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use - 1 capsule, 3 times a day or as directed by a healthcare practitioners. &lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -9251,7 +9243,7 @@
     <vendor>Invivo Healthcare</vendor>
     <product_type/>
     <sku>INVIVO_08</sku>
-    <barcode>710535365924</barcode>
+    <barcode>7105353659240</barcode>
     <price>70.84</price>
     <compare_at_price/>
     <available>true</available>
@@ -10206,7 +10198,7 @@
     <barcode>810014390048</barcode>
     <price>36.36</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Caprylic Acid is a short-chain fatty acid.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Formulated without gluten, dairy, soy or artificial sweeteners. GMO free and paleo friendly&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Buffered with calcium and magnesium caprylates to help these capsules reach the large intestine and colon intact. Gentler on the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -10528,7 +10520,7 @@
     <vendor>Results RNA</vendor>
     <product_type/>
     <sku>RNA_04</sku>
-    <barcode>792435638957</barcode>
+    <barcode>850006075003</barcode>
     <price>101.36</price>
     <compare_at_price/>
     <available>true</available>
@@ -10702,7 +10694,7 @@
     <vendor>Vitanica</vendor>
     <product_type/>
     <sku>VIT_48</sku>
-    <barcode>708118012402</barcode>
+    <barcode>7081180000000</barcode>
     <price>68.66</price>
     <compare_at_price/>
     <available>true</available>
@@ -11830,7 +11822,7 @@
     <barcode>794504727630</barcode>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Morinda Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Morinda citrifolia&lt;/em&gt;, commonly known as noni, a tropical botanical with a long history of traditional use.&lt;/p&gt;&lt;p&gt;Noni naturally contains iridoids, polyphenols, organic acids, and other plant constituents characteristic of the fruit. This capsule formulation presents the ingredient in a convenient daily format.&lt;/p&gt;&lt;p&gt;This product is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -11970,7 +11962,7 @@
     <barcode>794504727135</barcode>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Hemo Guard Supreme™&lt;/strong&gt; is a practitioner-style botanical formula supplied in capsule format.&lt;/p&gt;&lt;p&gt;The proprietary blend contains &lt;em&gt;Carica papaya&lt;/em&gt; leaf, &lt;em&gt;Zingiber officinale&lt;/em&gt;, and &lt;em&gt;Ginkgo biloba&lt;/em&gt;. These ingredients provide a characteristic composition of papaya leaf constituents, gingerols and shogaols from ginger, and flavone glycosides and terpene lactones from ginkgo.&lt;/p&gt;&lt;p&gt;This formulation is produced without fillers, binders, or excipients and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -12026,7 +12018,7 @@
     <barcode>794504726930</barcode>
     <price>30.51</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Endo Supreme™&lt;/strong&gt; is a practitioner-style botanical formula presented in capsule format as part of the Supreme Nutrition range.&lt;/p&gt;&lt;p&gt;The formulation is positioned within the endocrine-focused category and combines selected botanical ingredients in a concentrated capsule format. It is intended as a multi-herb preparation rather than a single-ingredient product.&lt;/p&gt;&lt;p&gt;This blend is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -12850,7 +12842,7 @@
     <barcode>858860004054</barcode>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style='font-family: &quot;Noto Sans&quot;;'&gt;﻿&lt;/span&gt;&lt;font face=&quot;Noto Sans&quot;&gt;Support Glucose contains Chromium (as Cr Polynicotinate), Gymnema sylvestre Leaf Extract, Yielding Gymnemic Aci and Cinnulin PF®. &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Noto Sans&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Noto Sans&quot;&gt;Chromium can help to mantain a normal blood suger level. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Noto Sans&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Noto Sans&quot;&gt;More information about this product&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Noto Sans&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Noto Sans&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Noto Sans&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/font&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -13032,7 +13024,7 @@
     <vendor>Hifas da Terra</vendor>
     <product_type/>
     <sku>HDT_04-70</sku>
-    <barcode>8436561601790</barcode>
+    <barcode>8436561602285</barcode>
     <price>51.22</price>
     <compare_at_price/>
     <available>false</available>
@@ -13070,7 +13062,7 @@
     <vendor>Hifas da Terra</vendor>
     <product_type/>
     <sku>HDT_03-70</sku>
-    <barcode>8436561602278</barcode>
+    <barcode>8436561601707</barcode>
     <price>76.29</price>
     <compare_at_price/>
     <available>true</available>
@@ -13104,7 +13096,7 @@
     <vendor>Hifas da Terra</vendor>
     <product_type/>
     <sku>HDT_02-70</sku>
-    <barcode>8436561602216</barcode>
+    <barcode>8436561601745</barcode>
     <price>76.29</price>
     <compare_at_price/>
     <available>true</available>
@@ -13142,7 +13134,7 @@
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <sku>MBL_04</sku>
-    <barcode>793888528765</barcode>
+    <barcode>850080281017</barcode>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
     <available>true</available>
@@ -13306,7 +13298,7 @@
     <vendor>Nordic Naturals</vendor>
     <product_type/>
     <sku>NORD_07</sku>
-    <barcode>768990017537</barcode>
+    <barcode>768990017438</barcode>
     <price>44.68</price>
     <compare_at_price/>
     <available>true</available>
@@ -13729,7 +13721,7 @@
     <barcode>766298020129</barcode>
     <price>26.15</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Calcium Magnesium by Pure Encapsulations contains both calcium and magnesium in citrate form, which is a highly absorbable form. Calcium and Magnesium work together in the body, supporting muscle, bone and dental health, therefore taking them together can provide the balance your body needs.&lt;/p&gt;&lt;p&gt;- Supports bone and teeth health&lt;/p&gt;&lt;p&gt;- Supports the healthy functioning of the nervous system&lt;/p&gt;&lt;p&gt;- Important for the normal functioning of muscles&lt;/p&gt;&lt;p&gt;- Supports energy production and may reduce feelings of tiredness and fatigue&lt;/p&gt;&lt;p&gt;- Needed for electrolyte balance and may help to reduce muscle cramps&lt;/p&gt;&lt;p&gt;- Comes in highly absorbable citrate form&lt;/p&gt;&lt;p&gt;Calcium and magnesium are particularly important for bone and dental health, as well as normal functioning muscles. Magnesium in particular can help to reduce muscle cramps. Magnesium helps to regulate calcium levels in the body which is important for bone and teeth health. Magnesium is also important for the production of energy, so taking it may help to reduce tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Suggested use is 3 capsules daily.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -13912,10 +13904,10 @@
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
     <sku>QSL_009</sku>
-    <barcode>19962509117</barcode>
+    <barcode>019962509117</barcode>
     <price>44.50</price>
     <compare_at_price>57.76</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Liposomal Glutathione with Lemon Mint by Quicksilver Scientific is a liquid antioxidant formulation that contains glutathione and phosphatidylcholine.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Liposomal Glutathione with Lemon Mint is a fast-acting, highly absorbable supplement in liposomal form. Glutathione is the body's master antioxidant. &lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Quicksilver nutraceuticals utilize modern science to unleash the curative power of nature. With the world's most advanced phospholipid delivery systems, Quicksilver Scientific supplements nourish your cells as they deliver their core effective ingredients faster and more effectively.&lt;/span&gt;
 &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;
@@ -14213,7 +14205,7 @@
     <vendor>BioMatrix</vendor>
     <product_type/>
     <sku>BM_08</sku>
-    <barcode>615033604615</barcode>
+    <barcode>858860004320</barcode>
     <price>73.02</price>
     <compare_at_price/>
     <available>true</available>
@@ -14278,7 +14270,7 @@
     <barcode>858860004023</barcode>
     <price>61.03</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;Leaky Gut-X (formerly Support Mucosa) is a specifically designed formulation and includes key substances such as Biotin, L-Glutamine, Quercetin, Tumeric, and more. &lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;More information about this product&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -14706,7 +14698,7 @@
     <vendor>Life Extension</vendor>
     <product_type/>
     <sku>LE_069</sku>
-    <barcode>737870202165</barcode>
+    <barcode>737870202264</barcode>
     <price>26.15</price>
     <compare_at_price>33.78</compare_at_price>
     <available>true</available>
@@ -14878,7 +14870,7 @@
     <vendor>Nordic Naturals</vendor>
     <product_type/>
     <sku>NORD_04-120</sku>
-    <barcode>768990027703</barcode>
+    <barcode>768990027789</barcode>
     <price>51.76</price>
     <compare_at_price/>
     <available>true</available>
@@ -14940,10 +14932,10 @@
     <vendor>Nordic Naturals</vendor>
     <product_type/>
     <sku>NORD_19</sku>
-    <barcode>768990891144</barcode>
+    <barcode>768990017414</barcode>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span&gt;Making a baby is no small task, and odds are you're going to need nutritional reinforcement. The official omega-3 of the American Pregnancy Association, Prenatal DHA generously fulfils the recommended daily serving of omega-3 DHA for pregnant and lactating women, and includes 400 IU vitamin D3 for added immune support.* Available in strawberry and unflavored soft gels, as well as fish gelatin soft gels for moms with dietary restrictions.&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 14px; font-family: Figtree; font-weight: 400; line-height: 20px; letter-spacing: normal; color: rgb(27, 12, 49);&quot;&gt;
 &lt;li style=&quot;font-size: 14px; font-family: Figtree; font-weight: 400; line-height: 20px;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; style=&quot;font-size: 14px; font-family: Figtree; font-weight: 400; line-height: 20px;&quot;&gt;Vitamin D contributes to normal blood calcium levels&lt;/font&gt;&lt;/li&gt;
@@ -15183,7 +15175,7 @@
     <barcode>766298018966</barcode>
     <price>52.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-sanitized-data-mce-fragment=&quot;1&quot; style=&quot;margin-bottom: 1rem;&quot;&gt;&lt;font color=&quot;#1f2124&quot; face=&quot;-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: noto-sans;&quot;&gt;B Complex Plus by Pure Encapsulations is a comprehensive blend of B vitamins. The B vitamins provided are in their active form.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-sanitized-data-mce-fragment=&quot;1&quot; style=&quot;margin-bottom: 1rem;&quot;&gt;&lt;font color=&quot;#1f2124&quot; face=&quot;-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: noto-sans;&quot;&gt;- It includes B12 which may be beneficial for those following a vegan diet&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-sanitized-data-mce-fragment=&quot;1&quot; style=&quot;margin-bottom: 1rem;&quot;&gt;&lt;font color=&quot;#1f2124&quot; face=&quot;-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 12px; font-family: noto-sans;&quot;&gt;B vitamins are commonly found in animal products such as meat, dairy foods and eggs. They are also found in some fruits and vegetables, avocados, nuts and fortified cerealsThis formula also includes Folate, which is a particularly important B vitamin for women who are planning to conceive. Those who follow a plant-based or vegan diet are more likely to be low in B vitamins, especially B12.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p data-sanitized-data-mce-fragment=&quot;1&quot; style=&quot;margin-bottom: 1rem;&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;B-Complex Plus offers a comprehensive blend of B vitamins packed into one easy-to-take supplement.&lt;/span&gt;&lt;span class=&quot;aaq&quot; style=&quot;font-family: noto-sans;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Includes active forms of B vitamins, including pyridoxal-5-phosphate, riboflavin-5-phosphate and folate as 5-methyltetrahydrofolate (5-MTHF), the universally metabolized and biologically active form of folate. Vitamins B1, B3, and B6 contribute to normal functioning of the nervous system. Folate, vitamin B5 and B12 contribute to the reduction of tiredness and fatigue.&lt;/span&gt;&lt;span class=&quot;aaq&quot; style=&quot;font-family: noto-sans;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p data-sanitized-data-mce-fragment=&quot;1&quot; style=&quot;margin-bottom: 1rem;&quot;&gt;&lt;span class=&quot;aaq&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -15657,7 +15649,7 @@
     <vendor>Enzymedica</vendor>
     <product_type/>
     <sku>EM_11</sku>
-    <barcode>670480310410</barcode>
+    <barcode>670480202104</barcode>
     <price>82.28</price>
     <compare_at_price/>
     <available>true</available>
@@ -15688,10 +15680,10 @@
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <sku>MBL_21</sku>
-    <barcode>793888528666</barcode>
+    <barcode>850080281000</barcode>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot; class=&quot;elementor-heading-title elementor-size-default&quot;&gt;&lt;a href=&quot;https://supplementhub.com/products/mega-sporebiotic-60-capsules?variant=42791396606120&quot; target=&quot;_blank&quot;&gt;For MegaSporeBiotic PLUS (with Antioxidants) - click here &lt;/a&gt;&lt;/p&gt;&lt;p&gt;MegaSporeBiotic™ is a high quality, broad-spectrum probiotic supplement, containing 100% spore-based active bacteria.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Can be used alongside antibiotics&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;As a 100% spore based probiotic, MegaSporeBiotic™ is unique. Spores are highly resistant to stomach acid, and therefore more likely to reach the intestines in tact. MegaSporeBiotic™ has a 2-year shelf-life, does not require refrigeration, and can be taken alongside antibiotics. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -15913,7 +15905,7 @@
     <barcode>766298019932</barcode>
     <price>31.60</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;O.N.E. Omega provides 1,000 mg triglyceride-form EPA and DHA in each soft gel making it one of the highest strength fish oils available. High potency formulation means fewer capsules are required. Features ultra-pure, molecularly distilled fish oil concentrate that contains well below the strict limits for environmental contaminants (heavy metals, PCBs, dioxins and furans), microbial contaminants, and oxidation and rancidity. DHA contributes to the maintenance of normal vision and brain function. EPA and DHA contribute to the normal function of the heart. &lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -15975,7 +15967,7 @@
     <barcode>766298023328</barcode>
     <price>52.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Liposomal Vitamin C liquid offers vitamin C in an enhanced-absorption liposomal form. The liposomal delivery system utilizes phospholipids from GMO-free sunflower seeds.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Provided in a pleasant-tasting, citrus-flavoured liquid. Featuring&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;1,000 mg of vitamin C per serving. Vitamin C contributes to the&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;normal function of the immune system. Vitamin C contributes&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;to normal collagen formation for the normal function of blood&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;vessels, bones, gums, skin teeth &amp;amp; cartilage.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -16051,7 +16043,7 @@
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
     <sku>QSL_012</sku>
-    <barcode>19962509018</barcode>
+    <barcode>019962509018</barcode>
     <price>43.59</price>
     <compare_at_price/>
     <available>true</available>
@@ -16285,7 +16277,7 @@
     <vendor>Quicksilver Scientific</vendor>
     <product_type/>
     <sku>QSL_065</sku>
-    <barcode>810147500116</barcode>
+    <barcode>644216048502</barcode>
     <price>79.56</price>
     <compare_at_price/>
     <available>true</available>
@@ -16724,7 +16716,7 @@
     <barcode>766298019864</barcode>
     <price>64.30</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;DIM Ultra features BioResponse DIM® with phytonutrients, milk thistle, lipoic acid and amino acids for advanced nutritional support. BioResponse DIM® is a highly absorbable form of diindolylmethane, an important metabolite of indole-3-carbinol.With the lignan 7-hydroxymatairesinol (HMR), which is converted in the body to enterolactone. Also featuring Broccoli sprout concentrate with a guaranteed level of sulforaphane. Provides silymarin, alpha lipoic acid and n-acetyl-l-cysteine. With the amino acids taurine, glycine and methionine.  &lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -16902,7 +16894,7 @@
     <vendor>Microvascular Health Solutions</vendor>
     <product_type/>
     <sku>MV_01</sku>
-    <barcode>860002296791</barcode>
+    <barcode>860012299522</barcode>
     <price>127.52</price>
     <compare_at_price/>
     <available>true</available>
@@ -17060,7 +17052,7 @@
     <vendor>THERA Nordic</vendor>
     <product_type/>
     <sku>TN_03</sku>
-    <barcode>6430071290064</barcode>
+    <barcode>6430071290415</barcode>
     <price>32.69</price>
     <compare_at_price/>
     <available>true</available>
@@ -17163,7 +17155,7 @@
     <barcode>8436561602100</barcode>
     <price>38.14</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;A triad of synergistic adaptogenic medicinal mushrooms (Reishi, Lion’s Mane and Cordyceps) that balance the body’s immune, nervous and endocrine systems.&lt;/p&gt;&lt;p&gt;Organic extract of Reishi (Ganoderma lucidum HdT488 DSM 32782, Ganozumib®) 225 mg, micronised organic powder of Lion’s Mane (Hericium erinaceus HdT1428 DSM 34087, Herimax®) 90 mg, pure biofermented extract of Cordyceps (Cordyceps sinensis HdT CS4 BR, Cordyzumib®) 45 mg and organic powder of acerola (Malpighia glabra) 35.29 mg.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17352,7 +17344,7 @@
     <vendor>Hifas da Terra</vendor>
     <product_type/>
     <sku>HDT_19</sku>
-    <barcode>8436561602049</barcode>
+    <barcode>8436561602308</barcode>
     <price>51.22</price>
     <compare_at_price/>
     <available>false</available>
@@ -17433,7 +17425,7 @@
     <barcode>766298024493</barcode>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;h4 data-mce-fragment=&quot;1&quot;&gt;N-acetylcysteine and Glycine combination to support glutathione synthesis&lt;/h4&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;NAC + Glycine Powder provides 1.8 grams of both N-acetylcysteine (NAC) and glycine per serving in a great-tasting natural peach-ginger flavour. NAC and glycine are both involved in glutathione synthesis. Co-supplementation with NAC and glycine may be more effective than either amino acid alone.&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17464,7 +17456,7 @@
     <barcode>693465417218</barcode>
     <price>98.09</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;Pancreatic Enzymes support healthy digestion by supplying natural enzymes that are secreted by the pancreas. These pancreatic enzymes are essential to the breakdown and absorption of food and its nutrients, helping to promote the normal digestion of proteins, fats and carbohydrates.&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;When selecting pancreatic enzymes supplements, it’s important to note that full strength pancreatin is the preferred form, to ensure it is free of lactose.&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;Image shows 90 capsules as there is no image available for 180.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17557,7 +17549,7 @@
     <barcode>860008718402</barcode>
     <price>31.60</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our new RiseWell Pro Sensitivity Mineral Toothpaste contains both Micro and Nano-Hydroxyapatite creating a game changing formula for people who have extra sensitivity. With the most hydroxyapatite on the market, our PRO toothpaste is clean, 100% safe and incredibly effective at strengthening, remineralizing and protecting the teeth while also alleviating sensitivity.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Use code &lt;/span&gt;&lt;strong data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;RISEWELL10&lt;/strong&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; at checkout for &lt;/span&gt;&lt;strong data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;10% off&lt;/strong&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; when you add &lt;/span&gt;&lt;strong data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;two or more&lt;/strong&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; RiseWell products to your cart!&lt;/span&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/span&gt;&lt;/p&gt;</description>
     <tags/>
@@ -17656,7 +17648,7 @@
     <vendor>Hifas da Terra</vendor>
     <product_type/>
     <sku>HDT_22</sku>
-    <barcode>8436561601295</barcode>
+    <barcode>8436561602889</barcode>
     <price>28.33</price>
     <compare_at_price/>
     <available>true</available>
@@ -17706,7 +17698,7 @@
     <barcode>197644225255</barcode>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Acerola Supreme™&lt;/strong&gt; is a liquid food supplement containing &lt;em&gt;Malpighia emarginata&lt;/em&gt;, also known as acerola or Barbados cherry.&lt;/p&gt;&lt;p&gt;The fruit is naturally rich in vitamin C and also provides carotenoids, bioflavonoids, and polyphenolic compounds characteristic of acerola. The liquid format presents the ingredient in a concentrated, flexible-use form.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -17734,7 +17726,7 @@
     <vendor>London Nootropics</vendor>
     <product_type/>
     <sku>LN_02</sku>
-    <barcode>5065005626049</barcode>
+    <barcode>5065005626216</barcode>
     <price>17.43</price>
     <compare_at_price>18.52</compare_at_price>
     <available>true</available>
@@ -17774,7 +17766,7 @@
     <vendor>London Nootropics</vendor>
     <product_type/>
     <sku>LN_01</sku>
-    <barcode>5065005626001</barcode>
+    <barcode>5065005626209</barcode>
     <price>18.52</price>
     <compare_at_price>22.88</compare_at_price>
     <available>true</available>
@@ -17820,7 +17812,7 @@
     <vendor>London Nootropics</vendor>
     <product_type/>
     <sku>LN_03</sku>
-    <barcode>5065005626025</barcode>
+    <barcode>5065005626223</barcode>
     <price>18.52</price>
     <compare_at_price>22.88</compare_at_price>
     <available>true</available>
@@ -17903,7 +17895,7 @@
     <barcode>5065005626018</barcode>
     <price>13.07</price>
     <compare_at_price>16.34</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Find Mental Clarity &amp;amp; Focus with Flow Coffee&lt;/h3&gt;&lt;p&gt;Power through long hours of work, meetings or study with Flow. Great for tackling brain fog &amp;amp; distractions and getting in the zone for reading, writing &amp;amp; creative work.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Discover Endurance &amp;amp; Vitality with Mojo Coffee&lt;/h3&gt;&lt;p&gt;Find inner strength and endurance with Mojo. Great when you need powering up before exercise, hiking in nature or when you feel fatigued.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -18406,7 +18398,7 @@
     <barcode>5060763810006</barcode>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Thiamax contains a highly-bioavailable derivative of thiamine (vitamin B1) called TTFD - thiamine tetrahydrofurfuryl disulfide. This form has been widely researched in Japan for its therapeutic potential in addressing thiamine insufficiency.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Unlike other forms of thiamine supplementation, TTFD’s molecular structure allows it to pass through intestinal and cellular membranes without the requirement for a transport system. Once inside the cell, it can be activated and used as a cofactor in important biochemical processes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TTFD also has a demonstrated capacity to penetrate the blood brain barrier and increase thiamine levels in the brain and central nervous system, where it may be used to support optimal cognition and maintain autonomic nervous system function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Due to its superior bioavailability, TTFD can be taken in much lower doses than what is considered the “therapeutic dose” of other forms such as thiamine salts.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Thiamax also contains a small amount of magnesium (as magnesium taurate), which is a mineral that is important for supporting how cells can utilize thiamine.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;Thiamine contributes to normal energy-yielding metabolism&lt;/li&gt;
@@ -18460,7 +18452,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;div&gt;ThiAssist is designed to support the actions of thiamine at the cellular level and contains five minerals in their bioavailable form. This formula is intended to compliment supplementation with Thiamax or any other form of thiamine taken in higher dosages. This formula does not contain a full spectrum of minerals and should not be used to replace zinc, copper, iron, or any other trace mineral not included in this product.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Magnesium is a cofactor mineral necessary for the activity of thiamine-dependent enzymes (transketolase, pyruvate dehydrogenase, and alpha ketoglutarate dehydrogenase). Two varieties of magnesium with enhanced bioavailability are contained within ThiAssist. Magnesium malate is composed of malic acid, an organic acid involved in the production of cellular energy. Alternatively, magnesium taurate provides the amino acid taurine, which serves numerous roles including supporting antioxidant activity, electrolyte balance, and neurological function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Potassium is another electrolyte mineral which may become low in thiamine deficiency states. In the form of potassium citrate, this mineral serves the dual function of urinary alkalinization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Molybdenum is a dietary mineral incorporated into the molybdate cofactor, which acts as a cofactor for oxidase enzymes including xanthine oxidase and sulphite oxidase. Sulphite oxidase plays an important processing of sulphur compounds, reducing the accumulation of the sulphite toxin and converting this into inorganic sulphate. Molybdenum may therefore be useful for improving sulphur metabolism. The molybdenum incorporated into this formula is bound with the amino acid glycine for improved absorption.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Selenomethionine provides the selenium mineral bound with the amino acid methionine, which is the main form found in foods. Selenium is necessary for the action of glutathione peroxidase, a critical enzyme utilized by the endogenous antioxidant system. Selenium is therefore useful in maintaining protection against oxidative stress and may also support health thyroid function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Finally, ThiAssist also contains the manganese mineral in the form of manganese gluconate. Manganese is necessary for the activity of manganese-superoxide dismutase, a mitochondrial antioxidant. It also serves as a cofactor for a variety of other enzymes including Pyruvate carboxylase, phosphoenolpyruvate carboxykinase, arginase, glutamine synthetase, prolidase, and glycosyltransferases. Earlier research highlighted a potential relationship between manganese and thiamine status, although this connection has not been well elucidated.&lt;/div&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -18491,7 +18483,7 @@
     <barcode>5060763810044</barcode>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Thiamega provides a high dosage of vitamin B1 in four different forms, each possessing unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Three of these forms are synthetic derivatives originally developed in Japan and are known to possess much greater bio-availability compared with ordinary thiamine salts.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine is an S-acyl derivative of thiamine known for its ability to improve blood sugar management and support peripheral nerve function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sulbutiamine contains two molecules of thiamine bound together by a disulphide bond. Thiamine Tetrahydrofurfuryl Disulphide (TTFD) contains one thiamine molecule bound with a sulphur-mercaptan group, which provides it with unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The molecular structure of these three thiamine derivatives allows them to pass through intestinal and cellular membranes without the requirement for a transport system. Once inside the cell, they deliver thiamine which can be activated and used as a cofactor in important biochemical processes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine, sulbutiamine and TTFD may increase brain levels of thiamine, support cognition and central nervous system function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Each capsule delivers a total of 400mg of thiamine.&lt;/div&gt;</description>
     <tags>low_vat_rate</tags>
@@ -18587,7 +18579,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <sku>SH_177</sku>
-    <barcode>810007521961</barcode>
+    <barcode>810007521879</barcode>
     <price>94.82</price>
     <compare_at_price/>
     <available>true</available>
@@ -19494,7 +19486,7 @@
     <barcode>653341624703</barcode>
     <price>61.03</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;h4 class=&quot;a-size-large a-spacing-none&quot;&gt;&lt;span class=&quot;a-size-large product-title-word-break&quot; id=&quot;productTitle&quot;&gt;Molecular Hydrogen Water Additive for Energy + Metabolism Support, Perfect for Open Containers – High-Dose Antioxidant Hydrating Drink&lt;/span&gt;&lt;/h4&gt;&lt;ul class=&quot;a-unordered-list a-vertical a-spacing-mini&quot;&gt;
 &lt;li&gt;&lt;span class=&quot;a-list-item&quot;&gt;A ground-breaking formula that infuses pure water with the highest concentration of H2 available that we know of.&lt;/span&gt;&lt;/li&gt;
@@ -19812,7 +19804,7 @@
     <vendor>Emerita</vendor>
     <product_type/>
     <sku>EMR_002</sku>
-    <barcode>754748936755</barcode>
+    <barcode>356163646785</barcode>
     <price>90.46</price>
     <compare_at_price/>
     <available>true</available>
@@ -20040,7 +20032,7 @@
     <vendor>VerVita</vendor>
     <product_type/>
     <sku>VV_05</sku>
-    <barcode>850060355127</barcode>
+    <barcode>850060355028</barcode>
     <price>37.05</price>
     <compare_at_price>44.68</compare_at_price>
     <available>true</available>
@@ -20193,7 +20185,7 @@
     <vendor>VerVita</vendor>
     <product_type/>
     <sku>VV_06</sku>
-    <barcode>850060355172</barcode>
+    <barcode>850060355080</barcode>
     <price>42.50</price>
     <compare_at_price/>
     <available>true</available>
@@ -20234,7 +20226,7 @@
     <vendor>VerVita</vendor>
     <product_type/>
     <sku>VV_07</sku>
-    <barcode>850060355165</barcode>
+    <barcode>850060355066</barcode>
     <price>41.41</price>
     <compare_at_price/>
     <available>true</available>
@@ -20420,7 +20412,7 @@
     <vendor>NoordCode</vendor>
     <product_type/>
     <sku>NC_006</sku>
-    <barcode>8720648640001</barcode>
+    <barcode>8719327511152</barcode>
     <price>32.69</price>
     <compare_at_price/>
     <available>true</available>
@@ -21171,7 +21163,7 @@
     <vendor>Purovitalis</vendor>
     <product_type/>
     <sku>PRV_005</sku>
-    <barcode>8720726160018</barcode>
+    <barcode>8720726160162</barcode>
     <price>56.67</price>
     <compare_at_price/>
     <available>true</available>
@@ -21213,7 +21205,7 @@
     <vendor>NoordCode</vendor>
     <product_type/>
     <sku>NC_004</sku>
-    <barcode>8719326381220</barcode>
+    <barcode>8720648640285</barcode>
     <price>37.05</price>
     <compare_at_price/>
     <available>true</available>
@@ -21415,7 +21407,7 @@
     <barcode>617270077283</barcode>
     <price>97.00</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Primeadine® Original is a completely plant-based spermidine supplement designed to promote healthy aging and stimulate cellular renewal, specifically autophagy. Each serving contains 1mg of the purest and most easily absorbed spermidine sourced from concentrated and defatted Japanese wheat germ extract.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What are the benefits?&lt;br&gt;
 &lt;/div&gt;&lt;div&gt;&lt;ul&gt;
@@ -21616,7 +21608,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_023</sku>
-    <barcode>743474867532</barcode>
+    <barcode>743474356876</barcode>
     <price>80.65</price>
     <compare_at_price/>
     <available>true</available>
@@ -21650,7 +21642,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_022</sku>
-    <barcode>743474867594</barcode>
+    <barcode>743474958674</barcode>
     <price>45.77</price>
     <compare_at_price/>
     <available>true</available>
@@ -21721,7 +21713,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_020</sku>
-    <barcode>743474789018</barcode>
+    <barcode>743474109786</barcode>
     <price>62.12</price>
     <compare_at_price/>
     <available>false</available>
@@ -21780,7 +21772,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_018</sku>
-    <barcode>743474999929</barcode>
+    <barcode>743474811054</barcode>
     <price>32.69</price>
     <compare_at_price/>
     <available>true</available>
@@ -21816,7 +21808,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_017</sku>
-    <barcode>743474999905</barcode>
+    <barcode>743474899908</barcode>
     <price>42.50</price>
     <compare_at_price/>
     <available>true</available>
@@ -21851,7 +21843,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_016</sku>
-    <barcode>743474913253</barcode>
+    <barcode>743474893258</barcode>
     <price>86.10</price>
     <compare_at_price/>
     <available>true</available>
@@ -21897,7 +21889,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_015</sku>
-    <barcode>743474993200</barcode>
+    <barcode>743474893203</barcode>
     <price>42.50</price>
     <compare_at_price/>
     <available>true</available>
@@ -21970,7 +21962,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_013</sku>
-    <barcode>743474913352</barcode>
+    <barcode>743474813355</barcode>
     <price>69.75</price>
     <compare_at_price>79.56</compare_at_price>
     <available>true</available>
@@ -22112,7 +22104,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_011</sku>
-    <barcode>743474030165</barcode>
+    <barcode>743474830161</barcode>
     <price>42.50</price>
     <compare_at_price/>
     <available>false</available>
@@ -22146,7 +22138,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_010</sku>
-    <barcode>743474911020</barcode>
+    <barcode>743474811023</barcode>
     <price>47.95</price>
     <compare_at_price/>
     <available>true</available>
@@ -22183,7 +22175,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_009</sku>
-    <barcode>743474911051</barcode>
+    <barcode>743474911099</barcode>
     <price>25.06</price>
     <compare_at_price/>
     <available>true</available>
@@ -22214,7 +22206,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_008</sku>
-    <barcode>743474915509</barcode>
+    <barcode>743474915103</barcode>
     <price>196.61</price>
     <compare_at_price>231.07</compare_at_price>
     <available>false</available>
@@ -22254,7 +22246,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_007</sku>
-    <barcode>743474915004</barcode>
+    <barcode>743474915011</barcode>
     <price>110.56</price>
     <compare_at_price>137.33</compare_at_price>
     <available>true</available>
@@ -22294,7 +22286,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_006</sku>
-    <barcode>743474910047</barcode>
+    <barcode>743474910054</barcode>
     <price>70.84</price>
     <compare_at_price>78.47</compare_at_price>
     <available>true</available>
@@ -22334,7 +22326,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_005</sku>
-    <barcode>743474916506</barcode>
+    <barcode>743474916513</barcode>
     <price>243.06</price>
     <compare_at_price/>
     <available>true</available>
@@ -22377,7 +22369,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_004</sku>
-    <barcode>743474916001</barcode>
+    <barcode>743474916018</barcode>
     <price>107.90</price>
     <compare_at_price/>
     <available>true</available>
@@ -22417,7 +22409,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_003</sku>
-    <barcode>743474915806</barcode>
+    <barcode>743474915813</barcode>
     <price>78.47</price>
     <compare_at_price/>
     <available>true</available>
@@ -22457,7 +22449,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_002</sku>
-    <barcode>743474016114</barcode>
+    <barcode>743474816110</barcode>
     <price>35.96</price>
     <compare_at_price/>
     <available>true</available>
@@ -22507,7 +22499,7 @@
     <vendor>Body Bio</vendor>
     <product_type/>
     <sku>BBO_001</sku>
-    <barcode>743474040119</barcode>
+    <barcode>743474840115</barcode>
     <price>15.25</price>
     <compare_at_price/>
     <available>true</available>
@@ -22557,7 +22549,7 @@
     <barcode>8719327511176</barcode>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.\n\nGrass-fed, free-grazing cows from the Alps\nThe milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.\n\nOnly whey protein, with no additives or flavours\nPure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.\n\nSoft processing without irradiation\nNoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.&lt;br&gt;&lt;br&gt;Grass-fed, free-grazing cows from the Alps&lt;br&gt;The milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.&lt;br&gt;&lt;br&gt;Only whey protein, with no additives or flavours&lt;br&gt;Pure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.&lt;br&gt;&lt;br&gt;Soft processing without irradiation&lt;br&gt;NoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -22699,7 +22691,7 @@
     <barcode>860009045507</barcode>
     <price>63.21</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;b&gt;Vascanox HP®&lt;/b&gt; is an advanced supplement that supports nitric oxide levels for up to 24 hours with just one dose.*&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;†&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; Powered by Calroy’s exclusive Noxa24® blend, it helps promote your body’s natural production, storage, and release of nitric oxide.*&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Each bottle contains 60 capsules, providing a 1-2 month supply based on the recommended dosage.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;†&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Based on measurements using saliva nitric oxide test strips in a &lt;/span&gt;&lt;em&gt;&lt;a class=&quot;ProsemirrorEditor-link&quot; href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10578647/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;published study&lt;/a&gt;&lt;span style=&quot;font-size: 12px; font-family: noto-sans;&quot;&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Calroy Nitric Oxide testing strips can be found here &lt;a href=&quot;https://supplementhub.com/products/2-in-1-nitric-oxide-test-strips-50-strips-calroy-health-sciences?_pos=3&amp;amp;_sid=2fb0ec32d&amp;amp;_ss=r&quot; style=&quot;background-color: rgb(255, 255, 255); font-family: sans-serif; font-weight: 400;&quot;&gt;LINK&lt;/a&gt;
 &lt;/li&gt;&lt;/ul&gt;</description>
@@ -22734,7 +22726,7 @@
     <vendor>Calroy Health Sciences</vendor>
     <product_type/>
     <sku>CLY_001</sku>
-    <barcode>86000904553</barcode>
+    <barcode>860009045538</barcode>
     <price>94.82</price>
     <compare_at_price/>
     <available>true</available>
@@ -22881,14 +22873,14 @@
   </product>
   <product>
     <handle>zenbiome-dual-60-capsules-microbiome-labs</handle>
-    <title>ZenBiome DUAL - 60 Capsules | Microbiome Labs</title>
+    <title>Gut-Brain Reset (formerly ZenBiome DUAL) - 60 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <sku>MBL_26</sku>
     <barcode>793888527966</barcode>
     <price>79.56</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Zenbiome™ DUAL is a dual-action probiotic combination powered by two innovative probiotic strains, Zenbiome™ DUAL provides around-the-clock digestive maintenance.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -22899,16 +22891,13 @@
     <variant_title>Default Title</variant_title>
     <weight>68.0</weight>
     <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL_26.png?v=1764586268</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gutbrainreset_bottle_fitted_20_281_29.webp?v=1786486885</image>
     <images>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL_26.png?v=1764586268</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gastrointestinalhealth_ZenbiomeDUAL_SFP.png?v=1764586268</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gutbrainreset_bottle_fitted_20_281_29.webp?v=1786486885</src>
       </image>
     </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL_26.png?v=1764586268,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gastrointestinalhealth_ZenbiomeDUAL_SFP.png?v=1764586268</image_links>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gutbrainreset_bottle_fitted_20_281_29.webp?v=1786486885</image_links>
   </product>
   <product>
     <handle>megapre-dairy-free-180-capsules-microbiome-labs</handle>
@@ -23059,7 +23048,7 @@
     <barcode>810007521831</barcode>
     <price>93.18</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Who Needs Pre-Workout Nutrients?&lt;/p&gt;&lt;p&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;For years, we've known that regular physical exercise is essential to optimal health. It's not just about looking good; it's about feeling fantastic. Exercise has been proven to enhance your mood, improve sleep, help with weight management, and so much more.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;However, the type of exercise matters and it’s not just about cardio anymore. The importance of weight training and building lean muscle mass has been gaining traction, and for good reason. &lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;You reach peak muscle mass around age 30. That's why it's crucial for those under 30 to start building muscle now. After that, you slowly start to lose your muscle mass at an average of 0.8% per year. The older you get, the faster that number climbs.&lt;br data-mce-fragment=&quot;1&quot;&gt;Lifting weights isn’t just for bodybuilders, and maintaining muscle isn't about looking jacked. It's the key to staying active, preserving mobility, and avoiding injuries as you age.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;Whether you're a seasoned athlete or just starting your fitness journey, Pre-Workout Nutrients is designed to give you the edge you need to achieve your goals.†&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;/p&gt;</description>
     <tags/>
@@ -23513,10 +23502,10 @@
     <vendor>AUGMENTED NAC</vendor>
     <product_type/>
     <sku>NAC_001</sku>
-    <barcode>7629999991958</barcode>
+    <barcode>7629999511699</barcode>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-start=&quot;198&quot; data-end=&quot;383&quot;&gt;&lt;strong data-start=&quot;198&quot; data-end=&quot;224&quot;&gt;&lt;span style=&quot;color: rgb(32, 26, 50); font-family: Figtree; font-size: 16px;&quot;&gt;Augmented NAC is a potentiated version of N-Acetylcysteine. &lt;/span&gt;N-Acetylcysteine (NAC)&lt;/strong&gt; is a well-known derivative of the amino acid cysteine, valued for its role as a stable and convenient source of this important building block within the body.&lt;/p&gt;&lt;p data-start=&quot;385&quot; data-end=&quot;669&quot;&gt;As a precursor to cysteine, NAC is involved in normal metabolic processes and contributes to the body’s natural biochemical pathways related to protein synthesis. Amino acids like cysteine play a fundamental role in maintaining the structure and function of cells throughout the body.&lt;/p&gt;&lt;p data-start=&quot;671&quot; data-end=&quot;910&quot;&gt;NAC has been widely used in food supplements due to its stability and ease of use compared to other forms of cysteine. This makes it a practical choice for those looking to include this amino acid as part of their daily nutritional intake.&lt;/p&gt;&lt;hr data-start=&quot;912&quot; data-end=&quot;915&quot;&gt;&lt;h3 data-section-id=&quot;1eaqe7i&quot; data-start=&quot;917&quot; data-end=&quot;958&quot;&gt;🧬 A foundational amino acid approach&lt;/h3&gt;&lt;p data-start=&quot;960&quot; data-end=&quot;1210&quot;&gt;Amino acids are essential components of proteins and are involved in a wide range of physiological processes. NAC provides a reliable and consistent way to supplement cysteine intake, particularly in modern lifestyles where dietary patterns may vary.&lt;/p&gt;&lt;p data-start=&quot;1212&quot; data-end=&quot;1354&quot;&gt;By delivering cysteine in a stable form, NAC supplements are commonly included in routines focused on maintaining overall nutritional balance.&lt;/p&gt;&lt;hr data-start=&quot;1356&quot; data-end=&quot;1359&quot;&gt;&lt;h3 data-section-id=&quot;kt64bq&quot; data-start=&quot;1361&quot; data-end=&quot;1408&quot;&gt;⚙️ Designed for consistency and convenience&lt;/h3&gt;&lt;p data-start=&quot;1410&quot; data-end=&quot;1589&quot;&gt;NAC is typically used in structured supplementation routines where consistency is key. Its stable form allows for easy dosing and integration into daily habits without complexity.&lt;/p&gt;&lt;p data-start=&quot;1591&quot; data-end=&quot;1738&quot;&gt;Whether used alongside other nutrients or as part of a broader nutritional strategy, NAC offers a straightforward way to support amino acid intake.&lt;/p&gt;&lt;hr data-start=&quot;1740&quot; data-end=&quot;1743&quot;&gt;&lt;h3 data-section-id=&quot;qmo94n&quot; data-start=&quot;1745&quot; data-end=&quot;1780&quot;&gt;🌿 Clean and simple formulation&lt;/h3&gt;&lt;p data-start=&quot;1782&quot; data-end=&quot;1848&quot;&gt;High-quality NAC supplements are designed with simplicity in mind:&lt;/p&gt;&lt;ul data-start=&quot;1850&quot; data-end=&quot;2004&quot;&gt;
 &lt;li data-section-id=&quot;q4t897&quot; data-start=&quot;1850&quot; data-end=&quot;1886&quot;&gt;Pure NAC as a source of cysteine&lt;/li&gt;
@@ -23663,7 +23652,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -24326,7 +24315,7 @@
     <barcode>674306523282</barcode>
     <price>65.84</price>
     <compare_at_price>74.11</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;HU58™ is a high potency dose of&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;em data-mce-fragment=&quot;1&quot;&gt;Bacillus subtilis HU58&lt;/em&gt;&lt;/b&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;formulated to enhance the efficacy of MegaSporeBiotic™. &lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;The main benefit of taking additional Bacillus subtilis is&lt;strong&gt; a &lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;100% survivability in the digestive tract&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Long before the days of antibiotics, Bacillus subtilis was used as a powerful probiotic treatment for many digestive symptoms, including traveller’s diarrhoea and acute diarrhoea in children. By the mid-1900s, cheap antibiotics began to replace this probiotic in the US markets in the interest of cutting healthcare costs. However, the rest of the world continues to use Bacillus subtilis for a variety of GI symptoms.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -24391,7 +24380,7 @@
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <sku>MBL_12</sku>
-    <barcode>752830476196</barcode>
+    <barcode>793888532366</barcode>
     <price>61.03</price>
     <compare_at_price>74.11</compare_at_price>
     <available>true</available>
@@ -24703,7 +24692,7 @@
     <vendor>Researched Supplements</vendor>
     <product_type/>
     <sku>RS_31</sku>
-    <barcode>RSVS45240E</barcode>
+    <barcode>RSVS45240</barcode>
     <price>47.40</price>
     <compare_at_price>61.12</compare_at_price>
     <available>true</available>
@@ -24741,7 +24730,7 @@
     <vendor>Researched Supplements</vendor>
     <product_type/>
     <sku>RS_30</sku>
-    <barcode>RSVS45E</barcode>
+    <barcode>RSVS45</barcode>
     <price>31.53</price>
     <compare_at_price/>
     <available>true</available>
@@ -24795,7 +24784,7 @@
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Magnesium contributes to electrolyte balance&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Magnesium contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;i&gt;Optimal Magnesium&lt;/i&gt; offers the best health benefits of magnesium in one simple capsule. Now you can enjoy the best forms of magnesium in one easy capsule!&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -24996,7 +24985,7 @@
     <vendor>Invivo Healthcare</vendor>
     <product_type/>
     <sku>INVIVO_26</sku>
-    <barcode/>
+    <barcode>7695039602580</barcode>
     <price>29.84</price>
     <compare_at_price/>
     <available>true</available>
@@ -25027,7 +25016,7 @@
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <sku>MBL_06</sku>
-    <barcode>7 92888 53136 9</barcode>
+    <barcode>793888532960</barcode>
     <price>45.77</price>
     <compare_at_price/>
     <available>true</available>
@@ -25067,7 +25056,7 @@
     <barcode>793888531468</barcode>
     <price>59.94</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;b&gt;Probiotic Support for Pregnancy &amp;amp; Beyond&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Microbiome Labs’ Pregnancy Support is an innovative probiotic-powered blend formulated to support a healthy mother and baby from preconception throughout pregnancy and beyond. by sharing essential beneficial bacteria through breast milk.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -25138,7 +25127,7 @@
     <barcode>693465442111</barcode>
     <price>19.70</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Pregnenolone is synthesized in the body from cholesterol and is the precursor for all the steroid hormones, including progesterone, aldosterone, cortisol, dehydroepiandrosterone (DHEA), testosterone, and estrogens. The endogenous production of Pregnenolone begins to decline after age 35.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -25448,7 +25437,7 @@
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <sku>MBL_14</sku>
-    <barcode>793888530560</barcode>
+    <barcode>793888528963</barcode>
     <price>74.11</price>
     <compare_at_price/>
     <available>true</available>
@@ -25485,7 +25474,7 @@
     <barcode>793888527669</barcode>
     <price>65.84</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;MegaMucosa contains a blend of five specifically selected amino acids and bioflavonoids.&lt;/p&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;The mucosal system forms an important interface between the human body and the outside world, covering a large surface area throughout the body. It plays a role in how the body interacts with its environment. Four amino acids are found naturally in the intestinal mucosa: L-proline, L-serine, L-cysteine, and L-threonine. MicrobiomeX® is a natural citrus extract rich in polyphenols.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -25894,7 +25883,7 @@
     <vendor>Ayush Herbs</vendor>
     <product_type/>
     <sku>AYH_13</sku>
-    <barcode/>
+    <barcode>891501001029</barcode>
     <price>47.40</price>
     <compare_at_price>61.03</compare_at_price>
     <available>true</available>
@@ -26546,7 +26535,7 @@
     <barcode>752830969094</barcode>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;h2 class=&quot;&quot;&gt;H2 Elite® 30 Tablets&lt;/h2&gt;&lt;h3 class=&quot;&quot; style=&quot;letter-spacing: normal; color: rgb(124, 115, 135);&quot;&gt;Molecular Hydrogen&lt;/h3&gt;&lt;p&gt;H2 Elite delivers molecular hydrogen. This fast-dissolving tablet creates a refreshing, lightly effervescent drink.&lt;/p&gt;&lt;p&gt;Why H2 Elite?&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Fast-Dissolving + Refreshing - Convenient tablet form turns water into a hydrating, beverage fast.&lt;/li&gt;
@@ -26851,7 +26840,7 @@
 &lt;strong data-start=&quot;670&quot; data-end=&quot;705&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Ionic Formula &amp;amp; Glass Packaging&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; – Delivers minerals in &lt;/span&gt;&lt;strong data-start=&quot;729&quot; data-end=&quot;766&quot; style=&quot;letter-spacing: 0px;&quot;&gt;ionic form for optimal absorption&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; and is packaged in &lt;/span&gt;&lt;strong data-start=&quot;786&quot; data-end=&quot;836&quot; style=&quot;letter-spacing: 0px;&quot;&gt;preservative-free, eco-conscious glass bottles&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;.&lt;/span&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>body_bio, low_vat_rate</tags>
+    <tags>2xpoints, body_bio, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -27130,7 +27119,7 @@
     <vendor>Nordic Naturals</vendor>
     <product_type/>
     <sku>NORD_21</sku>
-    <barcode>0768990017940</barcode>
+    <barcode>768990017940</barcode>
     <price>49.04</price>
     <compare_at_price/>
     <available>false</available>
@@ -27179,11 +27168,11 @@
   </product>
   <product>
     <handle>ultimate-omega-2x-lemon-60-softgels-nordic-naturals</handle>
-    <title>Ultimate Omega 2X, lemon - 60 softgels | Nordic Naturals</title>
+    <title>Ultimate Omega- D3 2X, lemon - 60 softgels | Nordic Naturals</title>
     <vendor>Nordic Naturals</vendor>
     <product_type/>
     <sku>NORD_20</sku>
-    <barcode>0768990021558</barcode>
+    <barcode>768990021503</barcode>
     <price>71.93</price>
     <compare_at_price/>
     <available>false</available>
@@ -27217,10 +27206,10 @@
     <vendor>Vitanica</vendor>
     <product_type/>
     <sku>VIT_49</sku>
-    <barcode>70811801339</barcode>
+    <barcode>708118013393</barcode>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;Vaginal suppositories for microbial balance.&lt;/b&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
 &lt;p style=&quot;margin-bottom: 10px; color: rgb(56, 56, 56); font-family: Lato, sans-serif; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: 12px;&quot;&gt;A multi-species probiotic blend formulated for intravaginal use, and from the brand you trust for female care needs. Formulated by Dr. Tori Hudson with the probiotic species relevant to overall vaginal balance and vibrance. Each capsule contains only 2 billion microorganisms, making them safe to insert daily, or as advised.&lt;/span&gt;&lt;/p&gt;
@@ -27422,7 +27411,7 @@
     <vendor>Global Healing</vendor>
     <product_type/>
     <sku>GLOB_01</sku>
-    <barcode>811839030256</barcode>
+    <barcode>811839030317</barcode>
     <price>47.95</price>
     <compare_at_price/>
     <available>true</available>
@@ -27466,6 +27455,40 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-05T102400.391.webp?v=1764586524,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1000_label_20_285_29.jpg?v=1764586524,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-05T102344.753.webp?v=1764586524,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-05T102352.618.webp?v=1764586524</image_links>
+  </product>
+  <product>
+    <handle>alchornea-supreme-90-capsules-supreme-nutrition-products</handle>
+    <title>Alchornea Supreme - 90 Capsules | Supreme Nutrition Products</title>
+    <vendor>Supreme Nutrition Products</vendor>
+    <product_type/>
+    <sku>SN_074</sku>
+    <barcode>199284167339</barcode>
+    <price>37.71</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity/>
+    <description>&lt;p&gt;&lt;strong&gt;Alchornea Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Alchornea cordifolia&lt;/em&gt;, a botanical traditionally used in African herbal practice.&lt;/p&gt;&lt;p&gt;The plant naturally contains tannins, flavonoids, alkaloids, and other constituents characteristic of the species. This capsule format presents alchornea as a focused single-botanical preparation.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
+    <tags>low_vat_rate, supreme_nutrition</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>200.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_20Supreme_20-_2090_20capsules_20Supreme_20Nutrition_20Products_01.webp?v=1764586431</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_20Supreme_20-_2090_20capsules_20Supreme_20Nutrition_20Products_01.webp?v=1764586431</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Screenshot_2025-06-04_at_11_20_281_29.jpg?v=1765841225</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_20Supreme_20-_2090_20capsules_20Supreme_20Nutrition_20Products_02.webp?v=1765841225</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_20Supreme_20-_2090_20capsules_20Supreme_20Nutrition_20Products_01.webp?v=1764586431,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Screenshot_2025-06-04_at_11_20_281_29.jpg?v=1765841225,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_20Supreme_20-_2090_20capsules_20Supreme_20Nutrition_20Products_02.webp?v=1765841225</image_links>
   </product>
   <product>
     <handle>organic-collagen-protein-bar-vanilla-cashew-12-bars-noordcode</handle>
@@ -28064,7 +28087,7 @@
     <vendor>Nordic Naturals</vendor>
     <product_type/>
     <sku>NORD_12-60</sku>
-    <barcode>8713975900207</barcode>
+    <barcode>768990891090</barcode>
     <price>56.12</price>
     <compare_at_price/>
     <available>true</available>
@@ -28092,7 +28115,7 @@
     <vendor>NoordCode</vendor>
     <product_type/>
     <sku>NC_034</sku>
-    <barcode/>
+    <barcode>8720648640469</barcode>
     <price>30.47</price>
     <compare_at_price/>
     <available>true</available>
@@ -28240,7 +28263,7 @@
     <barcode>198715988048</barcode>
     <price>46.86</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;GÜD FOR ALL&lt;/strong&gt; is a multivitamin food supplement developed with selected active and commonly used nutrient forms.&lt;/p&gt;&lt;p&gt;The formulation includes benfotiamine (B1), 5-MTHF folate, pyridoxal-5-phosphate (B6), methylcobalamin (B12), CDP-choline, and vitamins K1 and K2 (MK-7), together with a broad range of vitamins and minerals. It was developed with attention to excipient profile and ingredient form selection.&lt;/p&gt;&lt;p&gt;This product is provided in capsule format and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -28889,7 +28912,7 @@
     <vendor>MakeWell</vendor>
     <product_type/>
     <sku>MW_25</sku>
-    <barcode>4260591790612</barcode>
+    <barcode>4260591790483</barcode>
     <price>45.77</price>
     <compare_at_price>58.85</compare_at_price>
     <available>true</available>
@@ -28964,7 +28987,7 @@
     <vendor>Codeage</vendor>
     <product_type/>
     <sku>CA_010</sku>
-    <barcode/>
+    <barcode>850043333999</barcode>
     <price>73.56</price>
     <compare_at_price/>
     <available>false</available>
@@ -29738,7 +29761,7 @@
     <vendor>Amy Myers MD</vendor>
     <product_type/>
     <sku>MYE_27</sku>
-    <barcode/>
+    <barcode>810014390765</barcode>
     <price>32.14</price>
     <compare_at_price>41.46</compare_at_price>
     <available>true</available>
@@ -30182,10 +30205,10 @@
     <vendor>RiseWell</vendor>
     <product_type/>
     <sku>RISE_14</sku>
-    <barcode>860001463507</barcode>
+    <barcode>86000718464</barcode>
     <price>19.61</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;/p&gt;&lt;p data-start=&quot;617&quot; data-end=&quot;753&quot;&gt;Fluoride-free, vegan toothpaste with wild mint flavor that whitens, protects enamel, and freshens breath naturally—safe enough to eat.&lt;/p&gt;&lt;p data-start=&quot;617&quot; data-end=&quot;753&quot;&gt;&lt;br&gt;&lt;/p&gt;At RiseWell we believe that small improvements to daily habits lead to meaningful change. Why not start with the first thing you do in the morning?Our goal is to give you a toothpaste that is as effective as chemical toothpaste, but without the toxins. So instead of simply eliminating these chemicals, we found replacements that we trust completely, and are also incredibly effective.RiseWell Mineral Toothpaste is like no other toothpaste. It will leave your teeth visibly whiter, and our natural flavors will leave you feeling fresh all day long.&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Use code&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; &lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;RISEWELL10&lt;/b&gt;&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; &lt;/span&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;at checkout for&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; &lt;/span&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;10% off&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;when you add&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; &lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;two or more&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; &lt;/span&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;RiseWell products to your cart!&lt;/span&gt;&lt;/p&gt;</description>
     <tags/>
@@ -30378,7 +30401,7 @@
     <vendor>Nordic Naturals</vendor>
     <product_type/>
     <sku>NORD_22</sku>
-    <barcode/>
+    <barcode>768990017483</barcode>
     <price>66.48</price>
     <compare_at_price/>
     <available>true</available>
@@ -30623,7 +30646,7 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0190</sku>
-    <barcode>766298020557</barcode>
+    <barcode>766298020556</barcode>
     <price>20.70</price>
     <compare_at_price/>
     <available>true</available>
@@ -30658,7 +30681,7 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0199</sku>
-    <barcode>766298105697</barcode>
+    <barcode>766298018911</barcode>
     <price>37.05</price>
     <compare_at_price/>
     <available>true</available>
@@ -30692,7 +30715,7 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0196</sku>
-    <barcode>766298001968</barcode>
+    <barcode>766298020501</barcode>
     <price>45.77</price>
     <compare_at_price/>
     <available>true</available>
@@ -30761,7 +30784,7 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0189</sku>
-    <barcode>766298000696</barcode>
+    <barcode>766298022055</barcode>
     <price>17.43</price>
     <compare_at_price/>
     <available>true</available>
@@ -30832,7 +30855,7 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0192</sku>
-    <barcode>766298012421</barcode>
+    <barcode>766298020365</barcode>
     <price>62.12</price>
     <compare_at_price/>
     <available>true</available>
@@ -30860,7 +30883,7 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0193</sku>
-    <barcode>766298116341</barcode>
+    <barcode>766298020419</barcode>
     <price>51.22</price>
     <compare_at_price/>
     <available>true</available>
@@ -31140,7 +31163,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <sku>SH_189</sku>
-    <barcode/>
+    <barcode>810007520902</barcode>
     <price>38.14</price>
     <compare_at_price>43.59</compare_at_price>
     <available>true</available>
@@ -31920,7 +31943,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -32658,7 +32681,7 @@
     <barcode>5028392001356</barcode>
     <price>42.92</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;h2 data-section-id=&quot;1qd5gtu&quot; data-start=&quot;216&quot; data-end=&quot;243&quot; style=&quot;font-size: 24px; font-family: Figtree; font-weight: 500; line-height: 32px; color: rgb(32, 26, 50);&quot;&gt;&lt;span role=&quot;text&quot; style=&quot;font-size: 14px; line-height: 20px; letter-spacing: 0px;&quot;&gt;&lt;span data-start=&quot;219&quot; data-end=&quot;243&quot; style=&quot;font-weight: bolder; line-height: 20px; letter-spacing: 0px;&quot;&gt;Metagenics MetaRelax&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p data-start=&quot;245&quot; data-end=&quot;286&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;When pressure builds, your body feels it.&lt;/p&gt;&lt;p data-start=&quot;288&quot; data-end=&quot;430&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;Busy schedules, mental demands, and physical strain can all add up. In those moments, consistency in your routine becomes even more important.&lt;/p&gt;&lt;p data-start=&quot;432&quot; data-end=&quot;600&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;span data-start=&quot;432&quot; data-end=&quot;445&quot; style=&quot;font-weight: bolder; line-height: 20px; letter-spacing: 0px;&quot;&gt;MetaRelax&lt;/span&gt; combines magnesium with carefully selected nutrients in a convenient daily format—designed for those looking to maintain balance during demanding periods.&lt;/p&gt;&lt;hr data-start=&quot;602&quot; data-end=&quot;605&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; height: 0px; color: inherit;&quot;&gt;&lt;h2 data-section-id=&quot;5igf00&quot; data-start=&quot;607&quot; data-end=&quot;635&quot; style=&quot;font-size: 24px; font-family: Figtree; font-weight: 500; line-height: 32px; color: rgb(32, 26, 50);&quot;&gt;&lt;span role=&quot;text&quot; style=&quot;font-size: 14px; line-height: 20px; letter-spacing: 0px;&quot;&gt;&lt;span data-start=&quot;610&quot; data-end=&quot;635&quot; style=&quot;font-weight: bolder; line-height: 20px; letter-spacing: 0px;&quot;&gt;Magnesium at the core&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p data-start=&quot;637&quot; data-end=&quot;714&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;Each tablet provides magnesium in the form of &lt;span data-start=&quot;683&quot; data-end=&quot;713&quot; style=&quot;font-weight: bolder; line-height: 20px; letter-spacing: 0px;&quot;&gt;magnesium glycerophosphate&lt;/span&gt;.&lt;/p&gt;&lt;ul data-start=&quot;763&quot; data-end=&quot;809&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;
 &lt;li style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;Magnesium contributes to a reduction of tiredness and fatigue&lt;/li&gt;
@@ -32969,7 +32992,7 @@
     <available>true</available>
     <quantity/>
     <description>Over 70% of your body's water is found inside your cells.1 Optimal Electrolyte is a uniquely formulated electrolyte designed to support healthy intracellular hydration. The intracellular hydration is made possible due to the higher ratio of potassium to sodium, added creatine and taurine along with the PeakATP.†</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -33043,7 +33066,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <sku>SH_192</sku>
-    <barcode>810007521921</barcode>
+    <barcode>810007529240</barcode>
     <price>52.32</price>
     <compare_at_price/>
     <available>true</available>
@@ -33946,7 +33969,7 @@
     <vendor>Designs For Health</vendor>
     <product_type/>
     <sku>DFH_213</sku>
-    <barcode/>
+    <barcode>879452005211</barcode>
     <price>30.93</price>
     <compare_at_price/>
     <available>true</available>
@@ -34492,7 +34515,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <sku>IT_68</sku>
-    <barcode/>
+    <barcode>871791004085</barcode>
     <price>18.03</price>
     <compare_at_price/>
     <available>true</available>
@@ -34523,7 +34546,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <sku>IT_53</sku>
-    <barcode/>
+    <barcode>871791110403</barcode>
     <price>31.75</price>
     <compare_at_price/>
     <available>true</available>
@@ -34647,7 +34670,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <sku>IT_52</sku>
-    <barcode/>
+    <barcode>871791001565</barcode>
     <price>28.05</price>
     <compare_at_price/>
     <available>true</available>
@@ -34678,7 +34701,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <sku>IT_67</sku>
-    <barcode/>
+    <barcode>871791001749</barcode>
     <price>23.23</price>
     <compare_at_price/>
     <available>true</available>
@@ -34740,7 +34763,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <sku>IT_58</sku>
-    <barcode/>
+    <barcode>871791706675</barcode>
     <price>62.88</price>
     <compare_at_price/>
     <available>true</available>
@@ -34802,7 +34825,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <sku>IT_55</sku>
-    <barcode/>
+    <barcode>871791110410</barcode>
     <price>48.37</price>
     <compare_at_price/>
     <available>true</available>
@@ -35169,7 +35192,7 @@
     <vendor>Metagenics</vendor>
     <product_type/>
     <sku>MET_056</sku>
-    <barcode>5028392002704</barcode>
+    <barcode>5028392000137</barcode>
     <price>59.22</price>
     <compare_at_price/>
     <available>true</available>
@@ -35231,7 +35254,7 @@
     <available>true</available>
     <quantity/>
     <description>Elevate your daily routine with a comprehensive, science-backed approach to modern wellness. Thoughtfully developed using highly bioavailable, active nutrients, this advanced daily formula is perfectly tailored to fit seamlessly into the lifestyle of women over 40. At its core is a premium blend of standardized botanicals, featuring ashwagandha, saffron, and sage extract, chosen for their purity and structural consistency. Combined with an optimally absorbed form of magnesium glycinate, this formulation provides targeted support for energy levels, a normal functioning nervous system, and healthy psychological function. Each easy-to-swallow, once-daily tablet delivers a reliable, consistent serving of high-quality ingredients, offering an entirely vegan-friendly, non-hormonal choice built to support long-term quality and your complete peace of mind.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -35377,7 +35400,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <sku>SH_196</sku>
-    <barcode/>
+    <barcode>810007521848</barcode>
     <price>28.66</price>
     <compare_at_price/>
     <available>true</available>
