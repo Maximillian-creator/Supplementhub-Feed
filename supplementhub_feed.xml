@@ -11660,7 +11660,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>acerola-supreme-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Acerola_20Supreme_20-_2059ml_20_20Supreme_20Nutrition_20Products_322fa902-77fe-45d8-8643-5996654d6be1.webp?v=1764586546</image>
@@ -16137,7 +16137,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>74.11</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hu58-high-potency-bacillus-subtillis-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-HU58-UK-Bottle-FRONT_20_281_29.jpg?v=1764585807</image>
