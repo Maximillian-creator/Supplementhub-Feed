@@ -6609,7 +6609,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>l-glutamine-850mg-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-11T124811.915.webp?v=1764586068</image>
@@ -6714,7 +6714,7 @@
     <tags>low_vat_rate</tags>
     <price>30.98</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>n-acetyl-cysteine-nac-600mg-100-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/p0085b_v8.png?v=1764586575</image>
@@ -7158,7 +7158,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-ib-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/bio-me-IB-plus-INVIVO_24_ab62cbee-93b7-46c7-a176-d5469d788551.png?v=1764586583</image>
@@ -8566,7 +8566,7 @@
     <tags>low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mico-leo-lion-s-mane-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Leo-01.png?v=1764586878</image>
@@ -11294,7 +11294,7 @@
     <tags>low_vat_rate</tags>
     <price>39.23</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hdt-detox-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_27-HdT_Detox-removebg-preview.png?v=1764586114</image>
@@ -13164,7 +13164,7 @@
   </product>
   <product>
     <sku>VV_04</sku>
-    <barcode>850060355134</barcode>
+    <barcode>850060355059</barcode>
     <title>Klenz + - 90 Capsules | VerVita</title>
     <vendor>VerVita</vendor>
     <product_type/>
@@ -19086,7 +19086,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-apple-peel-powder-layer-origin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61my2Y9I5kL.webp?v=1781606125</image>
@@ -19465,7 +19465,7 @@
     <tags>low_vat_rate</tags>
     <price>73.56</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-ovarian-inositol-powder-codeage</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-31T141301.735.webp?v=1764586261</image>
@@ -20426,7 +20426,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hair-growth-complex-for-women-60-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-29T141205.568.webp?v=1764585827</image>
