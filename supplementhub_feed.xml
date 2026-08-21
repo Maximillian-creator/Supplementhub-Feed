@@ -175,7 +175,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>blue-heron-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_03-Blue-Heron.png?v=1764585637</image>
@@ -4110,7 +4110,7 @@
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price>27.24</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-iron-chewable-60-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Iron_20Chewable_20-_2060_20Tablets_20_20Seeking_20Health_01.webp?v=1764585963</image>
@@ -8291,7 +8291,7 @@
     <tags>low_vat_rate</tags>
     <price>45.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>adrenal-nutrients-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Stress_20Nutrients_20_28formely_20Adrenal_20Nutrients_29_20-_2090_20Capsules_20_20Seeking_20Health_01.webp?v=1764586645</image>
@@ -9006,7 +9006,7 @@
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>calcium-magnesium-citrate-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0124-Calcium-Magnesium-Citrate_0f7e9e99-cda6-4f9a-bdee-fd92a3b731c0.jpg?v=1764586143</image>
@@ -11041,7 +11041,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>curcumasorb-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0166-CurcumaSorb-90s_84698bf5-18ae-4859-9398-0dd83d72ec4a.png?v=1764585701</image>
@@ -11660,7 +11660,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>acerola-supreme-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Acerola_20Supreme_20-_2059ml_20_20Supreme_20Nutrition_20Products_322fa902-77fe-45d8-8643-5996654d6be1.webp?v=1764586546</image>
@@ -11766,7 +11766,7 @@
     <tags>low_vat_rate</tags>
     <price>13.07</price>
     <compare_at_price>16.34</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mushroom-coffee-box-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/download_20_281_29_3fue5g.webp?v=1776810401</image>
@@ -11826,7 +11826,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>cissus-supreme-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_061-Cissus-Supreme_5f127bb3-5ac5-488a-952b-b1375b132833.png?v=1764586725</image>
@@ -16137,7 +16137,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>74.11</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hu58-high-potency-bacillus-subtillis-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-HU58-UK-Bottle-FRONT_20_281_29.jpg?v=1764585807</image>
@@ -16157,7 +16157,7 @@
     <tags>low_vat_rate</tags>
     <price>83.92</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>megamycobalance-180-softgels-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaMycoBalance-UK-Bottle-FRONT_20_283_29.jpg?v=1764586669</image>
@@ -22065,7 +22065,7 @@
     <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <price>25.28</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultraflora-fibre-14-sachets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraFlora_Fibre_14_37322_UK_BOX19_0.9_LxWxH_65x60x105mm_PRODUCT_IMAGE_UK_20_281_29.jpg?v=1769556121</image>
