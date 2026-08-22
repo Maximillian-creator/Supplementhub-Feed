@@ -727,26 +727,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MBL_27</sku>
-    <barcode>674306523787</barcode>
-    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
-    <vendor>Microbiome Labs</vendor>
-    <product_type/>
-    <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>56.66</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>0</quantity>
-    <handle>restorflora-50-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>64.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>MCL_01</sku>
     <barcode>866133000313</barcode>
     <title>Lauricidin (Monolaurin) - 227g | Lauricidin</title>
@@ -1384,7 +1364,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>iron-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20IRP-004_20UK_20PMD_20Iron_20Oct_202025-2_20_281_29.webp?v=1768000833</image>
@@ -4110,7 +4090,7 @@
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price>27.24</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>optimal-iron-chewable-60-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Iron_20Chewable_20-_2060_20Tablets_20_20Seeking_20Health_01.webp?v=1764585963</image>
@@ -8566,7 +8546,7 @@
     <tags>low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-leo-lion-s-mane-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Leo-01.png?v=1764586878</image>
@@ -10069,7 +10049,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>cryptolepis-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_17-Cryptolepsis_f4dc8407-c86b-487b-8905-b023b3d71d2c.jpg?v=1764586156</image>
@@ -11314,7 +11294,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hdt-equilibrium-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_28-HdT-Equilibrium.png?v=1764585669</image>
@@ -11484,7 +11464,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -12899,7 +12879,7 @@
     <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>periobiotic-silver-probiotic-toothpaste-spearmint-113g-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_193-Periobiotic-Silver_5lxz7n_dc40b103-f10c-47f1-b1ce-825d316cb4d8.png?v=1764586364</image>
@@ -13549,7 +13529,7 @@
     <tags>low_vat_rate</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-360g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_18_232839ab-dbc4-4d97-adba-4bb671ec6f64.png?v=1764586609</image>
@@ -15701,7 +15681,7 @@
     <tags>low_vat_rate</tags>
     <price>82.28</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-2x-with-vitamin-2150mg-lemon-flavour-60-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Ultimate_20Omega_202X_202150mg_20_28Lemon_20Flavour_29_20-_2060_20Softgels_20_20Nordic_20Naturals_01.webp?v=1764585714</image>
@@ -16157,7 +16137,7 @@
     <tags>low_vat_rate</tags>
     <price>83.92</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamycobalance-180-softgels-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaMycoBalance-UK-Bottle-FRONT_20_283_29.jpg?v=1764586669</image>
@@ -16636,7 +16616,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>vaginal-balance-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Vaginal_20Balance_20-_2060_20Capsules_20_20Microbiome_20Labs_01_q1ccv6.webp?v=1764585832</image>
@@ -19086,7 +19066,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-apple-peel-powder-layer-origin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61my2Y9I5kL.webp?v=1781606125</image>
