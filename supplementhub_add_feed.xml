@@ -268,7 +268,7 @@
     <barcode>871791000636</barcode>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Blue Heron™ is a blend of dietary fibre, nutritional herbs, and probiotics formulated for intestinal support. The gentle fibres and herbs support colon function.&lt;/p&gt;&lt;p&gt;• Gentle detoxification support&lt;/p&gt;&lt;p&gt;• Encourages bowel movements&lt;/p&gt;&lt;p&gt;• Soothing intestinal blend&lt;/p&gt;&lt;p&gt;• Digestive protection via specifically selected probiotic blend&lt;/p&gt;&lt;p&gt;• With fenugreek, to help improve cholesterol levels&lt;/p&gt;&lt;p&gt;• With slippery elm to soothe the digestive system&lt;/p&gt;&lt;p&gt;The formula in Blue Heron supports detoxification and colon function. The technology used allows for the dispersion of the ingredients and avoids clumping when dissolved in water, so that they can be completely released for optimum digestive results.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -305,7 +305,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Cellular Forté® is a rich source of IP-6 and Inositol; but it also delivers essential minerals like calcium and magnesium. &lt;br&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -667,7 +667,7 @@
     <available>true</available>
     <quantity/>
     <description>Pro-Som™ by Integrative Therapeutics contains L-theanine. This formula also includes magnesium and magnolia bark. </description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -1160,40 +1160,6 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LTYG_25-Vegan-Mocha-Latte_1_54597ff5-9e3f-41ca-bcfb-855022039e9e.png?v=1764586069,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LTYG_25-Vegan-Mocha-Latte-ING_ddb6efa4-5181-4f0a-866b-4435efca746e.png?v=1764586069</image_links>
-  </product>
-  <product>
-    <handle>restorflora-50-capsules</handle>
-    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
-    <vendor>Microbiome Labs</vendor>
-    <product_type/>
-    <sku>MBL_27</sku>
-    <barcode>674306523787</barcode>
-    <price>56.66</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity/>
-    <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>64.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-RIGHT_20_281_29_20_281_29.jpg?v=1774909084</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-LEFT_20_281_29_20_281_29.jpg?v=1774909084</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-RIGHT_20_281_29_20_281_29.jpg?v=1774909084,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-LEFT_20_281_29_20_281_29.jpg?v=1774909084</image_links>
   </product>
   <product>
     <handle>lauricidin-monolaurin-227g</handle>
@@ -2051,7 +2017,7 @@
     <barcode>895606002028</barcode>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Iron Plus Topical Patch provides a non-constipating, well-absorbed form of iron - iron bisglycinate - which comes without the negative side effects of oral iron supplements. A great choice if you need to boost your iron levels.&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
 &lt;li&gt;Vitamin A contributes to normal iron metabolism&lt;/li&gt;
@@ -2729,7 +2695,7 @@
     <barcode>895606002424</barcode>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Glucosamine and Chondroitin Topical Patch by Patch MD combines glucosamine and chondroitin in optimum quantities in one handy patch.&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Turmeric is used to facilitate the digestion, helps to support normal liver function, contributes to the stimulation of the production of the digestive body fluids, supports the liver and biliary function, contributes to the digestive comfort, helps to facilitate fat digestion &lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2252 pending European approval.&lt;/li&gt;
@@ -4194,7 +4160,7 @@
 &lt;li&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;li&gt;Vitamin B12 has a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Vitamin B12 is one of the most difficult nutrients for the body to absorb and utilise. Deficiency can be common, particularly when following a vegan or plant-based diet. For these reasons, it is important to consume B12 in a bioavailable, optimally-absorbed form. The Active B12 1000 lozenges provide methylcobalamin and adenosylcobalamin.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4241,7 +4207,7 @@
 &lt;li&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue &lt;/li&gt;
 &lt;li&gt;Vitamin B12 has a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;B12 is one of the most difficult nutrients for the body to absorb, particularly in people with digestive issues or older adults. As it is predominantly found in animal products, deficiency can also be common in those following a vegan or vegetarian diet. Active B12 5000 provides bioactive forms of vitamin B12 that your body can readily recognise and utilise. &lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4293,7 +4259,7 @@
 &lt;li style=&quot;line-height: 2;&quot;&gt;Vitamin B12 &amp;amp; Folate contribute to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;li style=&quot;line-height: 2;&quot;&gt;Vitamin B12 &amp;amp; Folate have a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;*Disclaimer: &lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4345,7 +4311,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4389,7 +4355,7 @@
 &lt;li&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;li&gt;Vitamin B12 has a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4543,7 +4509,7 @@
 &lt;li&gt;Choline contributes to normal lipid metabolism&lt;/li&gt;
 &lt;li&gt;Choline contributes to the maintenance of normal liver function&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;An adequate level of B vitamins is vital for overall health, since the body cannot make them by itself and they need to be obtained from our food on a daily basis. This potent formula contains the bioavailable forms of folate and vitamin B12.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4604,7 +4570,7 @@
 &lt;li&gt;Biotin contributes to the maintenance of normal hair &amp;amp; skin&lt;/li&gt;
 &lt;li&gt;Vitamin B6 contributes to normal function of the immune system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;B Minus is a great option for those who need some flexibility with B vitamin dosing and want to be able to add in folate and B12 in the most suitable forms for them. B vitamins are needed for almost every biochemical process in the body. Because B vitamins are water soluble, they need to be consumed daily, as they cannot be stored in the body. B Minus can be paired with other suitable supplements to provide the full complement of B vitamins, as required by each individual.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4696,7 +4662,7 @@
 &lt;li&gt;Folate has a role in the process of cell division&lt;/li&gt;
 &lt;li&gt;Supplemental folic acid intake increases maternal folate status. Low maternal folate status is a risk factor in the development of neural tube defects in the developing foetus.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Folate is a vital nutrient to be taken pre-conception and for the first three months of pregnancy to help reduce the risk of neural tube defects in the baby. Folinic Acid is a form of folate that is more slowly released, and can provide relief to those sensitive to methylated nutrients. &lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Non-methyl form of folate quickly converts to active L-5-MTHF within the body&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4793,7 +4759,7 @@
 &lt;li&gt;Supports a healthy mood&lt;/li&gt;
 &lt;li&gt;Contributes to healthy vitamin B12 levels&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Hydrox-Adeno B12 contains two forms of vitamin B12, hydroxocobalamin and adenosylcobalamin. They are both well tolerated by those who experience side effects such as nervousness, headaches or rapid heartbeat when taking methylated B vitamins. These two forms of B12 offer a slower release and contribute to a healthy nervous system, improved homocysteine levels and enhanced cognition and energy levels.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 lozenge daily. If a smaller dose is required, lozenge can be broken into smaller pieces.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4840,7 +4806,7 @@
 &lt;li&gt;May help to reduce tingling of hands and feet&lt;/li&gt;
 &lt;li&gt;May be particularly beneficial for those with poor digestion, older adults, vegans or vegetarians&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Hydroxo B12 comes in a form of vitamin B12 that is suitable for those who have problems with methylated forms of vitamins and minerals. In hydroxocobalamin form, it is still able to support healthy methylation, by easily being able to convert in to the active forms of B12. B12 is an important vitamin for healthy detoxification to help to rid the body of toxins. Vitamin B12 deficiency is typically characterised by poor memory, fatigue and tingling in the hands and feet. B12 has been found to support healthy levels of nitric oxide, which when too high, can trigger headaches and migraines. As B12 is found mostly in animal foods, deficiency can be common amongst vegans or vegetarians. Having a good digestive system is also important to be able to effectively absorb B12 from foods, therefore those with digestive issues or older adults, may also be at risk of deficiency.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 lozenge daily.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4887,7 +4853,7 @@
 &lt;li&gt;Supports healthy homocysteine levels and cardiovascular function&lt;/li&gt;
 &lt;li&gt;Contains folinic acid, a methyl-free form of folate&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;The key ingredients in Hydroxo B12 are hydroxocobalamin, a non-methylated form of vitamin B12 and folinic acid, a non-methylated form of folate. They work together to support health, and contribute to detoxification pathways and healthy homocysteine levels. Vitamin B12 may be lacking in plant-based diets, and it can be very beneficial for those following a strictly vegan lifestyle. Folate and B12 contribute to healthy red blood cell formation and play a role in energy metabolism. Delicious lozenge that can be taken daily, and can also be broken into smaller pieces if a lower dosage is desired.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 lozenge per day.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -4934,7 +4900,7 @@
 &lt;li&gt;May support DNA biosynthesis&lt;/li&gt;
 &lt;li&gt;Provides folate in its most active form as L-methylfolate&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Folate is a water soluble B vitamin, therefore needs to be consumed every day to maintain adequate levels, as it cannot be stored in the body. It is typically found in green leafy vegetables, citrus fruits and dried beans and peas. Folate is important for supporting a healthy nervous system. It is also important for heart health as it helps convert homocysteine to methionine. Without this conversion, homocysteine levels become too high, which can be damaging to the heart. Folate is one of the most important nutrients to be taken prior to conception and is recommended to be taken 3 months prior to planning to conceive and throughout the first trimester, to reduce the risk of neural tube defects in the developing foetus.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 capsule daily.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5014,7 +4980,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Magnesium Glycinate Powder by Seeking Health contains an easy to take powder that delivers a gentle form of magnesium. Magnesium deficiency is common due to a decreasing amount of magnesium being present in foods.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Magnesium is an important mineral that is involved in over 300 biochemical reactions in the body.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 scoop daily.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5066,7 +5032,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;*Disclaimer:&lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5143,7 +5109,7 @@
     <barcode>810007520728</barcode>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;N-Acetyl-L-Cysteine (NAC) is an a sulphur containing amino acid that facilitates glutathione production.&lt;/p&gt;&lt;p&gt;N-Acetyl-L-cysteine (NAC) forms part of our body’s major antioxidant, glutathione, together with glycine and glutamic acid. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -5192,7 +5158,7 @@
 &lt;li&gt;Niacin contributes to the maintenance of normal mucous membranes &amp;amp; skin&lt;/li&gt;
 &lt;li&gt;Niacin contributes to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5238,7 +5204,7 @@
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Niacin contributes to the maintenance of normal mucous membranes &amp;amp; skin&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Niacin contributes to the reduction of tiredness and fatigue&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;i data-mce-fragment=&quot;1&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Niacin&lt;/i&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; capsules by Seeking Health are gluten-free and dairy-free. They are also free from artificial colours, flavours, preservatives, GMO markers, and common allergens.&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer&lt;/b&gt;: Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5294,7 +5260,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5350,7 +5316,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5406,7 +5372,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -5462,7 +5428,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -6128,7 +6094,7 @@
 &lt;li&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Riboflavin contributes to the protection of cells from oxidative stress&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Riboflavin contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -6553,7 +6519,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Glutathione with Cofactors provides S-Acetyl-L-Glutathione, an acetylated form of glutathione, alongside three nutrient cofactors: riboflavin, selenium, and molybdenum.&lt;/p&gt;&lt;p&gt;Riboflavin (vitamin B2) contributes to the protection of cells from oxidative stress, delivered here at 5 mg per capsule. Selenium likewise contributes to the protection of cells from oxidative stress, and to normal immune function, provided at 5 µg per capsule. Molybdenum contributes to the normal metabolism of sulphur-containing amino acids, delivered at 25 µg per capsule.&lt;/p&gt;&lt;p&gt;Each capsule provides 100 mg of S-Acetyl-L-Glutathione in a small, taste-free, travel-friendly format.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -6915,7 +6881,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Optimal Electrolyte Powder is a natural electrolyte supplement that supports optimal hydration.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Supports optimal hydration and fluid balance&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Optimal Electrolyte Powder is formulated to support all-day hydration. The powder has a delicious lemonade flavour and can be easily mixed with water to enjoy sipping it throughout the day. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -7043,7 +7009,7 @@
 &lt;li style=&quot;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;&lt;b&gt;Curcumin helps to keep the skin healthy&lt;/b&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 4008 pending European approval.&lt;/font&gt;&lt;/li&gt;
 &lt;li style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;Betaine  contributes to normal homocysteine metabolism&lt;/b&gt;&lt;/li&gt;
 &lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Many issues occur if one does not have healthy bile production and flow.&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Bile Nutrients is a powerful herbal formula that supports your liver’s bile production. &lt;/span&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Bile helps to break down fats from food in the small intestine. Due to its ability to regulate which microbes can survive in the upper intestinal tract, bile also supports the healthy balance of microbes in your small intestines.&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -7114,7 +7080,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;B Complex MF is a potent vitamin B complex containing the 8 essential B vitamins featuring non methylated B12 and folate.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;B Complex MF contains folate and vitamin B12 in non-methylated forms. It features folate as folinic acid and B12 as adenosylcobalamin and hydroxocobalamin. These methyl-free forms do not convert so rapidly to their active forms in the body. We need B vitamins on a daily basis. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -10164,7 +10130,7 @@
     <barcode>810014390192</barcode>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;L-Glutamine is an amino acid important for gut health, thyroid function and immune support. Found in protein, this amino acid is the most abundant in the body, where it is used in large amounts.&lt;/p&gt;&lt;p&gt;• May help support optimal gut function and repair the gut lining&lt;/p&gt;&lt;p&gt;• Important for the optimal functioning of the immune system&lt;/p&gt;&lt;p&gt;• Can be supportive in the management of sugar cravings and help maintain a healthy weight&lt;/p&gt;&lt;p&gt;• Supports thyroid function&lt;/p&gt;&lt;p&gt;• Supports muscle tissue repair, especially after exercise&lt;/p&gt;&lt;p&gt;• Helpful after a course of antibiotics&lt;/p&gt;&lt;p&gt;The body requires amino acids, like L-Glutamine, in order to grow, repair and be healthy. When taken before a workout L-glutamine supports the muscle’s demands for glucose. Taken after a workout L-Glutamine helps build new muscle tissue and repair overworked muscles.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -10322,7 +10288,7 @@
     <barcode>707359100855</barcode>
     <price>30.98</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;N-Acetyl-Cysteine (NAC) has been formulated to support cellular health, providing a 600 mg dose of NAC per capsule, alongside trace minerals selenium and molybdenum.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;NAC is a reliable form of the non-essential amino acid cysteine. NAC not only possesses its own free radical scavenging activity, but it also plays a crucial role in supplying cysteine to the body. This enables the production and replenishment of glutathione, our body's master antioxidant, providing protection against harmful free radicals. What sets this formula apart is the inclusion of two trace minerals: molybdenum, an essential cofactor for numerous biochemical reactions, and selenium, known for its ability to support glutathione production.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Molybdenum contributes to normal sulphur amino acid metabolism&lt;/li&gt;
@@ -10970,7 +10936,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Bio.Me Mind + Mood is a probiotic formulation with biotin and contains live bacteria strains.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 capsule daily.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -12018,7 +11984,7 @@
     <barcode>794504726930</barcode>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Endo Supreme™&lt;/strong&gt; is a practitioner-style botanical formula presented in capsule format as part of the Supreme Nutrition range.&lt;/p&gt;&lt;p&gt;The formulation is positioned within the endocrine-focused category and combines selected botanical ingredients in a concentrated capsule format. It is intended as a multi-herb preparation rather than a single-ingredient product.&lt;/p&gt;&lt;p&gt;This blend is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -13721,7 +13687,7 @@
     <barcode>766298020129</barcode>
     <price>26.15</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Calcium Magnesium by Pure Encapsulations contains both calcium and magnesium in citrate form, which is a highly absorbable form. Calcium and Magnesium work together in the body, supporting muscle, bone and dental health, therefore taking them together can provide the balance your body needs.&lt;/p&gt;&lt;p&gt;- Supports bone and teeth health&lt;/p&gt;&lt;p&gt;- Supports the healthy functioning of the nervous system&lt;/p&gt;&lt;p&gt;- Important for the normal functioning of muscles&lt;/p&gt;&lt;p&gt;- Supports energy production and may reduce feelings of tiredness and fatigue&lt;/p&gt;&lt;p&gt;- Needed for electrolyte balance and may help to reduce muscle cramps&lt;/p&gt;&lt;p&gt;- Comes in highly absorbable citrate form&lt;/p&gt;&lt;p&gt;Calcium and magnesium are particularly important for bone and dental health, as well as normal functioning muscles. Magnesium in particular can help to reduce muscle cramps. Magnesium helps to regulate calcium levels in the body which is important for bone and teeth health. Magnesium is also important for the production of energy, so taking it may help to reduce tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Suggested use is 3 capsules daily.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -15967,7 +15933,7 @@
     <barcode>766298023328</barcode>
     <price>52.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Liposomal Vitamin C liquid offers vitamin C in an enhanced-absorption liposomal form. The liposomal delivery system utilizes phospholipids from GMO-free sunflower seeds.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Provided in a pleasant-tasting, citrus-flavoured liquid. Featuring&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;1,000 mg of vitamin C per serving. Vitamin C contributes to the&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;normal function of the immune system. Vitamin C contributes&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;to normal collagen formation for the normal function of blood&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;vessels, bones, gums, skin teeth &amp;amp; cartilage.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -16546,7 +16512,7 @@
     <barcode>9120089610110</barcode>
     <price>66.48</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Pycnogenol Superior 100 is a purely plant-based product containing 100 mg patented pine bark extract (Pycnogenol®) and 100 mg grape seed extract. Pine bark extract and grape seed extract provide a high proportion of proanthocyanidins.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Pine bark extract promotes microcirculation in the capillary vessels as well as in the brain, protects the walls of blood vessels and supports blood circulation.*&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;* Health claim ID 2476 pending European authorization&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Bioavailable micronutrients in a pure form:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;• According to the pure substance principle&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt; • Without colours, flavours or glazing agents&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt; • Gluten-free&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt; • Lactose-free&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt; • Hypoallergenic&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt; • 100 % vegan&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt; • Quality tested&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;*&lt;b&gt;Disclaimer:&lt;/b&gt; We provide only high-quality, practitioner-approved supplements. Legal restrictions prevent full disclosure of product potency and effectiveness. For more information, please refer to a medical library.&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -16744,7 +16710,7 @@
     <barcode>766298023571</barcode>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;CurcumaSorb provides the Meriva® curcumin-phosphatidylcholine complex for enhanced absorption and bioavailability. The proprietary ‘phytosome’ complex promotes resistance to digestive degradation and efficient absorption across membranes. This produces significantly higher peak plasma concentrations and larger area under concentration-time curves (AUC). &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;A human pharmacokinetic study demonstrated that elevations in plasma curcumin from 450 mg Meriva® were similar to values obtained from 4,000 mg of a standard curcumin extract.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -16931,7 +16897,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Serotonin Nutrients contains vitamin B6 and Griffonia simplicofolia seed to directly support the serotonergic pathway and the production of serotonin. Niacin is also included to support a healthy and normal kyurenine pathway speed.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Dr. Lynch included the patented Safr’Inside™ ingredient in Serotonin Nutrients because it appears to both slow MAOA and MAOB as well as slow the reuptake of serotonin by inhibiting the activity of SLC6A4 gene. &lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;After attaching to the receptors, the serotonin initiates a signaling process that relies on inositol to carry out its function. Serotonin Nutrients includes this important ingredient to make sure the support for serotonin begins at the beginning and ends at the end.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;When we are lacking adequate serotonin and have a poor mood, we will often find that we crave foods and behaviors to bring us a boost. This may lead to an increase in consumption of sweets and other additive foods and behaviors. &lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -17121,7 +17087,7 @@
     <barcode>8436561602094</barcode>
     <price>39.23</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;A synergistic duo of organic Maitake and Polyporus extracts that detoxify and drain harmful substances from the body via their diuretic, lymph-mobilising and liver-purifying effects.&lt;/p&gt;&lt;p&gt;Organic HdT extract of Maitake (Grifola frondosa T1178 - Grifolumib®) 200 mg, organic HdT extract of Polyporus (Polyporus umbellatus T1666) 200 mg, organic Acerola powder (Malpighia glabra) 35.29 mg.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17155,7 +17121,7 @@
     <barcode>8436561602100</barcode>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;A triad of synergistic adaptogenic medicinal mushrooms (Reishi, Lion’s Mane and Cordyceps) that balance the body’s immune, nervous and endocrine systems.&lt;/p&gt;&lt;p&gt;Organic extract of Reishi (Ganoderma lucidum HdT488 DSM 32782, Ganozumib®) 225 mg, micronised organic powder of Lion’s Mane (Hericium erinaceus HdT1428 DSM 34087, Herimax®) 90 mg, pure biofermented extract of Cordyceps (Cordyceps sinensis HdT CS4 BR, Cordyzumib®) 45 mg and organic powder of acerola (Malpighia glabra) 35.29 mg.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17698,7 +17664,7 @@
     <barcode>197644225255</barcode>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Acerola Supreme™&lt;/strong&gt; is a liquid food supplement containing &lt;em&gt;Malpighia emarginata&lt;/em&gt;, also known as acerola or Barbados cherry.&lt;/p&gt;&lt;p&gt;The fruit is naturally rich in vitamin C and also provides carotenoids, bioflavonoids, and polyphenolic compounds characteristic of acerola. The liquid format presents the ingredient in a concentrated, flexible-use form.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -18284,7 +18250,7 @@
     <available>false</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Dopamine Nutrients contains L-tyrosine, the primary ingredient needed to make dopamine, and ginkgo biloba which supports the rate limiting enzyme tyrosine hydroxylase (TH). It also contains&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; royal jelly, Safr’InsideTM a nd CurcugenTM. Royal jelly is also a natural source of biopterin.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -18412,7 +18378,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -18452,7 +18418,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;div&gt;ThiAssist is designed to support the actions of thiamine at the cellular level and contains five minerals in their bioavailable form. This formula is intended to compliment supplementation with Thiamax or any other form of thiamine taken in higher dosages. This formula does not contain a full spectrum of minerals and should not be used to replace zinc, copper, iron, or any other trace mineral not included in this product.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Magnesium is a cofactor mineral necessary for the activity of thiamine-dependent enzymes (transketolase, pyruvate dehydrogenase, and alpha ketoglutarate dehydrogenase). Two varieties of magnesium with enhanced bioavailability are contained within ThiAssist. Magnesium malate is composed of malic acid, an organic acid involved in the production of cellular energy. Alternatively, magnesium taurate provides the amino acid taurine, which serves numerous roles including supporting antioxidant activity, electrolyte balance, and neurological function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Potassium is another electrolyte mineral which may become low in thiamine deficiency states. In the form of potassium citrate, this mineral serves the dual function of urinary alkalinization.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Molybdenum is a dietary mineral incorporated into the molybdate cofactor, which acts as a cofactor for oxidase enzymes including xanthine oxidase and sulphite oxidase. Sulphite oxidase plays an important processing of sulphur compounds, reducing the accumulation of the sulphite toxin and converting this into inorganic sulphate. Molybdenum may therefore be useful for improving sulphur metabolism. The molybdenum incorporated into this formula is bound with the amino acid glycine for improved absorption.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Selenomethionine provides the selenium mineral bound with the amino acid methionine, which is the main form found in foods. Selenium is necessary for the action of glutathione peroxidase, a critical enzyme utilized by the endogenous antioxidant system. Selenium is therefore useful in maintaining protection against oxidative stress and may also support health thyroid function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Finally, ThiAssist also contains the manganese mineral in the form of manganese gluconate. Manganese is necessary for the activity of manganese-superoxide dismutase, a mitochondrial antioxidant. It also serves as a cofactor for a variety of other enzymes including Pyruvate carboxylase, phosphoenolpyruvate carboxykinase, arginase, glutamine synthetase, prolidase, and glycosyltransferases. Earlier research highlighted a potential relationship between manganese and thiamine status, although this connection has not been well elucidated.&lt;/div&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -18486,7 +18452,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Thiamega provides a high dosage of vitamin B1 in four different forms, each possessing unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Three of these forms are synthetic derivatives originally developed in Japan and are known to possess much greater bio-availability compared with ordinary thiamine salts.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine is an S-acyl derivative of thiamine known for its ability to improve blood sugar management and support peripheral nerve function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sulbutiamine contains two molecules of thiamine bound together by a disulphide bond. Thiamine Tetrahydrofurfuryl Disulphide (TTFD) contains one thiamine molecule bound with a sulphur-mercaptan group, which provides it with unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The molecular structure of these three thiamine derivatives allows them to pass through intestinal and cellular membranes without the requirement for a transport system. Once inside the cell, they deliver thiamine which can be activated and used as a cofactor in important biochemical processes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine, sulbutiamine and TTFD may increase brain levels of thiamine, support cognition and central nervous system function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Each capsule delivers a total of 400mg of thiamine.&lt;/div&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -18520,7 +18486,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;div&gt;ThiActive B-Complex provides a full spectrum of nutritional B vitamins to complement the action of thiamine (vitamin B1) within the cell, including two different forms of thiamine with high bioavailability.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine is an S-acyl derivative of thiamine known for its ability to improve blood sugar management and support peripheral nerve function. Thiamine Tetrahydrofurfuryl Disulphide (TTFD) contains one thiamine molecule bound with a sulphur-mercaptan group, which provides it with unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The molecular structure of these two thiamine derivatives allows them to pass through intestinal and cellular membranes without the requirement for a transport system. Once inside the cell, they deliver thiamine which can be activated and used as a cofactor in important biochemical processes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To support the process of methylation, this complex includes active folate in the form of L-methyl folate, along with non-methylated folate in the form of folinic acid (calcium folinate). Similarly, two types of active vitamin B12 are provided in the forms of methylcobalamin and adenosylcobalamin.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This formula also contains the activated form of vitamin B2 (riboflavin-5-phosphate) and vitamin B6 (pyrixodal-5-phosphate).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As an additional ingredient, D-ribose is included as a sugar precursor to promote cellular ATP production.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This product was designed for people who feel that they benefit from methylated vitamins in their active form.&lt;/div&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -18585,7 +18551,7 @@
     <available>true</available>
     <quantity/>
     <description>&lt;div&gt;&lt;b&gt;Who Needs Joint Nutrients?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Your joints are a complex system of bone, muscle, cartilage, ligaments, and fluid. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;They give your skeleton its shape and help you to hop, skip, jump, and stand. When they are functioning optimally that is.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;With all these pieces involved and movements required, joints are susceptible to a number of issues. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pain, stiffness, and inflammation of the joints affect 1 in 4 American adults, and this number only increases with age.&lt;/div&gt;</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -19569,7 +19535,7 @@
     <barcode>879452006492</barcode>
     <price>22.88</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;PerioBiotic™ Silver is a toothpaste that features purified silver, coenzymeQ10 (CoQ10), grape seed extract, and Dental-Lac™, a &lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Lactobacillus paracasei&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; probiotic that has been shown in research to help support oral microbial balance and periodontal health. This spearmint-flavoured toothpaste contains no fluoride, sulfates, or saccharin. It is also free of BPAs, parabens, synthetic colours, gluten, and synthetic sweeteners. Periobiotic™ Silver may help maintain dental and oral health and may support oral microbial balance.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -19964,7 +19930,7 @@
     <vendor>VerVita</vendor>
     <product_type/>
     <sku>VV_04</sku>
-    <barcode>850060355134</barcode>
+    <barcode>850060355059</barcode>
     <price>44.68</price>
     <compare_at_price/>
     <available>true</available>
@@ -20449,7 +20415,7 @@
     <barcode>8720648640131</barcode>
     <price>35.96</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.\n\nGrass-fed, free-grazing cows from the Alps\nThe milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.\n\nOnly whey protein, with no additives or flavours\nPure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.\n\nSoft processing without irradiation\nNoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.&lt;br&gt;&lt;br&gt;Grass-fed, free-grazing cows from the Alps&lt;br&gt;The milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.&lt;br&gt;&lt;br&gt;Only whey protein, with no additives or flavours&lt;br&gt;Pure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.&lt;br&gt;&lt;br&gt;Soft processing without irradiation&lt;br&gt;NoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -22549,7 +22515,7 @@
     <barcode>8719327511176</barcode>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.\n\nGrass-fed, free-grazing cows from the Alps\nThe milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.\n\nOnly whey protein, with no additives or flavours\nPure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.\n\nSoft processing without irradiation\nNoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.&lt;br&gt;&lt;br&gt;Grass-fed, free-grazing cows from the Alps&lt;br&gt;The milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.&lt;br&gt;&lt;br&gt;Only whey protein, with no additives or flavours&lt;br&gt;Pure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.&lt;br&gt;&lt;br&gt;Soft processing without irradiation&lt;br&gt;NoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -22980,7 +22946,7 @@
 &lt;li&gt;Pop in the lozenge and experience the benefits of glutathione quickly&lt;/li&gt;
 &lt;li&gt;Perfect for kids, on-the-go or traveling&lt;/li&gt;
 &lt;/ul&gt;</description>
-    <tags/>
+    <tags>2xpoints</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -23652,7 +23618,7 @@
 &lt;li&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/li&gt;
 &lt;li&gt;Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55.&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Optimal Electrolyte is gluten-free, dairy-free, and free from GMO markers. It contains NO unhealthy fillers, artificial sweeteners, artificial preservatives, or additives (unlike many popular sports drinks and electrolyte drinks). It is sweetened with natural monk fruit and is free from stevia.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -23689,7 +23655,7 @@
     <barcode>768990021558</barcode>
     <price>82.28</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div class=&quot;pdp-tabs__about-summary&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;div class=&quot;rte wysiwyg&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Ultimate Omega-D3 2X packs 2000 mg EPA+DHA and 1000 IU vitamin D3 into two lemon-flavored soft gels for the most bone, brain and immune system support.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pdp-tabs__about-points&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;div class=&quot;rte wysiwyg&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;ul class=&quot;list-bullet-points&quot; data-mce-fragment=&quot;1&quot;&gt;
 &lt;li data-mce-fragment=&quot;1&quot;&gt;&lt;span class=&quot;value&quot; data-mce-fragment=&quot;1&quot;&gt;2150 mg total omega-3s; 1000 IU Vitamin D3&lt;/span&gt;&lt;/li&gt;
@@ -24315,7 +24281,7 @@
     <barcode>674306523282</barcode>
     <price>65.84</price>
     <compare_at_price>74.11</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;HU58™ is a high potency dose of&lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;em data-mce-fragment=&quot;1&quot;&gt;Bacillus subtilis HU58&lt;/em&gt;&lt;/b&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;formulated to enhance the efficacy of MegaSporeBiotic™. &lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;The main benefit of taking additional Bacillus subtilis is&lt;strong&gt; a &lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;100% survivability in the digestive tract&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Long before the days of antibiotics, Bacillus subtilis was used as a powerful probiotic treatment for many digestive symptoms, including traveller’s diarrhoea and acute diarrhoea in children. By the mid-1900s, cheap antibiotics began to replace this probiotic in the US markets in the interest of cutting healthcare costs. However, the rest of the world continues to use Bacillus subtilis for a variety of GI symptoms.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -24784,7 +24750,7 @@
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Magnesium contributes to electrolyte balance&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Magnesium contributes to normal functioning of the nervous system&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;i&gt;Optimal Magnesium&lt;/i&gt; offers the best health benefits of magnesium in one simple capsule. Now you can enjoy the best forms of magnesium in one easy capsule!&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -25019,7 +24985,7 @@
     <barcode>793888532960</barcode>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;Vaginal Balance&lt;/b&gt; is formulated with Lactobacillus probiotics, the most common bacterial species found in a healthy vagina and Cranberry Powder.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;The Science&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Did you know your vagina has a microbiome, just like your gut? The vaginal microbiome is a delicate and dynamic ecosystem. When there aren’t enough Lactobacillus probiotics in the vagina, the vaginal pH and microbiome become unbalanced, allowing nonbeneficial yeast and bacteria to grow and thrive. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;How this &lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;b&gt;Helps&lt;/b&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Vaginal Balance contains five Lactobacillus probiotic strains commonly found in healthy vaginas.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -26840,7 +26806,7 @@
 &lt;strong data-start=&quot;670&quot; data-end=&quot;705&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Ionic Formula &amp;amp; Glass Packaging&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; – Delivers minerals in &lt;/span&gt;&lt;strong data-start=&quot;729&quot; data-end=&quot;766&quot; style=&quot;letter-spacing: 0px;&quot;&gt;ionic form for optimal absorption&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; and is packaged in &lt;/span&gt;&lt;strong data-start=&quot;786&quot; data-end=&quot;836&quot; style=&quot;letter-spacing: 0px;&quot;&gt;preservative-free, eco-conscious glass bottles&lt;/strong&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;.&lt;/span&gt;
 &lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, body_bio, low_vat_rate</tags>
+    <tags>body_bio, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -28878,7 +28844,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
+    <tags>2xpoints, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -28990,7 +28956,7 @@
     <barcode>850043333999</barcode>
     <price>73.56</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
 &lt;li&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Codeage Liposomal Ovarian Inositol+ powder is a nutritional supplement designed for women, created to help support ovarian well-being and hormone equilibrium by incorporating Myo-inositol, D-chiro-inositol, 5-MTHF folate, CoQ10 phytosome, wild blueberry, and pomegranate extracts.* Features liposomal delivery for absorption and bioavailability.* Mixed berry flavor. 2-month supply.&lt;/span&gt;&lt;/li&gt;
@@ -30248,7 +30214,7 @@
     <barcode>693465000373</barcode>
     <price>52.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-start=&quot;44&quot; data-end=&quot;110&quot;&gt;&lt;strong data-start=&quot;44&quot; data-end=&quot;110&quot;&gt;Hair Growth Complex For Women&lt;br data-start=&quot;75&quot; data-end=&quot;78&quot;&gt;Formulated for Stronger Hair*&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;656&quot; data-end=&quot;789&quot;&gt;&lt;/p&gt;&lt;p data-start=&quot;112&quot; data-end=&quot;592&quot;&gt;Hair thinning is one of the most common yet overlooked health concerns facing women today, with nearly 40% of women experience visible hair thinning by age 50 and up to 66% of postmenopausal women report significant hair thinning or bald spots. &lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Iodine contributes to normal cognitive function&lt;/span&gt;&lt;/li&gt;
@@ -30373,7 +30339,7 @@
     <barcode>0628747419468</barcode>
     <price>23.97</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span class=&quot;cf0&quot;&gt;Melatonin is a hormone naturally synthesised by our body from tryptophan and serotonin, the concentrations of which decrease with age. Melatonin release follows a circadian rhythm: it increases in darkness and decreases in light.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;cf0&quot;&gt;Our liquid melatonin is easy to administer, easy to dose and quickly absorbed, providing 1 mg of melatonin per 9 drops.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;cf0&quot;&gt;HEALTH CLAIMS (EU Regulation 432/2012): Melatonin contributes to the alleviation of subjective feelings of jet lag with a minimum intake of 0,5 mg to be taken close to bedtime on the first day of travel and on the following few days after arrival at the destination; and to the reduction of time taken to fall asleep by consuming 1 mg of melatonin close to bedtime.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span class=&quot;cf0&quot;&gt;Vegan. Ovo-lactovegetarian. Gluten free. Dairy free.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -31079,7 +31045,7 @@
     <barcode>5028392001127</barcode>
     <price>33.43</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;NAC is a supplement form of L-cysteine, an amino acid needed to support the production of glutathione, the 'master' antioxidant.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(32, 26, 50); font-family: Figtree; font-size: 14px;&quot;&gt;• Provides 500 mg of N-acetyl-L-cysteine per capsule&lt;/span&gt;&lt;br data-start=&quot;1829&quot; data-end=&quot;1832&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;span style=&quot;color: rgb(32, 26, 50); font-family: Figtree; font-size: 14px;&quot;&gt;• Bioavailable form of the amino acid L-cysteine&lt;/span&gt;&lt;br data-start=&quot;2116&quot; data-end=&quot;2119&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;span style=&quot;color: rgb(32, 26, 50); font-family: Figtree; font-size: 14px;&quot;&gt;• Capsule format for convenient daily supplementation&lt;/span&gt;&lt;br data-start=&quot;2172&quot; data-end=&quot;2175&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;span style=&quot;color: rgb(32, 26, 50); font-family: Figtree; font-size: 14px;&quot;&gt;• Suitable for vegetarian and vegan diets&lt;/span&gt;&lt;br data-start=&quot;2216&quot; data-end=&quot;2219&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;span style=&quot;color: rgb(32, 26, 50); font-family: Figtree; font-size: 14px;&quot;&gt;• Free from gluten, dairy and soy &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(32, 26, 50); font-family: Figtree; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -31943,7 +31909,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -32613,7 +32579,7 @@
 &lt;li data-section-id=&quot;13ih9d0&quot; data-start=&quot;1891&quot; data-end=&quot;1919&quot;&gt;Easy-to-use daily format&lt;/li&gt;
 &lt;li data-section-id=&quot;1voecnw&quot; data-start=&quot;1920&quot; data-end=&quot;1954&quot;&gt;Designed for consistent intake&lt;/li&gt;
 &lt;/ul&gt;&lt;hr data-start=&quot;1956&quot; data-end=&quot;1959&quot;&gt;&lt;h2 data-section-id=&quot;1jahmue&quot; data-start=&quot;1961&quot; data-end=&quot;2005&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;strong data-start=&quot;1964&quot; data-end=&quot;2005&quot;&gt;A consistent approach to your routine&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p data-start=&quot;2007&quot; data-end=&quot;2148&quot;&gt;For those who prioritise simplicity, structure, and daily consistency, UltraFlora® Fibre offers a practical addition to a balanced lifestyle.&lt;/p&gt;&lt;p data-start=&quot;2007&quot; data-end=&quot;2148&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -32992,7 +32958,7 @@
     <available>true</available>
     <quantity/>
     <description>Over 70% of your body's water is found inside your cells.1 Optimal Electrolyte is a uniquely formulated electrolyte designed to support healthy intracellular hydration. The intracellular hydration is made possible due to the higher ratio of potassium to sodium, added creatine and taurine along with the PeakATP.†</description>
-    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -34521,7 +34487,7 @@
     <available>true</available>
     <quantity/>
     <description>Riboflavin (vitamin B2) is a water-soluble vitamin that functions as a component of coenzymes FMN (flavin mononucleotide) and FAD (flavin adenine dinucleotide), which are involved in normal energy-yielding metabolism. Vitamin B2 contributes to normal metabolic processes as part of enzyme systems involved in the utilisation of nutrients. Vitamin B2 contributes to normal formation of red blood cells and plays a role in the normal functioning of enzyme systems involved in vitamin metabolism.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -35167,7 +35133,7 @@
 &lt;p data-start=&quot;137&quot; data-end=&quot;499&quot;&gt;The formulation includes bioactive forms of key B vitamins, such as methylfolate (5-MTHF) and methylcobalamin (vitamin B12), alongside other carefully selected cofactors involved in one-carbon metabolism and methylation pathways. Using active forms of these nutrients allows them to be utilised directly by the body without requiring additional conversion steps.&lt;/p&gt;
 &lt;p data-start=&quot;501&quot; data-end=&quot;800&quot;&gt;B vitamins contribute to normal energy-yielding metabolism, normal psychological function, normal functioning of the nervous system, and the reduction of tiredness and fatigue. Folate contributes to normal amino acid synthesis, normal blood formation, and has a role in the process of cell division.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -35254,7 +35220,7 @@
     <available>true</available>
     <quantity/>
     <description>Elevate your daily routine with a comprehensive, science-backed approach to modern wellness. Thoughtfully developed using highly bioavailable, active nutrients, this advanced daily formula is perfectly tailored to fit seamlessly into the lifestyle of women over 40. At its core is a premium blend of standardized botanicals, featuring ashwagandha, saffron, and sage extract, chosen for their purity and structural consistency. Combined with an optimally absorbed form of magnesium glycinate, this formulation provides targeted support for energy levels, a normal functioning nervous system, and healthy psychological function. Each easy-to-swallow, once-daily tablet delivers a reliable, consistent serving of high-quality ingredients, offering an entirely vegan-friendly, non-hormonal choice built to support long-term quality and your complete peace of mind.</description>
-    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -35338,7 +35304,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <sku>SH_201</sku>
-    <barcode/>
+    <barcode>810007520049</barcode>
     <price>32.72</price>
     <compare_at_price/>
     <available>true</available>
