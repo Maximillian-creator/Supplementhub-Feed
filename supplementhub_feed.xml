@@ -75,7 +75,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>serraflazyme-serrapeptase-10-000iu-100-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/cardiovascular_research_serraflazyme_bda950c9-5f82-414d-8535-f1785f41d64d.png?v=1764586681</image>
@@ -727,6 +727,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>MBL_27</sku>
+    <barcode>674306523787</barcode>
+    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
+    <vendor>Microbiome Labs</vendor>
+    <product_type/>
+    <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>56.66</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>restorflora-50-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>64.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>MCL_01</sku>
     <barcode>866133000313</barcode>
     <title>Lauricidin (Monolaurin) - 227g | Lauricidin</title>
@@ -819,7 +839,7 @@
     <tags>low_vat_rate</tags>
     <price>82.83</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>veggie-fusion-protein</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MEL_13-Veggie-Protein-Vanilla.png?v=1764585716</image>
@@ -976,7 +996,7 @@
     <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>triphala-500mg-120-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_28-Triphala_abd8bdb2-f40f-49cb-a70a-0f0b2c1f77eb.png?v=1764586500</image>
@@ -1136,7 +1156,7 @@
     <tags>low_vat_rate</tags>
     <price>49.90</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>seabuckthorn-oil-30-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE1789NRHEurope_SeabuckthornOil30softgels.png?v=1764586577</image>
@@ -1318,7 +1338,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b12-energy-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20B12-002_20UK_20PMD_20B12_20Oct_202025-2.webp?v=1768000936</image>
@@ -1403,7 +1423,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>multivitamin-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20MV-001_20UK_20PMD_20MultiVit_20Nov_202025-2.webp?v=1768000792</image>
@@ -1528,7 +1548,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>coq10-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20Q10-016_20UK_20PMD_20CoQ10_20Oct_202025-2.webp?v=1768001034</image>
@@ -1643,7 +1663,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>focus-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20FP-017_20UK_20PMD_20Focus_20Oct_202025-2_20_281_29.webp?v=1767914194</image>
@@ -2087,7 +2107,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>reduced-glutathione-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0016-Reduced-Glutathione.jpg?v=1764586399</image>
@@ -2127,7 +2147,7 @@
     <tags>low_vat_rate</tags>
     <price>23.97</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-30</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0022-Zinc-30-60s_014f6bab-e63d-48c5-98dd-cc781d5a56e4.jpg?v=1764586144</image>
@@ -2464,7 +2484,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vision-support-formula-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0120-Vision-Support-Formula.jpg?v=1764585791</image>
@@ -2818,7 +2838,7 @@
 &lt;li&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;li&gt;Vitamin B12 has a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Vitamin B12 is one of the most difficult nutrients for the body to absorb and utilise. Deficiency can be common, particularly when following a vegan or plant-based diet. For these reasons, it is important to consume B12 in a bioavailable, optimally-absorbed form. The Active B12 1000 lozenges provide methylcobalamin and adenosylcobalamin.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>26.96</price>
     <compare_at_price>28.87</compare_at_price>
     <available>true</available>
@@ -2845,7 +2865,7 @@
 &lt;li&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue &lt;/li&gt;
 &lt;li&gt;Vitamin B12 has a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;B12 is one of the most difficult nutrients for the body to absorb, particularly in people with digestive issues or older adults. As it is predominantly found in animal products, deficiency can also be common in those following a vegan or vegetarian diet. Active B12 5000 provides bioactive forms of vitamin B12 that your body can readily recognise and utilise. &lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>39.77</price>
     <compare_at_price/>
     <available>true</available>
@@ -2877,7 +2897,7 @@
 &lt;li style=&quot;line-height: 2;&quot;&gt;Vitamin B12 &amp;amp; Folate contribute to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;li style=&quot;line-height: 2;&quot;&gt;Vitamin B12 &amp;amp; Folate have a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;*Disclaimer: &lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>29.72</price>
     <compare_at_price>31.13</compare_at_price>
     <available>true</available>
@@ -2936,7 +2956,7 @@
 &lt;li&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;li&gt;Vitamin B12 has a role in the process of cell division&lt;/li&gt;
 &lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>23.97</price>
     <compare_at_price>29.42</compare_at_price>
     <available>false</available>
@@ -3030,7 +3050,7 @@
 &lt;li&gt;Choline contributes to normal lipid metabolism&lt;/li&gt;
 &lt;li&gt;Choline contributes to the maintenance of normal liver function&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;An adequate level of B vitamins is vital for overall health, since the body cannot make them by itself and they need to be obtained from our food on a daily basis. This potent formula contains the bioavailable forms of folate and vitamin B12.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price>35.58</compare_at_price>
     <available>true</available>
@@ -3071,7 +3091,7 @@
 &lt;li&gt;Biotin contributes to the maintenance of normal hair &amp;amp; skin&lt;/li&gt;
 &lt;li&gt;Vitamin B6 contributes to normal function of the immune system&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;B Minus is a great option for those who need some flexibility with B vitamin dosing and want to be able to add in folate and B12 in the most suitable forms for them. B vitamins are needed for almost every biochemical process in the body. Because B vitamins are water soluble, they need to be consumed daily, as they cannot be stored in the body. B Minus can be paired with other suitable supplements to provide the full complement of B vitamins, as required by each individual.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>35.49</price>
     <compare_at_price>38.14</compare_at_price>
     <available>true</available>
@@ -3123,7 +3143,7 @@
 &lt;li&gt;Folate has a role in the process of cell division&lt;/li&gt;
 &lt;li&gt;Supplemental folic acid intake increases maternal folate status. Low maternal folate status is a risk factor in the development of neural tube defects in the developing foetus.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Folate is a vital nutrient to be taken pre-conception and for the first three months of pregnancy to help reduce the risk of neural tube defects in the baby. Folinic Acid is a form of folate that is more slowly released, and can provide relief to those sensitive to methylated nutrients. &lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Non-methyl form of folate quickly converts to active L-5-MTHF within the body&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>25.94</price>
     <compare_at_price>26.15</compare_at_price>
     <available>true</available>
@@ -3180,7 +3200,7 @@
 &lt;li&gt;Supports a healthy mood&lt;/li&gt;
 &lt;li&gt;Contributes to healthy vitamin B12 levels&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Hydrox-Adeno B12 contains two forms of vitamin B12, hydroxocobalamin and adenosylcobalamin. They are both well tolerated by those who experience side effects such as nervousness, headaches or rapid heartbeat when taking methylated B vitamins. These two forms of B12 offer a slower release and contribute to a healthy nervous system, improved homocysteine levels and enhanced cognition and energy levels.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 lozenge daily. If a smaller dose is required, lozenge can be broken into smaller pieces.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>24.35</price>
     <compare_at_price>26.15</compare_at_price>
     <available>false</available>
@@ -3207,7 +3227,7 @@
 &lt;li&gt;May help to reduce tingling of hands and feet&lt;/li&gt;
 &lt;li&gt;May be particularly beneficial for those with poor digestion, older adults, vegans or vegetarians&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Hydroxo B12 comes in a form of vitamin B12 that is suitable for those who have problems with methylated forms of vitamins and minerals. In hydroxocobalamin form, it is still able to support healthy methylation, by easily being able to convert in to the active forms of B12. B12 is an important vitamin for healthy detoxification to help to rid the body of toxins. Vitamin B12 deficiency is typically characterised by poor memory, fatigue and tingling in the hands and feet. B12 has been found to support healthy levels of nitric oxide, which when too high, can trigger headaches and migraines. As B12 is found mostly in animal foods, deficiency can be common amongst vegans or vegetarians. Having a good digestive system is also important to be able to effectively absorb B12 from foods, therefore those with digestive issues or older adults, may also be at risk of deficiency.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 lozenge daily.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price>29.42</compare_at_price>
     <available>true</available>
@@ -3234,10 +3254,10 @@
 &lt;li&gt;Supports healthy homocysteine levels and cardiovascular function&lt;/li&gt;
 &lt;li&gt;Contains folinic acid, a methyl-free form of folate&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;The key ingredients in Hydroxo B12 are hydroxocobalamin, a non-methylated form of vitamin B12 and folinic acid, a non-methylated form of folate. They work together to support health, and contribute to detoxification pathways and healthy homocysteine levels. Vitamin B12 may be lacking in plant-based diets, and it can be very beneficial for those following a strictly vegan lifestyle. Folate and B12 contribute to healthy red blood cell formation and play a role in energy metabolism. Delicious lozenge that can be taken daily, and can also be broken into smaller pieces if a lower dosage is desired.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 lozenge per day.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>30.09</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hydroxo-b12-with-folinic-acid-60-lozenges</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HB12FA-LOZ_1_Front_medium_20_281_29.webp?v=1764585608</image>
@@ -3261,7 +3281,7 @@
 &lt;li&gt;May support DNA biosynthesis&lt;/li&gt;
 &lt;li&gt;Provides folate in its most active form as L-methylfolate&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;Folate is a water soluble B vitamin, therefore needs to be consumed every day to maintain adequate levels, as it cannot be stored in the body. It is typically found in green leafy vegetables, citrus fruits and dried beans and peas. Folate is important for supporting a healthy nervous system. It is also important for heart health as it helps convert homocysteine to methionine. Without this conversion, homocysteine levels become too high, which can be damaging to the heart. Folate is one of the most important nutrients to be taken prior to conception and is recommended to be taken 3 months prior to planning to conceive and throughout the first trimester, to reduce the risk of neural tube defects in the developing foetus.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 capsule daily.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>20.75</price>
     <compare_at_price>26.15</compare_at_price>
     <available>true</available>
@@ -3399,7 +3419,7 @@
 &lt;li&gt;Niacin contributes to the maintenance of normal mucous membranes &amp;amp; skin&lt;/li&gt;
 &lt;li&gt;Niacin contributes to the reduction of tiredness and fatigue&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>30.01</price>
     <compare_at_price>39.77</compare_at_price>
     <available>false</available>
@@ -3425,7 +3445,7 @@
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Niacin contributes to the maintenance of normal mucous membranes &amp;amp; skin&lt;/font&gt;&lt;/li&gt;
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Niacin contributes to the reduction of tiredness and fatigue&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;i data-mce-fragment=&quot;1&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Niacin&lt;/i&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; capsules by Seeking Health are gluten-free and dairy-free. They are also free from artificial colours, flavours, preservatives, GMO markers, and common allergens.&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer&lt;/b&gt;: Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>25.06</price>
     <compare_at_price>25.60</compare_at_price>
     <available>true</available>
@@ -3656,15 +3676,7 @@
     <title>Multivitamin One MF - 45 Capsules | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
-    <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;strong data-mce-fragment=&quot;1&quot;&gt;Formerly Optimal Multivitamin Minus One.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multivitamin One MF contains all the vitamins and minerals needed in an easy to take one a day capsule.&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Folate, Selenium, Zinc, Vitamin B6, B12, D &amp;amp; A contribute to the normal function of the immune system&lt;/li&gt;
-&lt;li&gt;Zinc, Selenium, Vitamin B2, E &amp;amp; Manganese contribute to the protection of cells from oxidative stress&lt;br&gt;
-&lt;/li&gt;
-&lt;li&gt;Zinc, Vitamin A &amp;amp; B2 contribute to healthy vision and eyes&lt;/li&gt;
-&lt;li&gt;Includes active B12 as methylcobalamin and active folate as methylfolate&lt;/li&gt;
-&lt;li&gt;Offers PQQ &lt;/li&gt;
-&lt;li&gt;Calcium, Folate, Vitamin D &amp;amp; B12 have a role in the process of cell division and specialisation&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Multivitamin One MF is a methyl-free multivitamin and mineral formula that contains the forms of B vitamins that the body converts into their active forms, providing slower delivery. This can be better tolerated by those sensitive to the methylated forms. A multivitamin supplement can ensure appropriate levels of nutrients. This formula is perfect for those who prefer a once-daily multivitamin supplement. It contains no vitamin C, magnesium, calcium, or iron to allow customisation of these individual nutrients.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
+    <description>&lt;p&gt;Multivitamin One MF delivers a broad spectrum of essential vitamins and minerals in a single daily capsule, formulated without methylated nutrient forms. Folate is provided as calcium folinate (235 µg) and vitamin B12 as hydroxocobalamin and adenosylcobalamin (25 µg), rather than as methylfolate or methylcobalamin — forms the body converts to their active state through its own metabolic pathways. The formula is also free of vitamin C, calcium, magnesium, and iron, allowing these individual nutrients to be added separately according to personal need.&lt;/p&gt;&lt;p&gt;Several nutrients in this formula contribute to normal immune system function, including vitamin D, vitamin B6, folate, vitamin B12, zinc, and selenium. Thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, pantothenic acid, and iodine each contribute to normal energy-yielding metabolism, with niacin, pantothenic acid, biotin, vitamin B6, folate, and vitamin B12 also contributing to the reduction of tiredness and fatigue. Vitamin E, riboflavin, zinc, selenium, copper, and manganese contribute to the protection of cells from oxidative stress, while folate, vitamin B12, and zinc each have a role in the process of cell division.&lt;/p&gt;&lt;p&gt;Iodine, provided as potassium iodide, contributes to normal cognitive function and normal thyroid function. Biotin contributes to the maintenance of normal hair and skin, and to normal function of the nervous system. Vitamin K2 (as menaquinone-7) contributes to the maintenance of normal bones and to normal blood clotting. Vitamin A contributes to normal vision.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>39.90</price>
     <compare_at_price>50.13</compare_at_price>
@@ -3923,7 +3935,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>probiota-woman-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_medium_87b59f02-28b6-49d9-9d16-5beb333ae5fc.jpg?v=1764585841</image>
@@ -3947,7 +3959,7 @@
 &lt;li&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Riboflavin contributes to the protection of cells from oxidative stress&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Riboflavin contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>28.83</price>
     <compare_at_price>31.05</compare_at_price>
     <available>true</available>
@@ -4192,7 +4204,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;p&gt;Glutathione with Cofactors provides S-Acetyl-L-Glutathione, an acetylated form of glutathione, alongside three nutrient cofactors: riboflavin, selenium, and molybdenum.&lt;/p&gt;&lt;p&gt;Riboflavin (vitamin B2) contributes to the protection of cells from oxidative stress, delivered here at 5 mg per capsule. Selenium likewise contributes to the protection of cells from oxidative stress, and to normal immune function, provided at 5 µg per capsule. Molybdenum contributes to the normal metabolism of sulphur-containing amino acids, delivered at 25 µg per capsule.&lt;/p&gt;&lt;p&gt;Each capsule provides 100 mg of S-Acetyl-L-Glutathione in a small, taste-free, travel-friendly format.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>95.91</price>
     <compare_at_price/>
     <available>false</available>
@@ -4642,7 +4654,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;p&gt;B Complex MF is a potent vitamin B complex containing the 8 essential B vitamins featuring non methylated B12 and folate.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;B Complex MF contains folate and vitamin B12 in non-methylated forms. It features folate as folinic acid and B12 as adenosylcobalamin and hydroxocobalamin. These methyl-free forms do not convert so rapidly to their active forms in the body. We need B vitamins on a daily basis. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>35.49</price>
     <compare_at_price>37.05</compare_at_price>
     <available>true</available>
@@ -5751,7 +5763,7 @@
     <tags>low_vat_rate</tags>
     <price>100.27</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>probutyrate-300mg-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/225-ProButyrate-Front-768x920_7a02e718-295a-4d5d-aacf-8a34b6704858.png?v=1764586125</image>
@@ -6399,7 +6411,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>co-q10-100mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_10_2442393f-e7de-41d8-bf44-c9fa4bd3b6ce.png?v=1764585631</image>
@@ -6549,7 +6561,7 @@
     <tags>low_vat_rate</tags>
     <price>66.18</price>
     <compare_at_price>99.18</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biofilm-defense-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KRK_02-Biofilm-Defense_bb96ff29-bfe9-4d35-98d1-79cf0a6db4ee.jpg?v=1764586507</image>
@@ -6954,7 +6966,7 @@
     <tags>low_vat_rate</tags>
     <price>68.66</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optinositol-126g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/optinositol_419db48e-f192-4b13-9a77-59a7466d1f70.png?v=1764585680</image>
@@ -7115,7 +7127,7 @@
     <vendor>Invivo Healthcare</vendor>
     <product_type/>
     <description>&lt;p&gt;Bio.Me Mind + Mood is a probiotic formulation with biotin and contains live bacteria strains.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Suggested use is 1 capsule daily.&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>79.56</price>
     <compare_at_price/>
     <available>true</available>
@@ -7518,7 +7530,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>tulsi-supreme-holy-basil-500mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_028-Tulsi-Supreme_befef41e-a87d-4eee-a5dc-f643eea7420e.png?v=1764586050</image>
@@ -7701,7 +7713,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>olive-leaf-supreme-olea-europaea-320mg-120-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_018-Olive-Leaf-Supreme_7c046fa1-2790-4f54-8c41-39159485d549.png?v=1764586300</image>
@@ -7841,7 +7853,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>golden-thread-supreme-coptis-chinensis-545mg-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_009-Golden-Thread-Supreme.png?v=1764586480</image>
@@ -7941,7 +7953,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bfb-1-11ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_003-BFB-1.png?v=1764586752</image>
@@ -8746,7 +8758,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>epa-dha-essentials-90-softgel-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0007-EPA-DHA-Essentials-90s.jpg?v=1764586401</image>
@@ -8826,7 +8838,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>coq10-60-mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0048-CoQ10-60mg-60s_b7e2cff9-f21e-4859-8aff-1cc5e4a7501d.jpg?v=1764586659</image>
@@ -9279,7 +9291,7 @@
     <tags>low_vat_rate</tags>
     <price>98.09</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>neprinol-afd-advanced-fibrin-defence-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AAM_06-150_f5514854-70ac-4953-8551-b907ae1005d0.png?v=1764586789</image>
@@ -9464,7 +9476,7 @@
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>female-support-formula-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Professional-Solutions-Female-Support-Formula_LAP17060_104_PDP_7d239ac9-ce1c-4eb0-b89b-5b81be988431.png?v=1764585994</image>
@@ -9949,7 +9961,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b-complex-plus-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0042-BComplex-Plus-120s_ec8bf2e1-6384-4877-9092-01e6870d2649.jpg?v=1764585802</image>
@@ -10433,7 +10445,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>o-n-e-omega-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ono3uk_rgb_fd2d660e-1142-4cac-ae48-4d84bd6802d0.jpg?v=1764586051</image>
@@ -10711,7 +10723,7 @@
     <tags/>
     <price>10.89</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dirty-genes-the-histamine-workbook</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SH_172-Dirty-Genes-Histamine-Workbook.jpg?v=1764586029</image>
@@ -10785,7 +10797,7 @@
     <tags>low_vat_rate</tags>
     <price>40.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>7-salt-magnesium-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/7-Salt-Magnesium-UK-Biogena-60Kps-125cc-2012_low.jpg?v=1764586602</image>
@@ -10877,7 +10889,7 @@
     <tags>low_vat_rate</tags>
     <price>66.48</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pycnogenol-superior-100-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gold-Pycnogenol100-UK-Biogena-30Kps-125cc-2012_0eb1e245-0b6b-4ff1-a19a-2b0c21758995.jpg?v=1764585825</image>
@@ -11021,7 +11033,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>curcumasorb-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0166-CurcumaSorb-90s_84698bf5-18ae-4859-9398-0dd83d72ec4a.png?v=1764585701</image>
@@ -11147,7 +11159,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Serotonin Nutrients contains vitamin B6 and Griffonia simplicofolia seed to directly support the serotonergic pathway and the production of serotonin. Niacin is also included to support a healthy and normal kyurenine pathway speed.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Dr. Lynch included the patented Safr’Inside™ ingredient in Serotonin Nutrients because it appears to both slow MAOA and MAOB as well as slow the reuptake of serotonin by inhibiting the activity of SLC6A4 gene. &lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;After attaching to the receptors, the serotonin initiates a signaling process that relies on inositol to carry out its function. Serotonin Nutrients includes this important ingredient to make sure the support for serotonin begins at the beginning and ends at the end.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;When we are lacking adequate serotonin and have a poor mood, we will often find that we crave foods and behaviors to bring us a boost. This may lead to an increase in consumption of sweets and other additive foods and behaviors. &lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>51.40</price>
     <compare_at_price>53.82</compare_at_price>
     <available>true</available>
@@ -11464,7 +11476,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -11746,7 +11758,7 @@
     <tags>low_vat_rate</tags>
     <price>13.07</price>
     <compare_at_price>16.34</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mushroom-coffee-box-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/download_20_281_29_3fue5g.webp?v=1776810401</image>
@@ -11826,7 +11838,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>scutellaria-baicalensis-liquid-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_063-Scutellaria-Baicalensis_c65f2ca9-51e7-488b-abe8-0d74fc9e6528.jpg?v=1764585950</image>
@@ -11997,7 +12009,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Dopamine Nutrients contains L-tyrosine, the primary ingredient needed to make dopamine, and ginkgo biloba which supports the rate limiting enzyme tyrosine hydroxylase (TH). It also contains&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; royal jelly, Safr’InsideTM a nd CurcugenTM. Royal jelly is also a natural source of biopterin.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price>56.67</compare_at_price>
     <available>false</available>
@@ -12077,7 +12089,7 @@
 &lt;li&gt;Magnesium contributes to electrolyte balance&lt;/li&gt;
 &lt;li&gt;Magnesium contributes to normal functioning of the nervous system&lt;/li&gt;
 &lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
     <available>true</available>
@@ -12117,7 +12129,7 @@
     <vendor>Objective Nutrients</vendor>
     <product_type/>
     <description>&lt;div&gt;Thiamega provides a high dosage of vitamin B1 in four different forms, each possessing unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Three of these forms are synthetic derivatives originally developed in Japan and are known to possess much greater bio-availability compared with ordinary thiamine salts.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine is an S-acyl derivative of thiamine known for its ability to improve blood sugar management and support peripheral nerve function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sulbutiamine contains two molecules of thiamine bound together by a disulphide bond. Thiamine Tetrahydrofurfuryl Disulphide (TTFD) contains one thiamine molecule bound with a sulphur-mercaptan group, which provides it with unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The molecular structure of these three thiamine derivatives allows them to pass through intestinal and cellular membranes without the requirement for a transport system. Once inside the cell, they deliver thiamine which can be activated and used as a cofactor in important biochemical processes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine, sulbutiamine and TTFD may increase brain levels of thiamine, support cognition and central nervous system function.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Each capsule delivers a total of 400mg of thiamine.&lt;/div&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
     <available>true</available>
@@ -12137,7 +12149,7 @@
     <vendor>Objective Nutrients</vendor>
     <product_type/>
     <description>&lt;div&gt;ThiActive B-Complex provides a full spectrum of nutritional B vitamins to complement the action of thiamine (vitamin B1) within the cell, including two different forms of thiamine with high bioavailability.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Benfotiamine is an S-acyl derivative of thiamine known for its ability to improve blood sugar management and support peripheral nerve function. Thiamine Tetrahydrofurfuryl Disulphide (TTFD) contains one thiamine molecule bound with a sulphur-mercaptan group, which provides it with unique properties.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The molecular structure of these two thiamine derivatives allows them to pass through intestinal and cellular membranes without the requirement for a transport system. Once inside the cell, they deliver thiamine which can be activated and used as a cofactor in important biochemical processes.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;To support the process of methylation, this complex includes active folate in the form of L-methyl folate, along with non-methylated folate in the form of folinic acid (calcium folinate). Similarly, two types of active vitamin B12 are provided in the forms of methylcobalamin and adenosylcobalamin.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This formula also contains the activated form of vitamin B2 (riboflavin-5-phosphate) and vitamin B6 (pyrixodal-5-phosphate).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;As an additional ingredient, D-ribose is included as a sugar precursor to promote cellular ATP production.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This product was designed for people who feel that they benefit from methylated vitamins in their active form.&lt;/div&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
     <available>true</available>
@@ -12177,7 +12189,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;div&gt;&lt;b&gt;Who Needs Joint Nutrients?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Your joints are a complex system of bone, muscle, cartilage, ligaments, and fluid. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;They give your skeleton its shape and help you to hop, skip, jump, and stand. When they are functioning optimally that is.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;With all these pieces involved and movements required, joints are susceptible to a number of issues. &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pain, stiffness, and inflammation of the joints affect 1 in 4 American adults, and this number only increases with age.&lt;/div&gt;</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>94.82</price>
     <compare_at_price/>
     <available>false</available>
@@ -12511,7 +12523,7 @@
     <tags>low_vat_rate</tags>
     <price>18.52</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-lysine-90-capsules-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0034-L-Lysine-90s_4f3e156d-148d-4a37-bae2-01360dbcf573.jpg?v=1764586821</image>
@@ -12597,7 +12609,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>iodine-tyrosine-60-capsules-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0137-Iodine-Tyrosine_3f9e8a67-2c1e-49f8-aa25-f1cb3ca57273.jpg?v=1764586450</image>
@@ -12939,7 +12951,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>astaxanthin-12mg-60-softgels-jarrow-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706</image>
@@ -13022,7 +13034,7 @@
     <tags>low_vat_rate</tags>
     <price>90.46</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>estriol-cream-118ml-emerita</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Estriol_20Cream_20-_20118ml_20_20Emerita_29284a1b-ef20-415d-b522-58e82b47c18b.png?v=1764585756</image>
@@ -13189,7 +13201,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>klenz-90-capsules-vervita</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VV_04_53be6785-4b1a-4f32-baf3-6796ec7f5407.png?v=1764586098</image>
@@ -14096,7 +14108,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pure-collagen-168g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_017_02.png?v=1764586892</image>
@@ -14243,7 +14255,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>63.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>complete-collagen-orange-470g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_19.png?v=1764586441</image>
@@ -14324,7 +14336,7 @@
     <tags>low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-creatine-monohydrate-455g-codeage</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CA_001.png?v=1764586356</image>
@@ -14451,7 +14463,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>butyrate-sodium-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T111442.983.webp?v=1764586185</image>
@@ -14660,7 +14672,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price>54.49</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>evening-primrose-oil-liquid-236-59-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T141542.631.webp?v=1764586095</image>
@@ -14926,7 +14938,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-650g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Whey_20.png?v=1764586443</image>
@@ -15177,7 +15189,7 @@
 &lt;li&gt;Pop in the lozenge and experience the benefits of glutathione quickly&lt;/li&gt;
 &lt;li&gt;Perfect for kids, on-the-go or traveling&lt;/li&gt;
 &lt;/ul&gt;</description>
-    <tags>2xpoints</tags>
+    <tags/>
     <price>59.94</price>
     <compare_at_price/>
     <available>true</available>
@@ -15809,7 +15821,7 @@
     <tags>low_vat_rate, Practitioner Only</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vitamin-d3-vegan-120-capsules-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0175-Vitamin-D3-Vegan.png?v=1738238796</image>
@@ -16418,7 +16430,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>31.53</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-malate-100-capsules-researched-supplements</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RS_30_3a34f70d-2b24-4c6d-98ae-61fce80be97b.png?v=1764586803</image>
@@ -16791,7 +16803,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-gaba-with-l-theanine-50ml-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_008-Liposomal-GABA_39591648-6846-4318-b843-666a7926f9b4.png?v=1764586055</image>
@@ -17256,7 +17268,7 @@
     <tags>low_vat_rate</tags>
     <price>50.67</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-strawberries-cream-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2836_29.png?v=1764586008</image>
@@ -17300,7 +17312,7 @@
     <tags>low_vat_rate</tags>
     <price>119.89</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>digest-gold-180-capsules-enzymedica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/45_20_285_29.webp?v=1773963081</image>
@@ -18259,26 +18271,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>SN_074</sku>
-    <barcode>199284167339</barcode>
-    <title>Alchornea Supreme - 90 Capsules | Supreme Nutrition Products</title>
-    <vendor>Supreme Nutrition Products</vendor>
-    <product_type/>
-    <description>&lt;p&gt;&lt;strong&gt;Alchornea Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Alchornea cordifolia&lt;/em&gt;, a botanical traditionally used in African herbal practice.&lt;/p&gt;&lt;p&gt;The plant naturally contains tannins, flavonoids, alkaloids, and other constituents characteristic of the species. This capsule format presents alchornea as a focused single-botanical preparation.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
-    <tags>low_vat_rate, supreme_nutrition</tags>
-    <price>37.71</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>alchornea-supreme-90-capsules-supreme-nutrition-products</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Alchornea_20Supreme_20-_2090_20capsules_20Supreme_20Nutrition_20Products_01.webp?v=1764586431</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>200.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>NC_024</sku>
     <barcode>8720648640421</barcode>
     <title>Organic Collagen Protein Bar (Vanilla Cashew) - 12 Bars | NoordCode</title>
@@ -18322,7 +18314,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-collagen-protein-bar-vanilla-cashew-12-bars-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-29T154802.111.jpg?v=1764585739</image>
@@ -18415,7 +18407,7 @@
     <tags>low_vat_rate</tags>
     <price>29.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>performance-forest-berries-electrolytes-sachets-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Forest_20Berries_20Electrolytes_20-_2031_20Portions_20NoordCode_01.webp?v=1764586524</image>
@@ -18511,7 +18503,7 @@
     <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>creatine-pro-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-29T154553.845.jpg?v=1764586347</image>
@@ -19332,7 +19324,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
     <available>true</available>
@@ -19746,9 +19738,9 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>BBH_006</sku>
+    <sku>BBH_002</sku>
     <barcode>860002901701</barcode>
-    <title>HTB Rejuvenate - 120 Capsules | Big Bold Health</title>
+    <title>HTB (Immune) Rejuvenate - 60 Capsules | Big Bold Health</title>
     <vendor>Big Bold Health</vendor>
     <product_type/>
     <description>&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;span style=&quot;letter-spacing: 0px; font-family: noto-sans;&quot;&gt;Maintain your immunity and energy, and thrive with &lt;b&gt;HTB Rejuvenate&lt;/b&gt;®, our exclusive blend of Himalayan Tartary Buckwheat phytonutrients.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;A custom blend of phytonutrients that naturally occur in Himalayan Tartary Buckwheat (HTB), an ancient plant with powerful properties.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
@@ -19779,9 +19771,9 @@
 &lt;li&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/li&gt;
 &lt;li&gt;Vitamin C increases iron absorption&lt;/li&gt;
 &lt;/ul&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>84.46</price>
-    <compare_at_price>108.99</compare_at_price>
+    <tags>low_vat_rate</tags>
+    <price>108.99</price>
+    <compare_at_price/>
     <available>true</available>
     <quantity>0</quantity>
     <handle>htb-rejuvenate-60-capsules-big-bold-health</handle>
@@ -19789,7 +19781,7 @@
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
-    <weight>28.0</weight>
+    <weight>14.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -19903,7 +19895,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>cryptolepis-50-ml-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CRYPTOLEPIS_20Front.png?v=1764586534</image>
@@ -19973,7 +19965,7 @@
     <tags>low_vat_rate</tags>
     <price>32.14</price>
     <compare_at_price>41.46</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hair-skin-and-nails-120-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hair_20Skin_20and_20Nails_20-_20120_20Capsules_20_20Amy_20Myers_20MD_01.webp?v=1764586430</image>
@@ -21462,7 +21454,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>44.29</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>digestive-enzymes-hcl-complex</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Saw_Palmetto__2B_Stinging_Nettle_Complex_60_WEB.webp?v=1768433209</image>
@@ -21482,7 +21474,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>32.07</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>myo-inositol-powder-60-servings-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Myo-Inositol_60_WEB.webp?v=1768433250</image>
@@ -21706,7 +21698,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>35.41</price>
     <compare_at_price>42.89</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultraflora-complete-for-women-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraFlora_Complete_For_Women-Packaging.webp?v=1769555804</image>
@@ -22042,7 +22034,7 @@
 &lt;li data-section-id=&quot;13ih9d0&quot; data-start=&quot;1891&quot; data-end=&quot;1919&quot;&gt;Easy-to-use daily format&lt;/li&gt;
 &lt;li data-section-id=&quot;1voecnw&quot; data-start=&quot;1920&quot; data-end=&quot;1954&quot;&gt;Designed for consistent intake&lt;/li&gt;
 &lt;/ul&gt;&lt;hr data-start=&quot;1956&quot; data-end=&quot;1959&quot;&gt;&lt;h2 data-section-id=&quot;1jahmue&quot; data-start=&quot;1961&quot; data-end=&quot;2005&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;strong data-start=&quot;1964&quot; data-end=&quot;2005&quot;&gt;A consistent approach to your routine&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p data-start=&quot;2007&quot; data-end=&quot;2148&quot;&gt;For those who prioritise simplicity, structure, and daily consistency, UltraFlora® Fibre offers a practical addition to a balanced lifestyle.&lt;/p&gt;&lt;p data-start=&quot;2007&quot; data-end=&quot;2148&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <price>25.28</price>
     <compare_at_price/>
     <available>false</available>
@@ -22219,7 +22211,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>30.51</price>
     <compare_at_price>36.11</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultraflora-everyday-plus-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraFlora-Everyday-Plus_30.webp?v=1769556217</image>
@@ -22862,7 +22854,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nualipid</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3bd82ee0d3c5dfd6cd07c3821ccf6667.webp?v=1772752753</image>
@@ -22994,7 +22986,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>30.93</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-b-supreme-50ml-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2e31d04fe8cf89d27114b94f623942034ebd8387-2000x2000.webp?v=1773185098</image>
@@ -23216,7 +23208,7 @@
     <tags>low_vat_rate</tags>
     <price>67.57</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dfh-complete-multi-iron-copper-free-120-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_26-DFH-Complete-Multi_soz0gw.png?v=1775254868</image>
@@ -23313,7 +23305,7 @@
     <vendor>Integrative Therapeutics</vendor>
     <product_type/>
     <description>Riboflavin (vitamin B2) is a water-soluble vitamin that functions as a component of coenzymes FMN (flavin mononucleotide) and FAD (flavin adenine dinucleotide), which are involved in normal energy-yielding metabolism. Vitamin B2 contributes to normal metabolic processes as part of enzyme systems involved in the utilisation of nutrients. Vitamin B2 contributes to normal formation of red blood cells and plays a role in the normal functioning of enzyme systems involved in vitamin metabolism.</description>
-    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <price>18.03</price>
     <compare_at_price/>
     <available>true</available>
@@ -23587,6 +23579,46 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>MET_053</sku>
+    <barcode>5028392002360</barcode>
+    <title>MegaMag Night Plus 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting magnesium powder combined with other sleep supporting ingredients including hops to provide support for a restful night. A practical Metagenics formula designed for daily supplementation, featuring: Highly Absorbable Magnesium: 200mg of magnesium bisglycinate, gentle on stomachs; Active B Vitamins: Includes body-ready folate (5-MTHF) and vitamin B12 (methylcobalamin); Relaxing Amino Acids: L-theanine and L-tryptophan help calm the mind and prepare the body for sleep; Botanical Extracts: Lactium® (milk protein hydrolysate) and hops support relaxation and sleep quality; Tasty Powder Format: Calming chamomile flavour, mixes easily into water or juice for an easy pre-bed drink.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>57.86</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-night-plus</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71RTzWZbhHL._AC_SL1500.webp?v=1781044033</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>214.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_043</sku>
+    <barcode>5028392001462</barcode>
+    <title>Plant Sterol Complex - 30 Capsules | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Natural support for cholesterol and prostate health. A practical Metagenics formula designed for daily supplementation, featuring: Plant Sterol Tablets: Each capsule delivers 300mg of plant sterols, including 117mg beta-sitosterol, to support cholesterol and immune balance; Formerly Called Sterol™ 117: This plant sterol supplement is designed for optimal heart, joint, and immune health; Non-GMO Source: Derived from non-GMO soy extract, ensuring purity and high-quality sterol content; Antioxidant Support: Includes pine bark extract, a powerful antioxidant to help protect against oxidative stress; Essential Fatty Acids (EFA): Provides an EFA complex to complement the benefits of plant sterols; Easy Daily Dose: Just one capsule per day, making it a simple and convenient plant sterol supplement for long-term health support.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>80.93</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>plant-sterol-complex</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/plant_sterol_complex_30.webp?v=1781043629</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>34.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>MET_037</sku>
     <barcode>5028392002100</barcode>
     <title>Gluco-Chrome - 60 Capsules | Metagenics</title>
@@ -23604,6 +23636,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>44.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_046</sku>
+    <barcode>5028392002179</barcode>
+    <title>MegaMag Calmeze (Raspberry) - 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting magnesium based powder to support the nervous system and help balance the effects of stress and anxiety. A practical Metagenics formula designed for daily supplementation, featuring: High-Strength Magnesium: 200mg of easily absorbed magnesium glycinate per serving; Nervous System Support: Magnesium and B vitamins for stress response and psychological function; Reduces Fatigue: 500mg vitamin C supports adrenal function and reduces tiredness; Powerful Amino Acid Blend: L-Taurine, L-Theanine, and L-Glutamine for stress and cognitive support; Optimised Energy: With high strength B-vitamin content (B1, B2, B3, B5, B6); Fast-Acting Powder Formula: Higher therapeutic doses and convenient; Delicious &amp;amp; Easy to Mix: Tasty orange, raspberry, and chamomile flavour.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>56.49</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-calmeze-raspberry</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1996308963_max.webp?v=1781044183</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>320.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -23667,6 +23719,86 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>MET_051</sku>
+    <barcode>5028392002773</barcode>
+    <title>MegaMag Muscleze (Cherry) - 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting powder with magnesium and other key ingredients to support muscle function and recovery following exercise. A practical Metagenics formula designed for daily supplementation, featuring: Highly Absorbable Magnesium Blend: 240mg of magnesium bisglycinate and malate for optimal uptake; Gentle On Digestion: Ideal for sensitive stomachs; unlike other forms of magnesium; Active B Vitamin Forms: Includes body-ready folate, B6, and B12 for superior absorption; Therapeutic B Vitamin Doses: Features high levels of B1, B3, and B6 to reduce tiredness and fatigue; Provides Amino Acids, Including Creatine: to support muscle repair and recovery; Easy To Take: Available in tasty orange or cherry flavour, mixes easily in water or juice.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>60.56</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-muscleze-cherry</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2049268414_max_20_281_29.webp?v=1781043759</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>250.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_039</sku>
+    <barcode>5028392002612</barcode>
+    <title>Glutathione Plus - 60 Capsules | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Combining Setria® Glutathione and other key nutrients to support your body's protection against oxidative damage. A practical Metagenics formula designed for daily supplementation, featuring: Clinically Studied Setria® Glutathione: 250mg of bioavailable reduced L-glutathione, shown to raise blood glutathione levels; Liver-Supporting Milk Thistle: 100mg extract providing silymarin, traditionally used for liver health; Green Tea Extract: 100mg of antioxidant-rich polyphenols to combat oxidative stress; Turmeric Extract: 100mg standardised for curcumin to support healthy inflammatory processes; Alpha Lipoic Acid &amp;amp; Selenium: Helps regenerate key antioxidants and supports cellular defence.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>52.41</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>glutathione-plus</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1781043848</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>52.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_050</sku>
+    <barcode>5028392002780</barcode>
+    <title>MegaMag Kids + Teens - 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Dual-action magnesium and lemon balm in a delicious natural orange flavoured powder with range of B vitamins for calm and focus at school. A practical Metagenics formula designed for daily supplementation, featuring: 120mg high-strength magnesium: Supports calm and normal psychological function; Bluenesse® lemon balm extract: Clinically-proven to support optimal cognitive function, including memory, concentration, and focus1; Fast-acting formula: Rapid absorption of magnesium and lemon balm; 100mg vitamin C: Reduces fatigue and supports mental function; B vitamins: Active forms of B1, B2, B3, B6, folate, and B12 to reduce tiredness and support the nervous system; Vitamin D3, K2 &amp;amp; Zinc: Supports bone health and immune function; Delicious orange flavour: Easy-to-mix and tasty formula, perfect for kids; Powdered format: Easier to take than capsules or tablets; Sustained benefits: Bluenesse® lemon balm extract has been shown in studies to provide cognitive benefits at both 1 hour and 3 hours following supplementation2.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>48.34</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-kids-teens</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NA_130-MegaMag-Kids-Teens.webp?v=1781043664</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>139.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_041</sku>
+    <barcode>5028392002735</barcode>
+    <title>MegaMag Night - 60 Tablets | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>MegaMag® Night is a combination of magnesium glycinate together with sleep supporting ingredients including hops, theanine, tryptophan, lemon balm and Lactium® to provide support for a restful night. A practical Metagenics formula designed for daily supplementation, featuring: Magnesium Glycinate: 100mg per serving for optimal absorption; Gentle On Digestion: Glycinate form is easier on the stomach; Herbal Relaxation: Lemon balm and hops support restful sleep; Amino Acid Support: L-tryptophan and L-theanine promote relaxation; Methylated Folate: Active 5-MTHF for optimal effectiveness; Convenient Tablets: Ideal for those who prefer capsules over powder.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>52.41</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-night-tablets</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61zxTG-NOeL._AC_SL1500.webp?v=1781043479</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>134.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>MET_036</sku>
     <barcode>5028392002414</barcode>
     <title>Oestrogen Balance - 120g | Metagenics</title>
@@ -23707,6 +23839,66 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>MET_048</sku>
+    <barcode>5028392001981</barcode>
+    <title>MegaMag Energen Plus (Raspberry) 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting formula to reduce tiredness &amp;amp; fatigue with 200mg of magnesium glycinate &amp;amp; other key energy-supporting ingredients. A practical Metagenics formula designed for daily supplementation, featuring: Magnesium Glycinate: Highly absorbable form, gentle on digestion; Energy Supporting B Vitamins: Includes B1, B2, B3 &amp;amp; B5 above NRV to combat fatigue; Malic Acid &amp;amp; Carnitine: Supports efficient fat-to-energy conversion; Flexible Powder Format: Easy to adjust dosage to personal needs; Tasty Flavours: Available in raspberry and orange for easy mixing into drinks.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>57.86</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-energen-plus-raspberry</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61SDlqGu3cL._AC_SX679.webp?v=1781043993</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>266.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_044</sku>
+    <barcode>5028392002285</barcode>
+    <title>MegaMag Calmeze (Chamomile) - 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting magnesium based powder to support the nervous system and help balance the effects of stress and anxiety. A practical Metagenics formula designed for daily supplementation, featuring: High-Strength Magnesium: 200mg of easily absorbed magnesium glycinate per serving; Nervous System Support: Magnesium and B vitamins for stress response and psychological function; Reduces Fatigue: 500mg vitamin C supports adrenal function and reduces tiredness; Powerful Amino Acid Blend: L-Taurine, L-Theanine, and L-Glutamine for stress and cognitive support; Optimised Energy: With high strength B-vitamin content (B1, B2, B3, B5, B6); Fast-Acting Powder Formula: Higher therapeutic doses and convenient; Delicious &amp;amp; Easy to Mix: Tasty orange, raspberry, and chamomile flavour.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>56.49</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-calmeze-chamomile</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2111217712_max.webp?v=1781043770</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>298.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_040</sku>
+    <barcode>5028392002889</barcode>
+    <title>Resilience - 60 Capsules | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Build resilience to the stresses and strains of everyday life with this unique botanical blend of adaptogenic herbs, vitamin C and vitamin B5. A practical Metagenics formula designed for daily supplementation, featuring: Vitamin C &amp;amp; B5: Nutrients that can deplete during stress and support mental performance; Magnesium Citrate: Known as the 'relaxation mineral' for nervous system balance; KSM-66® Ashwagandha: Clinically studied adaptogen for stress and anxiety support; L-Theanine: Fast-acting amino acid shown to promote calm; Reishi &amp;amp; Cordyceps: Mushroom extracts traditionally used to fight fatigue and build natural resilience.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>37.47</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>resilience</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61TSnf2sNTL._AC_SL1500.webp?v=1781044239</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>71.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>MET_034</sku>
     <barcode>5400433363256</barcode>
     <title>HerWellness Perimenopause - 30 Capsules | Metagenics</title>
@@ -23727,6 +23919,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>MET_042</sku>
+    <barcode>5028392002766</barcode>
+    <title>Ashwagandha 500mg | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Ashwagandha 500mg Capsules provide the traditional ayurvedic herb ashwagandha as KSM-66®. Each capsule provides 500mg of ashwagandha extract. A practical Metagenics formula designed for daily supplementation, featuring: Full-Spectrum Herb – Contains all-natural constituents in their original ratios; Minimum 5% Withanolides – Active compounds to support stress and energy; Sustainably Sourced – Traditional Ayurvedic herb sourced from India; Supports Sleep &amp;amp; Stress – Shown in studies to support sleep and anxiety; One-a-Day Formula – Convenient daily dose in capsule form; Vegan-Friendly – Free from animal-derived ingredients.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>29.34</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>ashwagandha-500mg</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ashwagandha_60_32872_web.webp?v=1781043433</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>55.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>MET_060</sku>
     <barcode>5028392000953</barcode>
     <title>Methylated Complex - 90 Capsules | Metagenics</title>
@@ -23737,7 +23949,7 @@
 &lt;p data-start=&quot;137&quot; data-end=&quot;499&quot;&gt;The formulation includes bioactive forms of key B vitamins, such as methylfolate (5-MTHF) and methylcobalamin (vitamin B12), alongside other carefully selected cofactors involved in one-carbon metabolism and methylation pathways. Using active forms of these nutrients allows them to be utilised directly by the body without requiring additional conversion steps.&lt;/p&gt;
 &lt;p data-start=&quot;501&quot; data-end=&quot;800&quot;&gt;B vitamins contribute to normal energy-yielding metabolism, normal psychological function, normal functioning of the nervous system, and the reduction of tiredness and fatigue. Folate contributes to normal amino acid synthesis, normal blood formation, and has a role in the process of cell division.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;/div&gt;</description>
-    <tags>2xpoints, all_products_tag, low_vat_rate</tags>
+    <tags>all_products_tag, low_vat_rate</tags>
     <price>44.25</price>
     <compare_at_price/>
     <available>true</available>
@@ -23768,6 +23980,46 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>92.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_047</sku>
+    <barcode>5028392001974</barcode>
+    <title>MegaMag Energen Plus (Orange) - 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting formula to reduce tiredness &amp;amp; fatigue with 200mg of magnesium glycinate &amp;amp; other key energy-supporting ingredients. A practical Metagenics formula designed for daily supplementation, featuring: Magnesium Glycinate: Highly absorbable form, gentle on digestion; Energy Supporting B Vitamins: Includes B1, B2, B3 &amp;amp; B5 above NRV to combat fatigue; Malic Acid &amp;amp; Carnitine: Supports efficient fat-to-energy conversion; Flexible Powder Format: Easy to adjust dosage to personal needs; Tasty Flavours: Available in raspberry and orange for easy mixing into drinks.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>57.86</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-energen-plus-orange</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2049267128_max.webp?v=1781043618</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>256.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_052</sku>
+    <barcode>5028392001554</barcode>
+    <title>MegaMag Muscleze (Orange) 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting powder with magnesium and other key ingredients to support muscle function and recovery following exercise. A practical Metagenics formula designed for daily supplementation, featuring: Highly Absorbable Magnesium Blend: 240mg of magnesium bisglycinate and malate for optimal uptake; Gentle On Digestion: Ideal for sensitive stomachs; unlike other forms of magnesium; Active B Vitamin Forms: Includes body-ready folate, B6, and B12 for superior absorption; Therapeutic B Vitamin Doses: Features high levels of B1, B3, and B6 to reduce tiredness and fatigue; Provides Amino Acids, Including Creatine: to support muscle repair and recovery; Easy To Take: Available in tasty orange or cherry flavour, mixes easily in water or juice.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>60.56</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-muscleze-orange</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2315190738_max_20_281_29.webp?v=1781043747</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>186.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -23848,6 +24100,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>286.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>MET_045</sku>
+    <barcode>5028392001967</barcode>
+    <title>MegaMag Calmeze (Orange) - 30 Servings | Metagenics</title>
+    <vendor>Metagenics</vendor>
+    <product_type/>
+    <description>Fast-acting magnesium based powder to support the nervous system and help balance the effects of stress and anxiety. A practical Metagenics formula designed for daily supplementation, featuring: High-Strength Magnesium: 200mg of easily absorbed magnesium glycinate per serving; Nervous System Support: Magnesium and B vitamins for stress response and psychological function; Reduces Fatigue: 500mg vitamin C supports adrenal function and reduces tiredness; Powerful Amino Acid Blend: L-Taurine, L-Theanine, and L-Glutamine for stress and cognitive support; Optimised Energy: With high strength B-vitamin content (B1, B2, B3, B5, B6); Fast-Acting Powder Formula: Higher therapeutic doses and convenient; Delicious &amp;amp; Easy to Mix: Tasty orange, raspberry, and chamomile flavour.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>56.49</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>megamag-calmeze-orange</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/metagenics-megamag-calmeze-orange-powder-262g.webp?v=1781043468</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>270.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
