@@ -1256,7 +1256,7 @@
     <tags>low_vat_rate</tags>
     <price>17.64</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>grapefruit-seed-extract-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NUR_27-Grapefruit-Seed.jpg?v=1764585621</image>
@@ -2524,7 +2524,7 @@
     <tags>low_vat_rate</tags>
     <price>20.70</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-citrate-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0122-Zinc-Citrate_ce3885ae-3139-43b7-b508-612d590b1fe5.jpg?v=1764586310</image>
@@ -2544,7 +2544,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>buffered-ascorbic-acid-powder-227g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0128-Buffered-Ascorbic-Acid-Powder_15d839f2-cba0-4188-a436-1e7e58f7abbe.png?v=1764586396</image>
@@ -7130,7 +7130,7 @@
     <tags>low_vat_rate</tags>
     <price>79.56</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-mind-mood-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/bio-me-mind-mood-INVIVO_23_7876b723-c349-447f-9a17-a4ec3f5805e1.png?v=1764586244</image>
@@ -8918,7 +8918,7 @@
     <tags>low_vat_rate</tags>
     <price>87.19</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>alpha-lipoic-acid-600-mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0075-Alpha-Lipoic-Acid_f21e9552-e033-4070-a68d-095bf7bfedab.jpg?v=1764586230</image>
@@ -9961,7 +9961,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>b-complex-plus-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0042-BComplex-Plus-120s_ec8bf2e1-6384-4877-9092-01e6870d2649.jpg?v=1764585802</image>
@@ -12041,7 +12041,7 @@
     <tags>low_vat_rate</tags>
     <price>107.90</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>holozyme-180-capsules-healthy-gut</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2816_29.webp?v=1770333632</image>
@@ -12401,7 +12401,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>super-curcumin-60-capsules-super-botanic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/01.jpg?v=1764585580</image>
@@ -17289,7 +17289,7 @@
     <tags>low_vat_rate</tags>
     <price>24.51</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nattovena-4-000-30-cap-arthur-andrew-medical</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2819_29.png?v=1764586605</image>
@@ -18260,7 +18260,7 @@
     <tags>low_vat_rate</tags>
     <price>47.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>oxy-powder®-60-capsules-global-healing-center</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-05T102400.391.webp?v=1764586524</image>
@@ -20802,7 +20802,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b12-adenosyl-hydroxy-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/B12_20Adenosyl_20Hydroxy_20-_2090_20capsules_20_20Pure_20Encapsulations.webp?v=1765755301</image>
@@ -23428,7 +23428,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>23.23</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nac-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260427_1024x1024_f22be153-5905-4ab9-93cc-f90c66cf0a5f.webp?v=1777415041</image>
