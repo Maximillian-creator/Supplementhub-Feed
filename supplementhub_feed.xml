@@ -5176,7 +5176,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>boswellia-extract-400mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_12_c8462774-1c49-43a2-a8ec-7002d58db879.png?v=1764586123</image>
@@ -6786,7 +6786,7 @@
     <tags>low_vat_rate</tags>
     <price>136.24</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>sibotic-180-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/67e9971b-d210-4150-9656-20d0d154fbba-358-358.png?v=1764585615</image>
@@ -11053,7 +11053,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dgl-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0168-DGL-Plus_c87a250b-4d3f-4405-873e-5995ab093af2.png?v=1764585796</image>
@@ -13589,7 +13589,7 @@
     <tags/>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-formula-60-softgels-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Ultimate_20omega_20formula.png?v=1764585570</image>
@@ -16190,7 +16190,7 @@
     <tags>low_vat_rate</tags>
     <price>61.03</price>
     <compare_at_price>74.11</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>megaguard-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-MegaGuard-UK-Bottle-FRONT_20_281_29.jpg?v=1764586157</image>
@@ -18747,7 +18747,7 @@
     <tags>low_vat_rate</tags>
     <price>56.12</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-1280mg-lemon-flavour-60-softgels-nordic-naturals</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_12-60-Ultimate-Omega-60s_3d9bc9c4-b316-470d-a814-fd7e25afb2ad.jpg?v=1764585941</image>
@@ -18787,7 +18787,7 @@
     <tags>low_vat_rate</tags>
     <price>34.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>multivitamin-one-sensitive-45-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MULTI-SENS-CAP_1_Front.webp?v=1785277334</image>
@@ -20624,7 +20624,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>rhodiola-rosea-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/57128_157ad96f.768x768.webp?v=1765754521</image>
@@ -20752,7 +20752,7 @@
     <tags>low_vat_rate</tags>
     <price>62.12</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-lysine-270-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0103-L-Lysine-270s.webp?v=1765755212</image>
@@ -21065,7 +21065,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>38.84</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-sleep-muscle-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Candex_SIBO_45_24359_WEB.webp?v=1768432768</image>
@@ -23006,7 +23006,7 @@
     <tags>low_vat_rate</tags>
     <price>107.83</price>
     <compare_at_price>125.88</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dao-enzyme-formerly-histamine-digest™-90-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HISTA-90-CAP_FrontPanel_REV042125.webp?v=1776118995</image>
@@ -23268,7 +23268,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>54.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>betaine-hcl-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260416_1024x1024_49bc2b9f-4268-467a-a42d-d3144bb5007d.webp?v=1777414704</image>
