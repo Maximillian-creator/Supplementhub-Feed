@@ -11,7 +11,7 @@ Output: supplementhub_add_feed.xml
 
 import xml.etree.ElementTree as ET
 
-from scraper import fetch_all_products, save_xml
+from scraper import controleer_omvang, fetch_all_products, save_xml
 
 OUTPUT_FILE = "supplementhub_add_feed.xml"
 
@@ -89,6 +89,7 @@ def main():
     print("🚀 Supplementhub ADD-feed gestart\n")
     products = fetch_all_products()
     root = build_xml(products)
+    controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
     save_xml(root, OUTPUT_FILE)
     print(f"\n💾 {len(products)} producten verwerkt")
     print("\n📋 Feed-URL voor Stock Sync (Add products):")
