@@ -334,7 +334,7 @@
     <tags>low_vat_rate</tags>
     <price>47.03</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>zinc-carnosine-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Zinc_20Carnosine_20-_2060_20Capsules_20_20Seeking_20Health_01.webp?v=1764586484</image>
@@ -2959,7 +2959,7 @@
     <tags>low_vat_rate</tags>
     <price>23.97</price>
     <compare_at_price>29.42</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>adeno-b12-60-lozenges</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ADB12-LOZ_1_Front_R_19adbb97-35a8-43fa-84a8-1ce4da67b3ca.png?v=1764586224</image>
@@ -3396,7 +3396,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>n-acetyl-l-cysteine-nac-500mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NAC-CAP_1_Front_R_medium_81574676-f9ba-48e8-bb8b-7e2b0a833be2.webp?v=1764586133</image>
@@ -3592,7 +3592,7 @@
     <tags>low_vat_rate</tags>
     <price>46.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-electrolyte-orange-flavour-30-stick-packs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ELYTE-O-PACK_1_Front_f91dce04-fe11-43f7-818c-abb8a9e973e0.png?v=1764586220</image>
@@ -3632,7 +3632,7 @@
     <tags>low_vat_rate</tags>
     <price>43.31</price>
     <compare_at_price>45.34</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-liposomal-vitamin-c-lemon-zest-150ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VITA-C-LIPO_1_Front_R_medium_f2eadded-51f8-4cca-ad12-39c4ac89fd59.webp?v=1764586136</image>
@@ -3757,7 +3757,7 @@
     <tags>low_vat_rate</tags>
     <price>45.53</price>
     <compare_at_price>49.04</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-vitamin-c-plus-164g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VITA-C-PLUS-POW_1_Front_R_7c808d4f-813c-4634-96c7-6d50726b1236.png?v=1764586487</image>
@@ -4717,7 +4717,7 @@
     <tags>low_vat_rate</tags>
     <price>88.82</price>
     <compare_at_price>114.44</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>toxaprevent-medi-plus-30-sachets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/toxaprevent-medi-plus-30_sho9623.jpg?v=1764586040</image>
@@ -5823,7 +5823,7 @@
     <tags>low_vat_rate</tags>
     <price>46.07</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>adrenotone-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_06-90-Adrenotone.png?v=1764585999</image>
@@ -5863,7 +5863,7 @@
     <tags>low_vat_rate</tags>
     <price>41.95</price>
     <compare_at_price>54.49</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>curcuma-supreme-nk-kb-formula-60-liquid-phytocaps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Professional-Solutions-Curcuma-Supreme-NF-kB-Formula_LAP63060_103_PDP_99b100a7-86d0-4abd-a4ae-acbdf8390f3c.png?v=1764585820</image>
@@ -12152,7 +12152,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thiactive-b-methylated-b-complex-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ThiactiveB_20-_20square-front-transparent.webp?v=1769728606</image>
@@ -14287,7 +14287,7 @@
     <tags>low_vat_rate</tags>
     <price>92.64</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-nicotinamide-riboside-60-capsules-codeage</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CA_003.png?v=1764586531</image>
@@ -18929,7 +18929,7 @@
     <tags>low_vat_rate</tags>
     <price>71.93</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>purehmo®-human-milk-oligosaccharide-hmo-2fl-super-prebiotic-powder-layer-origin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1_61RmHOzpWfL_desktop.webp?v=1781606088</image>
@@ -20511,7 +20511,7 @@
     <tags>low_vat_rate</tags>
     <price>64.30</price>
     <compare_at_price>82.83</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liver-90-capsules-new-roots-herbal</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0206NRHEurope_Liver90capsules_99c72bcb-ac1f-4668-9835-d2f35a293cb4.png?v=1764586346</image>
@@ -20944,7 +20944,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>56.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>omegagenics-high-strength-omega-3-fish-oil-60-softgels-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OmegaGenics_High_Strength_60_WEB.webp?v=1768432658</image>
@@ -21065,7 +21065,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>38.84</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-sleep-muscle-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Candex_SIBO_45_24359_WEB.webp?v=1768432768</image>
@@ -21474,7 +21474,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>32.07</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>myo-inositol-powder-60-servings-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Myo-Inositol_60_WEB.webp?v=1768433250</image>
@@ -21698,7 +21698,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>35.41</price>
     <compare_at_price>42.89</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultraflora-complete-for-women-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraFlora_Complete_For_Women-Packaging.webp?v=1769555804</image>
@@ -22037,7 +22037,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>25.28</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultraflora-fibre-14-sachets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraFlora_Fibre_14_37322_UK_BOX19_0.9_LxWxH_65x60x105mm_PRODUCT_IMAGE_UK_20_281_29.jpg?v=1769556121</image>
@@ -22381,7 +22381,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>32.65</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultimate-d3-k2</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NoordCodeUltimateD3_K2bottle_2000x_crop_center_bb04785a-841b-4504-b15d-00b675a505d7.webp?v=1770678979</image>
@@ -23588,7 +23588,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>57.86</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-night-plus</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71RTzWZbhHL._AC_SL1500.webp?v=1781044033</image>
@@ -23608,7 +23608,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>80.93</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>plant-sterol-complex</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/plant_sterol_complex_30.webp?v=1781043629</image>
@@ -23648,7 +23648,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>56.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-calmeze-raspberry</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1996308963_max.webp?v=1781044183</image>
@@ -23728,7 +23728,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>60.56</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-muscleze-cherry</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2049268414_max_20_281_29.webp?v=1781043759</image>
@@ -23748,7 +23748,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>52.41</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glutathione-plus</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1781043848</image>
@@ -23768,7 +23768,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>48.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-kids-teens</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NA_130-MegaMag-Kids-Teens.webp?v=1781043664</image>
@@ -23788,7 +23788,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>52.41</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-night-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61zxTG-NOeL._AC_SL1500.webp?v=1781043479</image>
@@ -23848,7 +23848,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>57.86</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-energen-plus-raspberry</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61SDlqGu3cL._AC_SX679.webp?v=1781043993</image>
@@ -23868,7 +23868,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>56.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-calmeze-chamomile</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2111217712_max.webp?v=1781043770</image>
@@ -23888,7 +23888,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>37.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>resilience</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61TSnf2sNTL._AC_SL1500.webp?v=1781044239</image>
@@ -23928,7 +23928,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>29.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ashwagandha-500mg</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ashwagandha_60_32872_web.webp?v=1781043433</image>
@@ -23992,7 +23992,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>57.86</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-energen-plus-orange</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2049267128_max.webp?v=1781043618</image>
@@ -24012,7 +24012,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>60.56</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-muscleze-orange</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2315190738_max_20_281_29.webp?v=1781043747</image>
@@ -24112,7 +24112,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>56.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-calmeze-orange</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/metagenics-megamag-calmeze-orange-powder-262g.webp?v=1781043468</image>
