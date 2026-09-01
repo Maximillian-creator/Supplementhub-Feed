@@ -1276,7 +1276,7 @@
     <tags>low_vat_rate</tags>
     <price>38.68</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>childrens-pro-20g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/fe1821-nrh-europe_-childrens-pro-20g_1_ff2acd1b-94c3-4039-9c6d-9d6c053400aa.png?v=1764586233</image>
@@ -2340,7 +2340,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price>42.50</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>grapefruit-seed-extract-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0063-Grapefruit-Seed-Extract_0661e829-ec6c-4856-b782-7cd291f728e0.jpg?v=1764586058</image>
@@ -5145,7 +5145,7 @@
     <tags>low_vat_rate</tags>
     <price>67.57</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>blood-sugar-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_11_a8939dec-290e-43e3-ab08-fc63a210a4ae.png?v=1764585868</image>
@@ -5763,7 +5763,7 @@
     <tags>low_vat_rate</tags>
     <price>100.27</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>probutyrate-300mg-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/225-ProButyrate-Front-768x920_7a02e718-295a-4d5d-aacf-8a34b6704858.png?v=1764586125</image>
@@ -5923,7 +5923,7 @@
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-oral-60g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/INVIVO_02-Bio.Me-Oral_ade86d33-f6b8-4f3d-b90d-bf7a4bbbe4eb.png?v=1764586425</image>
@@ -6886,7 +6886,7 @@
     <tags>low_vat_rate</tags>
     <price>93.18</price>
     <compare_at_price>98.09</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>prostasorb-300mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/120-ProstaSorb-Front_25743930-f272-4790-9ef6-99fd2e6da1c4.jpg?v=1764586124</image>
@@ -7230,7 +7230,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>lu-rong-supreme-deer-antler-570mg-45-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_012-Lu-Rong-Supreme.png?v=1764585692</image>
@@ -7490,7 +7490,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>58.85</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>wild-greens-supreme-90g-powder</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_030-Wild-Greens-Supreme.png?v=1764586482</image>
@@ -7530,7 +7530,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tulsi-supreme-holy-basil-500mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_028-Tulsi-Supreme_befef41e-a87d-4eee-a5dc-f643eea7420e.png?v=1764586050</image>
@@ -7713,7 +7713,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>olive-leaf-supreme-olea-europaea-320mg-120-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_018-Olive-Leaf-Supreme_7c046fa1-2790-4f54-8c41-39159485d549.png?v=1764586300</image>
@@ -7833,7 +7833,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hemo-guard-supreme-120-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/hemo_guard_transparent_aefd2244-2e24-432b-9fc2-b0dec3fdf10f.png?v=1764586218</image>
@@ -7853,7 +7853,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>golden-thread-supreme-coptis-chinensis-545mg-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_009-Golden-Thread-Supreme.png?v=1764586480</image>
@@ -7953,7 +7953,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bfb-1-11ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_003-BFB-1.png?v=1764586752</image>
@@ -10841,7 +10841,7 @@
     <tags>low_vat_rate</tags>
     <price>44.13</price>
     <compare_at_price>56.67</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mucosa-formula-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mucosa-Smart-Formula-UK-Biogena-60Kps-125cc-2012_low_ef631c2c-8846-42e4-81c0-2419d27dc38d.jpg?v=1764585737</image>
@@ -11266,7 +11266,7 @@
     <tags>low_vat_rate</tags>
     <price>35.41</price>
     <compare_at_price>40.32</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>anti-sibo-60-capsules-thera-nordic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TN_05-1_8t6qk8_595fa2e0-0484-4b21-bd40-f51393deeef3.png?v=1764586281</image>
@@ -11476,7 +11476,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -11818,7 +11818,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>cissus-supreme-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_061-Cissus-Supreme_5f127bb3-5ac5-488a-952b-b1375b132833.png?v=1764586725</image>
@@ -11838,7 +11838,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>scutellaria-baicalensis-liquid-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_063-Scutellaria-Baicalensis_c65f2ca9-51e7-488b-abe8-0d74fc9e6528.jpg?v=1764585950</image>
@@ -11878,7 +11878,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>black-walnut-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_062-1_e8028fcc-9144-4926-821e-d5d19db1e363.png?v=1764586644</image>
@@ -11938,7 +11938,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>usnea-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_066-Usnea_988160f1-f89f-4c0e-80a3-5232d1d02ed6.jpg?v=1764585851</image>
@@ -12569,7 +12569,7 @@
     <tags>low_vat_rate</tags>
     <price>58.81</price>
     <compare_at_price>63.21</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biofilm-phase-2-advanced-60-capsules-priority-one</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PO1_08-Biofilm-Phase-2-Advanced_pmiy04_de458d0d-ba4d-4635-b172-a8612ae4112e.png?v=1764586820</image>
@@ -12791,7 +12791,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price>46.86</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-fish-oil-120-softgels-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-FISH-SG_1_Front_R_medium_c8224353-32f1-40f2-972f-ba42ffcf8873.png?v=1764586102</image>
@@ -13471,7 +13471,7 @@
     <tags/>
     <price>27.24</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pure-mct-creamer-250g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20MCT_20creamer.png?v=1764586017</image>
@@ -20650,7 +20650,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>niacitol-500mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1025948114_max.webp?v=1765754647</image>
