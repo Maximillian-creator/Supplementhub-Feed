@@ -2280,7 +2280,7 @@
     <tags>low_vat_rate</tags>
     <price>47.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-30-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0046-Zinc-30-180s.jpg?v=1764586231</image>
@@ -9211,7 +9211,7 @@
     <tags>low_vat_rate</tags>
     <price>24.51</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>black-elderberry-extra-strength-gummies-40-gummies</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Black-Elderberry-Extra-Strength-Immune-Support-Gummies_LAC80040_104-1220_PDP_75fecfc5-97bf-4bb3-a8e1-db2039e6f13d.png?v=1764585810</image>
@@ -11672,7 +11672,7 @@
     <tags>low_vat_rate</tags>
     <price>17.43</price>
     <compare_at_price>18.52</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zen-coffee-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/london-nootropics-london-nootropics-zen-adaptogenic-coffee-z-12-london-nootropics-zen-adaptogenic-coffee-1154837752.webp?v=1776810097</image>
@@ -12152,7 +12152,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thiactive-b-methylated-b-complex-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ThiactiveB_20-_20square-front-transparent.webp?v=1769728606</image>
@@ -12589,7 +12589,7 @@
     <tags>low_vat_rate</tags>
     <price>76.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>sensitol-120-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_114-Sensitol_40vrl7_4f960f02-2028-4c32-83d3-e0cc176deeb3.png?v=1764586367</image>
@@ -12791,7 +12791,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price>46.86</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>optimal-fish-oil-120-softgels-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-FISH-SG_1_Front_R_medium_c8224353-32f1-40f2-972f-ba42ffcf8873.png?v=1764586102</image>
@@ -14855,7 +14855,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-60-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen.webp?v=1764586012</image>
@@ -20677,7 +20677,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b12-methylcobalamin-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mt6uk.webp?v=1765754765</image>
@@ -21216,7 +21216,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>34.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>womens-one-a-day-multivitamin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CoQ10_30_31750_WEB.webp?v=1768432993</image>
