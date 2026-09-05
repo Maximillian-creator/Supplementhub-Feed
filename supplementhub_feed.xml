@@ -195,7 +195,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>cellular-forte-ip-6-and-inositol-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_04-Cellular-Forte.png?v=1764585908</image>
@@ -2794,7 +2794,7 @@
     <tags/>
     <price>6.53</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-22ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_06-Natural-Hydroxyapatite-Toothpaste-22ml_ee43a1db-e232-485e-be43-c3cc5760c3f8.png?v=1764586134</image>
@@ -6196,7 +6196,7 @@
     <tags>low_vat_rate</tags>
     <price>86.10</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-barrier-120g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/492x492-17.png?v=1770679379</image>
@@ -8708,7 +8708,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dha-830mg-strawberry-flavour-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_07-DHA-90s_d05f845e-12b5-4e8e-941a-ab2861527ae8.jpg?v=1764585715</image>
@@ -11758,7 +11758,7 @@
     <tags>low_vat_rate</tags>
     <price>13.07</price>
     <compare_at_price>16.34</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mushroom-coffee-box-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/download_20_281_29_3fue5g.webp?v=1776810401</image>
@@ -13431,7 +13431,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pure-coffee-medium-roast-beans-1kg-beans-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20coffee_b57767d3-d358-44a0-b9c5-0e945ece221a.png?v=1764586815</image>
@@ -19774,7 +19774,7 @@
     <tags>low_vat_rate</tags>
     <price>108.99</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>htb-rejuvenate-60-capsules-big-bold-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/bbh.webp?v=1776723579</image>
@@ -19875,7 +19875,7 @@
     <tags>low_vat_rate</tags>
     <price>75.74</price>
     <compare_at_price>98.09</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>htb-immune-energy-chews-chocolate-60-chews-big-bold-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-13T141531.478.png?v=1764586799</image>
@@ -22966,7 +22966,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>81.74</price>
     <compare_at_price>92.64</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>tudca-bitters-blend-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA-Front.webp?v=1771975561</image>
