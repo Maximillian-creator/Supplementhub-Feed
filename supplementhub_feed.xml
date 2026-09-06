@@ -5823,7 +5823,7 @@
     <tags>low_vat_rate</tags>
     <price>46.07</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>adrenotone-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_06-90-Adrenotone.png?v=1764585999</image>
@@ -9647,7 +9647,7 @@
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price>33.78</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>enhanced-super-digestive-enzymes-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LE_069-Enhanced-Super-Digestive-Enzymes.png?v=1764585985</image>
