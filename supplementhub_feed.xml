@@ -1946,7 +1946,7 @@
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price>33.78</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-lysine-zinc-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20LZP-026_20UK_20PMD_20L-Lysine_20Oct_202025-2.webp?v=1767881301</image>
@@ -4717,7 +4717,7 @@
     <tags>low_vat_rate</tags>
     <price>88.82</price>
     <compare_at_price>114.44</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>toxaprevent-medi-plus-30-sachets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/toxaprevent-medi-plus-30_sho9623.jpg?v=1764586040</image>
@@ -8457,7 +8457,7 @@
     <tags>low_vat_rate</tags>
     <price>58.85</price>
     <compare_at_price>76.29</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mico-mix-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_12-70_e7de78c8-f80c-4bc5-b96a-e32bfa8a1e10.png?v=1764586076</image>
@@ -11718,7 +11718,7 @@
     <tags>low_vat_rate</tags>
     <price>18.52</price>
     <compare_at_price>22.88</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mojo-coffee-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1969125817_max.webp?v=1776810402</image>
@@ -12463,7 +12463,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>allithiamine-b1-50mg-250-capsules-ecological-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EF_12-Allthiamine-250s_8mlajt_70c67216-09f6-4976-939d-4666cadb181b.png?v=1764585937</image>
@@ -13631,7 +13631,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-flavourless-96g-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Flavorless-3.png?v=1764586014</image>
@@ -14555,7 +14555,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>63.75</price>
     <compare_at_price>73.02</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>fish-oil-60-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T133249.028.webp?v=1764586891</image>
@@ -17268,7 +17268,7 @@
     <tags>low_vat_rate</tags>
     <price>50.67</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>paleo-protein-strawberries-cream-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2836_29.png?v=1764586008</image>
@@ -17552,7 +17552,7 @@
     <tags>low_vat_rate</tags>
     <price>34.32</price>
     <compare_at_price>44.55</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bile-builder-complete-120-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bile_20Builder_20Complete_20-_20120_20Capsules_20Amy_20Myers_20MD_01.webp?v=1764586693</image>
@@ -19437,7 +19437,7 @@
     <tags>low_vat_rate</tags>
     <price>73.56</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-ovarian-inositol-powder-codeage</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-31T141301.735.webp?v=1764586261</image>
@@ -20451,7 +20451,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>66.48</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>prenatal-dha-180-sofgels-nordic-naturals</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/01741RP1-PrenatalDHAunflavored_90ct_Front_da8aa54d-3040-471d-8420-0ea348f40d31.webp?v=1764585646</image>
