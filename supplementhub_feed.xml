@@ -354,7 +354,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>motility-activator-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_26-Motility-Activator_3db377c4-bd98-4c7b-9933-de0e5429171c.png?v=1764585983</image>
@@ -414,7 +414,7 @@
     <tags>low_vat_rate</tags>
     <price>69.75</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pro-som-sleep-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/pro-som.png?v=1764586255</image>
@@ -1276,7 +1276,7 @@
     <tags>low_vat_rate</tags>
     <price>38.68</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>childrens-pro-20g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/fe1821-nrh-europe_-childrens-pro-20g_1_ff2acd1b-94c3-4039-9c6d-9d6c053400aa.png?v=1764586233</image>
@@ -1463,7 +1463,7 @@
     <tags>low_vat_rate</tags>
     <price>28.33</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>vitamin-c-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20VC-014_20UK_20PMD_20Vitamin_20C_20Oct_202025-2.webp?v=1768000596</image>
@@ -2067,7 +2067,7 @@
     <tags>low_vat_rate</tags>
     <price>27.24</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-citrate</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mc9uk_v2_rgb_9fc09915-30f5-4b13-9599-439729ba02f2.jpg?v=1764586757</image>
@@ -6048,7 +6048,7 @@
   </product>
   <product>
     <sku>INVIVO_08</sku>
-    <barcode>7105353659240</barcode>
+    <barcode>0710535365924</barcode>
     <title>Bio.Me Femme UT - 90g | Invivo Healthcare</title>
     <vendor>Invivo Healthcare</vendor>
     <product_type/>
@@ -9667,7 +9667,7 @@
     <tags>low_vat_rate</tags>
     <price>20.70</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>taurine-1000mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LE_122-Taurine.png?v=1764586673</image>
@@ -9855,7 +9855,7 @@
     <tags>low_vat_rate</tags>
     <price>23.97</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>chromium-picolinate-200mcg-250-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_08-Chromium-Picolinate.png?v=1764586320</image>
@@ -10485,7 +10485,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-vitamin-c-liquid-120ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0158-Liposomal-Vitamin-C.jpg?v=1764586319</image>
@@ -11053,7 +11053,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dgl-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0168-DGL-Plus_c87a250b-4d3f-4405-873e-5995ab093af2.png?v=1764585796</image>
@@ -11222,7 +11222,7 @@
     <tags>low_vat_rate</tags>
     <price>74.11</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>rezcue-drink-powder-240g-thera-nordic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TN_02-Rezcue-Drink-Powder-240g.jpg?v=1764586547</image>
@@ -11632,7 +11632,7 @@
     <tags>low_vat_rate</tags>
     <price>28.33</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dr-gb-syrup-250ml-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Dr-GB-2025-B.webp?v=1764586373</image>
@@ -11718,7 +11718,7 @@
     <tags>low_vat_rate</tags>
     <price>18.52</price>
     <compare_at_price>22.88</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mojo-coffee-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1969125817_max.webp?v=1776810402</image>
@@ -12092,7 +12092,7 @@
     <tags>low_vat_rate</tags>
     <price>32.68</price>
     <compare_at_price>45.77</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thiamax-high-absorption-vitamin-b1-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2814_29-converted-from-png.webp?v=1769728927</image>
@@ -20119,7 +20119,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>saffron-60-capsules-new-roots-herbal</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T153923.591.png?v=1764586429</image>
