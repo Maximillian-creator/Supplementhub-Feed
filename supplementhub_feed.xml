@@ -6846,7 +6846,7 @@
     <tags>low_vat_rate</tags>
     <price>101.36</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>acz-nano-120ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/advanced-cellular-zeolite-acz-nano-extra-strength-4oz_1_702e97ab-5436-4060-9880-fbef62fc3b9e.jpg?v=1764586898</image>
@@ -7550,7 +7550,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thera-supreme-775mg-130-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_027-Thera-Supreme_39a2e996-c5fa-4865-821d-c17ccc0ad035.png?v=1764586127</image>
@@ -12710,7 +12710,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>immunitone-plus-120-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_50-Immunitone-Plus_rno2bx_6b8ea446-e925-4a71-92a6-be7120d51aaa.png?v=1764585936</image>
@@ -13411,7 +13411,7 @@
     <tags>low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>matrix-synergy-90-capsules-vervita</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1024x1024AllProductImages_19_5000x_914d92b7-1b18-444b-889e-5a8e53a5bec3.webp?v=1764585572</image>
@@ -16129,7 +16129,7 @@
     <tags>low_vat_rate</tags>
     <price>65.84</price>
     <compare_at_price>74.11</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hu58-high-potency-bacillus-subtillis-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-HU58-UK-Bottle-FRONT_20_281_29.jpg?v=1764585807</image>
@@ -18956,7 +18956,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>purehmo®-human-milk-oligosaccharide-super-prebiotic-capsules-90-capsules-layer-origin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/purehmo-human-milk-oligosaccharides-super-prebiotic-capsule-601760.jpg?v=1764586262</image>
@@ -19660,7 +19660,7 @@
     <tags>low_vat_rate</tags>
     <price>100.27</price>
     <compare_at_price>129.70</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>microbiome-rejuvenate-120-capsules-big-bold-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/shopping.webp?v=1768951191</image>
@@ -22281,7 +22281,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>53.94</price>
     <compare_at_price>62.90</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>advanced-detox-support-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Advanced_Detox_Support_120_caps__47218.webp?v=1769988272</image>
@@ -23288,7 +23288,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>36.01</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-plus-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260416_1024x1024_f546110e-1a67-410b-a67c-446f46815fb1.webp?v=1777414718</image>
