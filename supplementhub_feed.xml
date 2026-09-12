@@ -866,7 +866,7 @@
     <tags>low_vat_rate</tags>
     <price>82.83</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>grass-fed-whey-protein-isolate</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mother_Earth_Whey_Protein_Choc.png?v=1764586407</image>
@@ -2210,7 +2210,7 @@
     <tags>low_vat_rate</tags>
     <price>20.15</price>
     <compare_at_price>26.15</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-citrate-malate-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/mcm9uk_rgb_0486e8a7-ea85-4269-9a65-19b90ef1cf24.png?v=1764586322</image>
@@ -2794,7 +2794,7 @@
     <tags/>
     <price>6.53</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-22ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_06-Natural-Hydroxyapatite-Toothpaste-22ml_ee43a1db-e232-485e-be43-c3cc5760c3f8.png?v=1764586134</image>
@@ -5663,7 +5663,7 @@
     <tags>low_vat_rate</tags>
     <price>26.69</price>
     <compare_at_price>32.50</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>strontium-citrate-227mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_86_17c23cde-444c-466a-9b57-6888b8dac2c9.png?v=1764585773</image>
@@ -6561,7 +6561,7 @@
     <tags>low_vat_rate</tags>
     <price>66.18</price>
     <compare_at_price>99.18</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biofilm-defense-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KRK_02-Biofilm-Defense_bb96ff29-bfe9-4d35-98d1-79cf0a6db4ee.jpg?v=1764586507</image>
@@ -8457,7 +8457,7 @@
     <tags>low_vat_rate</tags>
     <price>58.85</price>
     <compare_at_price>76.29</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-mix-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_12-70_e7de78c8-f80c-4bc5-b96a-e32bfa8a1e10.png?v=1764586076</image>
@@ -8511,7 +8511,7 @@
     <tags>low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-five-chaga-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Five-01.png?v=1764585909</image>
@@ -8538,7 +8538,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-cord-cordyceps-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Cord-01.png?v=1764585726</image>
@@ -10021,7 +10021,7 @@
     <tags>low_vat_rate</tags>
     <price>56.67</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>app-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_APP_white_fee7bf07-b76a-4305-a8c0-473ca2923ee6.jpg?v=1764586240</image>
@@ -10086,7 +10086,7 @@
     <tags>low_vat_rate</tags>
     <price>68.66</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dtc-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_DTC_d2b27fe8-a998-49ac-bb4f-89c668b698c0.jpg?v=1764585894</image>
@@ -10106,7 +10106,7 @@
     <tags>low_vat_rate</tags>
     <price>65.39</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>energy-active-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_EnergyActive_86474388-c07b-4fa8-9489-dbca57cdecd0.jpg?v=1764585805</image>
@@ -10214,7 +10214,7 @@
     <tags>low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mito-immune-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_MITO_0932994b-ddcf-447e-b91a-b0fbb05fb70a.jpg?v=1764585630</image>
@@ -10254,7 +10254,7 @@
     <tags>low_vat_rate</tags>
     <price>64.30</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tbb-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_TBB.jpg?v=1764586239</image>
@@ -11429,7 +11429,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-vir-reishi-cordyceps-70-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Vir-01_2d634528-9f4e-43de-9720-d3da108bab0a.png?v=1764586514</image>
@@ -14396,7 +14396,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>55.15</price>
     <compare_at_price>67.57</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tudca-tauroursodeoxycholic-acid-supplement-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA.webp?v=1774048710</image>
@@ -14855,7 +14855,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-60-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen.webp?v=1764586012</image>
@@ -16430,7 +16430,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>31.53</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-malate-100-capsules-researched-supplements</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RS_30_3a34f70d-2b24-4c6d-98ae-61fce80be97b.png?v=1764586803</image>
@@ -18314,7 +18314,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-collagen-protein-bar-vanilla-cashew-12-bars-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-29T154802.111.jpg?v=1764585739</image>
@@ -18707,7 +18707,7 @@
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thyroid-65-90-capsules-priority-one</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-06-25T144719.086.png?v=1764586347</image>
@@ -18727,7 +18727,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thyroid-32-5-90-capsules-priority-one</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Thyroid_32.5_R3-View_1_2000x2000_506dc966-db48-431c-99b1-772c5226f9aa.jpg?v=1764586177</image>
@@ -19215,7 +19215,7 @@
     <tags>low_vat_rate</tags>
     <price>33.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>performance-strawberry-cherry-electrolytes-30-sachets-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NoordCodePerformaceSachetStrawberryCherrybox.jpg?v=1764586691</image>
@@ -23026,7 +23026,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price>38.14</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-intima-oral-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hifas-Intima_Oral_PRICE_2025_A.webp?v=1774567273</image>
@@ -23046,7 +23046,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-menopause-refill</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hifas-Menopause_2024_S.webp?v=1774364710</image>
@@ -23066,7 +23066,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>17.97</price>
     <compare_at_price>22.88</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-intima-gel</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hifas-Intima_Gel_2024_M_72182fd5-628b-4afd-8dff-31170851b102.webp?v=1774364827</image>
@@ -23086,7 +23086,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price>38.14</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-da-terra-papilozumib</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Papilozumib2024F.webp?v=1774364949</image>
@@ -23106,7 +23106,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>41.95</price>
     <compare_at_price>54.49</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-detox-refill</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pack-Hifas-Detox-F.webp?v=1774364990</image>
@@ -23126,7 +23126,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price>63.21</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-cord-60-refill</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Cord-doypack-2024-G.webp?v=1774365013</image>
@@ -23146,7 +23146,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price>63.21</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-rei-60-refill</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Rei-doypack-2024-H.webp?v=1774365029</image>
@@ -23186,7 +23186,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>41.95</price>
     <compare_at_price>54.49</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-equilibrium-refill</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pack-Hifas-Equilibrium-G.webp?v=1774365109</image>
@@ -24180,326 +24180,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>90.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_012</sku>
-    <barcode>8437011281128</barcode>
-    <title>InmunoRespir - 90 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>inmunorespir-90-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>89.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_013</sku>
-    <barcode>8437011281241</barcode>
-    <title>Metabolic Pur - 30 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>metabolic-pur-30-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>64.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_011</sku>
-    <barcode>8437011281111</barcode>
-    <title>InmunoRespir - 40 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>inmunorespir-40-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>61.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_007</sku>
-    <barcode>8437011281180</barcode>
-    <title>Omega Base - 60 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>omega-base-60-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>144.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_009</sku>
-    <barcode>8437011281203</barcode>
-    <title>Amino Base - 30 Sachets | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>amino-base-30-sachets-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>355.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_002</sku>
-    <barcode>8437011281012</barcode>
-    <title>CN Base - 60 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>cn-base-60-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>93.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_015</sku>
-    <barcode>8437011281227</barcode>
-    <title>Metabolic Pur - 120 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>metabolic-pur-120-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>173.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_008</sku>
-    <barcode>8437011281197</barcode>
-    <title>Omega Base - 120 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>omega-base-120-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>235.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_016</sku>
-    <barcode>8437011281234</barcode>
-    <title>Mitochondria Active | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>mitochondria-active-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>382.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_010</sku>
-    <barcode>8437011281296</barcode>
-    <title>DK Plus LCN - 60 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>dk-plus-lcn-60-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>91.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_004</sku>
-    <barcode>8437011281135</barcode>
-    <title>Petit CN Base - Neutral | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>petit-cn-base-neutral-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>216.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_005</sku>
-    <barcode>8437011281166</barcode>
-    <title>Petit CN Base - Orange | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>petit-cn-base-orange-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>283.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_001</sku>
-    <barcode>8437011281104</barcode>
-    <title>CN Base - 30 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>cn-base-30-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>67.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_006</sku>
-    <barcode>8437011281173</barcode>
-    <title>Omega Base - 30 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>omega-base-30-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>83.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_014</sku>
-    <barcode>8437011281210</barcode>
-    <title>Metabolic Pur - 60 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>metabolic-pur-60-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>98.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>LCN_003</sku>
-    <barcode>8437011281029</barcode>
-    <title>CN Base - 120 Capsules | LCN</title>
-    <vendor>Laboratorio LCN</vendor>
-    <product_type/>
-    <description/>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>cn-base-120-capsules-lcn</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>164.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
 </products>
