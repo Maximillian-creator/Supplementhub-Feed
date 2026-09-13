@@ -7913,7 +7913,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>body-guard-supreme-chanca-piedra-540mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_005-Body-Guard-Supreme_7ca38cfa-83d7-4dd0-9af6-5f1e2bd11272.png?v=1764585787</image>
@@ -9078,7 +9078,7 @@
     <tags>low_vat_rate</tags>
     <price>85.01</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>puredefense-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0161-PureDefense-120s_0364c2cd-3051-4599-8ae1-219b4cacba2c.jpg?v=1764585614</image>
@@ -9251,7 +9251,7 @@
     <tags>low_vat_rate</tags>
     <price>24.51</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>sleep-gummies-40-gummies</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Sleep-Gummies_LAC85040_101-0521_PDP_974e3d73-9529-4905-83ac-9ae058eebe05.png?v=1764586169</image>
@@ -14396,7 +14396,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>55.15</price>
     <compare_at_price>67.57</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>tudca-tauroursodeoxycholic-acid-supplement-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA.webp?v=1774048710</image>
@@ -14752,7 +14752,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>196.61</price>
     <compare_at_price>231.07</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T132028.157.webp?v=1764586012</image>
