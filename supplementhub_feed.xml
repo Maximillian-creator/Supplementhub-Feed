@@ -3114,7 +3114,7 @@
     <tags>low_vat_rate</tags>
     <price>48.05</price>
     <compare_at_price>59.94</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dim-i3c-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DIM-I3C-CAP_1_Front_R.jpg?v=1764586485</image>
@@ -3556,7 +3556,7 @@
     <tags>low_vat_rate</tags>
     <price>44.72</price>
     <compare_at_price>46.83</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-electrolyte-orange-flavour-244g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ELYTE-O-POW.jpg?v=1764586481</image>
@@ -9271,7 +9271,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nattovena-4000-fu-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AAM_05-90.png?v=1764586002</image>
@@ -9808,7 +9808,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>prenatal-dha-830mg-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_19-Prenatal-DHA_a4ad28f5-816e-42fb-9a4d-6ff6232782cd.jpg?v=1764585893</image>
@@ -10817,7 +10817,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mirachol-3-0-gold-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gold-MiraCHOL-3-0-UK-Biogena-90Kps-125cc-2012_6de23ae0-263d-4f55-838e-4b4179949b1a.jpg?v=1764586906</image>
@@ -14938,7 +14938,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-650g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Whey_20.png?v=1764586443</image>
@@ -19990,7 +19990,7 @@
     <tags>low_vat_rate</tags>
     <price>50.67</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>super-enzymes-90-capsules-now-foods</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_2016-11-01_5818a6f516e64.jpg?v=1764585558</image>
@@ -20996,7 +20996,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>20.15</price>
     <compare_at_price>23.91</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>adaptogen-blend-stress-fatigue-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Milk_Thistle_Complex_60_WEB_20_281_29.webp?v=1768432724</image>
@@ -21065,7 +21065,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>38.84</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-sleep-muscle-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Candex_SIBO_45_24359_WEB.webp?v=1768432768</image>
