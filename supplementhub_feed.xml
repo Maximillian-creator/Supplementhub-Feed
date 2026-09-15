@@ -2380,7 +2380,7 @@
     <tags>low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>saccharomyces-boulardii-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0071-Saccharomyces-Boulardii.jpg?v=1764586496</image>
@@ -2715,7 +2715,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>kids-hydroxyapatite-toothpaste-100ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_03-Kids-Hydroxyapatite-Toothpaste_1_8f2125f2-164f-44ff-8fb1-7dc1930816e4.png?v=1764585688</image>
@@ -3612,7 +3612,7 @@
     <tags>low_vat_rate</tags>
     <price>21.60</price>
     <compare_at_price>26.15</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-iron-plus-cofactors-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Optimal_20Iron_20WIth_20Cofactors_20-_2090_20Capsules_20_20Seeking_20Health_91a4a2d4-30b5-4ebf-80b6-824db692551a.png?v=1764586734</image>
@@ -6431,7 +6431,7 @@
     <tags>low_vat_rate</tags>
     <price>50.13</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>co-q10-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_11.png?v=1764586071</image>
@@ -8243,7 +8243,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>a-ha-mints-30-servings</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_07-A-HA-Mints_93ab8cdd-8c1c-4e4b-983b-1e3c297c9c9d.png?v=1764586297</image>
@@ -9941,7 +9941,7 @@
     <tags>low_vat_rate</tags>
     <price>70.84</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nutrient-950-e-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0011-Nutrient950E.jpg?v=1764585969</image>
@@ -11596,7 +11596,7 @@
     <tags>low_vat_rate</tags>
     <price>16.34</price>
     <compare_at_price>21.32</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>euro-natural-oil-conditioner-moisturizer-120ml-morrocco-method</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Euro-Oil_4oz_2211_CC_007701ab-7209-4298-a4ae-215f3a835dd4.jpg?v=1764586831</image>
@@ -14855,7 +14855,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-60-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen.webp?v=1764586012</image>
@@ -16089,7 +16089,7 @@
     <tags>low_vat_rate</tags>
     <price>38.11</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bacopa-plus-drops-60ml-ayush-herbs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AYH_12-Bacopa-Plus-Drops.png?v=1764586032</image>
