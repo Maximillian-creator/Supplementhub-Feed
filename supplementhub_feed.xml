@@ -95,7 +95,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>magnesium-taurate-125mg-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EF_09_bf64d568-0712-4a69-ae85-5b4f1f677534.png?v=1764585993</image>
@@ -2742,7 +2742,7 @@
     <tags/>
     <price>11.98</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>teflon-free-floss</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_04-Teflon-Free-Floss_2_8fd5ad8a-1613-496f-8ee7-219352d2a2ce.png?v=1764586045</image>
@@ -6966,7 +6966,7 @@
     <tags>low_vat_rate</tags>
     <price>68.66</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optinositol-126g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/optinositol_419db48e-f192-4b13-9a77-59a7466d1f70.png?v=1764585680</image>
@@ -11556,7 +11556,7 @@
     <tags/>
     <price>31.60</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pro-mineral-toothpaste-100-ml-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-19T170319.570.webp?v=1764586546</image>
@@ -11576,7 +11576,7 @@
     <tags/>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>kids-pro-mineral-toothpaste-100-ml-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-20T141305.928.webp?v=1764586108</image>
@@ -13431,7 +13431,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pure-coffee-medium-roast-beans-1kg-beans-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20coffee_b57767d3-d358-44a0-b9c5-0e945ece221a.png?v=1764586815</image>
@@ -14835,7 +14835,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>107.90</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-100-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen_20_281_29.webp?v=1764586809</image>
@@ -14918,7 +14918,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>15.25</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>e-lyte-118-29-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T164121.013.webp?v=1764585568</image>
@@ -14938,7 +14938,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-650g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Whey_20.png?v=1764586443</image>
@@ -16628,7 +16628,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vaginal-balance-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Vaginal_20Balance_20-_2060_20Capsules_20_20Microbiome_20Labs_01_q1ccv6.webp?v=1764585832</image>
@@ -17454,7 +17454,7 @@
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
-    <weight/>
+    <weight>216.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -18503,7 +18503,7 @@
     <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>creatine-pro-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-07-29T154553.845.jpg?v=1764586347</image>
