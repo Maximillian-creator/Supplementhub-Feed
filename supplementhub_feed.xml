@@ -374,7 +374,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>similase-lipo-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/IT_27-Similase-Lipo.png?v=1764585720</image>
@@ -414,7 +414,7 @@
     <tags>low_vat_rate</tags>
     <price>69.75</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pro-som-sleep-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/pro-som.png?v=1764586255</image>
@@ -866,7 +866,7 @@
     <tags>low_vat_rate</tags>
     <price>82.83</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>grass-fed-whey-protein-isolate</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mother_Earth_Whey_Protein_Choc.png?v=1764586407</image>
@@ -1176,7 +1176,7 @@
     <tags>low_vat_rate</tags>
     <price>76.06</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>strongbones-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0297NRHEurope_StrongBones180capsules_e7e0aa74-b79e-4d53-bfdb-db8958ae7f23.png?v=1764586660</image>
@@ -1338,7 +1338,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>b12-energy-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20B12-002_20UK_20PMD_20B12_20Oct_202025-2.webp?v=1768000936</image>
@@ -1507,7 +1507,7 @@
     <tags>low_vat_rate</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glutathione-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20GLUT-011_20UK_20PMD_20Glutathione_20Oct_202025-2.webp?v=1768001075</image>
@@ -1623,7 +1623,7 @@
     <tags>low_vat_rate</tags>
     <price>27.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>keep-klear-acne-eczema-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20KK-019_20UK_20PMD_20Keep_20Klear_20Oct_202025-2.webp?v=1768000967</image>
@@ -1663,7 +1663,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>focus-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20FP-017_20UK_20PMD_20Focus_20Oct_202025-2_20_281_29.webp?v=1767914194</image>
@@ -1946,7 +1946,7 @@
     <tags>low_vat_rate</tags>
     <price>26.15</price>
     <compare_at_price>33.78</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>l-lysine-zinc-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20LZP-026_20UK_20PMD_20L-Lysine_20Oct_202025-2.webp?v=1767881301</image>
@@ -2715,7 +2715,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>kids-hydroxyapatite-toothpaste-100ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_03-Kids-Hydroxyapatite-Toothpaste_1_8f2125f2-164f-44ff-8fb1-7dc1930816e4.png?v=1764585688</image>
@@ -4717,7 +4717,7 @@
     <tags>low_vat_rate</tags>
     <price>88.82</price>
     <compare_at_price>114.44</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>toxaprevent-medi-plus-30-sachets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/toxaprevent-medi-plus-30_sho9623.jpg?v=1764586040</image>
@@ -5125,7 +5125,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>berberine-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_07-Berberine-200mg_7889d789-8b30-4ecb-b5f0-2c6ef27d1c43.png?v=1764586559</image>
@@ -5176,7 +5176,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>boswellia-extract-400mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_12_c8462774-1c49-43a2-a8ec-7002d58db879.png?v=1764586123</image>
@@ -5863,7 +5863,7 @@
     <tags>low_vat_rate</tags>
     <price>41.95</price>
     <compare_at_price>54.49</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>curcuma-supreme-nk-kb-formula-60-liquid-phytocaps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Professional-Solutions-Curcuma-Supreme-NF-kB-Formula_LAP63060_103_PDP_99b100a7-86d0-4abd-a4ae-acbdf8390f3c.png?v=1764585820</image>
@@ -6136,7 +6136,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-s-boulardii-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/S.Boulardii_Web.png?v=1764585906</image>
@@ -6216,7 +6216,7 @@
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bio-clear-virome-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/492x492-1.png?v=1764586246</image>
@@ -6411,7 +6411,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>co-q10-100mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_10_2442393f-e7de-41d8-bf44-c9fa4bd3b6ce.png?v=1764585631</image>
@@ -6561,7 +6561,7 @@
     <tags>low_vat_rate</tags>
     <price>66.18</price>
     <compare_at_price>99.18</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biofilm-defense-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KRK_02-Biofilm-Defense_bb96ff29-bfe9-4d35-98d1-79cf0a6db4ee.jpg?v=1764586507</image>
@@ -6641,7 +6641,7 @@
     <tags>low_vat_rate</tags>
     <price>49.66</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>candifense-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_288_29.jpg?v=1764586579</image>
@@ -6846,7 +6846,7 @@
     <tags>low_vat_rate</tags>
     <price>101.36</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>acz-nano-120ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/advanced-cellular-zeolite-acz-nano-extra-strength-4oz_1_702e97ab-5436-4060-9880-fbef62fc3b9e.jpg?v=1764586898</image>
@@ -6886,7 +6886,7 @@
     <tags>low_vat_rate</tags>
     <price>93.18</price>
     <compare_at_price>98.09</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>prostasorb-300mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/120-ProstaSorb-Front_25743930-f272-4790-9ef6-99fd2e6da1c4.jpg?v=1764586124</image>
@@ -8708,7 +8708,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dha-830mg-strawberry-flavour-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_07-DHA-90s_d05f845e-12b5-4e8e-941a-ab2861527ae8.jpg?v=1764585715</image>
@@ -9098,7 +9098,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price>67.57</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>coq10-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_004-CoQ10_6e9066f0-b15c-4e3e-99bf-9c74bb10afd2.png?v=1764586571</image>
@@ -9171,7 +9171,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dr-shades-ultra-energy-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Ultra_20Energy_20-_2050ml_20_20Quicksilver_20Scientific.webp?v=1764586493</image>
@@ -9271,7 +9271,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nattovena-4000-fu-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AAM_05-90.png?v=1764586002</image>
@@ -9391,7 +9391,7 @@
     <tags>low_vat_rate</tags>
     <price>66.48</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>berberine-metabolic-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-PRO-Berberine-Metabolic_LAE92060_101_PDP_92029757-c8f5-41c5-b913-a0c3b60db34a.png?v=1764586876</image>
@@ -9476,7 +9476,7 @@
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>female-support-formula-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Professional-Solutions-Female-Support-Formula_LAP17060_104_PDP_7d239ac9-ce1c-4eb0-b89b-5b81be988431.png?v=1764585994</image>
@@ -9607,7 +9607,7 @@
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>sleep-formula-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Professional-Solutions-Sleep-Formula_LAP25060_104_PDP_a56f97de-3d89-4f07-ab47-6a54e2175b46.png?v=1764585818</image>
@@ -10703,7 +10703,7 @@
     <tags>low_vat_rate</tags>
     <price>79.56</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>immune-charge-zinc-ionophore-60-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_065-Immune-Charge-Zinc-Ionophore_844938a2-5f91-43d1-95bc-39834e2d1200.png?v=1764586139</image>
@@ -10723,7 +10723,7 @@
     <tags/>
     <price>10.89</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dirty-genes-the-histamine-workbook</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SH_172-Dirty-Genes-Histamine-Workbook.jpg?v=1764586029</image>
@@ -11556,7 +11556,7 @@
     <tags/>
     <price>31.60</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pro-mineral-toothpaste-100-ml-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-19T170319.570.webp?v=1764586546</image>
@@ -11576,7 +11576,7 @@
     <tags/>
     <price>31.60</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>kids-pro-mineral-toothpaste-100-ml-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-20T141305.928.webp?v=1764586108</image>
@@ -11730,7 +11730,7 @@
   </product>
   <product>
     <sku>LN_05</sku>
-    <barcode>5065005626032</barcode>
+    <barcode>5065005626230</barcode>
     <title>Selection Box of Adaptogenic Coffee Blends - 12 Sachets | London Nootropics</title>
     <vendor>London Nootropics</vendor>
     <product_type/>
@@ -11858,7 +11858,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>cats-claw-supreme-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_059-Cats-Claw-Supreme_9b5083b3-b1df-4212-b2d6-7dafdf585f3b.png?v=1764586730</image>
@@ -12012,7 +12012,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price>56.67</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dopamine-nutrients-60-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_1_Front_R_medium_750d5aa4-4939-4f35-ab2a-3621786e0c31.webp?v=1764586369</image>
@@ -12152,7 +12152,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thiactive-b-methylated-b-complex-60-capsules-objective-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ThiactiveB_20-_20square-front-transparent.webp?v=1769728606</image>
@@ -12401,7 +12401,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>super-curcumin-60-capsules-super-botanic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/01.jpg?v=1764585580</image>
@@ -12710,7 +12710,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>immunitone-plus-120-capsules-designs-for-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_50-Immunitone-Plus_rno2bx_6b8ea446-e925-4a71-92a6-be7120d51aaa.png?v=1764585936</image>
@@ -13411,7 +13411,7 @@
     <tags>low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>matrix-synergy-90-capsules-vervita</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1024x1024AllProductImages_19_5000x_914d92b7-1b18-444b-889e-5a8e53a5bec3.webp?v=1764585572</image>
@@ -13471,7 +13471,7 @@
     <tags/>
     <price>27.24</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pure-mct-creamer-250g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20MCT_20creamer.png?v=1764586017</image>
@@ -13631,7 +13631,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-flavourless-96g-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Flavorless-3.png?v=1764586014</image>
@@ -14396,7 +14396,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>55.15</price>
     <compare_at_price>67.57</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tudca-tauroursodeoxycholic-acid-supplement-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA.webp?v=1774048710</image>
@@ -14692,7 +14692,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>balance-oil-liquid-omega-6-3-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T142026.635.webp?v=1764585746</image>
@@ -14752,7 +14752,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>196.61</price>
     <compare_at_price>231.07</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T132028.157.webp?v=1764586012</image>
@@ -14772,7 +14772,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>110.56</price>
     <compare_at_price>137.33</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-236-59-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T141006.678.webp?v=1764586185</image>
@@ -14835,7 +14835,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>107.90</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-softgels-phosphatidylcholine-100-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Reishi_20extract_20-_20100_20ml_20_20Foodsporen_20_281_29.webp?v=1764586809</image>
@@ -14918,7 +14918,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>15.25</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>e-lyte-118-29-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T164121.013.webp?v=1764585568</image>
@@ -15481,7 +15481,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>108.99</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>s-acetyl-glutathione-300-60-capsules-oxidative-stress-protection-makewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_EU_SAG_S_white.jpg?v=1764585564</image>
@@ -17063,7 +17063,7 @@
     <tags>low_vat_rate</tags>
     <price>71.96</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>performance-cardio-100ml-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_072-Performance-Cardio.png?v=1764586856</image>
@@ -17228,7 +17228,7 @@
     <tags>low_vat_rate</tags>
     <price>47.40</price>
     <compare_at_price>61.03</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ap-traveler-90-capsules-ayush-herbs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AP_20Traveler_20-_2090_20capsulesAyush_20_20Herbs_01.webp?v=1764585648</image>
@@ -17268,7 +17268,7 @@
     <tags>low_vat_rate</tags>
     <price>50.67</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-strawberries-cream-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2836_29.png?v=1764586008</image>
@@ -17415,7 +17415,7 @@
     <tags>low_vat_rate</tags>
     <price>39.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>methylation-support-60-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Methylation_20Support_20-_2060_20Capsules_20_20Amy_20Myers_20MD_01.webp?v=1764586525</image>
@@ -17447,7 +17447,7 @@
     <tags>low_vat_rate</tags>
     <price>65.93</price>
     <compare_at_price>75.20</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-edta-with-r-lipoic-acid-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Liposomal_20EDTA_20with_20R-Lipoic_20Acid_20_20Quicksilver_20Scientific_01_20_284_29.webp?v=1764585647</image>
@@ -17552,7 +17552,7 @@
     <tags>low_vat_rate</tags>
     <price>34.32</price>
     <compare_at_price>44.55</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bile-builder-complete-120-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bile_20Builder_20Complete_20-_20120_20Capsules_20Amy_20Myers_20MD_01.webp?v=1764586693</image>
@@ -21334,7 +21334,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>33.43</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>herbal-antimicrobial-gut-balance</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Multi_Essentials_For_Women_30.webp?v=1768433069</image>
@@ -22321,7 +22321,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>52.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-electrolyte-strawberry-watermelon-222g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ELYTE-SW-POW.webp?v=1770160602</image>
@@ -22381,7 +22381,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>32.65</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultimate-d3-k2</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NoordCodeUltimateD3_K2bottle_2000x_crop_center_bb04785a-841b-4504-b15d-00b675a505d7.webp?v=1770678979</image>
@@ -23026,7 +23026,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>62.71</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>creatine-monohydrate-powder-2lb</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3356a856948200e461a69ccbde88ea7db89537f1-2000x2000.webp?v=1773969116</image>
@@ -23288,7 +23288,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>54.79</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>betaine-hcl-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260416_1024x1024_49bc2b9f-4268-467a-a42d-d3144bb5007d.webp?v=1777414704</image>
@@ -23448,7 +23448,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>23.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nac-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260427_1024x1024_f22be153-5905-4ab9-93cc-f90c66cf0a5f.webp?v=1777415041</image>
@@ -23528,7 +23528,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>48.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tri-magnesium-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260416_1024x1024_f206155e-6ce0-45bd-9637-8baa51235def.webp?v=1777415152</image>
