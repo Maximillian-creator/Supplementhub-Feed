@@ -19965,7 +19965,7 @@
     <tags>low_vat_rate</tags>
     <price>32.14</price>
     <compare_at_price>41.46</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hair-skin-and-nails-120-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hair_20Skin_20and_20Nails_20-_20120_20Capsules_20_20Amy_20Myers_20MD_01.webp?v=1764586430</image>
@@ -21271,7 +21271,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>46.98</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>motility-complex-with-ginger-artichoke-120-capsules-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Motility_Complex_with_Ginger__26_Artichoke_120_WEB.webp?v=1768433003</image>
