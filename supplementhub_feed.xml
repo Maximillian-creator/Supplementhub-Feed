@@ -95,7 +95,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-taurate-125mg-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EF_09_bf64d568-0712-4a69-ae85-5b4f1f677534.png?v=1764585993</image>
@@ -5236,7 +5236,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glycine-powder-250g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_20_4409f594-b09c-4aa9-87e3-925f929fa761.png?v=1764585598</image>
@@ -8156,7 +8156,7 @@
     <tags>low_vat_rate</tags>
     <price>83.39</price>
     <compare_at_price>95.91</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biocidin-broad-spectrum-liquid-formula-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biocidin_2dfb7b5d-e418-48b3-a2e2-2956e04d0508.png?v=1764586344</image>
@@ -8487,7 +8487,7 @@
     <tags>low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mico-sol-royal-sun-agaricus-70-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mico-Sol-2024-F.webp?v=1764586167</image>
@@ -9251,7 +9251,7 @@
     <tags>low_vat_rate</tags>
     <price>24.51</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>sleep-gummies-40-gummies</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Sleep-Gummies_LAC85040_101-0521_PDP_974e3d73-9529-4905-83ac-9ae058eebe05.png?v=1764586169</image>
@@ -9431,7 +9431,7 @@
     <tags>low_vat_rate</tags>
     <price>48.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>daily-lung-formula-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Daily-Lung-Formula_LAQ19060_102_PDP_85851cad-1e04-4173-9406-623c03e7b530.png?v=1764586428</image>
@@ -9456,7 +9456,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>daytime-hpa-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-Professional-Solutions-Daytime-HPA_LAP57060_104_PDP_bbb8174c-4f38-426e-9c24-2c06df9aca71.png?v=1764586513</image>
@@ -10519,7 +10519,7 @@
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>o-n-e-multivitamin-with-iron-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0163-ONE-Multi-Iron_384fd8ab-6728-4e05-9b25-72c956261f9b.jpg?v=1764586569</image>
@@ -11738,7 +11738,7 @@
     <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>selection-box-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2875_29_804ix2.png?v=1764585589</image>
@@ -12463,7 +12463,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>allithiamine-b1-50mg-250-capsules-ecological-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AllThiamineEcologicalFormulas_01.webp?v=1789079221</image>
@@ -12791,7 +12791,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price>46.86</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>optimal-fish-oil-120-softgels-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-FISH-SG_1_Front_R_medium_c8224353-32f1-40f2-972f-ba42ffcf8873.png?v=1764586102</image>
@@ -15128,7 +15128,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>79.56</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zenbiome-dual-60-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/gutbrainreset_bottle_fitted_20_281_29.webp?v=1786486885</image>
@@ -20247,7 +20247,7 @@
     <tags>low_vat_rate</tags>
     <price>46.86</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>optimal-pc-90-softgels-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-PC-SG_R_medium_20_281_29.webp?v=1764586521</image>
@@ -20709,7 +20709,7 @@
   </product>
   <product>
     <sku>PUR_0198</sku>
-    <barcode>766298110202</barcode>
+    <barcode>766298020228</barcode>
     <title>Resveratrol Extra - 60 Capsules | Pure Encapsulations</title>
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
@@ -23026,7 +23026,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>62.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>creatine-monohydrate-powder-2lb</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3356a856948200e461a69ccbde88ea7db89537f1-2000x2000.webp?v=1773969116</image>
