@@ -2003,7 +2003,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b-complex-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0003-BComplex-Plus-60s.jpg?v=1764586497</image>
@@ -4847,7 +4847,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>iron-tonic-118ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Iron-Tonic-front_7e24517e-20e1-4fd9-8e74-14fa85d987e4.png?v=1764585861</image>
@@ -6196,7 +6196,7 @@
     <tags>low_vat_rate</tags>
     <price>86.10</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bio-me-barrier-120g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/492x492-17.png?v=1770679379</image>
@@ -6491,7 +6491,7 @@
     <tags>low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ubiquinol-qh-absorb-200mg-30-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_30_f02723a7-d6f3-4a50-89b3-4c95869e2338.png?v=1764585987</image>
@@ -11013,7 +11013,7 @@
     <tags>low_vat_rate</tags>
     <price>64.30</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dim-ultra-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0098-DIM-Ultra.jpg?v=1764586855</image>
@@ -20732,7 +20732,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>resveratrol-extra-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/s.webp?v=1765755075</image>
@@ -24052,7 +24052,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>22.55</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>vitamin-d3-high-strength</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/vitamin_d3_high_strength_60_web.webp?v=1781043970</image>
