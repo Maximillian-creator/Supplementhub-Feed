@@ -920,7 +920,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>clinical-gi-microbiotic-60-capsules-now-foods</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_09-Clinical-GI-Probiotic.png?v=1764586150</image>
@@ -6236,7 +6236,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-revive-digestive-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/bio-revive-digestive-INVIVO_22_a44e735c-8d81-4fb3-ad54-dd377f14cdf8.png?v=1764585903</image>
@@ -6621,7 +6621,7 @@
     <tags>low_vat_rate</tags>
     <price>36.36</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>caprylic-acid-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_286_29.jpg?v=1764586326</image>
@@ -23428,7 +23428,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>28.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-theanine-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260416_1024x1024_c2cf2a25-2fee-4609-bce2-e4c1525e34c3.webp?v=1777414966</image>
