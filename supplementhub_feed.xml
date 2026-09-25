@@ -1509,7 +1509,7 @@
     <compare_at_price/>
     <available>true</available>
     <quantity>0</quantity>
-    <handle>glutathione-plus-topical-patch-30-day-supply-30-patches</handle>
+    <handle>glutathione-plus-topical-patch-30-day-supply-30-patches-patchmd</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20GLUT-011_20UK_20PMD_20Glutathione_20Oct_202025-2.webp?v=1768001075</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
@@ -5603,7 +5603,7 @@
     <tags>low_vat_rate</tags>
     <price>98.09</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>genistein-125mg</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_68_8d1f88c7-9ed5-445d-9e90-7f539ebf7964.png?v=1764586722</image>
@@ -7713,7 +7713,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>olive-leaf-supreme-olea-europaea-320mg-120-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_018-Olive-Leaf-Supreme_7c046fa1-2790-4f54-8c41-39159485d549.png?v=1764586300</image>
@@ -7733,7 +7733,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>morinda-supreme-noni-600mg-130-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_016-Morinda-Supreme.png?v=1764586478</image>
@@ -8243,7 +8243,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>a-ha-mints-30-servings</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_07-A-HA-Mints_93ab8cdd-8c1c-4e4b-983b-1e3c297c9c9d.png?v=1764586297</image>
@@ -21271,7 +21271,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>46.98</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>motility-complex-with-ginger-artichoke-120-capsules-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Motility_Complex_with_Ginger__26_Artichoke_120_WEB.webp?v=1768433003</image>
@@ -23770,7 +23770,7 @@
     <compare_at_price/>
     <available>true</available>
     <quantity>0</quantity>
-    <handle>glutathione-plus</handle>
+    <handle>glutathione-plus-60-capsules-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1781043848</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
