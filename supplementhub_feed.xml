@@ -8096,7 +8096,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>olivirex-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Oliverex.png?v=1764585916</image>
@@ -8156,7 +8156,7 @@
     <tags>low_vat_rate</tags>
     <price>83.39</price>
     <compare_at_price>95.91</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biocidin-broad-spectrum-liquid-formula-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biocidin_2dfb7b5d-e418-48b3-a2e2-2956e04d0508.png?v=1764586344</image>
@@ -12012,7 +12012,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price>56.67</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dopamine-nutrients-60-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_1_Front_R_medium_750d5aa4-4939-4f35-ab2a-3621786e0c31.webp?v=1764586369</image>
@@ -12463,7 +12463,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>allithiamine-b1-50mg-250-capsules-ecological-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AllThiamineEcologicalFormulas_01.webp?v=1789079221</image>
@@ -17579,7 +17579,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biofilm-disruptor-60-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biofilm_20Disruptor_20-_2060_20Capsules_20Amy_20Myers_20MD_01.webp?v=1764585921</image>
@@ -18901,7 +18901,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gud-for-mamas-prenatal-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/prenatal_20_281_29.jpg?v=1764586801</image>
@@ -22452,7 +22452,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nuadha-1000-90-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/nuadha-1000-132caps.webp?v=1773967132</image>
