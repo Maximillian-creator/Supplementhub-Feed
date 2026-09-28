@@ -135,7 +135,7 @@
     <barcode>696859034862</barcode>
     <price>59.94</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Magnesium Taurate 125 mg by Ecological Formulas is a dietary supplement designed to supplement this crucial macromineral. This formulation ensures good bioavailability of the magnesium in this supplement.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Magnesium taurate is a form of magnesium that is bound to the amino acid taurine. Taurine is an amino acid that occurs naturally in various foods and plays a role in various physiological processes in the body.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium has a positive effect on nervous system function &lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium is good for muscles&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium contributes to normal energy-yielding metabolism&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium contributes to normal psychological function&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium contributes to the maintenance of normal bones&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium has a role in the process of cell division&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium helps build body protein&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Magnesium helps maintain good electrolyte balance&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -1427,7 +1427,7 @@
     <barcode>733739029195</barcode>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;b style=&quot;letter-spacing: 0px; font-size: 14px;&quot;&gt;We have changed the name of this product because the European Commission has banned the use of the word Probiotic in the product name. We regret this decision and apologize for this.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Clinical GI Probiotic™ has been formulated to benefit the over 50, as levels of good bacteria can start to decline as we age.&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Helps to improve regularity&lt;/li&gt;
@@ -2210,7 +2210,7 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20VC-014_20UK_20PMD_20Vitamin_20C_20Oct_202025-2.webp?v=1768000596,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20VC-014_20UK_20PMD_20Vitamin_20C_20Oct_202025-3.png?v=1768000596,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20VC-014_20UK_20PMD_20Vitamin_20C_20Oct_202025-1.png?v=1768000596</image_links>
   </product>
   <product>
-    <handle>glutathione-plus-topical-patch-30-day-supply-30-patches</handle>
+    <handle>glutathione-plus-topical-patch-30-day-supply-30-patches-patchmd</handle>
     <title>Glutathione Plus (Topical Patch 30 Day Supply) - 30 Patches | PatchMD</title>
     <vendor>PatchMD</vendor>
     <product_type/>
@@ -2925,7 +2925,7 @@
     <barcode>766298018393</barcode>
     <price>32.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-sanitized-data-mce-fragment=&quot;1&quot; style='margin-bottom: 1rem; color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;font color=&quot;#1f2124&quot; face=&quot;-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;B Complex Plus by Pure Encapsulations is a comprehensive blend of B vitamins. The B vitamins provided are in their active form.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li style='margin-bottom: 1rem; color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;font color=&quot;#1f2124&quot; face=&quot;-apple-system, BlinkMacSystemFont, San Francisco, Segoe UI, Roboto, Helvetica Neue, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Biotin, Vitamin B12, B6 &amp;amp; Riboflavin contribute to normal energy-yielding metabolism&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;
@@ -7367,7 +7367,7 @@
     <barcode>708118011177</barcode>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;div&gt;
 &lt;p&gt;Iron Tonic™ is a liquid formula that includes iron, herbs and essential oils.&lt;/p&gt;
@@ -7961,7 +7961,7 @@
     <barcode>693465111116</barcode>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Glycine Powder by Vital Nutrients is an important source of the amino acid, and glycine.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;*Disclaimer: Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -8533,7 +8533,7 @@
     <barcode>693465268117</barcode>
     <price>98.09</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; white-space-collapse: preserve;&quot;&gt;Genistein is a naturally occurring compound found in isoflavones, and is a phytoestrogen.Suggested use is 2 capsules twice daily.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -9455,7 +9455,7 @@
     <barcode>710535365931</barcode>
     <price>86.10</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Bio.Me Barrier is a clinically-researched probiotic, containing multi-strain live bacteria. &lt;/p&gt;&lt;p&gt;Suggested use is 1 tsp daily mixed with water.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -9517,7 +9517,7 @@
     <barcode>7451254648242</barcode>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Bio.Revive Digestive + is a digestive enzyme complex with fennel to support digestion&lt;/p&gt;&lt;p&gt;• Supports healthy digestion&lt;/p&gt;&lt;p&gt;• Contributes to better digestion of proteins, carbohydrates and fats&lt;/p&gt;&lt;p&gt;• Fennel seed helps calm digestion&lt;/p&gt;&lt;p&gt;• Can help relieve gas&lt;/p&gt;&lt;p&gt;• Can enhance nutrient absorption&lt;/p&gt;&lt;p&gt;• May reduce digestive bloating&lt;/p&gt;&lt;p&gt;Bio.Revive Digestive+ is a vegan-friendly digestive enzyme formula, to support the breakdown of fats, proteins, and carbohydrates in the gastrointestinal tract. This formula contains fennel seed, a botanical rich in fibre, that can help calm digestion by encouraging relaxation of smooth muscles and help reduce gas, bloating and stomach cramps.&lt;/p&gt;&lt;p&gt;Suggested use is 1-2 capsules with a meal up to 3 times a day.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -9964,7 +9964,7 @@
     <barcode>790011060246</barcode>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;QH Absorb® contains Co-Q10 in its reduced active form ubiquinol. It supports mitochondrial health and cardiovascular function.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;• Supports mitochondrial function and energy production&lt;br data-mce-fragment=&quot;1&quot;&gt;• Supports healthy cell metabolism&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can help support cardiovascular health&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can replenish levels of CoQ10 depleted by statins&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can help regulate blood pressure&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can be easily assimilated and used by the body, especially older individuals&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;CoQ10 is a nutrient that supports the function of the mitochondria (the power factories or our cells). CoQ10 is found in greater abundance in the cells of energy-rich tissues like the heart and eyes. As we age our levels of CoQ10 decrease. Taking statins also depletes the body of CoQ10. Ubiquinol, the reduced, active, antioxidant form of Co-Q10 is significantly better absorbed than regular Co-Q10. Jarrow Formulas’ proprietary QH-absorb® formula has been shown clinically in humans to increase Co-Q10 levels by 222%.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Suggested use is 1 capsule up to 3 times a day.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -10190,7 +10190,7 @@
     <barcode>810014390048</barcode>
     <price>36.36</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Caprylic Acid is a short-chain fatty acid.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Formulated without gluten, dairy, soy or artificial sweeteners. GMO free and paleo friendly&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Buffered with calcium and magnesium caprylates to help these capsules reach the large intestine and colon intact. Gentler on the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -11786,7 +11786,7 @@
     <barcode>794504727838</barcode>
     <price>35.96</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Olive Leaf Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Olea europaea&lt;/em&gt; leaf, a traditional Mediterranean botanical.&lt;/p&gt;&lt;p&gt;Olive leaf naturally contains oleuropein, hydroxytyrosol-related compounds, and other polyphenols characteristic of the species. It is supplied in capsule format as a focused single-botanical preparation.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -11814,7 +11814,7 @@
     <barcode>794504727630</barcode>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Morinda Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Morinda citrifolia&lt;/em&gt;, commonly known as noni, a tropical botanical with a long history of traditional use.&lt;/p&gt;&lt;p&gt;Noni naturally contains iridoids, polyphenols, organic acids, and other plant constituents characteristic of the fruit. This capsule formulation presents the ingredient in a convenient daily format.&lt;/p&gt;&lt;p&gt;This product is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -12038,7 +12038,7 @@
     <barcode>794504726831</barcode>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Dan Shen Supreme™&lt;/strong&gt; is a food supplement containing &lt;em&gt;Salvia miltiorrhiza&lt;/em&gt;, a botanical traditionally used in Chinese herbal practice.&lt;/p&gt;&lt;p&gt;The root naturally contains tanshinones, salvianolic acids, and other polyphenolic compounds that are characteristic of the plant. It is supplied in capsule format as a focused single-herb preparation.&lt;/p&gt;&lt;p&gt;This formulation is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -12322,7 +12322,7 @@
     <barcode>899870002128</barcode>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Olivirex is a high potency formula containing olive leaf extract.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- High-potency Olive Leaf Extract, containing 18% oleuropeins&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;It also contains a proprietary herbal blend.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -12415,7 +12415,7 @@
     <barcode>899870002012</barcode>
     <price>83.39</price>
     <compare_at_price>95.91</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Biocidin® is a potent, broad-spectrum formula with a signature blend of 18 botanical extracts and essential oils.&lt;/p&gt;&lt;p&gt;- Pleasant taste which appeals to children and adults&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -12940,7 +12940,7 @@
     <barcode>8436561602254</barcode>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Mico-Sol is an extraction high in antioxidants from selected specimens of the Royal Sun Agaricus medicinal mushroom.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Helps to support the immune system&lt;/li&gt;
@@ -14107,7 +14107,7 @@
     <barcode>751063152112</barcode>
     <price>24.51</price>
     <compare_at_price>31.60</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;span data-mce-fragment=&quot;1&quot;&gt;While stressed, you may experience occasional sleeplessness. Gaia's Certified Organic Sleep Gummies combine Ashwagandha, an adaptogen revered for its ability to increase the body’s resistance to stress, and Passionflower, traditionally used to support a sense of calm and relaxation, to promote a good night’s rest—with benefits that build over time. They’re convenient and delicious, made without any artificial colours, preservatives, flavours, or sweeteners, for 100% plant-powered support that works with your healthy lifestyle.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -14138,7 +14138,7 @@
     <barcode>855571001747</barcode>
     <price>73.02</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Nattokinase is derived from natto, a traditional Japanese dish made from fermented soybeans. During the fermentation process, the soybean undergoes a transformation in which the natural enzymes in the beans become active. The nattokinase enzymes have the ability to break down the protein fibrin. &lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Nattovéna nattokinase differs from other supplements in that the production method used produces a standardised and optimised extract of nattokinase.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Nattokinase supplements are measured in fibrin units (FU), also known as fibrinolytic units. This number indicates the activity of the enzyme. One capsule of Nattovena contains 4,000 FU.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;*&lt;b&gt;Disclaimer:&lt;/b&gt; We provide only high-quality, practitioner-approved supplements. Legal restrictions prevent full disclosure of product potency and effectiveness. For more information, please refer to a medical library.&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -14386,7 +14386,7 @@
     <barcode>751063151689</barcode>
     <price>48.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div class=&quot;sc-bczRLJ cwznln&quot; data-test-selector=&quot;productDetails_htmlContent&quot;&gt;&lt;strong&gt;Immune &amp;amp; Respiratory Support&lt;/strong&gt;&lt;/div&gt;&lt;div class=&quot;sc-bczRLJ cwznln&quot; data-test-selector=&quot;productDetails_htmlContent&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div class=&quot;sc-bczRLJ lcZRRf&quot;&gt;It’s more important than ever to prioritize lung health. Heightened immune challenges and exposure to environmental pollutions are taxing on the lungs. Daily Lung Formula’s powerful blend combines adaptogenic and respiratory-supporting herbs to support long-term lung health and easy breathing. Made with Mullein, Gaia-grown® Plantain, Schisandra, and Elecampane.&lt;/div&gt;</description>
     <tags>low_vat_rate</tags>
@@ -14417,7 +14417,7 @@
     <barcode>751063403047</barcode>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Daytime HPA contains Siberian Rhodiola, Rosavins, Holy Basil leaf (Ocimum sanctum), Eugenols, Proprietary Extract Blend&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;,Organic Oats (Avena sativa) milky seed extract, Organic Holy Basil (Ocimum sanctum) leaf, Schisandra (Schisandra chinensis) berry, and Ashwagandha (Withania somnifera) root extract.&lt;/span&gt;
 &lt;/div&gt;&lt;div&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;
@@ -15993,7 +15993,7 @@
     <barcode>766298022734</barcode>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;O.N.E. Multivitamin is a once-daily formula with a comprehensive profile of highly bioavailable vitamins, minerals and phytonutrients and other factors to support optimal&lt;br data-mce-fragment=&quot;1&quot;&gt;nutrition for both men and women.&lt;/p&gt;&lt;p&gt;Provides vitamins A, B, C, D, E and K in highly bioavailable forms. With active forms of B vitamins including folate as 5 methyltetrahydrofolate (5-MTHF), the universally metabolized and biologically active form of folate. Provides 2000 IU of vitamin D3 in each vegetarian capsule. Features sustained-release water-soluble CoQ10 as well as the carotenoids lycopene, lutein and zeaxanthin for greater daily nutritional support. Expertly formulated to provide optimal levels of each nutrient.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Comprehensive blend of bioavailable vitamins, minerals and&lt;br&gt;phytonutrients and other factors for optimal nutrition&lt;/p&gt;&lt;/li&gt;
@@ -16708,7 +16708,7 @@
     <barcode>766298019864</barcode>
     <price>64.30</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;DIM Ultra features BioResponse DIM® with phytonutrients, milk thistle, lipoic acid and amino acids for advanced nutritional support. BioResponse DIM® is a highly absorbable form of diindolylmethane, an important metabolite of indole-3-carbinol.With the lignan 7-hydroxymatairesinol (HMR), which is converted in the body to enterolactone. Also featuring Broccoli sprout concentrate with a guaranteed level of sulforaphane. Provides silymarin, alpha lipoic acid and n-acetyl-l-cysteine. With the amino acids taurine, glycine and methionine.  &lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17019,7 +17019,7 @@
     <barcode>6430071290002</barcode>
     <price>74.11</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;b&gt;REZCUE &lt;/b&gt;provides an unique combination of Zinc, L-Carnosine and L-Glutamine.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17847,7 +17847,7 @@
     <barcode>5065005626230</barcode>
     <price>22.88</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Find Mental Clarity &amp;amp; Focus with Flow Coffee&lt;/h3&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;&lt;/h3&gt;&lt;p style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12px;&quot;&gt;Power through long hours of work, meetings or study with Flow. Great for tackling brain fog &amp;amp; distractions and getting in the zone for reading, writing &amp;amp; creative work.&lt;/p&gt;&lt;p style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Discover Endurance &amp;amp; Vitality with Mojo Coffee&lt;/h3&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;&lt;/h3&gt;&lt;p style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12px;&quot;&gt;Find inner strength and endurance with Mojo. Great when you need powering up before exercise, hiking in nature or when you feel fatigued.&lt;/p&gt;&lt;p style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;Feel Alert, Calm &amp;amp; Focused with Zen Coffee&lt;/h3&gt;&lt;h3 style=&quot;letter-spacing: normal;&quot;&gt;&lt;/h3&gt;&lt;p style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12px;&quot;&gt;Zen has been formulated to keep you calm, peaceful and composed with Ashwagandha &amp;amp; L-theanine.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -18273,7 +18273,7 @@
     <barcode>810007521480</barcode>
     <price>51.22</price>
     <compare_at_price>56.67</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Dopamine Nutrients contains L-tyrosine, the primary ingredient needed to make dopamine, and ginkgo biloba which supports the rate limiting enzyme tyrosine hydroxylase (TH). It also contains&lt;span style=&quot;letter-spacing: 0px;&quot;&gt; royal jelly, Safr’InsideTM a nd CurcugenTM. Royal jelly is also a natural source of biopterin.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -19395,7 +19395,7 @@
     <barcode>810007521176</barcode>
     <price>44.68</price>
     <compare_at_price>46.86</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong data-mce-fragment=&quot;1&quot;&gt;A single softgel of&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;i data-mce-fragment=&quot;1&quot;&gt;Optimal Fish Oil&lt;/i&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;provides nearly one gram of omega-3 fatty acids sourced from Alaskan pollock.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Your joints, circulation, and brain all need omega-3 fatty acids. These essential fatty acids are found in the highest concentrations in the oil of fatty fish. Omega-3 fats can be obtained by eating fatty fish or taking fish oil supplements. Types of fish like mackerel, sardines, anchovies, and krill oil are good sources of omega-3 fatty acids. Without a diet high in fish consumption, getting the proper intake of omega-3 required can be difficult. That’s why many prefer omega-3 fatty acid supplements.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Optimal Fish Oil&lt;/i&gt; is IFOS certified for impeccable standards in purity, cleanliness and stability.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Optimal Fish Oil&lt;/i&gt; includes eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). These important omega-3 fatty acids have many health benefits:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;DHA and EPA contribute to the maintenance of normal blood triglyceride levels&lt;/li&gt;
@@ -19706,7 +19706,7 @@
     <barcode>852546005151</barcode>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;Stabilized Probiotic Blend, 20 Billion CFUs, with 9 Clinically Studied Strains&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Mother Earth Labs Probiotics is specifically designed to survive stomach acid so it can go to work colonizing and thriving in your gut.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;li&gt;Arabinogalactan (extract from larch tree) is prebiotic, supports gut regularity, increases the production of short-chain fatty acids (SCFA) in the intestinal tract and is bifidogenic&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 1442 pending European approval.&lt;/li&gt;&lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -22872,7 +22872,7 @@
     <barcode>793888527966</barcode>
     <price>79.56</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Zenbiome™ DUAL is a dual-action probiotic combination powered by two innovative probiotic strains, Zenbiome™ DUAL provides around-the-clock digestive maintenance.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -26400,7 +26400,7 @@
     <barcode>810014392325</barcode>
     <price>34.32</price>
     <compare_at_price>44.55</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong data-start=&quot;961&quot; data-end=&quot;986&quot;&gt;&lt;/strong&gt;&lt;/p&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; font-weight: 400;'&gt;&lt;strong data-start=&quot;961&quot; data-end=&quot;986&quot; style=&quot;letter-spacing: 0px;&quot;&gt;Bile Builder Complete contains a potent and effective complex of studied amino acids, ox bile, and condition-targeted botanicals that stimulate bile production, support optimal digestive function, and promote gallbladder and liver health.&lt;/strong&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; font-weight: 400;'&gt;&lt;strong data-start=&quot;961&quot; data-end=&quot;986&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; font-weight: 400;'&gt;&lt;strong data-start=&quot;961&quot; data-end=&quot;986&quot;&gt;&lt;b&gt;Who It’s For&lt;/b&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; font-weight: 400;'&gt;&lt;strong data-start=&quot;961&quot; data-end=&quot;986&quot;&gt;Bile Builder Complete is essential for those looking to enhance digestion as well as gallbladder and liver function.&lt;/strong&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; font-weight: 400;'&gt;&lt;strong data-start=&quot;961&quot; data-end=&quot;986&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; font-weight: 400;'&gt;&lt;strong data-start=&quot;961&quot; data-end=&quot;986&quot;&gt;&lt;ul style=&quot;font-weight: 400;&quot;&gt;
 &lt;li&gt;Burdock helps maintain healthy skin&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2219 pending European approval.&lt;/li&gt;
@@ -26449,7 +26449,7 @@
     <barcode>810014392400</barcode>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong data-start=&quot;983&quot; data-end=&quot;1004&quot;&gt;Biofilm Disruptor&lt;/strong&gt; supports gut balance and immune health powered by enzymes, herbs, and natural extracts.&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Golden seal supports the immune system &amp;amp; the body´s defence&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 3859 pending European approval.&lt;/li&gt;
@@ -28286,7 +28286,7 @@
     <barcode>198715643107</barcode>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;GÜD for MAMAs Prenatal&lt;/strong&gt; is a prenatal multivitamin food supplement developed with selected active nutrient forms.&lt;/p&gt;&lt;p&gt;The formulation includes nutrients such as 5-MTHF folate, methylcobalamin, iron, iodine, choline, vitamin D, and other vitamins and minerals commonly used in prenatal category products. Ingredient selection focuses on active forms and a clean excipient profile.&lt;/p&gt;&lt;p&gt;This product is provided in capsule format and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -30082,7 +30082,7 @@
     <barcode>810007521107</barcode>
     <price>46.86</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;&lt;i&gt;Optimal PC&lt;/i&gt; softgels provide 800 mg of soy-free phospholipids from non-GMO sunflower lecithin.&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;li&gt;
 &lt;p&gt;Optimal PC softgels by Seeking Health is a blend of phospholipids, which are fat-like molecules. The supplement includes phosphatidylcholine (PC), which is a source of choline.&lt;/p&gt;
@@ -30770,10 +30770,10 @@
     <vendor>Pure Encapsulations</vendor>
     <product_type/>
     <sku>PUR_0198</sku>
-    <barcode>766298110202</barcode>
+    <barcode>766298020228</barcode>
     <price>76.29</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;h4 class=&quot;&quot; style=&quot;font-size: 14px; font-family: sans-serif, Arial; line-height: 20px; letter-spacing: normal;&quot;&gt;&lt;span style=&quot;font-family: sans-serif, Arial; font-weight: 400; line-height: 20px; letter-spacing: normal;&quot;&gt;Cardiovascular Health&lt;/span&gt;&lt;/h4&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;Resveratrol Extra&lt;/span&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt; &lt;/span&gt;contains the active trans-resveratrol form, which is derived from Japanese knotweed, an exotic plant with interesting antioxidant properties. Resveratrol is a secondary plant compound found naturally in various plant species, but has gained popularity primarily through its presence in the skins of red grapes (red wine grapes). Plants produce resveratrol to protect themselves from environmental influences. Resveratrol Extra combines resveratrol with polyphenols from red wine grapes and grape seeds to optimize the beneficial properties of resveratrol.&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Japanese knotweed dumps menopause symptoms&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4463 pending European approval.&lt;/li&gt;
@@ -31517,7 +31517,7 @@
     <barcode>5028392002650</barcode>
     <price>46.98</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;391&quot;&gt;Metagenics Motility Complex with Ginger + Artichoke. The formula combines ginger root powder and ginger extract with artichoke leaf extract and N-acetyl-L-carnitine.&lt;/p&gt;&lt;p data-start=&quot;0&quot; data-end=&quot;391&quot;&gt;&lt;span class=&quot;&quot; data-state=&quot;closed&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Dual Ginger Extracts: Whole ginger powder and 5% gingerols standardised extract.- Artichoke Support: 200mg extract to support bile flow and digestion.&lt;/li&gt;
@@ -33143,7 +33143,7 @@
     <barcode>8437009953167</barcode>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;h2 data-section-id=&quot;dm352k&quot; data-start=&quot;617&quot; data-end=&quot;670&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;strong data-start=&quot;620&quot; data-end=&quot;670&quot;&gt;NuaDHA 1000: Precision DHA, Without Compromise&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p data-start=&quot;266&quot; data-end=&quot;447&quot;&gt;Omega-3 fatty acids are not interchangeable. DHA and EPA differ fundamentally in structure and function—and when DHA intake is the focus, not all omega-3 supplements are equivalent.&lt;/p&gt;&lt;p data-start=&quot;449&quot; data-end=&quot;610&quot;&gt;Many products combine DHA and EPA in standardised ratios. However, when a higher intake of DHA is preferred, formulation specificity becomes a key consideration.&lt;/p&gt;&lt;h2 data-section-id=&quot;dm352k&quot; data-start=&quot;617&quot; data-end=&quot;670&quot;&gt;&lt;br&gt;&lt;/h2&gt;&lt;p data-start=&quot;672&quot; data-end=&quot;786&quot;&gt;NuaDHA 1000 delivers &lt;strong data-start=&quot;693&quot; data-end=&quot;724&quot;&gt;1,000 mg of DHA per serving&lt;/strong&gt;—a high-strength intake designed for those who prioritise DHA.&lt;/p&gt;&lt;p data-start=&quot;788&quot; data-end=&quot;994&quot;&gt;DHA contributes to the &lt;strong data-start=&quot;811&quot; data-end=&quot;851&quot;&gt;maintenance of normal brain function&lt;/strong&gt; and the &lt;strong data-start=&quot;860&quot; data-end=&quot;892&quot;&gt;maintenance of normal vision&lt;/strong&gt;, with a beneficial effect obtained at a daily intake of 250 mg DHA (EU Regulation (EC) No 1924/2006).&lt;/p&gt;&lt;p data-start=&quot;996&quot; data-end=&quot;1101&quot;&gt;DHA is a major fatty acid present in the brain and retina, where it forms part of their normal structure.&lt;/p&gt;&lt;hr data-start=&quot;1103&quot; data-end=&quot;1106&quot;&gt;&lt;h2 data-section-id=&quot;1wq9v98&quot; data-start=&quot;1108&quot; data-end=&quot;1143&quot;&gt;&lt;span role=&quot;text&quot;&gt;&lt;strong data-start=&quot;1111&quot; data-end=&quot;1143&quot;&gt;Why NuaDHA 1000 stands apart&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ul data-start=&quot;1145&quot; data-end=&quot;1351&quot;&gt;
 &lt;li data-section-id=&quot;3cak9m&quot; data-start=&quot;1145&quot; data-end=&quot;1204&quot;&gt;
@@ -33998,7 +33998,7 @@
     <barcode>879452007284</barcode>
     <price>62.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>Creatine Monohydrate is an extensively studied nutrient designed to support physical performance during short-term, high-intensity exercise. The body utilizes creatine for cellular energy production during intense muscular contractions. Each scoop provides 5 g of micronized creatine in a convenient, unflavored, and unsweetened powder that rapidly dissolves in liquid. Designs for Sport Creatine Monohydrate utilizes micronized technology, which optimizes the solubility and physical dispersibility of the powder for easy daily use.</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -34659,7 +34659,7 @@
     <barcode>871791001565</barcode>
     <price>28.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>L-Theanine is a naturally occurring amino acid derived from green tea leaves (Camellia sinensis), designed to fit seamlessly into your daily routine. Modern life often brings busy schedules, active days, and demanding routines. Incorporating this traditional botanical component into your morning or afternoon ritual is a popular choice for individuals looking to complement their active daytime habits and overall lifestyle. As a principal constituent of traditional green tea, this unique amino acid is widely appreciated for its daytime profile, making it a perfect match for regular use during active hours. Many individuals choose this specific botanical ingredient to complement the pace of modern life, and its natural properties make it highly valued by those navigating full calendars and active professional or study schedules. It pairs smoothly with your normal daytime tasks and blends effortlessly into a busy work environment. Our high-purity formulation provides a clean addition to your long-term habits. It is carefully engineered to be exceptionally well-tolerated, containing zero artificial fillers. This supplement is particularly suited to professionals, students, and active individuals looking to maintain a structured daily routine alongside a fast-paced lifestyle.</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -35157,7 +35157,7 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2049268414_max_20_281_29.webp?v=1781043759</image_links>
   </product>
   <product>
-    <handle>glutathione-plus</handle>
+    <handle>glutathione-plus-60-capsules-metagenics</handle>
     <title>Glutathione Plus - 60 Capsules | Metagenics</title>
     <vendor>Metagenics</vendor>
     <product_type/>
@@ -35176,13 +35176,13 @@
     <variant_title>Default Title</variant_title>
     <weight>52.0</weight>
     <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1781043848</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1790374695</image>
     <images>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1781043848</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1790374695</src>
       </image>
     </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1781043848</image_links>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/glutathione_plus_60_32904-web.webp?v=1790374695</image_links>
   </product>
   <product>
     <handle>megamag-kids-teens</handle>
@@ -35573,7 +35573,7 @@
     <barcode>5028392001899</barcode>
     <price>22.55</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>5000iu vitamin D3 per tablet for those who may be deficient in vitamin D or require extra support. A practical Metagenics formula designed for daily supplementation, featuring: High Strength: Delivers 5000iu vitamin D3 per tablet, ideal for those with deficiencies or require more support; Optimal Form: Contains vitamin D3, the form naturally synthesised by the skin from sunlight, for optimal absorption; Convenient Dosage: Small, easy-to-swallow, one-a-day tablets; Numerous Health Benefits: Essential for immune health, healthy bones and teeth, and muscle function support.</description>
     <tags>all_products_tag, low_vat_rate</tags>
