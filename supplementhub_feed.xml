@@ -12664,7 +12664,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price>49.04</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>daily-support-formula-90-capsules-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0155-Daily-Support-Formula_0571901f-fb18-4b1e-aab7-7f37ac6b2836.jpg?v=1764586893</image>
@@ -13631,7 +13631,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-flavourless-96g-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Flavorless-3.png?v=1764586014</image>
@@ -23992,7 +23992,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>59.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>berberine-250-120-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2207030904_max.webp?v=1781043837</image>
