@@ -1906,7 +1906,7 @@
     <tags>low_vat_rate</tags>
     <price>28.33</price>
     <compare_at_price>28.33</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>no-iron-multivitamin-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20NIMV-021_20UK_20PMD_20No_20Iron_20Multi_20Oct_202025-2.webp?v=1767881207</image>
@@ -9271,7 +9271,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nattovena-4000-fu-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AAM_05-90.png?v=1764586002</image>
@@ -12951,7 +12951,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>astaxanthin-12mg-60-softgels-jarrow-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706</image>
@@ -23348,7 +23348,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>31.75</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>k2-d3-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260416_1024x1024_e6997a20-dd75-42af-b5e8-16443b2b2219.webp?v=1777414845</image>
