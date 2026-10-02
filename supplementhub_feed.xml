@@ -866,7 +866,7 @@
     <tags>low_vat_rate</tags>
     <price>82.83</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>grass-fed-whey-protein-isolate</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mother_Earth_Whey_Protein_Choc.png?v=1764586407</image>
@@ -1906,7 +1906,7 @@
     <tags>low_vat_rate</tags>
     <price>28.33</price>
     <compare_at_price>28.33</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>no-iron-multivitamin-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20NIMV-021_20UK_20PMD_20No_20Iron_20Multi_20Oct_202025-2.webp?v=1767881207</image>
@@ -4965,7 +4965,7 @@
     <tags>low_vat_rate</tags>
     <price>39.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>lactationblend-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LactationBlend-front_61189858-f376-4955-a25d-9c0d5eb751bb.png?v=1764586841</image>
@@ -5603,7 +5603,7 @@
     <tags>low_vat_rate</tags>
     <price>98.09</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>genistein-125mg</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_68_8d1f88c7-9ed5-445d-9e90-7f539ebf7964.png?v=1764586722</image>
@@ -6886,7 +6886,7 @@
     <tags>low_vat_rate</tags>
     <price>93.18</price>
     <compare_at_price>98.09</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>prostasorb-300mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/120-ProstaSorb-Front_25743930-f272-4790-9ef6-99fd2e6da1c4.jpg?v=1764586124</image>
@@ -7330,7 +7330,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>astragalus-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_039-Astragalus.png?v=1764585606</image>
@@ -7490,7 +7490,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>58.85</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>wild-greens-supreme-90g-powder</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_030-Wild-Greens-Supreme.png?v=1764586482</image>
@@ -7510,7 +7510,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>vital-guard-supreme-chrysanthemum-morifolium-335mg-160-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_029-Vital-Guard-Supreme_c8feb69f-abe4-435e-ad41-ac60676a6d8f.png?v=1764586304</image>
@@ -7673,7 +7673,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>reishi-supreme-355mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_020-Reishi-Supreme.png?v=1764586733</image>
@@ -11596,7 +11596,7 @@
     <tags>low_vat_rate</tags>
     <price>16.34</price>
     <compare_at_price>21.32</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>euro-natural-oil-conditioner-moisturizer-120ml-morrocco-method</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Euro-Oil_4oz_2211_CC_007701ab-7209-4298-a4ae-215f3a835dd4.jpg?v=1764586831</image>
@@ -14046,7 +14046,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-quercetin-60-capsules-purovitalis</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3_7sow8k_98ba001c-fbdc-47ff-8b22-a4518e6c03fb.png?v=1764585655</image>
@@ -16875,7 +16875,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hdt-neuro-60-caps-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HdT_20Neuro_2060_20capsHifas_20da_20Terra_01.webp?v=1764585742</image>
@@ -19875,7 +19875,7 @@
     <tags>low_vat_rate</tags>
     <price>75.74</price>
     <compare_at_price>98.09</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>htb-immune-energy-chews-chocolate-60-chews-big-bold-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-13T141531.478.png?v=1764586799</image>
@@ -19965,7 +19965,7 @@
     <tags>low_vat_rate</tags>
     <price>32.14</price>
     <compare_at_price>41.46</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hair-skin-and-nails-120-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hair_20Skin_20and_20Nails_20-_20120_20Capsules_20_20Amy_20Myers_20MD_01.webp?v=1764586430</image>
@@ -22281,7 +22281,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>53.94</price>
     <compare_at_price>62.90</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>advanced-detox-support-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Advanced_Detox_Support_120_caps__47218.webp?v=1769988272</image>
@@ -22621,7 +22621,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>36.50</price>
     <compare_at_price>46.86</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nualgae-dha</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/6bba998c3026a8e5f348a9bd3e8db88f.webp?v=1771888851</image>
@@ -22721,7 +22721,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price>38.14</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>reishinua-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/reishinua-caps-90caps.webp?v=1776810046</image>
@@ -22814,7 +22814,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price>38.14</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nuadha-400-90-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/nuadha-400.webp?v=1772752577</image>
@@ -23086,7 +23086,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>17.97</price>
     <compare_at_price>22.88</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hifas-intima-gel</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Hifas-Intima_Gel_2024_M_72182fd5-628b-4afd-8dff-31170851b102.webp?v=1774364827</image>
@@ -23488,7 +23488,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>62.88</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>enterogenic-intensive-100-integrative-therapeutics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/20260427_1024x1024_ac88633a-6686-4439-ae3e-9db055d54363.webp?v=1777415065</image>
@@ -23708,7 +23708,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>36.11</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>berberine-250-60-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/berberine_250_60_32898_web_1.webp?v=1780996230</image>
@@ -23928,7 +23928,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>29.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>herwellness-perimenopause</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2111217688_max_20_281_29.webp?v=1780958020</image>
@@ -24072,7 +24072,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>44.25</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>megamag-perimeno-tablets</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/megamag_perimeno_60_32824_web.webp?v=1780996163</image>
