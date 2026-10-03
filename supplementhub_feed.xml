@@ -7733,7 +7733,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>morinda-supreme-noni-600mg-130-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_016-Morinda-Supreme.png?v=1764586478</image>
@@ -11918,7 +11918,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>29.42</price>
     <compare_at_price>34.87</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hawthorn-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_065-Hawthorn_129e10c2-e94a-4177-9e34-d89a6819003d.jpg?v=1764586200</image>
@@ -15481,7 +15481,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>108.99</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>s-acetyl-glutathione-300-60-capsules-oxidative-stress-protection-makewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_EU_SAG_S_white.jpg?v=1764585564</image>
