@@ -3696,7 +3696,7 @@
     <title>Prenatal Essentials Chewable - 60 Chewable Tablets | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
-    <description>&lt;p&gt;Prenatal Essential Chewable is a multivitamin supplement that has all the essential nutrients needed for a healthy pregnancy and normal foetal development.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Contributes to enhance fertility&lt;/p&gt;&lt;p&gt;• Supports a healthy pregnancy&lt;/p&gt;&lt;p&gt;• Helps normal foetal development&lt;/p&gt;&lt;p&gt;• Can help postpartum recovery&lt;/p&gt;&lt;p&gt;• Offers support during breastfeeding&lt;/p&gt;&lt;p&gt;• With B6 to support occasional morning sickness and gastric discomfort&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The chewable Prenatal Essentials tablets contain well absorbed vitamins and minerals in their most bioavailable forms, so that they are easy to recognise and utilise by mum and baby's body. This formula also features CoQ10 and milk thistle, for additional detoxification and antioxidant support. Prenatal Essentials contains folate, one of the key vitamins needed pre conception to prevent neural tube defects such as spina bifida. Can help reduce morning sickness, and the inclusion of antioxidants supports the immune system.&lt;/p&gt;&lt;p&gt;Suggested use is 2 tablets daily after breakfast or lunch.&lt;/p&gt;</description>
+    <description>&lt;p&gt;Prenatal Essentials Chewable provides foundational nutrients for preconception, pregnancy and breastfeeding in a delicious, easy-to-chew tablet. It combines bioavailable forms of folate and vitamin B12 with chelated minerals and added antioxidant vitamins, making it a convenient option for women who find capsules difficult to swallow or prefer an on-the-go format.&lt;/p&gt;&lt;p&gt;Folate contributes to maternal tissue growth during pregnancy and, together with vitamins B6 and B12, to normal homocysteine metabolism. Zinc contributes to normal fertility and reproduction and to normal cognitive function, as does iodine. Vitamin D contributes to the normal function of the immune system and to the maintenance of normal bones. Vitamin A contributes to the maintenance of normal vision, and vitamins C and E and zinc contribute to the protection of cells from oxidative stress. Vitamins B6, B12, riboflavin and folate also contribute to the reduction of tiredness and fatigue.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>67.02</price>
     <compare_at_price/>
@@ -6391,7 +6391,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>citicoline-cdp-choline-250mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71j16H05m_2BL._AC_SL1500.jpg?v=1764586770</image>
@@ -6411,7 +6411,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>co-q10-100mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_10_2442393f-e7de-41d8-bf44-c9fa4bd3b6ce.png?v=1764585631</image>
@@ -6431,7 +6431,7 @@
     <tags>low_vat_rate</tags>
     <price>50.13</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>co-q10-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_11.png?v=1764586071</image>
@@ -6451,7 +6451,7 @@
     <tags>low_vat_rate</tags>
     <price>80.65</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>lactoferrin-250-mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71-VQQprT3L._AC_SL1500_7b2d9291-6527-472e-bcc5-00da9617fc08.jpg?v=1764585911</image>
@@ -6491,7 +6491,7 @@
     <tags>low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ubiquinol-qh-absorb-200mg-30-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_30_f02723a7-d6f3-4a50-89b3-4c95869e2338.png?v=1764585987</image>
@@ -6621,7 +6621,7 @@
     <tags>low_vat_rate</tags>
     <price>36.36</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>caprylic-acid-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_286_29.jpg?v=1764586326</image>
@@ -6641,7 +6641,7 @@
     <tags>low_vat_rate</tags>
     <price>49.66</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>candifense-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_288_29.jpg?v=1764586579</image>
@@ -7330,7 +7330,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>astragalus-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_039-Astragalus.png?v=1764585606</image>
@@ -7490,7 +7490,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>58.85</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>wild-greens-supreme-90g-powder</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_030-Wild-Greens-Supreme.png?v=1764586482</image>
@@ -7510,7 +7510,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vital-guard-supreme-chrysanthemum-morifolium-335mg-160-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_029-Vital-Guard-Supreme_c8feb69f-abe4-435e-ad41-ac60676a6d8f.png?v=1764586304</image>
@@ -7550,7 +7550,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thera-supreme-775mg-130-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_027-Thera-Supreme_39a2e996-c5fa-4865-821d-c17ccc0ad035.png?v=1764586127</image>
@@ -7673,7 +7673,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>reishi-supreme-355mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_020-Reishi-Supreme.png?v=1764586733</image>
@@ -7713,7 +7713,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>olive-leaf-supreme-olea-europaea-320mg-120-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_018-Olive-Leaf-Supreme_7c046fa1-2790-4f54-8c41-39159485d549.png?v=1764586300</image>
@@ -7733,7 +7733,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>morinda-supreme-noni-600mg-130-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_016-Morinda-Supreme.png?v=1764586478</image>
@@ -7853,7 +7853,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>golden-thread-supreme-coptis-chinensis-545mg-60-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_009-Golden-Thread-Supreme.png?v=1764586480</image>
@@ -8243,7 +8243,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>a-ha-mints-30-servings</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/RISE_07-A-HA-Mints_93ab8cdd-8c1c-4e4b-983b-1e3c297c9c9d.png?v=1764586297</image>
@@ -9271,7 +9271,7 @@
     <tags>low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nattovena-4000-fu-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AAM_05-90.png?v=1764586002</image>
@@ -10817,7 +10817,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mirachol-3-0-gold-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gold-MiraCHOL-3-0-UK-Biogena-90Kps-125cc-2012_6de23ae0-263d-4f55-838e-4b4179949b1a.jpg?v=1764586906</image>
@@ -11456,7 +11456,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>primal-earth-microbiotic-30-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-11T132113.203.webp?v=1764586578</image>
@@ -11652,7 +11652,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>acerola-supreme-59ml-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Acerola_20Supreme_20-_2059ml_20_20Supreme_20Nutrition_20Products_322fa902-77fe-45d8-8643-5996654d6be1.webp?v=1764586546</image>
@@ -11858,7 +11858,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>cats-claw-supreme-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_059-Cats-Claw-Supreme_9b5083b3-b1df-4212-b2d6-7dafdf585f3b.png?v=1764586730</image>
@@ -11918,7 +11918,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hawthorn-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_065-Hawthorn_129e10c2-e94a-4177-9e34-d89a6819003d.jpg?v=1764586200</image>
@@ -12463,7 +12463,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>allithiamine-b1-50mg-250-capsules-ecological-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AllThiamineEcologicalFormulas_01.webp?v=1789079221</image>
@@ -12951,7 +12951,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>astaxanthin-12mg-60-softgels-jarrow-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706</image>
@@ -13631,7 +13631,7 @@
     <tags/>
     <price>16.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>natural-hydroxyapatite-toothpaste-flavourless-96g-risewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Flavorless-3.png?v=1764586014</image>
@@ -14088,7 +14088,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pure-collagen-450g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Collagen_915ca8c8-8e5f-4815-8d46-86b0b7b26109.png?v=1764586533</image>
@@ -16089,7 +16089,7 @@
     <tags>low_vat_rate</tags>
     <price>38.11</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bacopa-plus-drops-60ml-ayush-herbs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AYH_12-Bacopa-Plus-Drops.png?v=1764586032</image>
@@ -17156,7 +17156,7 @@
     <tags>low_vat_rate</tags>
     <price>51.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-unflavored-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Unflavored_20-_2020_20Servings_20_20Amy_20Myers_20MD_02.webp?v=1764586802</image>
@@ -17415,7 +17415,7 @@
     <tags>low_vat_rate</tags>
     <price>39.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>methylation-support-60-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Methylation_20Support_20-_2060_20Capsules_20_20Amy_20Myers_20MD_01.webp?v=1764586525</image>
@@ -17579,7 +17579,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biofilm-disruptor-60-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biofilm_20Disruptor_20-_2060_20Capsules_20Amy_20Myers_20MD_01.webp?v=1764585921</image>
@@ -18921,7 +18921,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>51.22</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>gud-for-mamas-prenatal-90-capsules-supreme-nutrition-products</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/prenatal_20_281_29.jpg?v=1764586801</image>
@@ -21544,7 +21544,7 @@
     <tags>low_vat_rate</tags>
     <price>13.61</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gaba-ease-15-capsules-vitanica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ge15.png?v=1769124167</image>
