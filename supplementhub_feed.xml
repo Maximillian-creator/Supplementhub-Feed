@@ -7865,7 +7865,7 @@
   </product>
   <product>
     <sku>SN_008</sku>
-    <barcode>794504726930</barcode>
+    <barcode>199874219257</barcode>
     <title>Endo Supreme (Endopleura uchi) 330mg - 90 Capsules | Supreme Nutrition</title>
     <vendor>Supreme Nutrition Products</vendor>
     <product_type/>
@@ -7873,7 +7873,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>30.51</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>endo-supreme-pfaffia-paniculata-330mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_008-Endo-Supreme.png?v=1764586219</image>
@@ -11738,7 +11738,7 @@
     <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>selection-box-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2875_29_804ix2.png?v=1764585589</image>
@@ -15268,7 +15268,7 @@
   </product>
   <product>
     <sku>ENZ_19</sku>
-    <barcode>67048030068</barcode>
+    <barcode>670480302149</barcode>
     <title>Stem XCell Pro  - 60 Capsules | Enzyme Science</title>
     <vendor>Enzyme Science</vendor>
     <product_type/>
@@ -23044,6 +23044,86 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>LTYG_35</sku>
+    <barcode/>
+    <title>Absorb Plus Simply Vanilla - 1kg | Imix Nutrition</title>
+    <vendor>Imix Nutrition</vendor>
+    <product_type/>
+    <description>Absorb Plus Simply Vanilla is a complete semi-elemental shake designed to deliver balanced nutrition in a highly bioavailable format.It supports metabolic health, immune function and energy production, making it suitable for daily nutritional support or use within structured dietary protocols.The clean vanilla flavour ensures ease of use and long-term compliance.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>111.17</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>absorb-plus-simply-vanilla-1kg</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LTYG_09-Absorb-Plus-Simply-Vanilla-1kg.webp?v=1773359374</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>1000.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LTYG_29</sku>
+    <barcode>850059492727</barcode>
+    <title>Absorb Plus French Vanilla - 1kg | Imix Nutrition</title>
+    <vendor>Imix Nutrition</vendor>
+    <product_type/>
+    <description>Absorb Plus French Vanilla is a complete semi-elemental nutritional shake designed to support energy, immune function and digestive health through highly absorbable nutrients.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>111.17</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>absorb-plus-french-vanilla-1kg</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71ke0rNqMfL._AC_UF1000_2C1000_QL80.webp?v=1773359381</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>1000.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LTYG_33</sku>
+    <barcode>850059492765</barcode>
+    <title>Absorb Plus Simply Chocolate - 1kg | Imix Nutrition</title>
+    <vendor>Imix Nutrition</vendor>
+    <product_type/>
+    <description>Absorb Plus Simply Chocolate is a complete semi-elemental nutritional shake designed to support energy, recovery and digestive health.It delivers balanced nutrition in an easily absorbable form, making it suitable for meal replacement or recovery support.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>111.17</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>absorb-plus-simply-chocolate-1kg</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LTYG_07-Absorb-Plus-Simply-Chocolate-1kg.webp?v=1773358738</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>1000.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LTYG_31</sku>
+    <barcode>850059492642</barcode>
+    <title>Absorb Plus Vegan Unsweetened Coco-Choc - 1kg | Imix Nutrition</title>
+    <vendor>Imix Nutrition</vendor>
+    <product_type/>
+    <description>Absorb Plus Vegan Unsweetened Coco-Choc is a plant-based elemental nutrition shake designed for optimal absorption and digestive support.It provides complete nutrition using non-dairy protein sources and a clean formulation.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>111.17</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>absorb-plus-vegan-unsweetened-coco-choc-1kg</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71xpXZaxWCL._AC_UF1000_2C1000_QL80.webp?v=1773359637</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>1000.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>DFH_215</sku>
     <barcode>879452007284</barcode>
     <title>Creatine Monohydrate Powder 2LB |  Designs for Health</title>
@@ -24227,6 +24307,386 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>90.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_012</sku>
+    <barcode>8437011281128</barcode>
+    <title>InmunoRespir - 90 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Inmuno Respir combines vitamin C&lt;sup&gt;1&lt;/sup&gt;, vitamin A&lt;sup&gt;2&lt;/sup&gt;, and zinc&lt;sup&gt;3&lt;/sup&gt;, reinforced with N-acetylcysteine and quercetin. These nutrients contribute to:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Normal function of the immune system&lt;sup&gt;1,2,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal collagen formation for the normal function of the skin&lt;sup&gt;1&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal mucous membranes&lt;sup&gt;2&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Protection of cells from oxidative stress&lt;sup&gt;1,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Reduction of tiredness and fatigue&lt;sup&gt;1&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>21.79</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>inmunorespir-90-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/InmunoRespir90CapsulesLCN_01.webp?v=1789424643</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>89.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_013</sku>
+    <barcode>8437011281241</barcode>
+    <title>Metabolic Pur - 30 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Metabolism is the series of reactions and processes that take place in every cell of the body. Through proper metabolic function, the body converts nutrients into energy and eliminates metabolites it no longer needs — including certain compounds from food and the environment. The liver, kidneys, intestines, lungs, and skin are the organs primarily responsible for this elimination process, with the liver playing the most significant role.&lt;/p&gt;&lt;p&gt;Metabolic Pur is a food supplement that contributes to normal metabolic function through a combination of vitamin C&lt;sup&gt;1&lt;/sup&gt;, thiamine&lt;sup&gt;2&lt;/sup&gt;, riboflavin 5'-phosphate&lt;sup&gt;3&lt;/sup&gt;, nicotinamide&lt;sup&gt;4&lt;/sup&gt;, nicotinic acid&lt;sup&gt;4&lt;/sup&gt;, calcium pantothenate&lt;sup&gt;5&lt;/sup&gt;, pyridoxal 5'-phosphate&lt;sup&gt;6&lt;/sup&gt;, folate&lt;sup&gt;7&lt;/sup&gt;, methylcobalamin&lt;sup&gt;8&lt;/sup&gt;, and dibencozide&lt;sup&gt;8&lt;/sup&gt;, magnesium&lt;sup&gt;9&lt;/sup&gt;, and chromium&lt;sup&gt;10&lt;/sup&gt; — reinforced with glycine, N-acetylcysteine, and R-lipoic acid. These nutrients contribute to:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Normal macronutrient metabolism&lt;sup&gt;10&lt;/sup&gt; (carbohydrates, fats, and proteins&lt;sup&gt;6&lt;/sup&gt;), normal homocysteine metabolism&lt;sup&gt;6,7,8&lt;/sup&gt;, and normal iron metabolism&lt;sup&gt;3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal synthesis and metabolism of steroid hormones&lt;sup&gt;5&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal blood glucose levels&lt;sup&gt;10&lt;/sup&gt; and normal glycogen metabolism&lt;sup&gt;6&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal function of the immune system&lt;sup&gt;1,6,7,8&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Protection of cells from oxidative stress&lt;sup&gt;1,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal function of the nervous system&lt;sup&gt;1,2,3,9&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal mucous membranes&lt;sup&gt;3,4&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>17.43</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>metabolic-pur-30-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MetabolicPur30CapsulesLCN_01.webp?v=1789597471</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>64.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_011</sku>
+    <barcode>8437011281111</barcode>
+    <title>InmunoRespir - 40 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Inmuno Respir combines vitamin C&lt;sup&gt;1&lt;/sup&gt;, vitamin A&lt;sup&gt;2&lt;/sup&gt;, and zinc&lt;sup&gt;3&lt;/sup&gt;, reinforced with N-acetylcysteine and quercetin. These nutrients contribute to:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Normal function of the immune system&lt;sup&gt;1,2,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal collagen formation for the normal function of the skin&lt;sup&gt;1&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal mucous membranes&lt;sup&gt;2&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Protection of cells from oxidative stress&lt;sup&gt;1,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Reduction of tiredness and fatigue&lt;sup&gt;1&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>26.15</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>inmunorespir-40-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/InmunoRespir40CapsulesLCN_01.webp?v=1789424328</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>61.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_007</sku>
+    <barcode>8437011281180</barcode>
+    <title>Omega Base - 60 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Omega Base combines a plant-based omega source with fish oil and natural vitamin E, formulated to deliver a broad omega-3 and omega-6 profile in a single softgel.&lt;/p&gt;&lt;p&gt;The base oil, Buglossoides arvensis L. seed oil (Ahiflower®), supplies alpha-linolenic acid (ALA) and linoleic acid (LA), along with two additional bioactive fatty acids — stearidonic acid (SDA) and gamma-linolenic acid (GLA). It's paired with fish oil, chosen for its DHA concentration and purity. DHA contributes to the maintenance of normal brain function and to the maintenance of normal vision. Mixed natural tocopherols provide vitamin E, which contributes to the protection of cells from oxidative stress.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>39.23</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>omega-base-60-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OmegaBase60CapsulesLCN_01.webp?v=1789424498</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>144.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_009</sku>
+    <barcode>8437011281203</barcode>
+    <title>Amino Base - 30 Sachets | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Amino Base provides a combination of free amino acids, obtained by bacterial fermentation. It contains eight essential amino acids and four conditionally essential amino acids, alongside pyrimidine nucleotides (cytidine, uridine), choline, myo-inositol, magnesium, and vitamin C.&lt;/p&gt;&lt;p&gt;Magnesium and vitamin C contribute to the reduction of tiredness and fatigue. Magnesium also contributes to normal muscle function, and vitamin C contributes to the normal function of the immune system.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>67.57</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>amino-base-30-sachets-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AminoBase30SachetsLCN_01.webp?v=1789424648</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>355.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_002</sku>
+    <barcode>8437011281012</barcode>
+    <title>CN Base - 60 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;CN Base is a multinutrient formula combining vitamins and minerals in active, bioavailable forms with coenzyme Q10 and R-lipoic acid. Vitamins must be converted into their active forms before the body can use them, a process that can be affected by age, diet, lifestyle, and environmental factors. CN Base supplies these nutrients already in their active forms.&lt;/p&gt;&lt;p&gt;The formula's B vitamins, vitamin C, copper and magnesium contribute to normal function of the nervous system, and vitamin B1 contributes to normal function of the heart. Vitamin C, zinc, vitamin B6, vitamin A, copper, folate, selenium, vitamin D and vitamin B12 contribute to normal function of the immune system. Magnesium, vitamin C, niacin, riboflavin, vitamin B6, pantothenic acid, folate and vitamin B12 contribute to the reduction of tiredness and fatigue. Chromium contributes to the maintenance of normal blood glucose levels. Niacin contributes to the maintenance of normal mucous membranes. Vitamin C contributes to normal collagen formation for the normal function of bones, cartilage, blood vessels, skin, gums and teeth, and magnesium contributes to normal muscle function. Vitamin A, riboflavin and zinc contribute to the maintenance of normal vision. Zinc, biotin and selenium contribute to the maintenance of normal hair and nails. Vitamin C, vitamin E, zinc, manganese, selenium and riboflavin contribute to the protection of cells from oxidative stress.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>33.78</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>cn-base-60-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CNBase60CapsulesLCN_01.webp?v=1789424550</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>93.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_015</sku>
+    <barcode>8437011281227</barcode>
+    <title>Metabolic Pur - 120 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Metabolism is the series of reactions and processes that take place in every cell of the body. Through proper metabolic function, the body converts nutrients into energy and eliminates metabolites it no longer needs — including certain compounds from food and the environment. The liver, kidneys, intestines, lungs, and skin are the organs primarily responsible for this elimination process, with the liver playing the most significant role.&lt;/p&gt;&lt;p&gt;Metabolic Pur is a food supplement that contributes to normal metabolic function through a combination of vitamin C&lt;sup&gt;1&lt;/sup&gt;, thiamine&lt;sup&gt;2&lt;/sup&gt;, riboflavin 5'-phosphate&lt;sup&gt;3&lt;/sup&gt;, nicotinamide&lt;sup&gt;4&lt;/sup&gt;, nicotinic acid&lt;sup&gt;4&lt;/sup&gt;, calcium pantothenate&lt;sup&gt;5&lt;/sup&gt;, pyridoxal 5'-phosphate&lt;sup&gt;6&lt;/sup&gt;, folate&lt;sup&gt;7&lt;/sup&gt;, methylcobalamin&lt;sup&gt;8&lt;/sup&gt;, and dibencozide&lt;sup&gt;8&lt;/sup&gt;, magnesium&lt;sup&gt;9&lt;/sup&gt;, and chromium&lt;sup&gt;10&lt;/sup&gt; — reinforced with glycine, N-acetylcysteine, and R-lipoic acid. These nutrients contribute to:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Normal macronutrient metabolism&lt;sup&gt;10&lt;/sup&gt; (carbohydrates, fats, and proteins&lt;sup&gt;6&lt;/sup&gt;), normal homocysteine metabolism&lt;sup&gt;6,7,8&lt;/sup&gt;, and normal iron metabolism&lt;sup&gt;3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal synthesis and metabolism of steroid hormones&lt;sup&gt;5&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal blood glucose levels&lt;sup&gt;10&lt;/sup&gt; and normal glycogen metabolism&lt;sup&gt;6&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal function of the immune system&lt;sup&gt;1,6,7,8&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Protection of cells from oxidative stress&lt;sup&gt;1,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal function of the nervous system&lt;sup&gt;1,2,3,9&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal mucous membranes&lt;sup&gt;3,4&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>54.49</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>metabolic-pur-120-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MetabolicPur120CapsulesLCN_01.webp?v=1789424467</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>173.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_008</sku>
+    <barcode>8437011281197</barcode>
+    <title>Omega Base - 120 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Omega Base combines a plant-based omega source with fish oil and natural vitamin E, formulated to deliver a broad omega-3 and omega-6 profile in a single softgel.&lt;/p&gt;&lt;p&gt;The base oil, Buglossoides arvensis L. seed oil (Ahiflower®), supplies alpha-linolenic acid (ALA) and linoleic acid (LA), along with two additional bioactive fatty acids — stearidonic acid (SDA) and gamma-linolenic acid (GLA). It's paired with fish oil, chosen for its DHA concentration and purity. DHA contributes to the maintenance of normal brain function and to the maintenance of normal vision. Mixed natural tocopherols provide vitamin E, which contributes to the protection of cells from oxidative stress.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>66.48</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>omega-base-120-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OmegaBase120CapsulesLCN_01.webp?v=1789424705</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>235.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_016</sku>
+    <barcode>8437011281234</barcode>
+    <title>Mitochondria Active | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;This dual-format formula combines a citrus-flavoured stick pack with gastro-resistant capsules, built around a full-spectrum B-complex, an NAD+; precursor pairing, and a set of amino acid and mitochondrial-support actives.&lt;/p&gt;&lt;p&gt;Each stick delivers vitamins B1, B2, B3, B5, B6, B7, B9 and B12 alongside L-tryptophan. Together these B vitamins contribute to normal energy-yielding metabolism and to the normal function of the nervous system, and B1 additionally contributes to normal function of the heart. Vitamin C is included as calcium ascorbate, contributing to normal function of the immune system and to normal collagen formation for the normal function of skin, bones, cartilage, teeth, gums, blood vessels and muscles. Vitamin B2 also contributes to the maintenance of normal vision and normal mucous membranes. Magnesium and selenium contribute to normal function of the immune system; selenium and vitamin C also contribute to the protection of cells from oxidative stress. Biotin contributes to the maintenance of normal hair, and selenium to the maintenance of normal hair and nails.&lt;/p&gt;&lt;p&gt;Glycine, creatine monohydrate and taurine round out the formula's amino acid profile, with creatine monohydrate providing 1g per serving. Coenzyme Q10 is included as ubiquinone complexed with gamma-cyclodextrin for enhanced solubility.&lt;/p&gt;&lt;p&gt;The gastro-resistant capsules provide acetyl-L-carnitine, R-lipoic acid, pyrroloquinoline quinone disodium salt (MGCPQQ®) and N-acetyl cysteine, delivered in a gastro-resistant shell for targeted release.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>139.51</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>mitochondria-active-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MitochondriaActiveLCN_01.webp?v=1789424407</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>382.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_010</sku>
+    <barcode>8437011281296</barcode>
+    <title>DK Plus LCN - 60 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;DK Plus is a micronutrient combination providing vitamin D3, vitamin K1, vitamin K2, and magnesium.&lt;/p&gt;&lt;p&gt;Vitamins D and K are fat-soluble micronutrients. Naturally occurring forms of vitamin K include phylloquinone (vitamin K1) and a family of molecules called menaquinones (vitamin K2), the most significant of which are MK-4 and MK-7. Magnesium supports several bodily reactions, including the conversion of vitamin D3 into its active form.&lt;/p&gt;&lt;p&gt;DK Plus provides vitamin D3&lt;sup&gt;1&lt;/sup&gt;, vitamin K1&lt;sup&gt;2&lt;/sup&gt;, vitamin K2&lt;sup&gt;2&lt;/sup&gt; (from chickpea fermentation), and magnesium&lt;sup&gt;3&lt;/sup&gt; (as taurinate and bisglycinate), which contribute to:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Normal absorption and utilisation of calcium and phosphorus&lt;sup&gt;1&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal bones&lt;sup&gt;1,2,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal blood clotting&lt;sup&gt;2&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal psychological function&lt;sup&gt;3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal muscle function&lt;sup&gt;1,3&lt;/sup&gt; and reduction of tiredness and fatigue&lt;sup&gt;3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal function of the immune system&lt;sup&gt;1&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>11.98</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>dk-plus-lcn-60-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DKPlusLCN60CapsulesLCN_01.webp?v=1789424584</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>91.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_004</sku>
+    <barcode>8437011281135</barcode>
+    <title>Petit CN Base - Neutral | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Petit CN Base is a complete micronutrient formula designed for periods of increased nutritional need: pregnancy, breastfeeding, and childhood growth from age 3 to 17. It combines 23 vitamins and minerals in their active, bioavailable forms with short-chain fructo-oligosaccharides (scFOS) and Saccharomyces boulardii.&lt;/p&gt;&lt;p&gt;The formula's calcium, vitamin D and manganese contribute to normal bone growth and development. Iron and zinc contribute to normal cognitive function, and vitamin D, zinc and selenium contribute to the normal function of the immune system. The formula also supplies calcium L-methylfolate: folic acid intake increases maternal folate status, and low maternal folate is a risk factor in the development of neural tube defects in the developing foetus. This beneficial effect is obtained with a daily intake of 400 µg folic acid, from at least one month before to three months after conception.&lt;/p&gt;&lt;p&gt;Available in neutral flavour, with no additives, added flavourings or colourings&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>31.60</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>petit-cn-base-neutral-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PetitCNBaseNeutralLCN_01.webp?v=1789424412</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>216.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_001</sku>
+    <barcode>8437011281104</barcode>
+    <title>CN Base - 30 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;CN Base is a multinutrient formula combining vitamins and minerals in active, bioavailable forms with coenzyme Q10 and R-lipoic acid. Vitamins must be converted into their active forms before the body can use them, a process that can be affected by age, diet, lifestyle, and environmental factors. CN Base supplies these nutrients already in their active forms.&lt;/p&gt;&lt;p&gt;The formula's B vitamins, vitamin C, copper and magnesium contribute to normal function of the nervous system, and vitamin B1 contributes to normal function of the heart. Vitamin C, zinc, vitamin B6, vitamin A, copper, folate, selenium, vitamin D and vitamin B12 contribute to normal function of the immune system. Magnesium, vitamin C, niacin, riboflavin, vitamin B6, pantothenic acid, folate and vitamin B12 contribute to the reduction of tiredness and fatigue. Chromium contributes to the maintenance of normal blood glucose levels. Niacin contributes to the maintenance of normal mucous membranes. Vitamin C contributes to normal collagen formation for the normal function of bones, cartilage, blood vessels, skin, gums and teeth, and magnesium contributes to normal muscle function. Vitamin A, riboflavin and zinc contribute to the maintenance of normal vision. Zinc, biotin and selenium contribute to the maintenance of normal hair and nails. Vitamin C, vitamin E, zinc, manganese, selenium and riboflavin contribute to the protection of cells from oxidative stress.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>18.52</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>cn-base-30-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CNBase30CapsulesLCN_01.webp?v=1789597021</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>67.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_006</sku>
+    <barcode>8437011281173</barcode>
+    <title>Omega Base - 30 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Omega Base combines a plant-based omega source with fish oil and natural vitamin E, formulated to deliver a broad omega-3 and omega-6 profile in a single softgel.&lt;/p&gt;&lt;p&gt;The base oil, Buglossoides arvensis L. seed oil (Ahiflower®), supplies alpha-linolenic acid (ALA) and linoleic acid (LA), along with two additional bioactive fatty acids — stearidonic acid (SDA) and gamma-linolenic acid (GLA). It's paired with fish oil, chosen for its DHA concentration and purity. DHA contributes to the maintenance of normal brain function and to the maintenance of normal vision. Mixed natural tocopherols provide vitamin E, which contributes to the protection of cells from oxidative stress.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>21.79</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>omega-base-30-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OmegaBase30CapsulesLCN_01.webp?v=1789597442</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>83.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_014</sku>
+    <barcode>8437011281210</barcode>
+    <title>Metabolic Pur - 60 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Metabolism is the series of reactions and processes that take place in every cell of the body. Through proper metabolic function, the body converts nutrients into energy and eliminates metabolites it no longer needs — including certain compounds from food and the environment. The liver, kidneys, intestines, lungs, and skin are the organs primarily responsible for this elimination process, with the liver playing the most significant role.&lt;/p&gt;&lt;p&gt;Metabolic Pur is a food supplement that contributes to normal metabolic function through a combination of vitamin C&lt;sup&gt;1&lt;/sup&gt;, thiamine&lt;sup&gt;2&lt;/sup&gt;, riboflavin 5'-phosphate&lt;sup&gt;3&lt;/sup&gt;, nicotinamide&lt;sup&gt;4&lt;/sup&gt;, nicotinic acid&lt;sup&gt;4&lt;/sup&gt;, calcium pantothenate&lt;sup&gt;5&lt;/sup&gt;, pyridoxal 5'-phosphate&lt;sup&gt;6&lt;/sup&gt;, folate&lt;sup&gt;7&lt;/sup&gt;, methylcobalamin&lt;sup&gt;8&lt;/sup&gt;, and dibencozide&lt;sup&gt;8&lt;/sup&gt;, magnesium&lt;sup&gt;9&lt;/sup&gt;, and chromium&lt;sup&gt;10&lt;/sup&gt; — reinforced with glycine, N-acetylcysteine, and R-lipoic acid. These nutrients contribute to:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Normal macronutrient metabolism&lt;sup&gt;10&lt;/sup&gt; (carbohydrates, fats, and proteins&lt;sup&gt;6&lt;/sup&gt;), normal homocysteine metabolism&lt;sup&gt;6,7,8&lt;/sup&gt;, and normal iron metabolism&lt;sup&gt;3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal synthesis and metabolism of steroid hormones&lt;sup&gt;5&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal blood glucose levels&lt;sup&gt;10&lt;/sup&gt; and normal glycogen metabolism&lt;sup&gt;6&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal function of the immune system&lt;sup&gt;1,6,7,8&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Protection of cells from oxidative stress&lt;sup&gt;1,3&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Normal function of the nervous system&lt;sup&gt;1,2,3,9&lt;/sup&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance of normal mucous membranes&lt;sup&gt;3,4&lt;/sup&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>32.69</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>metabolic-pur-60-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MetabolicPur60CapsulesLCN_01.webp?v=1789424323</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>98.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>LCN_003</sku>
+    <barcode>8437011281029</barcode>
+    <title>CN Base - 120 Capsules | LCN</title>
+    <vendor>Laboratorio LCN</vendor>
+    <product_type/>
+    <description>&lt;p&gt;CN Base is a multinutrient formula combining vitamins and minerals in active, bioavailable forms with coenzyme Q10 and R-lipoic acid. Vitamins must be converted into their active forms before the body can use them, a process that can be affected by age, diet, lifestyle, and environmental factors. CN Base supplies these nutrients already in their active forms.&lt;/p&gt;&lt;p&gt;The formula's B vitamins, vitamin C, copper and magnesium contribute to normal function of the nervous system, and vitamin B1 contributes to normal function of the heart. Vitamin C, zinc, vitamin B6, vitamin A, copper, folate, selenium, vitamin D and vitamin B12 contribute to normal function of the immune system. Magnesium, vitamin C, niacin, riboflavin, vitamin B6, pantothenic acid, folate and vitamin B12 contribute to the reduction of tiredness and fatigue. Chromium contributes to the maintenance of normal blood glucose levels. Niacin contributes to the maintenance of normal mucous membranes. Vitamin C contributes to normal collagen formation for the normal function of bones, cartilage, blood vessels, skin, gums and teeth, and magnesium contributes to normal muscle function. Vitamin A, riboflavin and zinc contribute to the maintenance of normal vision. Zinc, biotin and selenium contribute to the maintenance of normal hair and nails. Vitamin C, vitamin E, zinc, manganese, selenium and riboflavin contribute to the protection of cells from oxidative stress.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>55.58</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>cn-base-120-capsules-lcn</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CNBase120CapsulesLCN_01.webp?v=1789424676</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>164.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
 </products>
