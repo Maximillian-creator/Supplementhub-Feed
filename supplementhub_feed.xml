@@ -5683,7 +5683,7 @@
     <tags>low_vat_rate</tags>
     <price>46.86</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-theanine-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_87_c59a6cab-5157-4796-b097-e521d9c44264.png?v=1764586382</image>
@@ -7610,7 +7610,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>scutellaria-supreme-chinses-skullcap-435mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_023-Scutellaria-Supreme.png?v=1764586298</image>
@@ -17693,7 +17693,7 @@
     <tags>body_bio, low_vat_rate</tags>
     <price>25.06</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liquid-mineral-manganese-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T155037.016.webp?v=1764586348</image>
