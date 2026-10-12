@@ -656,7 +656,7 @@
     <tags>low_vat_rate</tags>
     <price>123.16</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>absorb-element-unsweetened-vanilla-1kg</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LTYG_11-Unsweetened-Vanilla_1_13be8ee8-70a6-4715-8a5f-2ce80da9781a.png?v=1764585719</image>
@@ -693,7 +693,7 @@
     <vendor>Imix Nutrition</vendor>
     <product_type/>
     <description>Absorb Element+ Vegan is a plant-based elemental nutrition formula designed to deliver complete, highly absorbable nutrition while supporting digestive health and dietary flexibility.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
     <available>false</available>
@@ -713,7 +713,7 @@
     <vendor>Imix Nutrition</vendor>
     <product_type/>
     <description>Absorb Element+ is a complete elemental nutrition formula providing highly bioavailable nutrients, including amino acids, protein and micronutrients, designed to support digestion and overall nutritional status.</description>
-    <tags>2xpoints, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <price>126.43</price>
     <compare_at_price/>
     <available>false</available>
@@ -1384,7 +1384,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>iron-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20IRP-004_20UK_20PMD_20Iron_20Oct_202025-2_20_281_29.webp?v=1768000833</image>
@@ -1886,7 +1886,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>glucosamine-chondroitin-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20GLC-008_20UK_20PMD_20Glucosamine_20Oct_202025-2.webp?v=1767881558</image>
@@ -2444,7 +2444,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>quercetin-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0116-Quercetin_227300dd-d629-4bf7-acc9-29d61cbf1084.jpg?v=1764586570</image>
@@ -3176,7 +3176,7 @@
     <tags>low_vat_rate</tags>
     <price>55.63</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>histaminx-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HISTA-X-CAP_1_Front_R.png?v=1764585964</image>
@@ -3757,7 +3757,7 @@
     <tags>low_vat_rate</tags>
     <price>45.53</price>
     <compare_at_price>49.04</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-vitamin-c-plus-164g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VITA-C-PLUS-POW_1_Front_R_7c808d4f-813c-4634-96c7-6d50726b1236.png?v=1764586487</image>
@@ -12951,7 +12951,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>astaxanthin-12mg-60-softgels-jarrow-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706</image>
@@ -21092,7 +21092,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>38.84</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-glycinate-sleep-muscle-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Candex_SIBO_45_24359_WEB.webp?v=1768432768</image>
@@ -21298,7 +21298,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>46.98</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>motility-complex-with-ginger-artichoke-120-capsules-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Motility_Complex_with_Ginger__26_Artichoke_120_WEB.webp?v=1768433003</image>
