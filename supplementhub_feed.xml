@@ -2979,7 +2979,7 @@
     <tags>low_vat_rate</tags>
     <price>20.15</price>
     <compare_at_price>25.60</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>adrenal-cortex-50mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ACORTEX-CAP_1_Front_R_b117a135-72ec-4613-bbe6-bcc0350a2e65.png?v=1764586568</image>
@@ -13086,120 +13086,61 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <description>&lt;div&gt;
-&lt;b&gt;Brain Nutrients&lt;/b&gt; is designed to support a healthy, thriving brain. If&lt;/div&gt;
-&lt;div&gt;your customer or patient relates to one or more of the following&lt;/div&gt;
-&lt;div&gt;statements, then Brain Nutrients may be the brain support&lt;/div&gt;
-&lt;div&gt;supplement they need:&lt;/div&gt;
-&lt;ul&gt;
+&lt;b&gt;Brain Nutrients&lt;/b&gt; is designed to support a healthy, thriving brain. If&lt;/div&gt;&lt;div&gt;your customer or patient relates to one or more of the following&lt;/div&gt;&lt;div&gt;statements, then Brain Nutrients may be the brain support&lt;/div&gt;&lt;div&gt;supplement they need:&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;I want to support healthy brain function.&lt;/li&gt;
 &lt;li&gt;It’s hard for me to think. I get tired easily from talking, reading or trying to do anything. I would like to have healthy levels of energy in my brain so I can do the things I want to do again.&lt;/li&gt;
 &lt;li&gt;My head is often foggy. Drinking electrolytes or taking just glutathione doesn’t resolve it. I’m looking to have a healthy, clear head.&lt;/li&gt;
 &lt;li&gt;Nootropics don’t seem to work for me. I’ve tried many. I would like to feel what others feel when supporting healthy brain function.&lt;/li&gt;
 &lt;li&gt;I want something that helps me feel refreshed and energized quickly without needing coffee or other stimulants.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;Why Brain Nutrients Works&lt;/b&gt;&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Energy Metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
+&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;Why Brain Nutrients Works&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Energy Metabolism&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Contributes to normal energy-yielding metabolism:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;&lt;br&gt;Magnesium, Thiamine (B1), Niacin (B3), Vitamin B12&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Contributes to normal energy-yielding metabolism:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;&lt;br&gt;Magnesium, Thiamine (B1), Niacin (B3), Vitamin B12&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;
 &lt;/li&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Reduces tiredness &amp;amp; fatigue:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;&lt;br&gt;Niacin,  Folate, Vitamin B12, Magnesium&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Reduces tiredness &amp;amp; fatigue:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;&lt;br&gt;Niacin,  Folate, Vitamin B12, Magnesium&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Macronutrient, Lipid &amp;amp; Glucose Metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
+&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Macronutrient, Lipid &amp;amp; Glucose Metabolism&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Macronutrient, &lt;b style=&quot;font-family: sans-serif;&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Carbohydrate &amp;amp; Fatty acid&lt;/span&gt;&lt;/b&gt; metabolism:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Zinc&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Macronutrient, &lt;b style=&quot;font-family: sans-serif;&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Carbohydrate &amp;amp; Fatty acid&lt;/span&gt;&lt;/b&gt; metabolism:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Zinc&lt;/span&gt;
 &lt;/li&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Homocysteine metabolism:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Folate, Vitamin B12&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Homocysteine metabolism:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Folate, Vitamin B12&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Cell Division &amp;amp; Specialisation&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
+&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Cell Division &amp;amp; Specialisation&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Cell division:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Magnesium, Folate, Vitamin B12,  Zinc&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Blood Formation &amp;amp; Oxygen Transport&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Red blood cell formation:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Vitamin B12, Folate&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;ul type=&quot;circle&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Muscle Function &amp;amp; Physical Performance&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Normal muscle function:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Magnesium&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Nervous System &amp;amp; Neurotransmission&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Normal nervous system function:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Magnesium, Thiamine, Riboflavin, Niacin, Vitamin B12&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Psychological Function &amp;amp; Cognition&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Normal psychological function:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Thiamine, Niacin, Folate, Vitamin B6, Vitamin B12, Magnesium&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Heart &amp;amp; Electrolyte Balance&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Cell division:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Magnesium, Folate, Vitamin B12,  Zinc&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Blood Formation &amp;amp; Oxygen Transport&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Red blood cell formation:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Vitamin B12, Folate&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;ul type=&quot;circle&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;/ul&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Muscle Function &amp;amp; Physical Performance&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Normal muscle function:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Magnesium&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Nervous System &amp;amp; Neurotransmission&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Normal nervous system function:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Magnesium, Thiamine, Riboflavin, Niacin, Vitamin B12&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Psychological Function &amp;amp; Cognition&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Normal psychological function:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Thiamine, Niacin, Folate, Vitamin B6, Vitamin B12, Magnesium&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Heart &amp;amp; Electrolyte Balance&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Normal heart function:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Thiamine&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Normal heart function:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Thiamine&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;
 &lt;/li&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Electrolyte balance:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Magnesium&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Electrolyte balance:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Magnesium&lt;/span&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Immune Function&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
+&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Immune Function&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Normal function of the immune system: &lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Folate, Vitamin B12, Zinc&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Antioxidant &amp;amp; Cellular Protection&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Protection of cells from oxidative stress: &lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Zinc&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Skin&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Normal skin:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Niacin&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Mucous Membranes&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Maintenance of mucous membranes:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Niacin&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Thyroid &amp;amp; Reproductive Health&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Normal testosterone levels in blood:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Zinc&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif; color: rgb(15, 15, 15);'&gt;Pregnancy &amp;amp; Maternal Health&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Normal function of the immune system: &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Folate, Vitamin B12, Zinc&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Antioxidant &amp;amp; Cellular Protection&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Protection of cells from oxidative stress: &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Zinc&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Skin&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Normal skin:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Niacin&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Mucous Membranes&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Maintenance of mucous membranes:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Niacin&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Thyroid &amp;amp; Reproductive Health&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Normal testosterone levels in blood:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Zinc&lt;/span&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif; color: rgb(15, 15, 15);&quot;&gt;Pregnancy &amp;amp; Maternal Health&lt;/span&gt;&lt;/p&gt;
-&lt;ul type=&quot;disc&quot; style=&quot;margin-top: 0cm;&quot;&gt;
-&lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Maternal tissue growth during pregnancy:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Folate&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Maternal tissue growth during pregnancy:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Folate&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;
 &lt;/li&gt;
 &lt;li class=&quot;MsoNormal&quot; style=&quot;color: rgb(15, 15, 15);&quot;&gt;
-&lt;b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt;Supplemental folic acid improves maternal folate status; low folate is a risk factor for neural tube defects:&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: 'Noto Sans', sans-serif;&quot;&gt; Folate&lt;/span&gt;
+&lt;b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt;Supplemental folic acid improves maternal folate status; low folate is a risk factor for neural tube defects:&lt;/span&gt;&lt;/b&gt;&lt;span style='font-family: &quot;Noto Sans&quot;, sans-serif;'&gt; Folate&lt;/span&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;*Disclaimer: &lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
+&lt;/ul&gt;&lt;p&gt;&lt;b style=&quot;letter-spacing: 0px;&quot;&gt;*Disclaimer: &lt;/b&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>54.49</price>
     <compare_at_price/>
@@ -13402,7 +13343,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>immune-rmor-90-capsules-vervita</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1024x1024AllProductImages_16_5000x_bc851945-9706-4cb1-a004-8891363d8e17.webp?v=1764586097</image>
@@ -15870,7 +15811,7 @@
     <tags>low_vat_rate, Practitioner Only</tags>
     <price>26.15</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>profloragg-25b-30-capsules-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0180-ProFloraGG-25B.png?v=1738238809</image>
@@ -21498,7 +21439,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>33.43</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>omega-3-fish-oil-1000mg-epa-dha</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Magnesium_Glycinate_120_31751_v2_WEB.webp?v=1768433261</image>
