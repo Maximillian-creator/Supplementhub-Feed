@@ -115,7 +115,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>healthy-fiber-phgg-225g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HO_01-Healthy-Fiber_15234a24-167c-4b12-87f0-4cbe7279b348.png?v=1764586511</image>
@@ -7590,7 +7590,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>smilax-supreme-sarsaparilla-380mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_024-Smilax-Supreme_891d1d19-4af3-48b6-b149-ba00c7db3c06.png?v=1764585684</image>
@@ -8076,7 +8076,7 @@
     <tags/>
     <price>54.49</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dentalcidin-90ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/dentalcidin.png?v=1764586083</image>
@@ -8136,7 +8136,7 @@
     <tags>low_vat_rate</tags>
     <price>124.25</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biocidin-lsf-liposomal-formula-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocidin-lsf_9da2a6a6-67a2-4e50-a571-b3b409210bdb.png?v=1764585826</image>
@@ -8156,7 +8156,7 @@
     <tags>low_vat_rate</tags>
     <price>95.91</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biocidin-broad-spectrum-liquid-formula-30ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biocidin_2dfb7b5d-e418-48b3-a2e2-2956e04d0508.png?v=1764586344</image>
@@ -14391,7 +14391,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>butyrate-sodium-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T111442.983.webp?v=1764586185</image>
@@ -15389,7 +15389,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>108.99</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>s-acetyl-glutathione-300-60-capsules-oxidative-stress-protection-makewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_EU_SAG_S_white.jpg?v=1764585564</image>
@@ -17071,7 +17071,7 @@
     <tags>low_vat_rate</tags>
     <price>51.71</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>paleo-protein-unflavored-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Unflavored_20-_2020_20Servings_20_20Amy_20Myers_20MD_02.webp?v=1764586802</image>
@@ -22636,7 +22636,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nuaepa-1200-30-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61B4LeNvOwL._AC_SY300_SX300_QL70_ML2.webp?v=1772752971</image>
@@ -24595,6 +24595,226 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>164.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_007</sku>
+    <barcode>8437007026078</barcode>
+    <title>Ginkgo complex - 60 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Ginkgo Complex combines Omega-3 DHA and EPA, standardised Ginkgo biloba extract, Kaneka Q10® (Coenzyme Q10), and Vitamin E in a single daily formula.&lt;/p&gt;&lt;p&gt;Each recommended daily dose provides omega-3 fatty acids, including 580 mg DHA and 130 mg EPA. DHA contributes to the maintenance of normal vision.&lt;/p&gt;&lt;p&gt;The formula includes Ginkgo biloba extract, standardised to 24% flavone glycosides and 6% terpene lactones, alongside 50 mg of Kaneka Q10® (Coenzyme Q10).&lt;/p&gt;&lt;p&gt;Ginkgo biloba (&lt;em&gt;Ginkgo biloba&lt;/em&gt;) supports normal vascular function&lt;sup&gt;1&lt;/sup&gt; and supports mental performance and concentration.&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;&lt;p&gt;Vitamin E (alpha-tocopherol) is included. Vitamin E contributes to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;&lt;small&gt;&lt;sup&gt;1&lt;/sup&gt;Health claim pending European authorisation (ID 4635). &lt;sup&gt;2&lt;/sup&gt;Health claim pending European authorisation (ID 4638).&lt;/small&gt;&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>132.97</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>ginkgo-complex-60-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GinkgoComplex60softgelPuroOmega_01.webp?v=1790029195</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>82.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_003</sku>
+    <barcode>8437007026115</barcode>
+    <title>Natural DHA Pregnancy &amp; Breastfeeding - 60 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Puro Omega Prenatal &amp;amp; Lactation Omega-3 is formulated for the stages of pregnancy and breastfeeding, combining a 4:1 DHA:EPA ratio with Vitamin D3 and Vitamin E.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides omega-3 fatty acids, including 810 mg DHA and 190 mg EPA. Maternal intake of DHA contributes to the normal development of the eye and brain of the foetus and breastfed infants. This beneficial effect is obtained with a daily intake of 200 mg of DHA in addition to the recommended daily intake of omega-3 fatty acids for adults of 250 mg DHA and EPA. EPA and DHA also contribute to the normal function of the heart.&lt;/p&gt;&lt;p&gt;Vitamin D3 (cholecalciferol) is included. Vitamin D contributes to the normal function of the immune system.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>43.59</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>natural-dha-pregnancy-breastfeeding-60-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NaturalDHAPregnancyBreastfeeding60softgelPuroOmega_01.webp?v=1790029423</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>50.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_002</sku>
+    <barcode>8437007026146</barcode>
+    <title>Natural EPA-60 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Omega-3 EPA:DHA 2:1 — Heart, Immune &amp;amp; Athletic Purity Formula with Vitamin D3 &amp;amp; Vitamin E&lt;/p&gt;&lt;p&gt;This formula combines a 2:1 EPA:DHA ratio with Vitamin D3 and Vitamin E, concentrated to over 90% total omega-3 content.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides omega-3 fatty acids, including 1000 mg EPA and 500 mg DHA. EPA and DHA contribute to the normal function of the heart.&lt;/p&gt;&lt;p&gt;Vitamin D3 (cholecalciferol) is included. Vitamin D contributes to the normal function of the immune system.&lt;/p&gt;&lt;p&gt;Vitamin E (alpha-tocopherol), from a natural mixture of tocopherols, is included to help preserve the oil's freshness.&lt;/p&gt;&lt;p&gt;This product is certified by the Cologne List, confirming the absence of substances prohibited in competitive sport and anti-doping testing.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>44.68</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>natural-epa-60-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NaturalEPA60softgelPuroOmega_01.webp?v=1790029445</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>76.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_010</sku>
+    <barcode>8437007026511</barcode>
+    <title>Pro-Resolving Mediators - 60 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Pro-Resolving Mediators — Omega-3 DHA:EPA with SPMs, Tocotrienol &amp;amp; Vitamin E&lt;/p&gt;&lt;p&gt;Pro-Resolving Mediators combines Lipinova® fish oil with concentrated Specialised Pro-Resolving Mediators (SPMs), Tocotrienol, and Vitamin E in a single daily formula.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides 1400 mg of Lipinova® fish oil, delivering omega-3 fatty acids, including 480 mg DHA and 270 mg EPA. DHA and EPA contribute to the normal function of the heart. DHA contributes to the maintenance of normal brain function and to normal vision.&lt;/p&gt;&lt;p&gt;The formula also includes SPMs as free fatty acids — 18-HEPE, 17-HDHA, and 14-HDHA — concentrated lipid mediators derived from the omega-3 metabolic pathway, alongside Tocotrienol, a member of the vitamin E family distinguished by its molecular structure.&lt;/p&gt;&lt;p&gt;Vitamin E (D-alpha-tocopherol) is also included. Vitamin E contributes to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Each softgel uses DELASOL® enteric capsule technology — an acid-resistant gelatin shell designed to remain intact through the stomach and release its contents further along the digestive tract.&lt;/p&gt;&lt;p&gt;Lipinova® is a patented fish oil ingredient registered to Solutex GC.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>165.67</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>pro-resolving-mediators-60-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ProResolvingMediators60softgelPuroOmega_01.webp?v=1790029607</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>57.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_008</sku>
+    <barcode>8437007026399</barcode>
+    <title>Ubiquinol &amp; PQQ Complex - 60 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Ubiquinol &amp;amp; PQQ Complex combines Omega-3 EPA and DHA, Kaneka Ubiquinol®, MGCPQQ® (Pyrroloquinoline Quinone Disodium Salt), and Vitamins B2, D3, and E in a single daily formula.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides 1530 mg of omega-3 fatty acids, including 860 mg EPA and 580 mg DHA. EPA and DHA contribute to the normal function of the heart.&lt;/p&gt;&lt;p&gt;The formula includes 100 mg of Kaneka Ubiquinol®, the active, reduced form of Coenzyme Q10, alongside 20 mg of MGCPQQ® (Pyrroloquinoline Quinone Disodium Salt), a compound produced by microbial fermentation.&lt;/p&gt;&lt;p&gt;Vitamin B2 (riboflavin), Vitamin E (alpha-tocopherol), and Vitamin D3 (cholecalciferol) are included. Riboflavin contributes to the reduction of tiredness and fatigue. Vitamin E contributes to the protection of cells from oxidative stress. Vitamin D contributes to normal muscle function.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>82.83</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>ubiquinol-pqq-complex-60-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UbiquinolPQQComplex60softgelPuroOmega_01.webp?v=1790029627</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>82.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_005</sku>
+    <barcode>8437007026177</barcode>
+    <title>Natural DHA Vegan - 90 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Algae DHA delivers the same DHA found in fish oil, sourced directly from marine microalgae — the original source of omega-3 — in a 100% plant-based, fish-free formula.&lt;/p&gt;&lt;p&gt;Each recommended daily dose provides omega-3 fatty acids, including 250 mg DHA. DHA contributes to the maintenance of normal brain function.&lt;/p&gt;&lt;p&gt;For pregnant and breastfeeding women, maternal intake of DHA contributes to the normal brain development of the foetus and breastfed infant. This benefit is obtained with a daily intake of 200 mg DHA, in addition to the recommended daily intake of 250 mg of omega-3 fatty acids for adults.&lt;/p&gt;&lt;p&gt;Vitamin D3 (cholecalciferol) is included. Vitamin D contributes to the normal function of the immune system.&lt;/p&gt;&lt;p&gt;Sourced from marine microalgae, this formula is free from fish and other animal-derived ingredients, and is designed to deliver comparable bioavailability to fish-derived DHA.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>116.62</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>natural-dha-vegan-90-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NaturalDHAVegan90softgelPuroOmega_01.webp?v=1790029648</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>45.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_001</sku>
+    <barcode>8437007026023</barcode>
+    <title>Natural DHA - 60 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Omega-3 DHA:EPA 4:1 — Brain, Vision &amp;amp; Immune Support with Vitamin D3 &amp;amp; Vitamin E&lt;/p&gt;&lt;p&gt;This formula combines an ideal 4:1 DHA:EPA ratio with Vitamin D3 and Vitamin E, concentrated to over 90% total omega-3 content.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides omega-3 fatty acids, including 810 mg DHA and 190 mg EPA. DHA contributes to the maintenance of normal brain function.&lt;/p&gt;&lt;p&gt;Vitamin D3 (cholecalciferol) is included. Vitamin D contributes to the normal function of the immune system.&lt;/p&gt;&lt;p&gt;Vitamin E (alpha-tocopherol), from a natural mixture of tocopherols, is included to help preserve the oil's freshness.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>49.04</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>natural-dha-60-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NaturalDHA60softgelPuroOmega_01.webp?v=1790029707</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>50.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_004</sku>
+    <barcode>8437007026016</barcode>
+    <title>Natural Omega-3 - 200ml| Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Liquid Omega-3 delivers a concentrated 3:2 EPA:DHA ratio in an easy-to-take liquid format, naturally flavoured with lemon.&lt;/p&gt;&lt;p&gt;Each full recommended daily dose (5 ml, 1 dessert spoonful) provides omega-3 fatty acids, including 740 mg EPA and 460 mg DHA. EPA and DHA contribute to the normal function of the heart. DHA contributes to the maintenance of normal brain function.&lt;/p&gt;&lt;p&gt;The oil is 100% purified and deodorised fish oil in natural triglyceride form, naturally flavoured with lemon to avoid a fishy taste, and can be taken alone or mixed into cold drinks or food.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>70.84</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>natural-omega-3-200ml-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NaturalOmega3-200mlPuroOmega_01.webp?v=1790029770</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>200.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_011</sku>
+    <barcode>8437007026528</barcode>
+    <title>Pro-Resolving Mediators - 120 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Pro-Resolving Mediators — Omega-3 DHA:EPA with SPMs, Tocotrienol &amp;amp; Vitamin E&lt;/p&gt;&lt;p&gt;Pro-Resolving Mediators combines Lipinova® fish oil with concentrated Specialised Pro-Resolving Mediators (SPMs), Tocotrienol, and Vitamin E in a single daily formula.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides 1400 mg of Lipinova® fish oil, delivering omega-3 fatty acids, including 480 mg DHA and 270 mg EPA. DHA and EPA contribute to the normal function of the heart. DHA contributes to the maintenance of normal brain function and to normal vision.&lt;/p&gt;&lt;p&gt;The formula also includes SPMs as free fatty acids — 18-HEPE, 17-HDHA, and 14-HDHA — concentrated lipid mediators derived from the omega-3 metabolic pathway, alongside Tocotrienol, a member of the vitamin E family distinguished by its molecular structure.&lt;/p&gt;&lt;p&gt;Vitamin E (D-alpha-tocopherol) is also included. Vitamin E contributes to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Each softgel uses DELASOL® enteric capsule technology — an acid-resistant gelatin shell designed to remain intact through the stomach and release its contents further along the digestive tract.&lt;/p&gt;&lt;p&gt;Lipinova® is a patented fish oil ingredient registered to Solutex GC.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>140.60</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>pro-resolving-mediators-120-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ProResolvingMediators120softgelPuroOmega_01.webp?v=1790029832</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>114.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_009</sku>
+    <barcode>8437007026580</barcode>
+    <title>Curcumin complex | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Curcumin Complex — Omega-3 EPA:DHA with HydroCurc® Turmeric Extract, MCT &amp;amp; Vitamin D3&lt;/p&gt;&lt;p&gt;Curcumin Complex combines Omega-3 EPA and DHA, HydroCurc® turmeric extract, MCT oil, and Vitamin D3 in a single daily formula.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides omega-3 fatty acids, including 580 mg EPA and 380 mg DHA. EPA and DHA contribute to the normal function of the heart.&lt;/p&gt;&lt;p&gt;The formula includes HydroCurc® turmeric extract, standardised to 80% curcuminoids. HydroCurc® is a patented extract developed by Pharmako Biotechnologies, using a proprietary process designed to improve curcumin's solubility and absorption compared to standard turmeric extracts.&lt;/p&gt;&lt;p&gt;Medium-chain triglycerides (MCT), sourced from organic coconut oil, is included alongside Vitamin D3 (cholecalciferol). Vitamin D contributes to the normal function of the immune system.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>87.19</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>curcumin-complex-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CurcuminComplexPuroOmega_01.webp?v=1790029965</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>74.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PRO_006</sku>
+    <barcode>8437007026313</barcode>
+    <title>Puro EPA - 120 softgel | Puro Omega</title>
+    <vendor>Puro Omega</vendor>
+    <product_type/>
+    <description>&lt;p&gt;EPA Pure delivers concentrated EPA per daily dose, alongside Vitamin D3 and Vitamin E.&lt;/p&gt;&lt;p&gt;Each recommended daily dose (2 softgels) provides omega-3 fatty acids, including 1600 mg EPA and 50 mg DHA. EPA and DHA contribute to the normal function of the heart.&lt;/p&gt;&lt;p&gt;The fish oil is concentrated to 80% EPA in re-esterified triglyceride form.&lt;/p&gt;&lt;p&gt;Vitamin D3 (cholecalciferol) is included. Vitamin D contributes to the normal function of the immune system.&lt;/p&gt;&lt;p&gt;Vitamin E (alpha-tocopherol), from a natural mixture of tocopherols, is included to help preserve the oil's freshness.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>92.64</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>puro-epa-120-softgel-puro-omega</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PuroEPA120softgelPuroOmega_01.webp?v=1790030076</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>152.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
 </products>
