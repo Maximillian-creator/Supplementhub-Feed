@@ -920,7 +920,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>clinical-gi-microbiotic-60-capsules-now-foods</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_09-Clinical-GI-Probiotic.png?v=1764586150</image>
@@ -2147,7 +2147,7 @@
     <tags>low_vat_rate</tags>
     <price>23.97</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-30</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0022-Zinc-30-60s_014f6bab-e63d-48c5-98dd-cc781d5a56e4.jpg?v=1764586144</image>
@@ -8858,7 +8858,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>calcium-magnesium-citrate-malate-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0054-Calcium-Magnesium-Citrate-Malate.jpg?v=1764586862</image>
@@ -12012,7 +12012,7 @@
     <tags>low_vat_rate</tags>
     <price>51.22</price>
     <compare_at_price>56.67</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dopamine-nutrients-60-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_1_Front_R_medium_750d5aa4-4939-4f35-ab2a-3621786e0c31.webp?v=1764586369</image>
@@ -12951,7 +12951,7 @@
     <tags>low_vat_rate</tags>
     <price>77.38</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>astaxanthin-12mg-60-softgels-jarrow-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706</image>
@@ -15612,34 +15612,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>CLY_004</sku>
-    <barcode>860009045583</barcode>
-    <title>Oral Microbiome Gum-Based - 30 Pieces | Calroy Health Sciences</title>
-    <vendor>Calroy Health Sciences</vendor>
-    <product_type/>
-    <description>&lt;div&gt;Calroy’s Oral Microbiome Gum is a revolutionary gum-based dietary supplement crafted to support oral, dental, and cardiovascular health.* This bright berry flavored Gum is formulated with beneficial oral prebiotic nitrates, which play a crucial role in maintaining a healthy oral microbiome.*&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;Celery enables good digestion and efficient diuresis. &lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4355 pending European approval.&lt;/li&gt;
-&lt;li&gt;Black currant has an analgesic effect&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2524 pending European approval.&lt;/li&gt;
-&lt;li&gt;Black currant leaves have an anti-hypertensive effect, decreases arterial blood pressure, supports skin capillatory function and the fruits contain flavonoids and anthocyanosids that positively affect the walls of the vessels&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2525 pending European approval.&lt;/li&gt;
-&lt;li&gt;Black currant supports respiratory tract health&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4560 pending European approval.&lt;/li&gt;
-&lt;li&gt;Black currant supports a good apetite&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4566 pending European approval.&lt;/li&gt;
-&lt;li&gt;Blueberry maintains eye health, supports visual clarity, retinal function, blood flow to the eye, provides antioxidant support for the eyes, is a well known source of antioxidants and has natural defense against free radicals.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2050 pending European approval.&lt;/li&gt;
-&lt;li&gt;Blueberry is used for the good circulation of blood in microvessels and helps to decrease the sensations of heavy legs&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2347 pending European approval.&lt;/li&gt;
-&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;By supporting nitric oxide conversion, this Gum not only promotes oral health but also contributes to cardiovascular wellness.* An essential part of your daily health routine.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;*Disclaimer: Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
-    <price>43.59</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>oral-microbiome-gum-based-30-pieces-calroy-health-sciences</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CLY_004-01.png?v=1764585650</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>100.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>PUR_0109</sku>
     <barcode>766298021379</barcode>
     <title>MicroDefense with Oregano - 90 Capsules | Pure Encapsulations</title>
@@ -17071,7 +17043,7 @@
     <tags>low_vat_rate</tags>
     <price>51.71</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-unflavored-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Unflavored_20-_2020_20Servings_20_20Amy_20Myers_20MD_02.webp?v=1764586802</image>
