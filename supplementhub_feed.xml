@@ -14483,7 +14483,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>73.02</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>fish-oil-60-softgels-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T133249.028.webp?v=1764586891</image>
@@ -15203,7 +15203,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>83.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>stem-xcell-pro-30-capsules-enzyme-science</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Stem_20XCell_20Pro.png?v=1764585925</image>
@@ -18674,7 +18674,7 @@
     <tags>low_vat_rate</tags>
     <price>30.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>performance-unflavoured-electrolytes</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Unflavoured_20Electrolytes_2031_20portions_20NoordCode_01.webp?v=1764586177</image>
@@ -19922,7 +19922,7 @@
     <tags>low_vat_rate</tags>
     <price>53.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>super-enzymes-180-capsules-now-foods</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-27T105526.408.webp?v=1764585738</image>
