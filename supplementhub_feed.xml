@@ -12436,7 +12436,7 @@
     <tags>low_vat_rate</tags>
     <price>39.23</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>berberine-advanced-60-capsules-super-botanic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Berberine_2001_20_281_29.jpg?v=1764585850</image>
@@ -13343,7 +13343,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>immune-rmor-90-capsules-vervita</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1024x1024AllProductImages_16_5000x_bc851945-9706-4cb1-a004-8891363d8e17.webp?v=1764586097</image>
@@ -19634,7 +19634,7 @@
     <tags>low_vat_rate</tags>
     <price>106.81</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>himalayan-tartary-buckwheat-sprout-powder-28g-big-bold-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/shopping_20_281_29.webp?v=1770078418</image>
