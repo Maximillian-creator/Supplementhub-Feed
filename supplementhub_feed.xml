@@ -115,7 +115,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>healthy-fiber-phgg-225g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HO_01-Healthy-Fiber_15234a24-167c-4b12-87f0-4cbe7279b348.png?v=1764586511</image>
@@ -2003,7 +2003,7 @@
     <tags>low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>b-complex-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0003-BComplex-Plus-60s.jpg?v=1764586497</image>
@@ -2444,7 +2444,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>quercetin-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0116-Quercetin_227300dd-d629-4bf7-acc9-29d61cbf1084.jpg?v=1764586570</image>
@@ -3176,7 +3176,7 @@
     <tags>low_vat_rate</tags>
     <price>55.63</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>histaminx-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HISTA-X-CAP_1_Front_R.png?v=1764585964</image>
@@ -5683,7 +5683,7 @@
     <tags>low_vat_rate</tags>
     <price>46.86</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>l-theanine-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_87_c59a6cab-5157-4796-b097-e521d9c44264.png?v=1764586382</image>
@@ -5723,7 +5723,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>r-form-lipoic-acid-100mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_93_ae46e0dc-2fd7-41d1-a1d3-1fdef0873f08.png?v=1764586646</image>
@@ -5803,7 +5803,7 @@
     <tags>low_vat_rate</tags>
     <price>77.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>adrenotone</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_06-180-Adrenotone_cdb87863-cc63-4f91-8ad9-df4d2fee4abc.png?v=1764585823</image>
@@ -5823,7 +5823,7 @@
     <tags>low_vat_rate</tags>
     <price>46.07</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>adrenotone-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_06-90-Adrenotone.png?v=1764585999</image>
@@ -5843,7 +5843,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>62.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thyroid-synergy-120-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DFH_121-Thyroid-Synergy_9753a16d-ff45-45f1-9e6e-cc71611fc30b.png?v=1764585995</image>
@@ -7590,7 +7590,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>smilax-supreme-sarsaparilla-380mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_024-Smilax-Supreme_891d1d19-4af3-48b6-b149-ba00c7db3c06.png?v=1764585684</image>
@@ -7893,7 +7893,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dan-shen-supreme-salvia-miltorrhiza-500mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_007-Dan-Shen-Supreme.png?v=1764586481</image>
@@ -8136,7 +8136,7 @@
     <tags>low_vat_rate</tags>
     <price>124.25</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>biocidin-lsf-liposomal-formula-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocidin-lsf_9da2a6a6-67a2-4e50-a571-b3b409210bdb.png?v=1764585826</image>
@@ -8283,7 +8283,7 @@
     <tags>low_vat_rate</tags>
     <price>45.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>adrenal-nutrients-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Stress_20Nutrients_20_28formely_20Adrenal_20Nutrients_29_20-_2090_20Capsules_20_20Seeking_20Health_01.webp?v=1764586645</image>
@@ -9808,7 +9808,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>prenatal-dha-830mg-90-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_19-Prenatal-DHA_a4ad28f5-816e-42fb-9a4d-6ff6232782cd.jpg?v=1764585893</image>
@@ -11013,7 +11013,7 @@
     <tags>low_vat_rate</tags>
     <price>64.30</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dim-ultra-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0098-DIM-Ultra.jpg?v=1764586855</image>
@@ -11476,7 +11476,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -12463,7 +12463,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>allithiamine-b1-50mg-250-capsules-ecological-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AllThiamineEcologicalFormulas_01.webp?v=1789079221</image>
@@ -14127,7 +14127,7 @@
     <tags>low_vat_rate</tags>
     <price>98.09</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>primeadine®-gf-gluten-free-spermidine-supplements-60-tablets-oxford-healthspan-1</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/primeadine-gf-bottles-tablets-oxford-healthspan_grande_84f529c9-25ed-474a-bc3c-639dcd7e217e.webp?v=1764585764</image>
@@ -16495,7 +16495,7 @@
     <tags>low_vat_rate</tags>
     <price>29.84</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-me-prebio-phgg-150g-tin-invivo-healthcare</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bio.Me_20Prebio_20PHGG_20150g_20Tin_20_20Invivo_20Healthcare_01.webp?v=1764586606</image>
@@ -17374,7 +17374,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>kyolic-aged-garlic-extract-cardiovascular-formula-100-wakunaga</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2877_29_5mtbtk.png?v=1764586349</image>
@@ -17983,7 +17983,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>v-probiotics-30-suppository-capsules-vitanica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-06-04T171947.143.png?v=1764586178</image>
@@ -18674,7 +18674,7 @@
     <tags>low_vat_rate</tags>
     <price>30.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>performance-unflavoured-electrolytes</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Unflavoured_20Electrolytes_2031_20portions_20NoordCode_01.webp?v=1764586177</image>
@@ -20177,7 +20177,7 @@
     <tags>low_vat_rate</tags>
     <price>49.17</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>creatine-monohydrate-450mg-creatine-monohydrate-designs-for-sport</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-23T134746.331.webp?v=1764586690</image>
@@ -20505,7 +20505,7 @@
     <tags>low_vat_rate</tags>
     <price>17.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>iodine-potassium-iodide-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/io6uk.webp?v=1765754334</image>
