@@ -727,14 +727,14 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MBL_27</sku>
-    <barcode>674306523787</barcode>
-    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
+    <sku>MBL_05</sku>
+    <barcode/>
+    <title>RestorFlora - 50 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
     <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>56.66</price>
+    <tags>low_vat_rate</tags>
+    <price>59.94</price>
     <compare_at_price/>
     <available>true</available>
     <quantity>0</quantity>
@@ -1060,6 +1060,26 @@
     <quantity>0</quantity>
     <handle>digestive-enzymes-with-betaine-hydrochloride-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE2013NRHEurope_DigestiveEnzymes100capsules_26df452c-1749-4543-a179-aa126c59ff74.png?v=1764586762</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>112.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>NUR_06</sku>
+    <barcode>628747602068</barcode>
+    <title>Liver - 90 Capsules | New Roots Herbal</title>
+    <vendor>New Roots Herbal</vendor>
+    <product_type/>
+    <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;New Roots' Liver supplement is a combination of 7 plant extracts that provide beneficial support to liver health and liver function.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;• Contains milk thistle to help protect the liver&lt;br data-mce-fragment=&quot;1&quot;&gt;• Supports liver detoxification&lt;br data-mce-fragment=&quot;1&quot;&gt;• Contains curcumin to help prevent liver toxicity&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to lowering levels of toxins&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to healthier skin&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to overall health&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;This formulation supports the liver and its function, offering a well-rounded plan for reconstruction, cleansing and detoxification. It provides protection for smokers and drinkers and people who live or work in highly polluted areas. It can enhance the liver’s ability to eliminate toxins, and contributes to healthier glowing skin.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Suggested use is 1-2 capsules 3 times daily.&lt;/p&gt;</description>
+    <tags>low_vat_rate</tags>
+    <price>82.83</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>liver-90-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0206NRHEurope_Liver90capsules_99c72bcb-ac1f-4668-9835-d2f35a293cb4.png?v=1764586346</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
@@ -5187,6 +5207,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>VTL_14</sku>
+    <barcode>693465301111</barcode>
+    <title>Calcium (Citrate &amp; Malate) 150mg - 100 Capsules | Vital Nutrients</title>
+    <vendor>Vital Nutrients</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Calcium (Citrate/Malate) by Vital Nutrients is a highly bioavailable source of calcium that is easy for the body to absorb and utilise. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Calcium is found in dairy products, green leafy vegetables and some fortified foods, such as plant based drinks. However, some people may have an additional need for calcium and may need to incease their intake through supplementation. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</description>
+    <tags>low_vat_rate</tags>
+    <price>29.42</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>calcium-citrate-malate-150mg-100-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14_22336d7f-2982-4634-a6ab-e8fc61dba826.png?v=1764586122</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>25.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>VTL_17</sku>
     <barcode>693465248119</barcode>
     <title>DGL Powder (Deglycyrrhizinated Licorice) - 120g | Vital Nutrients</title>
@@ -7090,7 +7130,7 @@
     <tags>low_vat_rate</tags>
     <price>60.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultra-pure-fish-oil-700-120-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_51_2badf336-7dfb-4e79-908e-69ac456d78a2.png?v=1764585593</image>
@@ -7893,7 +7933,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dan-shen-supreme-salvia-miltorrhiza-500mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_007-Dan-Shen-Supreme.png?v=1764586481</image>
@@ -10673,7 +10713,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>lipocalm-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_039-LipoCalm_d37f129c-4dc5-4a63-99d0-4e2d95fcf422.png?v=1764586863</image>
@@ -12514,6 +12554,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>NOW_33</sku>
+    <barcode>733739002259</barcode>
+    <title>Glycine Pure Powder - 454g | NOW Foods</title>
+    <vendor>NOW Foods</vendor>
+    <product_type/>
+    <description>&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Glycine is the smallest and simplest amino acid, making it versatile for use in a wide range of functions. Glycine is necessary for the production of glutathione, DNA, creatine, bile, haemoglobin, and most proteins.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;More information about this product&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/font&gt;&lt;/p&gt;</description>
+    <tags>low_vat_rate</tags>
+    <price>35.96</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>glycine-pure-powder-454g-now-foods</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/now_glycine_poeder_fa32a9a7-992b-49bf-aa16-1a68573e7bbe.jpg?v=1764586822</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>515.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>PUR_0034</sku>
     <barcode>766298018836</barcode>
     <title>L-Lysine - 90 Capsules | Pure Encapsulations</title>
@@ -12698,6 +12758,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>141.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>PUR_0113</sku>
+    <barcode>766298020440</barcode>
+    <title>Phyto-ADR - 60 Capsules | Pure Encapsulations</title>
+    <vendor>Pure Encapsulations</vendor>
+    <product_type/>
+    <description>&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Phyto-ADR is a plant-based formula featuring adaptogenic herbs including Rhodiola, Astragalus, Ashwagandha, Panax ginseng, and Siberian ginseng for broad-spectrum and synergistic support. Also features pantothenic acid (vitamin B5). Pantothenic acid contributes to normal synthesis and metabolism of steroid hormones, some neurotransmitters, and the reduction of tiredness and fatigue.&lt;/span&gt;</description>
+    <tags>low_vat_rate</tags>
+    <price>33.78</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>phyto-adr-60-capsules-pure-encapsulations</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0113-Phyto-ADR_148b35e8-4044-4d8b-b903-aa6b07f96be9.jpg?v=1764586195</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>85.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -17983,7 +18063,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>v-probiotics-30-suppository-capsules-vitanica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-06-04T171947.143.png?v=1764586178</image>
@@ -18965,7 +19045,7 @@
     <tags>low_vat_rate</tags>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-apple-peel-powder-layer-origin</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61my2Y9I5kL.webp?v=1781606125</image>
@@ -20039,99 +20119,21 @@
   <product>
     <sku>NUR_44</sku>
     <barcode>628747427128</barcode>
-    <title>OvaPress - 70g | New Roots Herbal</title>
+    <title>OvaPress - 202g | New Roots Herbal</title>
     <vendor>New Roots Herbal</vendor>
     <product_type/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;OvaPress&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt; &lt;/b&gt;is a food supplement based on myo- and chiro-inositol, acetyl L-carnitine, vitamin B12, folate and chromium.&lt;/span&gt;&lt;/p&gt;&lt;h4 data-start=&quot;289&quot; data-end=&quot;333&quot;&gt;&lt;strong data-start=&quot;294&quot; data-end=&quot;333&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Chromium (from chromium picolinate)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;ul data-start=&quot;334&quot; data-end=&quot;468&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;334&quot; data-end=&quot;393&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;336&quot; data-end=&quot;393&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Chromium contributes to normal macronutrient metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;394&quot; data-end=&quot;468&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;396&quot; data-end=&quot;468&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Chromium contributes to the maintenance of normal blood glucose levels&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/ul&gt;&lt;hr data-start=&quot;470&quot; data-end=&quot;473&quot;&gt;&lt;h4 data-start=&quot;475&quot; data-end=&quot;517&quot;&gt;&lt;strong data-start=&quot;480&quot; data-end=&quot;515&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate (calcium-L-methylfolate)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;ul data-start=&quot;518&quot; data-end=&quot;1170&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;518&quot; data-end=&quot;583&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;520&quot; data-end=&quot;583&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to maternal tissue growth during pregnancy&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;584&quot; data-end=&quot;637&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;586&quot; data-end=&quot;637&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal amino acid synthesis&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;638&quot; data-end=&quot;686&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;640&quot; data-end=&quot;686&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal blood formation&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;687&quot; data-end=&quot;743&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;689&quot; data-end=&quot;743&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal homocysteine metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;744&quot; data-end=&quot;799&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;746&quot; data-end=&quot;799&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal psychological function&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;800&quot; data-end=&quot;866&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;802&quot; data-end=&quot;866&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to the normal function of the immune system&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;867&quot; data-end=&quot;931&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;869&quot; data-end=&quot;931&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;932&quot; data-end=&quot;985&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;934&quot; data-end=&quot;985&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate has a role in the process of cell division&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;986&quot; data-end=&quot;1170&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;988&quot; data-end=&quot;1170&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Supplemental folic acid intake increases maternal folate status.&lt;/span&gt;&lt;br data-start=&quot;1052&quot; data-end=&quot;1055&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Low maternal folate status is a risk factor in the development of neural tube defects in the developing foetus.&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/ul&gt;&lt;hr data-start=&quot;1172&quot; data-end=&quot;1175&quot;&gt;&lt;h4 data-start=&quot;1177&quot; data-end=&quot;1215&quot;&gt;&lt;strong data-start=&quot;1182&quot; data-end=&quot;1215&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 (methylcobalamin)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;ul data-start=&quot;1216&quot; data-end=&quot;1629&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1216&quot; data-end=&quot;1296&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1218&quot; data-end=&quot;1296&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal functioning of the nervous &amp;amp; immune system&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1297&quot; data-end=&quot;1357&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1299&quot; data-end=&quot;1357&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal psychological function&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1358&quot; data-end=&quot;1437&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1360&quot; data-end=&quot;1437&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal energy‑yielding &amp;amp; homocysteine metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1438&quot; data-end=&quot;1500&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1440&quot; data-end=&quot;1500&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal red blood cell formation&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1501&quot; data-end=&quot;1570&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1503&quot; data-end=&quot;1570&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1571&quot; data-end=&quot;1629&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1573&quot; data-end=&quot;1629&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 has a role in the process of cell division&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/ul&gt;&lt;hr data-start=&quot;1631&quot; data-end=&quot;1634&quot;&gt;&lt;h4 data-start=&quot;1636&quot; data-end=&quot;1717&quot;&gt;&lt;strong data-start=&quot;1641&quot; data-end=&quot;1717&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Acetyl‑L‑carnitine hydrochloride (providing 212.5 mg acetyl‑L‑carnitine)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul data-start=&quot;1718&quot; data-end=&quot;1817&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1718&quot; data-end=&quot;1817&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1720&quot; data-end=&quot;1817&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;L‑Carnitine helps to reduce localized excess fat (Health claim ID 2843 pending European approval)&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;b&gt;*Disclaimer:&lt;span style=&quot;font-family: noto-sans;&quot;&gt; &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;OvaPress is a food supplement with myo-inositol, L-citrulline and acetyl-L-carnitine, combined with zinc, folate and chromium, in a powder to dissolve in water or juice.&lt;/p&gt;&lt;p&gt;Zinc contributes to normal fertility and reproduction, to normal carbohydrate metabolism and has a role in the process of cell division. Folate also has a role in the process of cell division. Chromium contributes to the maintenance of normal blood glucose levels.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>51.27</price>
     <compare_at_price/>
     <available>false</available>
     <quantity>0</quantity>
     <handle>ovapress-70g-new-roots-herbal</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T152159.905.webp?v=1764585738</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EFE2712-NewRootsEurope---OvaPress-202-g-_288-oz-jar-9.png?v=1792534852</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
-    <weight>70.0</weight>
+    <weight>202.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -22299,6 +22301,44 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>PUR_0202</sku>
+    <barcode>766298025490</barcode>
+    <title>Cranberry D-Mannose - Powder | Pure Encapsulations</title>
+    <vendor>Pure Encapsulations</vendor>
+    <product_type/>
+    <description>&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cranberry D-Mannose powder combines natural cranberry extract with D-Mannose as a drinking powder. D-Mannose is a simple sugar that is hardly metabolized by the body and is flushed out via the kidneys and bladder. In addition to the cranberry extract, which is valued for its flavonoids, the powder contains vitamin C and zinc. Vitamin C and zinc help protect cells from oxidative stress and ensure a strong immune system. This natural formula makes Cranberry D-Mannose very popular with women and ideal for short-term use.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal cognitive function&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to the maintenance of normal hair, skin, nails &amp;amp; bones&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal fertility and reproduction&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to the maintenance of normal vision&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal protein &amp;amp; DNA synthesis&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal metabolism of fatty acids &amp;amp; vitamin A&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal macronutrient, carbohydrate &amp;amp; acid-base metabolism&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc has a role in the process of cell division&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to maintain the normal function of the immune system during and after intense physical exercise&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal collagen formation for the normal function of blood vessels, bones, cartilage, skin, teeth &amp;amp; gums&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal energy-yielding metabolism&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal functioning of the nervous system&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal psychological function&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C increases iron absorption&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;*Disclaimer: &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>90.91</price>
+    <compare_at_price>59.94</compare_at_price>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>cranberry-d-mannose-pure-encapsulations</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CDM3A_1.png_20_281_29.webp?v=1771456801</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>37.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>BAG_03</sku>
     <barcode>8718564930757</barcode>
     <title>Pure&amp;Humic Liquid 500ml | BioAg</title>
@@ -22608,7 +22648,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nuaepa-1200-30-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/61B4LeNvOwL._AC_SY300_SX300_QL70_ML2.webp?v=1772752971</image>
@@ -22904,6 +22944,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>DFH_212</sku>
+    <barcode>879452008076</barcode>
+    <title>EssentiaGreens™ and Reds Strawberry Kiwi - (310g) powder | Designs For Health</title>
+    <vendor>Designs For Health</vendor>
+    <product_type/>
+    <description>Designs for Health EssentiaGreens™ and Reds is a delicious superfood blend of vegetables, fruits, and phytonutrients, developed to support daily nutritional status. Each scoop contains a concentrated combination of green plants, vegetables, fruits, and prebiotic plant fibers. The ingredients are harvested at the optimal time and protected from environmental influences to optimally preserve their natural phytonutrients. The powder mixes easily with water or other beverages and is suitable for daily use.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>64.23</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>essentia-greens-reds-strawberry-kiwi-310g-designs-for-health</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/https_3A_2F_2Fprodwelldium.blob.core.windows.net_2Fproduction_2Fproduct-images_2F0d82b3a5-0bdc-4847-e91d-08ddd1bfddb1_2F366355595c9261e754c64b3e539856365a9b2ae4-2000x2000.webp?v=1781043999</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>310.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>SH_187</sku>
     <barcode>810007520452</barcode>
     <title>DAO Enzyme (formerly Histamine Digest™) - 90 Capsules | Seeking Health</title>
@@ -23001,6 +23061,26 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>1000.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>DFH_214</sku>
+    <barcode>879452008359</barcode>
+    <title>Whole Body Trio™ – 30 Capsules | Designs for Health</title>
+    <vendor>Designs for Health</vendor>
+    <product_type/>
+    <description>Travel-friendly stick packs that make it easy to get your favorite ingredients without juggling multiple products. Whole Body Trio™ is ideal for health-conscious individuals who want comprehensive daily support to complement their nutritional routine. It is especially useful for active adults and those who don’t regularly consume creatine- or collagen-rich foods (e.g., red meat or bone broth). It comes in great-tasting stick packs that mix easily in water and contain zero grams of sugar.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>39.56</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>whole-body-trio-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/4f1833aa1a9d2b207932a44175f86649df1035f7-2000x2000.webp?v=1773964720</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>390.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -24151,7 +24231,7 @@
   </product>
   <product>
     <sku>SH_199</sku>
-    <barcode/>
+    <barcode>810007521886</barcode>
     <title>Kids Optimal Focus - 60 Chewable Tablets | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
