@@ -736,7 +736,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>restorflora-50-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084</image>
@@ -2280,7 +2280,7 @@
     <tags>low_vat_rate</tags>
     <price>85.01</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>thyroid-support-complex-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0045-Thyroid-Support-Complex-120s.jpg?v=1764586662</image>
@@ -10783,7 +10783,7 @@
     <tags>low_vat_rate</tags>
     <price>56.67</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>gi-detox-int-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GI_Detox-INT-s.png?v=1764585587</image>
@@ -11222,7 +11222,7 @@
     <tags/>
     <price>19.61</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>gutology-mineral-toothpaste-120ml-gutology</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ToothpasteProductCarousel_NEW_1_1000x1000_675cfaa5-5b6f-4220-96ff-20f5979585fd.webp?v=1764586632</image>
@@ -12476,7 +12476,7 @@
     <tags>low_vat_rate</tags>
     <price>39.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>berberine-advanced-60-capsules-super-botanic</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Berberine_2001_20_281_29.jpg?v=1764585850</image>
@@ -16438,26 +16438,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>LH_01</sku>
-    <barcode>869727000416</barcode>
-    <title>Lanto Sinus Probiotic Powder - 15G | Lanto Health</title>
-    <vendor>Lanto Health</vendor>
-    <product_type/>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Lanto Sinus Probiotic Powder is a probiotic supplement.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;WHAT IS THE SINUS MICROBIOME?&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The sinus microbiome is the community of microbes (bacteria,viruses, fungi) that live in the sinuses. The sinus microbialcommunity can become disrupted and imbalanced (dysbiosis)from illnesses, allergies, or antibiotics. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WHAT IS LACTOBACILLUS SAKEI?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lactobacillus sakei is a keystone bacteria found in thesinuses of healthy humans (those without sinusitis),but diminished or absent in those with chronic sinusitis. Introducing Lactobacillus sakei into the nose and mouth can multiply the population. Studies also find Lactobacillus sakei in the digestivesystem of healthy adults. Some foods naturally containLactobacillus sakei as well, including fermentedkimchi and sauerkraut.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Gluten Free • Dairy Free • Tree Nut Free • Peanut Free • Wheat Free • Non-GMO • Vegetarian • Corn Free&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>78.47</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>lanto-sinus-probiotic-powder-15g-lanto-health</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bath_20Bomb_20Lavender_20-_201_hu6sh8.png?v=1764586703</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>15.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>JER_002</sku>
     <barcode>5065003244061</barcode>
     <title>Biotic Energy - 150g | JERMS</title>
@@ -17091,7 +17071,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>paleo-protein-double-chocolate-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Double_20Chocolate_20-_2020_20ServingsAmy_20Myers_20MD_01.webp?v=1764586264</image>
