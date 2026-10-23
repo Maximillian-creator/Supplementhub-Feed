@@ -2464,7 +2464,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>quercetin-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0116-Quercetin_227300dd-d629-4bf7-acc9-29d61cbf1084.jpg?v=1764586570</image>
@@ -2524,7 +2524,7 @@
     <tags>low_vat_rate</tags>
     <price>21.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-15-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0121-Zinc-15-60s.jpg?v=1764586397</image>
@@ -5723,7 +5723,7 @@
     <tags>low_vat_rate</tags>
     <price>46.86</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-theanine-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_87_c59a6cab-5157-4796-b097-e521d9c44264.png?v=1764586382</image>
@@ -15681,7 +15681,7 @@
     <tags>low_vat_rate</tags>
     <price>82.28</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-2x-with-vitamin-2150mg-lemon-flavour-60-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Ultimate_20Omega_202X_202150mg_20_28Lemon_20Flavour_29_20-_2060_20Softgels_20_20Nordic_20Naturals_01.webp?v=1764585714</image>
