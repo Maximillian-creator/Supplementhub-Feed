@@ -166,7 +166,7 @@
     <barcode>603573384289</barcode>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Healthy Fiber Contains PHGG (Partially Hydrolysed Guar Gum), a prebiotic fibre. Easily mixes with drinks and can be added to foods.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Suggested use is 1 scoop (7.5 g) per day.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -1163,17 +1163,17 @@
   </product>
   <product>
     <handle>restorflora-50-capsules</handle>
-    <title>RestorFlora - 60 Capsules | Microbiome Labs</title>
+    <title>RestorFlora - 50 Capsules | Microbiome Labs</title>
     <vendor>Microbiome Labs</vendor>
     <product_type/>
-    <sku>MBL_27</sku>
-    <barcode>674306523787</barcode>
-    <price>56.66</price>
+    <sku>MBL_05</sku>
+    <barcode/>
+    <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
+    <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
@@ -1657,6 +1657,34 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE2013NRHEurope_DigestiveEnzymes100capsules_26df452c-1749-4543-a179-aa126c59ff74.png?v=1764586762</image_links>
+  </product>
+  <product>
+    <handle>liver-90-capsules</handle>
+    <title>Liver - 90 Capsules | New Roots Herbal</title>
+    <vendor>New Roots Herbal</vendor>
+    <product_type/>
+    <sku>NUR_06</sku>
+    <barcode>628747602068</barcode>
+    <price>82.83</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity/>
+    <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;New Roots' Liver supplement is a combination of 7 plant extracts that provide beneficial support to liver health and liver function.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;• Contains milk thistle to help protect the liver&lt;br data-mce-fragment=&quot;1&quot;&gt;• Supports liver detoxification&lt;br data-mce-fragment=&quot;1&quot;&gt;• Contains curcumin to help prevent liver toxicity&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to lowering levels of toxins&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to healthier skin&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to overall health&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;This formulation supports the liver and its function, offering a well-rounded plan for reconstruction, cleansing and detoxification. It provides protection for smokers and drinkers and people who live or work in highly polluted areas. It can enhance the liver’s ability to eliminate toxins, and contributes to healthier glowing skin.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Suggested use is 1-2 capsules 3 times daily.&lt;/p&gt;</description>
+    <tags>low_vat_rate</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>112.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0206NRHEurope_Liver90capsules_99c72bcb-ac1f-4668-9835-d2f35a293cb4.png?v=1764586346</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0206NRHEurope_Liver90capsules_99c72bcb-ac1f-4668-9835-d2f35a293cb4.png?v=1764586346</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0206NRHEurope_Liver90capsules_99c72bcb-ac1f-4668-9835-d2f35a293cb4.png?v=1764586346</image_links>
   </product>
   <product>
     <handle>menopeace-60-capsules</handle>
@@ -2790,7 +2818,7 @@
     <product_type/>
     <sku>PTCH_28</sku>
     <barcode>895606002110</barcode>
-    <price>12.82</price>
+    <price>25.64</price>
     <compare_at_price>28.33</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -2858,7 +2886,7 @@
     <product_type/>
     <sku>PTCH_31</sku>
     <barcode>895606002578</barcode>
-    <price>14.02</price>
+    <price>28.03</price>
     <compare_at_price>33.78</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -3307,7 +3335,7 @@
     <barcode>766298019017</barcode>
     <price>85.01</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; white-space-collapse: preserve;&quot;&gt;Thyroid Support Complex by Pure Encapsulations contains a comprehensive blend of vitamins, minerals and plant extracts. Suggested use is 2 capsules daily.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -3665,7 +3693,7 @@
     <barcode>766298020181</barcode>
     <price>21.79</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Zinc 15 by Pure Encapsulations provides 15mg of zinc picolinate in a chelated form, making it highly absorbable. Zinc is a mineral that is needed by many different systems in the body.&lt;/p&gt;&lt;p&gt;- Contributes to a healthy immune system&lt;/p&gt;&lt;p&gt;- May help to support fertility for both men and women&lt;/p&gt;&lt;p&gt;- Important for healthy hair, skin and nails&lt;/p&gt;&lt;p&gt;- May help to support normal cognitive function&lt;/p&gt;&lt;p&gt;- May support male health and virility by increasing testosterone levels&lt;/p&gt;&lt;p&gt;- Contributes to the normal production of DNA&lt;/p&gt;&lt;p&gt;Zinc is an important mineral for health. It works alongside vitamin C and D to support the immune system. It is needed by the brain for optimal brain function. Zinc may also be beneficial for fertility as one of its key roles is to help to replicate DNA to make new cells, helping to improve the quality of eggs and sperm. In men, it has also found to have a beneficial effect on testerone levels. It is also an important mineral for healthy and strong hair, skin and nails.&lt;/p&gt;&lt;p&gt;Suggested use is 1 capsule daily.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -4426,7 +4454,7 @@
     <barcode>810007520094</barcode>
     <price>20.15</price>
     <compare_at_price>25.60</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Adrenal Cortex by Seeking Health provides 50 mg of bovine adrenal cortex per capsule. The adrenal cortex tissue in this formula is freeze-dried to preserve biological activity and freshness. It is sourced from high-quality, free-range, synthetic hormone-free Argentinian cows.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -4733,7 +4761,7 @@
     <barcode>810007520469</barcode>
     <price>55.63</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;HistaminX by Seeking Health includes herbal and plant-derived compounds. The formula includes ingredients such a stinging nettle extract and quercetin.&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Stinging nettle contains minerals (iron) and reduces anaemia.&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 4497 pending European approval.&lt;/li&gt;
@@ -5707,7 +5735,7 @@
     <barcode>810007521299</barcode>
     <price>45.53</price>
     <compare_at_price>49.04</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong data-mce-fragment=&quot;1&quot;&gt;Optimal Vitamin C Plus by Seeking Health provides 2,600 mg of vitamin C in a great-tasting effervescent powder.&lt;/strong&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Vitamin C contributes to maintain the normal function of the immune system during and after intense physical exercise&lt;/font&gt;&lt;/li&gt;
@@ -6076,7 +6104,7 @@
     <barcode>810007527895</barcode>
     <price>51.22</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;ProBiota Woman is a specialised blend of 10 different types of probiotics in a prebiotic base.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;ProBiota Woman contains Lactobacillus and Bifidobacterium species. This formula also contains inulin, a prebiotic fibre sourced from chicory root.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -7882,6 +7910,40 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_12_c8462774-1c49-43a2-a8ec-7002d58db879.png?v=1764586123,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_12-1_73c3be85-e98e-41b0-a068-b37dcaa7bcd3.png?v=1764586123,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_12-2_54f41c14-b1fd-4801-ab67-65c1f1e73008.png?v=1764586123</image_links>
   </product>
   <product>
+    <handle>calcium-citrate-malate-150mg-100-capsules</handle>
+    <title>Calcium (Citrate &amp; Malate) 150mg - 100 Capsules | Vital Nutrients</title>
+    <vendor>Vital Nutrients</vendor>
+    <product_type/>
+    <sku>VTL_14</sku>
+    <barcode>693465301111</barcode>
+    <price>29.42</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity/>
+    <description>&lt;p&gt;Calcium (Citrate/Malate) by Vital Nutrients is a highly bioavailable source of calcium that is easy for the body to absorb and utilise. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Calcium is found in dairy products, green leafy vegetables and some fortified foods, such as plant based drinks. However, some people may have an additional need for calcium and may need to incease their intake through supplementation. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</description>
+    <tags>low_vat_rate</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>25.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14_22336d7f-2982-4634-a6ab-e8fc61dba826.png?v=1764586122</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14_22336d7f-2982-4634-a6ab-e8fc61dba826.png?v=1764586122</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14-1_afbc806e-ab0d-4958-b005-ac5330a780fb.png?v=1764586122</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14-2_8fed03ba-2b2b-4a94-9b0c-f9f19a7c0411.png?v=1764586122</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14_22336d7f-2982-4634-a6ab-e8fc61dba826.png?v=1764586122,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14-1_afbc806e-ab0d-4958-b005-ac5330a780fb.png?v=1764586122,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_14-2_8fed03ba-2b2b-4a94-9b0c-f9f19a7c0411.png?v=1764586122</image_links>
+  </product>
+  <product>
     <handle>dgl-powder-deglycyrrhizinated-licorice-120g</handle>
     <title>DGL Powder (Deglycyrrhizinated Licorice) - 120g | Vital Nutrients</title>
     <vendor>Vital Nutrients</vendor>
@@ -8737,7 +8799,7 @@
     <barcode>693465431115</barcode>
     <price>44.68</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Alpha Lipoic Acid contains the active form of this antioxidant. It also contains Cellulose, Vegetable Cellulose Capsule, Rice Powder, Leucine, and Silica. Suggested use is 2 capsules 1 to 2 times daily.&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -8864,7 +8926,7 @@
     <barcode>879452002913</barcode>
     <price>77.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Adrenotone™ is a comprehensive blend of nutrients and botanical compounds designed to support healthy adrenal function. These glands produce several hormones and neurotransmitters that help regulate energy levels and mood.&lt;/p&gt;&lt;p&gt;• Helps to support healthy cortisol metabolism&lt;/p&gt;&lt;p&gt;• Can contribute to healthier energy levels&lt;/p&gt;&lt;p&gt;• Contributes to better stress response&lt;/p&gt;&lt;p&gt;• Contributes to the synthesis of neurotransmitters dopamine, epinephrine and norepinephrine&lt;/p&gt;&lt;p&gt;• With liquorice to help cortisol stay in the bloodstream for longer, to support the adrenal glands&lt;/p&gt;&lt;p&gt;• Includes tyrosine which is an important building block for the thyroid hormones&lt;/p&gt;&lt;p&gt;Due to the fast pace and unrelenting demands of modern life, the adrenal glands are taxed with producing higher amounts of the stress hormones more frequently, but the glands can only keep up with this increased demand for so long before they begin to lag behind, eventually leading to poor adrenal response. Adrenotone™ can help the body manage this response.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -8895,7 +8957,7 @@
     <barcode>879452001442</barcode>
     <price>46.07</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Adrenotone™ is a comprehensive blend of nutrients and botanical compounds. &lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;Unfortunately this product is not available in the Netherlands, Spain, Sweden, Germany and Austria&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -8926,7 +8988,7 @@
     <barcode>879452000933</barcode>
     <price>62.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Thyroid Synergy™ is a unique formula specifically designed to offer nutritional support for healthy thyroid function and hormone balance. Essential vitamins, minerals and other nutrients work synergistically to provide a premium thyroid product.&lt;/p&gt;&lt;p&gt;• With selenium, to assist in the conversion of T4 to the more active T3&lt;/p&gt;&lt;p&gt;• Promotes the proper function of TSH, to stimulate the synthesis of thyroid hormones&lt;/p&gt;&lt;p&gt;• Contains potassium iodide, an essential component of thyroid hormones&lt;/p&gt;&lt;p&gt;• Includes tyrosine, the building block for the production of thyroid hormones&lt;/p&gt;&lt;p&gt;• Chromium, zinc and manganese support the thyroid gland&lt;/p&gt;&lt;p&gt;• American ginseng supports a normal response to stress&lt;/p&gt;&lt;p&gt;The thyroid needs supportive ingredients from food or supplements for it to function properly. The thyroid gland is responsible for regulating the body’s metabolic rate and energy production, which affects every tissue and cell in our body. The body relies on the thyroid gland for fat burning and sugar metabolism.&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;span lang=&quot;EN-GB&quot;&gt;Unfortunately this product is not available in the Netherlands, Spain, Sweden, Germany and Austria&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -9517,7 +9579,7 @@
     <barcode>7451254648242</barcode>
     <price>55.58</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Bio.Revive Digestive + is a digestive enzyme complex with fennel to support digestion&lt;/p&gt;&lt;p&gt;• Supports healthy digestion&lt;/p&gt;&lt;p&gt;• Contributes to better digestion of proteins, carbohydrates and fats&lt;/p&gt;&lt;p&gt;• Fennel seed helps calm digestion&lt;/p&gt;&lt;p&gt;• Can help relieve gas&lt;/p&gt;&lt;p&gt;• Can enhance nutrient absorption&lt;/p&gt;&lt;p&gt;• May reduce digestive bloating&lt;/p&gt;&lt;p&gt;Bio.Revive Digestive+ is a vegan-friendly digestive enzyme formula, to support the breakdown of fats, proteins, and carbohydrates in the gastrointestinal tract. This formula contains fennel seed, a botanical rich in fibre, that can help calm digestion by encouraging relaxation of smooth muscles and help reduce gas, bloating and stomach cramps.&lt;/p&gt;&lt;p&gt;Suggested use is 1-2 capsules with a meal up to 3 times a day.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -10848,7 +10910,7 @@
     <product_type/>
     <sku>VTL_50</sku>
     <barcode>693465435113</barcode>
-    <price>18.02</price>
+    <price>36.04</price>
     <compare_at_price>45.77</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -10890,7 +10952,7 @@
     <barcode>693465428115</barcode>
     <price>60.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Ultra Pure® Fish Oil 700 is obtained from sustainably sourced fish, and contains high concentrations of EPA and DHA.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Sustainably sourced high potency fish oil&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Pharmaceutical grade&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;
 &lt;div&gt;More information about this product&lt;/div&gt;
@@ -11615,7 +11677,7 @@
     <barcode>794504728439</barcode>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong&gt;Smilax Supreme™&lt;/strong&gt; is a food supplement containing sarsaparilla root from &lt;em&gt;Smilax&lt;/em&gt; species, a botanical used in traditional herbal preparations.&lt;/p&gt;&lt;p&gt;The root naturally contains saponins, plant sterols, and flavonoids characteristic of the plant. This capsule formulation presents sarsaparilla as a focused single-botanical ingredient.&lt;/p&gt;&lt;p&gt;This product is produced without unnecessary additives and is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>low_vat_rate, supreme_nutrition</tags>
@@ -12384,7 +12446,7 @@
     <barcode>899870002159</barcode>
     <price>124.25</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Biocidin® Liposomal Formula (Biocidin® LSF) contains the same potent, broad-spectrum botanical blend as Biocidin®, but in a liposomal formula using unique sunflower phospholipids for rapid, advanced absorption.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;- Pleasant taste which appeals to children and adults&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Biocidin® LSF provides Biocidin® and all its benefits, made even more bioavailable with fast delivery for whole-body action.&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -12415,7 +12477,7 @@
     <barcode>899870002012</barcode>
     <price>95.91</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Biocidin® is a potent, broad-spectrum formula with a signature blend of 18 botanical extracts and essential oils.&lt;/p&gt;&lt;p&gt;- Pleasant taste which appeals to children and adults&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -14724,7 +14786,7 @@
     <barcode>737870182795</barcode>
     <price>20.70</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Taurine - one of the most abundant intracellular amino acids in the body and is produced by the body itself. Produced from the amino acid L-cysteine, researchers have described it as “one of the most essential substances in the body.” &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;*More information about this product&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine.&lt;/div&gt;</description>
     <tags>low_vat_rate</tags>
@@ -14927,7 +14989,7 @@
     <barcode>768990017414</barcode>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span&gt;Making a baby is no small task, and odds are you're going to need nutritional reinforcement. The official omega-3 of the American Pregnancy Association, Prenatal DHA generously fulfils the recommended daily serving of omega-3 DHA for pregnant and lactating women, and includes 400 IU vitamin D3 for added immune support.* Available in strawberry and unflavored soft gels, as well as fish gelatin soft gels for moms with dietary restrictions.&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 14px; font-family: Figtree; font-weight: 400; line-height: 20px; letter-spacing: normal; color: rgb(27, 12, 49);&quot;&gt;
 &lt;li style=&quot;font-size: 14px; font-family: Figtree; font-weight: 400; line-height: 20px;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; style=&quot;font-size: 14px; font-family: Figtree; font-weight: 400; line-height: 20px;&quot;&gt;Vitamin D contributes to normal blood calcium levels&lt;/font&gt;&lt;/li&gt;
@@ -16313,7 +16375,7 @@
     <barcode>9798218111427</barcode>
     <price>10.89</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Overwhelmed with histamine intolerance or mast cell activation? There is a lot to know. The issue with histamine is that it’s extremely complex.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Dr. Lynch, and his research team, are unleashing a new piece to the Dirty Genes puzzle. Whether you read the original Dirty Genes or are just getting acquainted,&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;strong data-mce-fragment=&quot;1&quot;&gt;Dirty Genes: The Histamine Workbook&lt;span data-mce-fragment=&quot;1&quot;&gt; &lt;/span&gt;&lt;/strong&gt;will undoubtedly help you optimize your histamine levels, and your life.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Filled with resources which pinpoint your unique symptoms and triggers, you become an active participant rather than a passive reader. This is a self-empowering guide. No one knows your body like you do. With this handy workbook, you can finally identify, and manage, your histamine symptoms with confidence.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;strong&gt;Total Pages: 54&lt;/strong&gt;&lt;/p&gt;</description>
     <tags/>
@@ -16960,7 +17022,7 @@
     <barcode>796548915592</barcode>
     <price>19.61</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;strong data-mce-fragment=&quot;1&quot;&gt;Natural Hydroxyapatite Toothpaste with oral probiotics&lt;/strong&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;At Gutology they care about the microbiome, including the one in your mouth. So they've developed a probiotic toothpaste without nasty chemicals that effectively cleans your teeth and looks after your oral health.&lt;/p&gt;</description>
     <tags/>
@@ -18192,7 +18254,7 @@
     <product_type/>
     <sku>VITA_01</sku>
     <barcode>727156598662</barcode>
-    <price>7.31</price>
+    <price>14.63</price>
     <compare_at_price>15.82</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -18878,7 +18940,7 @@
     <barcode>5060855720091</barcode>
     <price>39.23</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;Berberine is one of the most effective natural supplements available.&lt;/div&gt;&lt;div&gt;We use GlucoVantage® - the first commercially available brand of Dihydroberberine (DHB), which is an active metabolite of berberine.&lt;/div&gt;&lt;div&gt;
 &lt;div&gt;Dihydroberberine is easily absorbed in the intestine and converted back into berberine, which then enters the bloodstream. This bypasses the low bioavailability issue of berberine, resulting in higher berberine levels in the plasma compared to directly taking berberine.&lt;/div&gt;
@@ -18927,7 +18989,7 @@
     <barcode>696859131097</barcode>
     <price>75.20</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Allithiamine contains a special form of vitamin B1 (Thiamine) and other nutritional co-factors that are naturally occurring in garlic. The unique advantage of TTFD is that this form crosses the blood-brain barrier where it stimulates energy synthesis. When we take in thiamine, occurring naturally in the diet, it is biologically inert. It must be “activated” within the body via genetically determined mechanisms for its absorption and subsequent activation.&lt;/p&gt;&lt;p&gt;Thiamine is of vast importance in oxidative metabolism in the complex mechanisms of energy production and excess dietary sugar is one factor that can overwhelm this process. The body has an innate capacity to heal but this requires optimal cellular energy. TTFD offers a unique approach to achieving optimal health.&lt;/p&gt;&lt;p&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;Allithiamine by Ecological Formulas is a dietary supplement designed to provide the body with sufficient amounts of thiamine, which is responsible for aiding in the transformation of proteins, fats, and carbohydrates from consumed foods into energy required by the body.*&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;This supplement helps to prevent thiamine deficiency that can develop when an individual's daily diet doesn't contain such foods naturally abundant in vitamin B1 such as whole grains, dried beans, peas, fish and lean meats.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Individuals who incorporate Allithiamine Vitamin B1 50 mg by Ecological Formulas into their daily dietary routine may receive a number of health support benefits:&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;
@@ -19017,6 +19079,37 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AYH_10-Ashwagandha-Kids_yxuwlq_8ca7dbf5-c3e9-45d4-a31e-9c16ba444acd.png?v=1764585579,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AYH_10-Ashwagandha-For-Kids-ING_b804fde7-79d8-48f0-a634-630854437dd6.jpg?v=1764585579</image_links>
+  </product>
+  <product>
+    <handle>glycine-pure-powder-454g-now-foods</handle>
+    <title>Glycine Pure Powder - 454g | NOW Foods</title>
+    <vendor>NOW Foods</vendor>
+    <product_type/>
+    <sku>NOW_33</sku>
+    <barcode>733739002259</barcode>
+    <price>35.96</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity/>
+    <description>&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Glycine is the smallest and simplest amino acid, making it versatile for use in a wide range of functions. Glycine is necessary for the production of glutathione, DNA, creatine, bile, haemoglobin, and most proteins.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;More information about this product&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/font&gt;&lt;/p&gt;</description>
+    <tags>low_vat_rate</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>515.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/now_glycine_poeder_fa32a9a7-992b-49bf-aa16-1a68573e7bbe.jpg?v=1764586822</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/now_glycine_poeder_fa32a9a7-992b-49bf-aa16-1a68573e7bbe.jpg?v=1764586822</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_33-Glycine-Powder_fm2qdk.png?v=1764586822</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/now_glycine_poeder_fa32a9a7-992b-49bf-aa16-1a68573e7bbe.jpg?v=1764586822,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_33-Glycine-Powder_fm2qdk.png?v=1764586822</image_links>
   </product>
   <product>
     <handle>l-lysine-90-capsules-pure-encapsulations</handle>
@@ -19278,6 +19371,37 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_005-Bitters-No9_aovvq4_36fc50d1-602a-4eea-a0e0-01f101e42d3b.png?v=1764586196,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_005-Bitters-No9_2_ce0e3a1c-ab8d-4a7f-ad13-571e7e60c965.jpg?v=1764586196,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_005-Bitters-No9-ING_3c1a34da-ea9f-4cc2-83ea-b602447b66eb.jpg?v=1764586196</image_links>
+  </product>
+  <product>
+    <handle>phyto-adr-60-capsules-pure-encapsulations</handle>
+    <title>Phyto-ADR - 60 Capsules | Pure Encapsulations</title>
+    <vendor>Pure Encapsulations</vendor>
+    <product_type/>
+    <sku>PUR_0113</sku>
+    <barcode>766298020440</barcode>
+    <price>33.78</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity/>
+    <description>&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Phyto-ADR is a plant-based formula featuring adaptogenic herbs including Rhodiola, Astragalus, Ashwagandha, Panax ginseng, and Siberian ginseng for broad-spectrum and synergistic support. Also features pantothenic acid (vitamin B5). Pantothenic acid contributes to normal synthesis and metabolism of steroid hormones, some neurotransmitters, and the reduction of tiredness and fatigue.&lt;/span&gt;</description>
+    <tags>low_vat_rate</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>85.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0113-Phyto-ADR_148b35e8-4044-4d8b-b903-aa6b07f96be9.jpg?v=1764586195</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0113-Phyto-ADR_148b35e8-4044-4d8b-b903-aa6b07f96be9.jpg?v=1764586195</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0113-Phyto-ADR-ING_86fa43e2-d787-4ad5-a401-fd688428c23c.png?v=1764586195</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0113-Phyto-ADR_148b35e8-4044-4d8b-b903-aa6b07f96be9.jpg?v=1764586195,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0113-Phyto-ADR-ING_86fa43e2-d787-4ad5-a401-fd688428c23c.png?v=1764586195</image_links>
   </product>
   <product>
     <handle>immunitone-plus-120-capsules-designs-for-health</handle>
@@ -20515,7 +20639,7 @@
     <barcode>8720648640124</barcode>
     <price>16.10</price>
     <compare_at_price>41.41</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Ultimate Omega Formula contains pure, unprocessed Calanus oil with a broad spectrum of marine fats, including omega-3 EPA &amp;amp; DHA and natural astaxanthin. Unique, highly stable, long-lasting new generation of omega-3 oil and much more. For brain, heart &amp;amp; vessels and eyes.\n\r\nFor whom is Ultimate Omega Formula interesting\r\n\r\nNoordCode Ultimate Omega Formula is an excellent choice if you can relate to this:\r\n\r\nBroad nutritional profile: For those who want to get all the good fats from the sea, including omega-3.\r\nBioavailable and effective: Ideal for those looking for an easily absorbable and effective omega-3 supplement.\r\nPure and unoxidised: For those who want to be sure of a pure, stable and undamaged omega-3 supplement.\r\nSustainable and renewable: For those who care about sustainability and protecting fish populations.\r\nStraight from nature: For those who want sea fats straight from the source, without tinkering or additives.\r\nWith astaxanthin: Perfect for those who want to take natural astaxanthin with their omega-3.\r\nNothing removed, nothing added\r\n\r\nUltimate Omega Formula contains nothing but pure Calanus oil. Nothing has been added to the oil and nothing has been removed. The oil is packaged in fish gelatine softgels for easy ingestion.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;&lt;b&gt;NoordCode Ultimate Omega Formula&lt;/b&gt; contains pure, unprocessed Calanus oil with a broad spectrum of marine fats, including omega-3 EPA &amp;amp; DHA and natural astaxanthin. Unique, highly stable, long-lasting new generation of omega-3 oil and much more. For brain, heart &amp;amp; vessels and eyes.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;h4 class=&quot;&quot;&gt;&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Ultimate Omega Formula contains pure, unprocessed Calanus oil with a broad spectrum of marine fats, including omega-3 EPA &amp;amp; DHA and natural astaxanthin. Unique, highly stable, long-lasting new generation of omega-3 oil and much more. For brain, heart &amp;amp; vessels and eyes.\n\r\nFor whom is Ultimate Omega Formula interesting\r\n\r\nNoordCode Ultimate Omega Formula is an excellent choice if you can relate to this:\r\n\r\nBroad nutritional profile: For those who want to get all the good fats from the sea, including omega-3.\r\nBioavailable and effective: Ideal for those looking for an easily absorbable and effective omega-3 supplement.\r\nPure and unoxidised: For those who want to be sure of a pure, stable and undamaged omega-3 supplement.\r\nSustainable and renewable: For those who care about sustainability and protecting fish populations.\r\nStraight from nature: For those who want sea fats straight from the source, without tinkering or additives.\r\nWith astaxanthin: Perfect for those who want to take natural astaxanthin with their omega-3.\r\nNothing removed, nothing added\r\n\r\nUltimate Omega Formula contains nothing but pure Calanus oil. Nothing has been added to the oil and nothing has been removed. The oil is packaged in fish gelatine softgels for easy ingestion.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;For whom is Ultimate Omega Formula interesting&lt;/span&gt;&lt;/h4&gt;&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Ultimate Omega Formula contains pure, unprocessed Calanus oil with a broad spectrum of marine fats, including omega-3 EPA &amp;amp; DHA and natural astaxanthin. Unique, highly stable, long-lasting new generation of omega-3 oil and much more. For brain, heart &amp;amp; vessels and eyes.\n\r\nFor whom is Ultimate Omega Formula interesting\r\n\r\nNoordCode Ultimate Omega Formula is an excellent choice if you can relate to this:\r\n\r\nBroad nutritional profile: For those who want to get all the good fats from the sea, including omega-3.\r\nBioavailable and effective: Ideal for those looking for an easily absorbable and effective omega-3 supplement.\r\nPure and unoxidised: For those who want to be sure of a pure, stable and undamaged omega-3 supplement.\r\nSustainable and renewable: For those who care about sustainability and protecting fish populations.\r\nStraight from nature: For those who want sea fats straight from the source, without tinkering or additives.\r\nWith astaxanthin: Perfect for those who want to take natural astaxanthin with their omega-3.\r\nNothing removed, nothing added\r\n\r\nUltimate Omega Formula contains nothing but pure Calanus oil. Nothing has been added to the oil and nothing has been removed. The oil is packaged in fish gelatine softgels for easy ingestion.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;&lt;br&gt;NoordCode Ultimate Omega Formula is an excellent choice if you can relate to this:&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Ultimate Omega Formula contains pure, unprocessed Calanus oil with a broad spectrum of marine fats, including omega-3 EPA &amp;amp; DHA and natural astaxanthin. Unique, highly stable, long-lasting new generation of omega-3 oil and much more. For brain, heart &amp;amp; vessels and eyes.\n\r\nFor whom is Ultimate Omega Formula interesting\r\n\r\nNoordCode Ultimate Omega Formula is an excellent choice if you can relate to this:\r\n\r\nBroad nutritional profile: For those who want to get all the good fats from the sea, including omega-3.\r\nBioavailable and effective: Ideal for those looking for an easily absorbable and effective omega-3 supplement.\r\nPure and unoxidised: For those who want to be sure of a pure, stable and undamaged omega-3 supplement.\r\nSustainable and renewable: For those who care about sustainability and protecting fish populations.\r\nStraight from nature: For those who want sea fats straight from the source, without tinkering or additives.\r\nWith astaxanthin: Perfect for those who want to take natural astaxanthin with their omega-3.\r\nNothing removed, nothing added\r\n\r\nUltimate Omega Formula contains nothing but pure Calanus oil. Nothing has been added to the oil and nothing has been removed. The oil is packaged in fish gelatine softgels for easy ingestion.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Ultimate Omega Formula contains pure, unprocessed Calanus oil with a broad spectrum of marine fats, including omega-3 EPA &amp;amp; DHA and natural astaxanthin. Unique, highly stable, long-lasting new generation of omega-3 oil and much more. For brain, heart &amp;amp; vessels and eyes.\n\r\nFor whom is Ultimate Omega Formula interesting\r\n\r\nNoordCode Ultimate Omega Formula is an excellent choice if you can relate to this:\r\n\r\nBroad nutritional profile: For those who want to get all the good fats from the sea, including omega-3.\r\nBioavailable and effective: Ideal for those looking for an easily absorbable and effective omega-3 supplement.\r\nPure and unoxidised: For those who want to be sure of a pure, stable and undamaged omega-3 supplement.\r\nSustainable and renewable: For those who care about sustainability and protecting fish populations.\r\nStraight from nature: For those who want sea fats straight from the source, without tinkering or additives.\r\nWith astaxanthin: Perfect for those who want to take natural astaxanthin with their omega-3.\r\nNothing removed, nothing added\r\n\r\nUltimate Omega Formula contains nothing but pure Calanus oil. Nothing has been added to the oil and nothing has been removed. The oil is packaged in fish gelatine softgels for easy ingestion.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;Broad nutritional profile: For those who want to get all the good fats from the sea, including omega-3.&lt;/span&gt;&lt;/li&gt;
@@ -22633,7 +22757,7 @@
     <product_type/>
     <sku>VTL_101</sku>
     <barcode>9506000116679</barcode>
-    <price>19.70</price>
+    <price>39.39</price>
     <compare_at_price>44.68</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -24365,7 +24489,7 @@
     <barcode>879452004511</barcode>
     <price>97.00</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;PurePaleo™ is a novel, great-tasting, dairy-free protein powder, yielding 21 g of protein per serving. It contains HydroBEEF™, a highly concentrated, bone broth protein isolate, produced through an exclusive proprietary process that allows the protein to be hydrolyzed into more peptides, resulting in easier absorption and assimilation. This product contains beef from animals raised in Sweden without hormones or antibiotics and is free of any GMO grains, grasses, and/or ensilage.&lt;/span&gt;&lt;br style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;PurePaleo™ is an ideal protein for those who: &lt;/span&gt;&lt;br style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• Want a true Paleo protein source &lt;/span&gt;&lt;br style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• Are dairy sensitive &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -24616,41 +24740,13 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Optimal_20Magnesium_20150mg_20-_2090_20_20capsules_20_20Seeking_20Health_01.webp?v=1764585922,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2875_29.png?v=1764585922,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MAGN-CAP_1_Info-Panel_R_73bda255-a7dc-41c8-a94e-9631d5cdb3d5.jpg?v=1764585922,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MAGN-CAP_1_Supp-Lbl_R_3ed0200a-d000-4bc9-ab3c-3976809acd82.jpg?v=1764585922,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MAGN-CAP_2_Supp-Panel_R_27f873fb-1602-4286-8464-9a002fa46f30.jpg?v=1764585922</image_links>
   </product>
   <product>
-    <handle>lanto-sinus-probiotic-powder-15g-lanto-health</handle>
-    <title>Lanto Sinus Probiotic Powder - 15G | Lanto Health</title>
-    <vendor>Lanto Health</vendor>
-    <product_type/>
-    <sku>LH_01</sku>
-    <barcode>869727000416</barcode>
-    <price>78.47</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Lanto Sinus Probiotic Powder is a probiotic supplement.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;WHAT IS THE SINUS MICROBIOME?&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;The sinus microbiome is the community of microbes (bacteria,viruses, fungi) that live in the sinuses. The sinus microbialcommunity can become disrupted and imbalanced (dysbiosis)from illnesses, allergies, or antibiotics. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WHAT IS LACTOBACILLUS SAKEI?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lactobacillus sakei is a keystone bacteria found in thesinuses of healthy humans (those without sinusitis),but diminished or absent in those with chronic sinusitis. Introducing Lactobacillus sakei into the nose and mouth can multiply the population. Studies also find Lactobacillus sakei in the digestivesystem of healthy adults. Some foods naturally containLactobacillus sakei as well, including fermentedkimchi and sauerkraut.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Gluten Free • Dairy Free • Tree Nut Free • Peanut Free • Wheat Free • Non-GMO • Vegetarian • Corn Free&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*Disclaimer:&lt;/b&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>15.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bath_20Bomb_20Lavender_20-_201_hu6sh8.png?v=1764586703</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bath_20Bomb_20Lavender_20-_201_hu6sh8.png?v=1764586703</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bath_20Bomb_20Lavender_20-_201_hu6sh8.png?v=1764586703</image_links>
-  </product>
-  <product>
     <handle>biotic-energy-150g-jerms</handle>
     <title>Biotic Energy - 150g | JERMS</title>
     <vendor>JERMS</vendor>
     <product_type/>
     <sku>JER_002</sku>
     <barcode>5065003244061</barcode>
-    <price>22.75</price>
+    <price>45.50</price>
     <compare_at_price>50.13</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -25536,7 +25632,7 @@
     <barcode>810014392257</barcode>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;strong data-start=&quot;1016&quot; data-end=&quot;1065&quot;&gt;The Myers Way® Double Chocolate Paleo Protein&lt;/strong&gt; is a clean, AIP-friendly protein powder with 21g of collagen-rich protein per serving. It supports gut health, lean muscle, and tissue repair—all with the rich taste of homemade brownie pie.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;
@@ -25687,7 +25783,7 @@
     <product_type/>
     <sku>AYH_13</sku>
     <barcode>891501001029</barcode>
-    <price>26.88</price>
+    <price>53.76</price>
     <compare_at_price>61.03</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -26107,7 +26203,7 @@
     <barcode>023542100410</barcode>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span style=&quot;font-family: noto-sans; font-size: 12px; white-space-collapse: preserve-breaks;&quot;&gt;Contains 600 mg of Aged Garlic Extract in two capsules (per serving). &lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: noto-sans; font-size: 12px; white-space-collapse: preserve-breaks;&quot;&gt;KYOLIC® Aged Garlic Extract™ begins with 100% organically grown garlic from California. It is then aged to perfection in a unique extraction process to eliminate odor and create beneficial compounds found only in Kyolic.&lt;/span&gt;&lt;/li&gt;
@@ -26925,7 +27021,7 @@
     <barcode>768990017940</barcode>
     <price>49.04</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;Nordic Naturals, Ultimate Omega-D3, 1280mg Omega-3 plus, 1000IU D3, lemon, 60 softgels.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: sans-serif;&quot;&gt;Ultimate Omega®-D3 combines healthy doses of two essential nutrients for optimal wellness, omega-3 EPA+DHA and vitamin D3, in a concentrated serving.*&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;1280 mg total omega-3s; 1000 IU Vitamin D3&lt;/li&gt;
@@ -27180,7 +27276,7 @@
     <barcode>693465552117</barcode>
     <price>27.17</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;font-family: sans-serif;&quot;&gt;Today’s active lifestyles and changing dietary practices often lead to nutrient deficiencies, lower energy levels, and poor health trajectories.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;font-family: sans-serif;&quot;&gt;The 2020 USDA Dietary Guidelines found on average 30% of the US population have nutrient intake gaps and are at risk of at least one vitamin or mineral deficiency.&lt;/span&gt;&lt;br data-mce-fragment=&quot;1&quot; style='box-sizing: inherit; border-width: 0px; border-style: solid; border-color: currentcolor; --tw-shadow: 0 0 rgba(0,0,0,0); --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59, 130, 246, .5); --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0); --tw-ring-shadow: 0 0 rgba(0,0,0,0); margin: 0px; padding: 0px; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 16px;'&gt;&lt;br data-mce-fragment=&quot;1&quot; style='box-sizing: inherit; border-width: 0px; border-style: solid; border-color: currentcolor; --tw-shadow: 0 0 rgba(0,0,0,0); --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59, 130, 246, .5); --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0); --tw-ring-shadow: 0 0 rgba(0,0,0,0); margin: 0px; padding: 0px; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 16px;'&gt;&lt;span style=&quot;box-sizing: inherit; border-width: 0px; border-style: solid; border-color: currentcolor; --tw-shadow: 0 0 rgba(0,0,0,0); --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59, 130, 246, .5); --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0); --tw-ring-shadow: 0 0 rgba(0,0,0,0); margin: 0px; padding: 0px; font-weight: bolder; font-family: sans-serif;&quot;&gt;Vital Nutrients Once Daily Multivitamin &lt;/span&gt;&lt;span style=&quot;font-family: sans-serif;&quot;&gt;is a clean and easy-to-take, one-per-day multivitamin specifically formulated to provide essential nutrients needed for a healthy lifestyle and help fill the nutrient gaps in the daily diet. Once Daily is a completely vegan formula, even including vegan vitamin D.&lt;/span&gt;&lt;br data-mce-fragment=&quot;1&quot; style='box-sizing: inherit; border-width: 0px; border-style: solid; border-color: currentcolor; --tw-shadow: 0 0 rgba(0,0,0,0); --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59, 130, 246, .5); --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0); --tw-ring-shadow: 0 0 rgba(0,0,0,0); margin: 0px; padding: 0px; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 16px;'&gt;&lt;br data-mce-fragment=&quot;1&quot; style='box-sizing: inherit; border-width: 0px; border-style: solid; border-color: currentcolor; --tw-shadow: 0 0 rgba(0,0,0,0); --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59, 130, 246, .5); --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0); --tw-ring-shadow: 0 0 rgba(0,0,0,0); margin: 0px; padding: 0px; font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 16px;'&gt;&lt;span style=&quot;font-family: sans-serif;&quot;&gt;This single-capsule serving is designed for overall wellness and contains 19 vitamins and minerals as well as additional nutrients for cellular energy, eye health, and antioxidant support for heart health.&lt;/span&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -27921,7 +28017,7 @@
     <barcode>8720648640469</barcode>
     <price>30.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;span style='font-family: NoordCode-Light, &quot;Trebuchet MS&quot;, Helvetica, sans-serif; font-size: 15px; word-spacing: 0.015px;'&gt;Performance Electrolytes Unflavoured contains magnesium, potassium and sodium from natural sources in bioavailable forms. Sugar free. The European alternative to LMNT. 200 g, 43 servings.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -28298,7 +28394,7 @@
     <barcode>850018148351</barcode>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;ul&gt;
 &lt;li style=&quot;box-sizing: inherit; margin-bottom: 0px; list-style: inherit;&quot;&gt;
@@ -28853,7 +28949,7 @@
     <barcode>5419980169303</barcode>
     <price>28.33</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;h2 class=&quot;&quot;&gt;Karmicare Biorhythmic Duo&lt;/h2&gt;&lt;h2 class=&quot;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/h2&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;An Advanced Oral Care System Aligned with Your Body’s Natural Rhythm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Discover the first toothpaste set designed to work in harmony with your biological clock. Karmicare Biorhythmic Duo isn’t just toothpaste – it’s a complete, scientifically grounded system for mindful oral care.&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h4 class=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Did you know your mouth has different needs at night than during the day? &lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;With two unique formulas for morning and evening, Karmicare supports not just your oral health, but also your daily performance, focus, and overnight recovery.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;The system is most effective when both formulas are used together — complementing each other in function, action, and timing, just like your body does.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Karmicare is a premium Belgian label specializing in functional, nootropic-based oral care. It’s trusted by orthomolecular doctors, athletes, and nutritionists — and embraced by a growing community looking for clean ingredients and a holistic approach to health.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h4 class=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Why Choose Karmicare?&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Oral care in sync with your natural biorhythm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Peace of mind – clean, effective formulas without compromise&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Enriched with nootropic extracts for focus &amp;amp; calm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Free from hormone-disrupting substances&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Leave-on technology for extended efficacy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Precision pump system – hygienic, elegant, and waste-free&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Formulated with bioactive minerals and natural ingredients&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h4 class=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Karmicare Technology&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Developed through the lens of Chronobiology and Certified Leave-On Formulation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        No rinsing needed — the formula continues working after brushing&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Xylitol helps inhibit harmful bacteria, supports the oral microbiome, and actively reduces plaque and acid formation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Reduces sensitivity by reinforcing and replenishing the tooth surface&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Intensive remineralization through targeted delivery of nano hydroxyapatite, penetrating deep into the enamel and dentin layers&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Supports natural enamel regeneration&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Deep-cleansing action helps prevent plaque buildup&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Leaves the tooth surface smooth and nourished&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Binds to enamel for long-lasting care&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        •        Hygienic pump delivers precise doses with no waste&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h4 class=&quot;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;How to Use&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        1.        Pre-rinse: Wet your mouth with water and rinse to remove loose debris.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        2.        Apply 2–4 pumps: 2 pumps provide essential minerals; 4 pumps create a richer foam and stronger taste.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        3.        Brush mindfully: Brush for at least 1–2 minutes using small, circular motions. Focus on one tooth at a time with gentle pressure.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;        4.        Do not rinse: Spit out but do not rinse. Leaving Karmicare in the mouth supports enamel remineralization, extends formula activity, and enhances nootropic absorption.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;✳ Do not combine with fluoride-based oral care products.&lt;/span&gt;&lt;/div&gt;</description>
     <tags/>
@@ -29814,7 +29910,7 @@
   </product>
   <product>
     <handle>ovapress-70g-new-roots-herbal</handle>
-    <title>OvaPress - 70g | New Roots Herbal</title>
+    <title>OvaPress - 202g | New Roots Herbal</title>
     <vendor>New Roots Herbal</vendor>
     <product_type/>
     <sku>NUR_44</sku>
@@ -29823,100 +29919,28 @@
     <compare_at_price/>
     <available>false</available>
     <quantity/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;OvaPress&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt; &lt;/b&gt;is a food supplement based on myo- and chiro-inositol, acetyl L-carnitine, vitamin B12, folate and chromium.&lt;/span&gt;&lt;/p&gt;&lt;h4 data-start=&quot;289&quot; data-end=&quot;333&quot;&gt;&lt;strong data-start=&quot;294&quot; data-end=&quot;333&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Chromium (from chromium picolinate)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;ul data-start=&quot;334&quot; data-end=&quot;468&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;334&quot; data-end=&quot;393&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;336&quot; data-end=&quot;393&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Chromium contributes to normal macronutrient metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;394&quot; data-end=&quot;468&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;396&quot; data-end=&quot;468&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Chromium contributes to the maintenance of normal blood glucose levels&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/ul&gt;&lt;hr data-start=&quot;470&quot; data-end=&quot;473&quot;&gt;&lt;h4 data-start=&quot;475&quot; data-end=&quot;517&quot;&gt;&lt;strong data-start=&quot;480&quot; data-end=&quot;515&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate (calcium-L-methylfolate)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;ul data-start=&quot;518&quot; data-end=&quot;1170&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;518&quot; data-end=&quot;583&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;520&quot; data-end=&quot;583&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to maternal tissue growth during pregnancy&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;584&quot; data-end=&quot;637&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;586&quot; data-end=&quot;637&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal amino acid synthesis&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;638&quot; data-end=&quot;686&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;640&quot; data-end=&quot;686&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal blood formation&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;687&quot; data-end=&quot;743&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;689&quot; data-end=&quot;743&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal homocysteine metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;744&quot; data-end=&quot;799&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;746&quot; data-end=&quot;799&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to normal psychological function&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;800&quot; data-end=&quot;866&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;802&quot; data-end=&quot;866&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to the normal function of the immune system&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;867&quot; data-end=&quot;931&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;869&quot; data-end=&quot;931&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;932&quot; data-end=&quot;985&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;934&quot; data-end=&quot;985&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Folate has a role in the process of cell division&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;986&quot; data-end=&quot;1170&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;988&quot; data-end=&quot;1170&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Supplemental folic acid intake increases maternal folate status.&lt;/span&gt;&lt;br data-start=&quot;1052&quot; data-end=&quot;1055&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Low maternal folate status is a risk factor in the development of neural tube defects in the developing foetus.&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/ul&gt;&lt;hr data-start=&quot;1172&quot; data-end=&quot;1175&quot;&gt;&lt;h4 data-start=&quot;1177&quot; data-end=&quot;1215&quot;&gt;&lt;strong data-start=&quot;1182&quot; data-end=&quot;1215&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 (methylcobalamin)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;ul data-start=&quot;1216&quot; data-end=&quot;1629&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1216&quot; data-end=&quot;1296&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1218&quot; data-end=&quot;1296&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal functioning of the nervous &amp;amp; immune system&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1297&quot; data-end=&quot;1357&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1299&quot; data-end=&quot;1357&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal psychological function&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1358&quot; data-end=&quot;1437&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1360&quot; data-end=&quot;1437&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal energy‑yielding &amp;amp; homocysteine metabolism&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1438&quot; data-end=&quot;1500&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1440&quot; data-end=&quot;1500&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to normal red blood cell formation&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1501&quot; data-end=&quot;1570&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1503&quot; data-end=&quot;1570&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1571&quot; data-end=&quot;1629&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1573&quot; data-end=&quot;1629&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Vitamin B12 has a role in the process of cell division&lt;/span&gt;&lt;/p&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/li&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;
-&lt;/ul&gt;&lt;hr data-start=&quot;1631&quot; data-end=&quot;1634&quot;&gt;&lt;h4 data-start=&quot;1636&quot; data-end=&quot;1717&quot;&gt;&lt;strong data-start=&quot;1641&quot; data-end=&quot;1717&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Acetyl‑L‑carnitine hydrochloride (providing 212.5 mg acetyl‑L‑carnitine)&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul data-start=&quot;1718&quot; data-end=&quot;1817&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;li data-start=&quot;1718&quot; data-end=&quot;1817&quot;&gt;
-&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;/span&gt;&lt;p data-start=&quot;1720&quot; data-end=&quot;1817&quot;&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;L‑Carnitine helps to reduce localized excess fat (Health claim ID 2843 pending European approval)&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;b&gt;*Disclaimer:&lt;span style=&quot;font-family: noto-sans;&quot;&gt; &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;OvaPress is a food supplement with myo-inositol, L-citrulline and acetyl-L-carnitine, combined with zinc, folate and chromium, in a powder to dissolve in water or juice.&lt;/p&gt;&lt;p&gt;Zinc contributes to normal fertility and reproduction, to normal carbohydrate metabolism and has a role in the process of cell division. Folate also has a role in the process of cell division. Chromium contributes to the maintenance of normal blood glucose levels.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
     <option1_name>Title</option1_name>
     <option2_name/>
     <variant_title>Default Title</variant_title>
-    <weight>70.0</weight>
+    <weight>202.0</weight>
     <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T152159.905.webp?v=1764585738</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EFE2712-NewRootsEurope---OvaPress-202-g-_288-oz-jar-9.png?v=1792534852</image>
     <images>
       <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T152159.905.webp?v=1764585738</src>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EFE2712-NewRootsEurope---OvaPress-202-g-_288-oz-jar-9.png?v=1792534852</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OvaPress-202g-jar.webp?v=1792534851</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OvaPress-202g-label.webp?v=1792534851</src>
       </image>
     </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-05T152159.905.webp?v=1764585738</image_links>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EFE2712-NewRootsEurope---OvaPress-202-g-_288-oz-jar-9.png?v=1792534852,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OvaPress-202g-jar.webp?v=1792534851,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OvaPress-202g-label.webp?v=1792534851</image_links>
   </product>
   <product>
     <handle>optimal-pc-90-softgels-seeking-health</handle>
@@ -29925,7 +29949,7 @@
     <product_type/>
     <sku>SH_185</sku>
     <barcode>810007521107</barcode>
-    <price>46.86</price>
+    <price>54.16</price>
     <compare_at_price>50.13</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -29977,7 +30001,7 @@
     <barcode>879452007307</barcode>
     <price>49.17</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;This formula contains a highly stable and bioavailable form of Creatine Monohydrate that is an amino acid.&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;&lt;font face=&quot;noto-sans&quot;&gt;Creatine increases physical performance in successive bursts of short-term, high intensity exercise&lt;/font&gt;&lt;/li&gt;
@@ -30252,7 +30276,7 @@
     <product_type/>
     <sku>SH_186</sku>
     <barcode>810007520445</barcode>
-    <price>55.52</price>
+    <price>56.51</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -30292,7 +30316,7 @@
     <product_type/>
     <sku>CA_011</sku>
     <barcode>850043333876</barcode>
-    <price>70.84</price>
+    <price>68.09</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -30382,7 +30406,7 @@
     <product_type/>
     <sku>BB_16</sku>
     <barcode>899870002333</barcode>
-    <price>66.48</price>
+    <price>61.08</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -30452,7 +30476,7 @@
     <barcode>766298020556</barcode>
     <price>17.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;Iodine (potassium iodide) provides nutritional iodine to help ensure adequate dietary intake, as part of a healthy diet. Potassium iodide is a more consistent and reliable form of iodine than seaweed and kelp. Each vegetarian capsule provides 225 ug of iodine for optimal nutritional intake.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Iodine contributes to normal cognitive function&lt;/li&gt;
@@ -30519,7 +30543,7 @@
     <product_type/>
     <sku>PUR_0196</sku>
     <barcode>766298020501</barcode>
-    <price>45.77</price>
+    <price>48.35</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -30553,7 +30577,7 @@
     <product_type/>
     <sku>PUR_0195</sku>
     <barcode>766298004662</barcode>
-    <price>31.60</price>
+    <price>26.91</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -30687,7 +30711,7 @@
     <product_type/>
     <sku>PUR_0193</sku>
     <barcode>766298020419</barcode>
-    <price>51.22</price>
+    <price>43.21</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -30718,7 +30742,7 @@
     <product_type/>
     <sku>PUR_0187</sku>
     <barcode>766298016307</barcode>
-    <price>46.31</price>
+    <price>41.29</price>
     <compare_at_price>45.77</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -30880,7 +30904,7 @@
     <product_type/>
     <sku>MET_011</sku>
     <barcode>5028392001127</barcode>
-    <price>33.43</price>
+    <price>40.98</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -30914,7 +30938,7 @@
     <product_type/>
     <sku>MET_002</sku>
     <barcode>5028392002902</barcode>
-    <price>56.49</price>
+    <price>63.30</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31147,7 +31171,7 @@
     <product_type/>
     <sku>MET_001</sku>
     <barcode>5028392002292</barcode>
-    <price>33.43</price>
+    <price>38.03</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31206,7 +31230,7 @@
     <product_type/>
     <sku>MET_008</sku>
     <barcode>5028392000021</barcode>
-    <price>61.92</price>
+    <price>72.23</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31278,7 +31302,7 @@
     <product_type/>
     <sku>MET_004</sku>
     <barcode>5028392000229</barcode>
-    <price>59.22</price>
+    <price>66.25</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31323,7 +31347,7 @@
     <product_type/>
     <sku>MET_017</sku>
     <barcode>5028392000373</barcode>
-    <price>34.79</price>
+    <price>39.48</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31492,7 +31516,7 @@
     <product_type/>
     <sku>MET_009</sku>
     <barcode>5028392002803</barcode>
-    <price>33.43</price>
+    <price>38.03</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31529,7 +31553,7 @@
     <product_type/>
     <sku>MET_019</sku>
     <barcode>5028392002834</barcode>
-    <price>93.13</price>
+    <price>101.93</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31840,7 +31864,7 @@
     <product_type/>
     <sku>MET_029</sku>
     <barcode>5400433372586</barcode>
-    <price>22.55</price>
+    <price>26.14</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -31921,7 +31945,7 @@
     <product_type/>
     <sku>MET_025</sku>
     <barcode>5028392002995</barcode>
-    <price>42.89</price>
+    <price>48.42</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -32211,7 +32235,7 @@
     <product_type/>
     <sku>MET_028</sku>
     <barcode>5028392003053</barcode>
-    <price>22.55</price>
+    <price>26.14</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -32445,7 +32469,7 @@
     <product_type/>
     <sku>MET_033</sku>
     <barcode>5028392001622</barcode>
-    <price>70.05</price>
+    <price>78.16</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -32569,7 +32593,7 @@
     <product_type/>
     <sku>MET_024</sku>
     <barcode>5028392002568</barcode>
-    <price>36.11</price>
+    <price>40.98</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -32790,7 +32814,7 @@
     <product_type/>
     <sku>SH_190</sku>
     <barcode>810007529257</barcode>
-    <price>52.32</price>
+    <price>56.46</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -32830,7 +32854,7 @@
     <product_type/>
     <sku>SH_191</sku>
     <barcode>810007529264</barcode>
-    <price>52.32</price>
+    <price>56.46</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -32933,6 +32957,55 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NoordCodeUltimateD3_K2bottle_2000x_crop_center_bb04785a-841b-4504-b15d-00b675a505d7.webp?v=1770678979,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NoordCodeUltimateD3_K2ingredients.webp?v=1770678979</image_links>
+  </product>
+  <product>
+    <handle>cranberry-d-mannose-pure-encapsulations</handle>
+    <title>Cranberry D-Mannose - Powder | Pure Encapsulations</title>
+    <vendor>Pure Encapsulations</vendor>
+    <product_type/>
+    <sku>PUR_0202</sku>
+    <barcode>766298025490</barcode>
+    <price>90.91</price>
+    <compare_at_price>59.94</compare_at_price>
+    <available>true</available>
+    <quantity/>
+    <description>&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Cranberry D-Mannose powder combines natural cranberry extract with D-Mannose as a drinking powder. D-Mannose is a simple sugar that is hardly metabolized by the body and is flushed out via the kidneys and bladder. In addition to the cranberry extract, which is valued for its flavonoids, the powder contains vitamin C and zinc. Vitamin C and zinc help protect cells from oxidative stress and ensure a strong immune system. This natural formula makes Cranberry D-Mannose very popular with women and ideal for short-term use.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal cognitive function&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to the maintenance of normal hair, skin, nails &amp;amp; bones&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal fertility and reproduction&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to the maintenance of normal vision&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal protein &amp;amp; DNA synthesis&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal metabolism of fatty acids &amp;amp; vitamin A&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc contributes to normal macronutrient, carbohydrate &amp;amp; acid-base metabolism&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zinc has a role in the process of cell division&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to maintain the normal function of the immune system during and after intense physical exercise&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal collagen formation for the normal function of blood vessels, bones, cartilage, skin, teeth &amp;amp; gums&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal energy-yielding metabolism&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal functioning of the nervous system&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to normal psychological function&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to the reduction of tiredness and fatigue&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin C increases iron absorption&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;*Disclaimer: &lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>37.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CDM3A_1.png_20_281_29.webp?v=1771456801</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CDM3A_1.png_20_281_29.webp?v=1771456801</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CDM3A_3.png_20_281_29.webp?v=1771456801</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CDM3A_1.png_20_281_29.webp?v=1771456801,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CDM3A_3.png_20_281_29.webp?v=1771456801</image_links>
   </product>
   <product>
     <handle>pure-humic-500ml-uk</handle>
@@ -33372,7 +33445,7 @@
     <barcode>8437009953303</barcode>
     <price>33.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;177&quot;&gt;NuaEPA® 1200 is a food supplement providing a highly concentrated source of omega-3 fatty acids, with eicosapentaenoic acid (EPA) as the main component, in softgel capsule form.&lt;/p&gt;&lt;p data-start=&quot;179&quot; data-end=&quot;417&quot;&gt;Each softgel contains a high proportion of omega-3 fatty acids (approximately 93%), of which more than 90% is EPA, derived from marine fish oil. The formulation is designed to deliver omega-3 in a concentrated and consistent daily format.&lt;/p&gt;&lt;p data-start=&quot;419&quot; data-end=&quot;585&quot;&gt;The oil is presented in a purified form and includes added vitamin E, which is commonly used in oil-based formulations to help maintain stability and product quality.&lt;/p&gt;&lt;p data-start=&quot;587&quot; data-end=&quot;787&quot;&gt;Omega-3 fatty acids such as EPA and DHA are often included in dietary patterns where intake of oily fish or marine-derived nutrients may be limited. The softgel format allows for convenient daily use.&lt;/p&gt;&lt;p data-start=&quot;789&quot; data-end=&quot;1232&quot;&gt;EPA and DHA contribute to the normal function of the heart. This beneficial effect is obtained with a daily intake of 250 mg of EPA and DHA. EPA and DHA contribute to the maintenance of normal blood pressure. This beneficial effect is obtained with a daily intake of 3 g of EPA and DHA. EPA and DHA contribute to the maintenance of normal blood triglyceride levels. This beneficial effect is obtained with a daily intake of 2 g of EPA and DHA.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -33795,6 +33868,37 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2e31d04fe8cf89d27114b94f623942034ebd8387-2000x2000.webp?v=1773185098</image_links>
   </product>
   <product>
+    <handle>essentia-greens-reds-strawberry-kiwi-310g-designs-for-health</handle>
+    <title>EssentiaGreens™ and Reds Strawberry Kiwi - (310g) powder | Designs For Health</title>
+    <vendor>Designs For Health</vendor>
+    <product_type/>
+    <sku>DFH_212</sku>
+    <barcode>879452008076</barcode>
+    <price>64.23</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity/>
+    <description>Designs for Health EssentiaGreens™ and Reds is a delicious superfood blend of vegetables, fruits, and phytonutrients, developed to support daily nutritional status. Each scoop contains a concentrated combination of green plants, vegetables, fruits, and prebiotic plant fibers. The ingredients are harvested at the optimal time and protected from environmental influences to optimally preserve their natural phytonutrients. The powder mixes easily with water or other beverages and is suitable for daily use.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>310.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/https_3A_2F_2Fprodwelldium.blob.core.windows.net_2Fproduction_2Fproduct-images_2F0d82b3a5-0bdc-4847-e91d-08ddd1bfddb1_2F366355595c9261e754c64b3e539856365a9b2ae4-2000x2000.webp?v=1781043999</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/https_3A_2F_2Fprodwelldium.blob.core.windows.net_2Fproduction_2Fproduct-images_2F0d82b3a5-0bdc-4847-e91d-08ddd1bfddb1_2F366355595c9261e754c64b3e539856365a9b2ae4-2000x2000.webp?v=1781043999</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/https_3A_2F_2Fprodwelldium.blob.core.windows.net_2Fproduction_2Fproduct-images_2F0d82b3a5-0bdc-4847-e91d-08ddd1bfddb1_2Fac38bd3a70a0f6972167a55320f9f9363c8693c6-1500x1732_847a6342-d3c.webp?v=1781043999</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/https_3A_2F_2Fprodwelldium.blob.core.windows.net_2Fproduction_2Fproduct-images_2F0d82b3a5-0bdc-4847-e91d-08ddd1bfddb1_2F366355595c9261e754c64b3e539856365a9b2ae4-2000x2000.webp?v=1781043999,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/https_3A_2F_2Fprodwelldium.blob.core.windows.net_2Fproduction_2Fproduct-images_2F0d82b3a5-0bdc-4847-e91d-08ddd1bfddb1_2Fac38bd3a70a0f6972167a55320f9f9363c8693c6-1500x1732_847a6342-d3c.webp?v=1781043999</image_links>
+  </product>
+  <product>
     <handle>dao-enzyme-formerly-histamine-digest™-90-capsules-seeking-health</handle>
     <title>DAO Enzyme (formerly Histamine Digest™) - 90 Capsules | Seeking Health</title>
     <vendor>Seeking Health</vendor>
@@ -33945,6 +34049,37 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71xpXZaxWCL._AC_UF1000_2C1000_QL80.webp?v=1773359637</image_links>
+  </product>
+  <product>
+    <handle>whole-body-trio-capsules</handle>
+    <title>Whole Body Trio™ – 30 Capsules | Designs for Health</title>
+    <vendor>Designs for Health</vendor>
+    <product_type/>
+    <sku>DFH_214</sku>
+    <barcode>879452008359</barcode>
+    <price>39.56</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity/>
+    <description>Travel-friendly stick packs that make it easy to get your favorite ingredients without juggling multiple products. Whole Body Trio™ is ideal for health-conscious individuals who want comprehensive daily support to complement their nutritional routine. It is especially useful for active adults and those who don’t regularly consume creatine- or collagen-rich foods (e.g., red meat or bone broth). It comes in great-tasting stick packs that mix easily in water and contain zero grams of sugar.</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight>390.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/4f1833aa1a9d2b207932a44175f86649df1035f7-2000x2000.webp?v=1773964720</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/4f1833aa1a9d2b207932a44175f86649df1035f7-2000x2000.webp?v=1773964720</src>
+      </image>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/a13832a88ce7fe9c951c9a1cec3bf1e0f49ad2e6-1500x2975.webp?v=1781044150</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/4f1833aa1a9d2b207932a44175f86649df1035f7-2000x2000.webp?v=1773964720,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/a13832a88ce7fe9c951c9a1cec3bf1e0f49ad2e6-1500x2975.webp?v=1781044150</image_links>
   </product>
   <product>
     <handle>creatine-monohydrate-powder-2lb</handle>
@@ -34397,7 +34532,7 @@
     <product_type/>
     <sku>IT_57</sku>
     <barcode>871791002364</barcode>
-    <price>54.79</price>
+    <price>59.15</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34459,7 +34594,7 @@
     <product_type/>
     <sku>IT_68</sku>
     <barcode>871791004085</barcode>
-    <price>18.03</price>
+    <price>19.09</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34521,7 +34656,7 @@
     <product_type/>
     <sku>IT_63</sku>
     <barcode>871791706576</barcode>
-    <price>58.04</price>
+    <price>62.69</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34583,7 +34718,7 @@
     <product_type/>
     <sku>IT_56</sku>
     <barcode>871791003354</barcode>
-    <price>20.27</price>
+    <price>21.54</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34614,7 +34749,7 @@
     <product_type/>
     <sku>IT_52</sku>
     <barcode>871791001565</barcode>
-    <price>28.05</price>
+    <price>29.99</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34738,7 +34873,7 @@
     <product_type/>
     <sku>IT_66</sku>
     <barcode>871791004245</barcode>
-    <price>35.02</price>
+    <price>37.59</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34769,7 +34904,7 @@
     <product_type/>
     <sku>IT_55</sku>
     <barcode>871791110410</barcode>
-    <price>48.37</price>
+    <price>52.15</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34800,7 +34935,7 @@
     <product_type/>
     <sku>IT_61</sku>
     <barcode>871791000445</barcode>
-    <price>81.62</price>
+    <price>88.39</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34918,7 +35053,7 @@
     <product_type/>
     <sku>MET_043</sku>
     <barcode>5028392001462</barcode>
-    <price>80.93</price>
+    <price>90.06</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -34977,7 +35112,7 @@
     <product_type/>
     <sku>MET_046</sku>
     <barcode>5028392002179</barcode>
-    <price>56.49</price>
+    <price>66.25</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -35064,7 +35199,7 @@
     <product_type/>
     <sku>MET_058</sku>
     <barcode>5028392002278</barcode>
-    <price>110.86</price>
+    <price>98.84</price>
     <compare_at_price>99.94</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -35120,7 +35255,7 @@
     <product_type/>
     <sku>MET_039</sku>
     <barcode>5028392002612</barcode>
-    <price>52.41</price>
+    <price>58.84</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -35148,7 +35283,7 @@
     <product_type/>
     <sku>MET_050</sku>
     <barcode>5028392002780</barcode>
-    <price>48.34</price>
+    <price>54.38</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -35347,7 +35482,7 @@
     <product_type/>
     <sku>MET_034</sku>
     <barcode>5400433363256</barcode>
-    <price>33.55</price>
+    <price>14.97</price>
     <compare_at_price>29.34</compare_at_price>
     <available>true</available>
     <quantity/>
@@ -35444,7 +35579,7 @@
     <product_type/>
     <sku>MET_056</sku>
     <barcode>5028392000137</barcode>
-    <price>59.22</price>
+    <price>67.75</price>
     <compare_at_price/>
     <available>false</available>
     <quantity/>
@@ -35472,7 +35607,7 @@
     <product_type/>
     <sku>MET_047</sku>
     <barcode>5028392001974</barcode>
-    <price>57.86</price>
+    <price>66.25</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -35618,7 +35753,7 @@
     <product_type/>
     <sku>MET_049</sku>
     <barcode>5028392001998</barcode>
-    <price>61.92</price>
+    <price>69.23</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -35701,7 +35836,7 @@
     <vendor>Seeking Health</vendor>
     <product_type/>
     <sku>SH_199</sku>
-    <barcode/>
+    <barcode>810007521886</barcode>
     <price>46.36</price>
     <compare_at_price/>
     <available>false</available>
@@ -35891,7 +36026,7 @@
     <product_type/>
     <sku>LCN_007</sku>
     <barcode>8437011281180</barcode>
-    <price>39.23</price>
+    <price>39.99</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -35975,7 +36110,7 @@
     <product_type/>
     <sku>LCN_015</sku>
     <barcode>8437011281227</barcode>
-    <price>54.49</price>
+    <price>55.45</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -36143,7 +36278,7 @@
     <product_type/>
     <sku>LCN_001</sku>
     <barcode>8437011281104</barcode>
-    <price>18.52</price>
+    <price>18.45</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -36298,7 +36433,7 @@
     <product_type/>
     <sku>PRO_003</sku>
     <barcode>8437007026115</barcode>
-    <price>43.59</price>
+    <price>37.71</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -36494,7 +36629,7 @@
     <product_type/>
     <sku>PRO_011</sku>
     <barcode>8437007026528</barcode>
-    <price>140.60</price>
+    <price>137.34</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -36522,7 +36657,7 @@
     <product_type/>
     <sku>PRO_009</sku>
     <barcode>8437007026580</barcode>
-    <price>87.19</price>
+    <price>69.47</price>
     <compare_at_price/>
     <available>true</available>
     <quantity/>
@@ -36570,5 +36705,61 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PuroEPA120softgelPuroOmega_01.webp?v=1790030076</image_links>
+  </product>
+  <product>
+    <handle>preconception-and-pregnancy-nutrition-protocol</handle>
+    <title>Preconception and Pregnancy Nutrition Protocol</title>
+    <vendor>Supplement Hub Global</vendor>
+    <product_type/>
+    <sku/>
+    <barcode/>
+    <price>132.40</price>
+    <compare_at_price>147.12</compare_at_price>
+    <available>true</available>
+    <quantity/>
+    <description/>
+    <tags/>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight/>
+    <weight_unit>POUNDS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Preconception_Pregnancy_Nutrition_Protocol_1200x400_d3fe7692-8e07-463b-90f3-3db358e7b497.png?v=1790861262</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Preconception_Pregnancy_Nutrition_Protocol_1200x400_d3fe7692-8e07-463b-90f3-3db358e7b497.png?v=1790861262</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Preconception_Pregnancy_Nutrition_Protocol_1200x400_d3fe7692-8e07-463b-90f3-3db358e7b497.png?v=1790861262</image_links>
+  </product>
+  <product>
+    <handle>energy-vitality-protocol</handle>
+    <title>Energy &amp; Vitality Protocol</title>
+    <vendor>Supplement Hub Global</vendor>
+    <product_type/>
+    <sku/>
+    <barcode/>
+    <price>49.39</price>
+    <compare_at_price>53.39</compare_at_price>
+    <available>true</available>
+    <quantity/>
+    <description/>
+    <tags/>
+    <option1>Default Title</option1>
+    <option2/>
+    <option1_name>Title</option1_name>
+    <option2_name/>
+    <variant_title>Default Title</variant_title>
+    <weight/>
+    <weight_unit>POUNDS</weight_unit>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Energy_Vitality_Protocol_1200x400_28fcfd92-6d9d-4706-990a-21186c9320de.png?v=1790861228</image>
+    <images>
+      <image>
+        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Energy_Vitality_Protocol_1200x400_28fcfd92-6d9d-4706-990a-21186c9320de.png?v=1790861228</src>
+      </image>
+    </images>
+    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Energy_Vitality_Protocol_1200x400_28fcfd92-6d9d-4706-990a-21186c9320de.png?v=1790861228</image_links>
   </product>
 </products>
