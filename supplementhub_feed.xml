@@ -3825,7 +3825,7 @@
     <title>Optimal Zinc - 60 Lozenges | Seeking Health</title>
     <vendor>Seeking Health</vendor>
     <product_type/>
-    <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Zinc Lozenge by Seeking Health provides 15 mg of *TRAACS® zinc bisglycinate chelate in an easy-to-use lozenge form. Zinc is an important nutrient that supports many aspects of health.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Provides zinc in a gentle chelated form for optimal absorption&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Supports immune health&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- Supports healthy eyes and skin&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- May help to support normal growth and development&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- May be beneficial for men and women wanting to conceive&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;- May help to speed up wound repair&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Zinc Lozenge uses TRAACS® Zinc Bisglycinate Chelate which is a gentle, well-tolerated form of zinc. For greater dosage control, the tablets can be broken into smaller pieces. Does not include any artificial sweeteners or colours and uses only xylitol and natural flavours.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;* TRAACS is a registered trademark of Albion International Inc.&lt;/p&gt;</description>
+    <description>&lt;p&gt;Zinc Lozenge by Seeking Health provides 15 mg of TRAACS® zinc bisglycinate chelate in an easy-to-use lozenge format.&lt;/p&gt;&lt;p&gt;Zinc is an essential mineral that contributes to the process of cell division, the normal function of the immune system and normal protein synthesis. One lozenge provides 150% of the Nutrient Reference Value for zinc.&lt;/p&gt;&lt;p&gt;Zinc Lozenge uses TRAACS® Zinc Bisglycinate Chelate, a gentle, well-tolerated form of zinc. Each lozenge can be easily broken into smaller pieces for greater dosage control. Sweetened with xylitol and flavoured with natural flavourings, with no added colours.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
     <price>22.58</price>
     <compare_at_price>23.97</compare_at_price>
@@ -6959,7 +6959,7 @@
   <product>
     <sku>TSR_13</sku>
     <barcode>818795020185</barcode>
-    <title>CoQ10 Pro - 60 Capsules | Tesseract</title>
+    <title>CoQ10 Pro - 300mg 60 Capsules | Tesseract</title>
     <vendor>Tesseract</vendor>
     <product_type/>
     <description>&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;CoQ10 Pro™ from Tesseract is formulated with a proprietary Cyloc technology for improved absorption. &lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine.&lt;/p&gt;</description>
@@ -7650,7 +7650,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>scutellaria-supreme-chinses-skullcap-435mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_023-Scutellaria-Supreme.png?v=1764586298</image>
@@ -7933,7 +7933,7 @@
     <tags>low_vat_rate, supreme_nutrition</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dan-shen-supreme-salvia-miltorrhiza-500mg-90-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/SN_007-Dan-Shen-Supreme.png?v=1764586481</image>
@@ -13423,7 +13423,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>immune-rmor-90-capsules-vervita</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1024x1024AllProductImages_16_5000x_bc851945-9706-4cb1-a004-8891363d8e17.webp?v=1764586097</image>
@@ -16555,7 +16555,7 @@
     <tags>low_vat_rate</tags>
     <price>29.84</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bio-me-prebio-phgg-150g-tin-invivo-healthcare</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Bio.Me_20Prebio_20PHGG_20150g_20Tin_20_20Invivo_20Healthcare_01.webp?v=1764586606</image>
@@ -18043,7 +18043,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>v-probiotics-30-suppository-capsules-vitanica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-06-04T171947.143.png?v=1764586178</image>
@@ -21343,7 +21343,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>48.44</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>digestive-enzymes-hcl-complex</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Saw_Palmetto__2B_Stinging_Nettle_Complex_60_WEB.webp?v=1768433209</image>
