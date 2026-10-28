@@ -6939,7 +6939,7 @@
   <product>
     <sku>TSR_10</sku>
     <barcode>818795020079</barcode>
-    <title>SafeCell - 60 Capsules | Tesseract</title>
+    <title>SafeCell -S-Acetyl-Glutathione 300mg 60 Capsules | Tesseract</title>
     <vendor>Tesseract</vendor>
     <product_type/>
     <description>&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;SafeCell® contains S-Acetyl-Glutathione, the primary antioxidant in the body. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;This formula contains contains a form of glutathione with demonstrated optimal absorption. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
@@ -19424,7 +19424,7 @@
     <tags/>
     <price>28.33</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>armicare-biorhythmic-duo-toothpaste-system-nano-hydroxyapatite-xylitol-leave-on-day-night-formulas-2x32ml-karmicare</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NORD_02-02_90ba518f-e984-48b2-9dd7-f1c9a9a0d4fa.webp?v=1764586604</image>
@@ -22688,7 +22688,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>88.28</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nuaepa-1200-90-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/nuaepa-1200-30caps.webp?v=1772752871</image>
@@ -22953,7 +22953,7 @@
     <tags>low_vat_rate</tags>
     <price>107.83</price>
     <compare_at_price>125.88</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dao-enzyme-formerly-histamine-digest™-90-capsules-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HISTA-90-CAP_FrontPanel_REV042125.webp?v=1776118995</image>
@@ -24250,6 +24250,26 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
+    <sku>PHY_001</sku>
+    <barcode>6150550946939</barcode>
+    <title>PhycoPrime Pure - 60 capsules | PhycoPrime</title>
+    <vendor>PURE</vendor>
+    <product_type/>
+    <description>&lt;p&gt;PhycoPrime Pure is a concentrated phycocyanin extract from Arthrospira platensis (spirulina), produced using the Phyco-Lyo® cold-extraction and freeze-drying process without chemical solvents.&lt;/p&gt;&lt;p&gt;Phycocyanin is the naturally occurring blue pigment found in spirulina. PhycoPrime Pure provides a concentrated source of this pigment compared to standard spirulina powder, in a format that allows for flexible, adjustable daily intake.&lt;/p&gt;&lt;p&gt;PhycoPrime Pure is supplied in a vegetarian capsule, and is free from preservatives, chemical solvents and unnecessary additives.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>99.29</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>phycoprime-pure-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/phycoprime_pure.jpg?v=1787869204</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>100.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
     <sku>LCN_012</sku>
     <barcode>8437011281128</barcode>
     <title>InmunoRespir - 90 Capsules | LCN</title>
@@ -24888,5 +24908,445 @@
     <option2/>
     <weight/>
     <weight_unit>POUNDS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_021</sku>
+    <barcode>5033290763305</barcode>
+    <title>Evening Primrose Oil 30 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Evening Primrose Oil is a high-potency source of omega-6 fatty acids, providing 1000mg of pure evening primrose oil per capsule, equivalent to 90mg of gamma-linolenic acid (GLA), with added vitamin E.&lt;/p&gt;&lt;p&gt;Vitamin E contributes to the protection of cells from oxidative stress and supports the stability of the oil within the capsule.&lt;/p&gt;&lt;p&gt;Gamma-linolenic acid is an omega-6 fatty acid found naturally in evening primrose seed oil.&lt;/p&gt;&lt;p&gt;Evening Primrose Oil is formulated without unnecessary additives or common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;&lt;p&gt;Evening primrose oil can contribute to maintaining healthy dermal and connective tissue.* &lt;br&gt;&lt;small&gt;*Health claim pending European authorisation (ID 1550).&lt;/small&gt;&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>14.68</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>evening-primrose-oil-30-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_evening_primrose_oil_web.webp?v=1793173032</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>138.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_013</sku>
+    <barcode>5033290115609</barcode>
+    <title>Collagen Complex 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Complete Collagen Powder combines bioactive collagen peptides (VERISOL®), eggshell membrane (Ovomet®) — a source of collagen types I, V and X, and elastin — silica from bamboo extract, and vitamin C.&lt;/p&gt;&lt;p&gt;Vitamin C contributes to normal collagen formation for the normal function of bones, teeth, cartilage, gums, skin and blood vessels. Vitamin C also contributes to normal immune function, to the reduction of tiredness and fatigue, and to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Collagen is a structural protein found throughout the body's connective tissue, including skin, tendons, ligaments and bone. Elastin is a protein found in the extracellular matrix of connective tissue, alongside collagen.&lt;/p&gt;&lt;p&gt;Complete Collagen Powder is a tasteless powder that mixes easily into food or hot and cold drinks, and is formulated without unnecessary additives. Each pack provides approximately 30 days' supply at 3g per day, in recyclable packaging.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>49.85</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>collagen-complex-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_collagen_complex_web.webp?v=1793173060</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>167.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_016</sku>
+    <barcode>5033290510602</barcode>
+    <title>Thyroid Complex 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Thyroid Complex combines iodine, selenium and B vitamins with tyrosine, zinc and N-acetyl cysteine.&lt;/p&gt;&lt;p&gt;Iodine and selenium contribute to normal thyroid function. Vitamin B2 and niacin (B3) contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Selenium also contributes to the protection of cells from oxidative stress and to normal immune function. Zinc contributes to normal DNA synthesis and normal immune function. Vitamin C contributes to normal immune function and to normal collagen formation. Vitamin A contributes to normal vision and normal immune function. Vitamin B1 contributes to normal nervous system function.&lt;/p&gt;&lt;p&gt;Tyrosine is an amino acid used by the thyroid gland as a building block for thyroid hormone production. N-acetyl cysteine is a derivative of the amino acid cysteine.&lt;/p&gt;&lt;p&gt;Thyroid Complex is formulated without unnecessary additives or common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>30.60</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>thyroid-complex-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_thyroid_complex_web.webp?v=1793173156</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>120.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_009</sku>
+    <barcode>5033290261900</barcode>
+    <title>Magnesium Malate 90 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Magnesium Malate is a complex of magnesium and malic acid, providing a well‑absorbed form of magnesium.&lt;/p&gt;&lt;p&gt;Each daily dose provides 117mg of magnesium, from magnesium malate. Magnesium contributes to normal energy-yielding metabolism, normal muscle function, normal psychological function, the reduction of tiredness and fatigue, and the maintenance of normal bones and teeth.&lt;/p&gt;&lt;p&gt;Malic acid is naturally found in food and plays a role in energy metabolism.&lt;/p&gt;&lt;p&gt;Magnesium Malate is formulated without unnecessary additives and is free from common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>24.46</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>magnesium-malate-90-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_magnesium_malate_web.webp?v=1793173180</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>133.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_022</sku>
+    <barcode>5033290120900</barcode>
+    <title>Magnesium Powder 90g | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Magnesium Powder is an easy-to-use complex of magnesium malate and citrate, providing 200mg of magnesium per daily dose.&lt;/p&gt;&lt;p&gt;Magnesium contributes to normal energy-yielding metabolism, normal muscle function, normal psychological function, the reduction of tiredness and fatigue, and the maintenance of normal bones and muscle function.&lt;/p&gt;&lt;p&gt;Malic acid and citric acid are naturally found in food and the body, and play a role in energy metabolism.&lt;/p&gt;&lt;p&gt;Magnesium Powder mixes easily into water or juice, offering an alternative to tablets or capsules. It is formulated without unnecessary additives or common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>25.70</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>magnesium-powder-90g</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_magnesium_powder_web.webp?v=1793173254</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>233.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_017</sku>
+    <barcode>5033290256159</barcode>
+    <title>Nutrisorb® Vitamin B12 15ml | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Nutrisorb Vitamin B12 is a liquid vitamin B12 formula in a simple purified water base, providing 50µg of vitamin B12 as hydroxycobalamin per daily intake.&lt;/p&gt;&lt;p&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue, to the normal function of the immune system, and to the normal functioning of the nervous system.&lt;/p&gt;&lt;p&gt;Taken as drops under the tongue or mixed into liquids, Nutrisorb Vitamin B12 offers an alternative to tablets or capsules.&lt;/p&gt;&lt;p&gt;Nutrisorb Vitamin B12 is formulated without unnecessary additives or common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>19.04</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>nutrisorb-vitamin-b12-15ml</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_vitamin_b12_web.webp?v=1793173291</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>57.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_012</sku>
+    <barcode>5033290220150</barcode>
+    <title>Nutrisorb Zinc Complex - 150ml | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Nutrisorb Zinc Complex is a high-potency liquid zinc formula, combining zinc methionine and zinc gluconate in a simple purified water base, providing 15mg of zinc per daily intake.&lt;/p&gt;&lt;p&gt;Zinc contributes to the normal function of the immune system, to normal cognitive function, to normal fertility and reproduction, and to the maintenance of normal skin, hair and nails. Zinc also contributes to normal DNA synthesis, to normal macronutrient metabolism, and to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Methionine, one of the zinc forms used, is a precursor to S-adenosylmethionine (SAMe), a compound involved in the body's methyl-donor processes.&lt;/p&gt;&lt;p&gt;Taken as drops or mixed into liquids, Nutrisorb Zinc Complex offers an alternative to tablets or capsules. It is free from unnecessary additives and common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>28.17</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>nutrisorb-zinc-complex-150ml</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_zinc_complex_web.webp?v=1793173319</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>274.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_011</sku>
+    <barcode>5033290629908</barcode>
+    <title>Polyzyme 90 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Polyzyme is an enzyme complex providing 13 distinct enzymes in a single capsule, taken with each main meal.&lt;/p&gt;&lt;p&gt;Proteases break down proteins into smaller peptides and amino acids; protease 3.0 has an acidic pH optimum, and protease 4.5 a less acidic pH optimum. Lipase breaks down fats into fatty acids and glycerol. Amylase, diastase and glucoamylase break down starches into sugars. Lactase breaks down lactose, the sugar found in dairy products. Invertase breaks down sucrose. Cellulase and xylanase break down components of plant fibre. Alpha galactosidase breaks down galacto-oligosaccharides found in legumes. Phytase breaks down phytic acid, found in grains, nuts, seeds and legumes. Bromelain is a proteolytic enzyme derived from pineapple.&lt;/p&gt;&lt;p&gt;Polyzyme is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>62.49</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>polyzyme-90-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_polyzyme_web.webp?v=1793173338</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>189.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_005</sku>
+    <barcode>5033290339159</barcode>
+    <title>Nutrisorb®  Methyl B Complex 15ml | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Nutrisorb Methyl B Complex is a liquid B vitamin formula in a simple, purified water base, providing folate as methylfolate and vitamin B12 as methylcobalamin.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, vitamin B6, folate, vitamin B12 and pantothenic acid contribute to normal energy-yielding metabolism and to the normal function of the nervous system. Niacin, vitamin B6, folate and vitamin B12 contribute to normal psychological function. Vitamin B6 and pantothenic acid contribute to the regulation of hormonal activity. Folate and vitamin B12 contribute to normal blood formation and normal homocysteine metabolism, and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Taken as drops under the tongue or mixed into a drink, it offers an alternative to tablets or capsules. Nutrisorb Methyl B Complex is free from unnecessary additives and common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>22.19</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>nutrisorb-methyl-b-complex-15ml</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_methyl_b_complex_web.webp?v=1793173359</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>57.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_007</sku>
+    <barcode>5033290797607</barcode>
+    <title>Methyl Multinutrient 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Methyl Multinutrient is a high-potency multivitamin and mineral formula, with the dose split across two vegetable capsules. Folate is provided as methylfolate, vitamin B12 as methylcobalamin, and vitamin D3 as a vegan form derived from lichen.&lt;/p&gt;&lt;p&gt;Vitamin B6, B12 and folate contribute to normal homocysteine metabolism and to the normal function of the immune system. Vitamin B6, folate and vitamin B12 also contribute to normal psychological function and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, pantothenic acid and biotin contribute to normal energy-yielding metabolism, as do magnesium and iron, which also contribute to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Zinc contributes to normal fertility and reproduction. Vitamin C, vitamin D3, vitamin A, copper, zinc and selenium contribute to normal immune function. Vitamin C, vitamin E, zinc, copper, manganese and selenium contribute to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function, and vitamin D3 and vitamin K2 contribute to the maintenance of normal bones.&lt;/p&gt;&lt;p&gt;Methyl Multinutrient is formulated without unnecessary additives or common allergens, and all ingredients are vegan.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;&lt;p&gt;Grapeseed extract is associated with circulatory health through antioxidant action.* &lt;br&gt;&lt;small&gt;*Health claim pending European authorisation.&lt;/small&gt;&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>51.03</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>methyl-multinutrient-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_methyl_multinutrient_web.webp?v=1793173432</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>192.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_004</sku>
+    <barcode>5033290312602</barcode>
+    <title>Methyl Pregnancy Multinutrient - 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Methyl Pregnancy Multinutrient is a high-potency multivitamin and mineral formula for conception, pregnancy and breastfeeding, with the dose split across two vegetable capsules.&lt;/p&gt;&lt;p&gt;Folate is provided as methylfolate, vitamin B12 as methylcobalamin, and vitamin D3 as a vegan form derived from lichen.&lt;/p&gt;&lt;p&gt;Folate contributes to normal maternal tissue growth during pregnancy, to normal blood formation, and to normal homocysteine metabolism. Zinc contributes to normal fertility and reproduction. Vitamin B6 contributes to the regulation of hormonal activity. Iron contributes to normal formation of red blood cells and haemoglobin, and to the reduction of tiredness and fatigue. Vitamin D3 contributes to the normal function of the immune system and to the maintenance of normal bones, teeth and muscle function. Vitamin C contributes to normal immune function and to normal collagen formation. Iodine contributes to normal thyroid function and normal cognitive function.&lt;/p&gt;&lt;p&gt;Methyl Pregnancy Multinutrient is formulated without unnecessary additives or common allergens, and all ingredients are vegan.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>35.08</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>methyl-pregnancy-multinutrient-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_methyl_pregnancy_multinutrient_web.webp?v=1793173508</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>196.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_019</sku>
+    <barcode>5033290246907</barcode>
+    <title>Female Multinutrient 90 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Female Multinutrient is a high-potency multivitamin and mineral formula for women's health, with the dose split across three vegetable capsules. Folate is provided as methylfolate and vitamin B12 as methylcobalamin.&lt;/p&gt;&lt;p&gt;Vitamin B6 contributes to the regulation of hormonal activity and to normal psychological function. Zinc contributes to normal fertility and reproduction and to the maintenance of normal skin, hair and nails. Iron contributes to normal formation of red blood cells and haemoglobin, and to normal cognitive function. Vitamin B1, B2, niacin, vitamin B6, folate, vitamin B12, pantothenic acid and biotin contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Vitamin D3 contributes to normal immune function and to the maintenance of normal bones. Vitamin C, zinc and selenium contribute to normal immune function and to the protection of cells from oxidative stress. Magnesium contributes to the maintenance of normal bones and to normal muscle function.&lt;/p&gt;&lt;p&gt;Green tea extract is included as a 10:1 extract, equivalent to 200mg of green tea. Rosemary extract is included as a 10:1 extract, equivalent to 50mg of rosemary, standardised botanicals traditionally used in European herbal practice.&lt;/p&gt;&lt;p&gt;Female Multinutrient is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>51.64</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>female-multinutrient-90-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_female_multinutrient_web.webp?v=1793173558</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>200.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_010</sku>
+    <barcode>5033290513603</barcode>
+    <title>Vitamin C Powder 60g | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Vitamin C Powder is a high-potency, low-acid form of vitamin C in a convenient powder format, providing over 1600mg of vitamin C per daily dose as magnesium ascorbate.&lt;/p&gt;&lt;p&gt;Vitamin C contributes to the normal function of the immune system, to the reduction of tiredness and fatigue, and to normal collagen formation for the normal function of the skin.&lt;/p&gt;&lt;p&gt;Magnesium ascorbate is a lower-acid form of vitamin C compared to ascorbic acid, making it gentler on the stomach. The powder is produced using a solvent-free freeze-dried method and mixes easily into liquids — an alternative to tablets or capsules.&lt;/p&gt;&lt;p&gt;Vitamin C Powder is formulated without unnecessary additives or common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>20.75</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>vitamin-c-powder-60g</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_vitamin_c_powder_web.webp?v=1793173586</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>185.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_001</sku>
+    <barcode>5033290260903</barcode>
+    <title>Quercetin Complex 90 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Quercetin Complex brings together four well‑studied nutrients — quercetin, bromelain, nettle leaf extract and vitamin C — in a single daily formula.&lt;/p&gt;&lt;p&gt;Each daily dose provides 900mg of quercetin, a flavonoid compound sourced from Sophora japonica flower. The formula is completed with 90mg of vitamin C, which contributes to the normal function of the immune system and to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Quercetin Complex is formulated without unnecessary additives and is free from common allergens in its core formulation. It's supplied in a vegetable capsule, making the product suitable for both vegetarians and vegans.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years, and this product reflects that same approach: named nutrients, stated doses, and no filler ingredients.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>50.99</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>quercetin-complex-90-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_quercetin_web.webp?v=1793173636</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>235.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_023</sku>
+    <barcode>5033290180157</barcode>
+    <title>Nutrisorb® Iron 15ml | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Nutrisorb Iron is a liquid iron formula in a simple purified water base, providing 7mg of iron as ferrous gluconate per 10-drop daily intake.&lt;/p&gt;&lt;p&gt;Iron contributes to normal red blood cell and haemoglobin formation, to normal oxygen transport in the body, to normal energy-yielding metabolism, to normal cognitive function, to normal immune function, and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Ferrous gluconate is an organic iron form, which some individuals find better tolerated than inorganic iron salts.&lt;/p&gt;&lt;p&gt;Taken as drops under the tongue or mixed into liquids, Nutrisorb Iron offers an alternative to tablets or capsules. It is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>22.19</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>nutrisorb-iron-15ml</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_iron_web.webp?v=1793173688</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>57.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_008</sku>
+    <barcode>5033290311902</barcode>
+    <title>Slippery Elm Complex 90 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Slippery Elm Complex is a botanical complex combining slippery elm, marshmallow root and gamma oryzanol.&lt;/p&gt;&lt;p&gt;Slippery elm (&lt;em&gt;Ulmus fulva&lt;/em&gt;) inner bark provides mucilage to coat and support the digestive tract.* Marshmallow root (&lt;em&gt;Althaea officinalis&lt;/em&gt;), provided as a 4:1 extract equivalent to 450mg of marshmallow root, helps to support the digestion and is soothing for the mouth and throat.** Gamma oryzanol is a component derived from rice bran (&lt;em&gt;Oryza sativa&lt;/em&gt;).&lt;/p&gt;&lt;p&gt;Slippery Elm Complex is supplied in easy-to-swallow vegetable capsules and is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;&lt;p&gt;&lt;small&gt;*Health claim pending European authorisation (ID 3890).&lt;br&gt;**Health claim pending European authorisation (ID 3722 / 3723).&lt;/small&gt;&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>26.12</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>slippery-elm-complex-90-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_slippery_elm_complex_web.webp?v=1793173703</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>220.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_002</sku>
+    <barcode>5033290183608</barcode>
+    <title>Magnesium Taurate 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Magnesium Taurate is a complex of magnesium and taurine, providing a well‑absorbed form of magnesium.&lt;/p&gt;&lt;p&gt;Each daily dose provides 146mg of magnesium, from magnesium taurate. Magnesium contributes to normal psychological function, to normal muscle function (including the heart muscle), and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Taurine is a conditionally‑essential amino acid, naturally found in high concentrations in the heart muscle, retina, bile, and nervous tissue.&lt;/p&gt;&lt;p&gt;Magnesium Taurate is formulated without unnecessary additives and is supplied in a vegetable capsule, making it suitable for both vegetarians and vegans.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>28.36</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>magnesium-taurate-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_magnesium_taurate_web.webp?v=1793173717</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>179.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_006</sku>
+    <barcode>5033290803902</barcode>
+    <title>Mega EPA 90 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Mega EPA is a pure fish oil capsule providing 524mg EPA and 375mg DHA per daily intake, from a natural triglyceride fish oil.&lt;/p&gt;&lt;p&gt;DHA and EPA contribute to normal heart function at a daily intake of 250mg DHA and EPA. DHA also contributes to the maintenance of normal brain function and vision at a daily intake of 250mg DHA.&lt;/p&gt;&lt;p&gt;Mega EPA is made using small fish — sardines, anchovies and mackerel — sourced low down the food chain to minimise pollutant exposure, from fisheries certified by Friends of the Sea. Natural mixed tocopherols (vitamin E) are added, which contribute to the protection of cells from oxidative stress and help maintain the oil's stability. Sweet orange oil is included to avoid a fishy aftertaste.&lt;/p&gt;&lt;p&gt;Mega EPA is free from bovine gelatin and unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>45.52</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>mega-epa-90-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_mega_epa_90_web.webp?v=1793173761</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>319.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_003</sku>
+    <barcode>5033290356606</barcode>
+    <title>Methyl B Complex 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Methyl B Complex is a high-potency B vitamin formula providing the metabolically active forms of key B vitamins, including folate as methylfolate, vitamin B12 as methylcobalamin and adenosylcobalamin, and vitamin B6 as pyridoxal-5-phosphate.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, pantothenic acid, biotin and vitamin B12 contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Niacin, vitamin B6, folate and vitamin B12 contribute to normal psychological function. Vitamin B6, folate and vitamin B12 also contribute to normal homocysteine metabolism, and vitamin B12 and folate contribute to normal blood formation.&lt;/p&gt;&lt;p&gt;Vitamin B6 contributes to the regulation of hormonal activity, and pantothenic acid contributes to normal synthesis of steroid hormones.&lt;/p&gt;&lt;p&gt;Methyl B Complex is supplied in easy-to-swallow vegetable capsules and is free from yeast and unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>27.78</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>methyl-b-complex-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_methyl_b_complex_web.webp?v=1793173774</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>119.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_018</sku>
+    <barcode>5033290247607</barcode>
+    <title>Male Multinutrient 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Male Multinutrient is a high-potency multivitamin and mineral formula for men's health.&lt;/p&gt;&lt;p&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood and to normal fertility and reproduction. Vitamin B1 contributes to normal heart function. Vitamin B1, B2, niacin, vitamin B6, folate, vitamin B12, pantothenic acid and biotin contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Selenium, zinc and copper contribute to normal immune function and to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function.&lt;/p&gt;&lt;p&gt;Nettle root is included as a 4:1 extract, equivalent to 100mg of nettle root. CoEnzyme Q10 occurs naturally in the body, including the heart, liver, kidneys and muscle. Lycopene is a carotenoid, provided here from tomato extract.&lt;/p&gt;&lt;p&gt;Male Multinutrient is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>56.24</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>male-multinutrient-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_male_multinutrient_web.webp?v=1793173828</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>189.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_015</sku>
+    <barcode>5033290004705</barcode>
+    <title>Magnesium Glycinate 60 Capsules | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Magnesium Glycinate is a complex of magnesium and glycine, providing 200mg of magnesium per daily dose from 100% pure magnesium glycinate.&lt;/p&gt;&lt;p&gt;Magnesium contributes to the normal functioning of the nervous system and to normal psychological function.&lt;/p&gt;&lt;p&gt;Glycine is an amino acid involved in a number of processes in the body, including nervous system function.&lt;/p&gt;&lt;p&gt;Magnesium Glycinate is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>29.63</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>magnesium-glycinate-60-capsules</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_magnesium_glycinate_web.webp?v=1793173862</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>184.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>BCARE_014</sku>
+    <barcode>5033290342159</barcode>
+    <title>Nutrisorb®  Methyl B12 15ml | BioCare</title>
+    <vendor>BioCare</vendor>
+    <product_type/>
+    <description>&lt;p&gt;BioCare Nutrisorb Methyl B12 is a liquid vitamin B12 formula in a simple purified water base, providing 500µg of vitamin B12 as methylcobalamin and adenosylcobalamin per daily intake.&lt;/p&gt;&lt;p&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue, to the normal function of the nervous system, and to normal homocysteine metabolism.&lt;/p&gt;&lt;p&gt;Taken as drops under the tongue or mixed into liquids, Nutrisorb Methyl B12 offers an alternative to tablets or capsules.&lt;/p&gt;&lt;p&gt;Nutrisorb Methyl B12 is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>28.75</price>
+    <compare_at_price/>
+    <available>false</available>
+    <quantity>0</quantity>
+    <handle>nutrisorb-methyl-b12-15ml</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_methyl_b12_web.webp?v=1793173901</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>57.0</weight>
+    <weight_unit>GRAMS</weight_unit>
   </product>
 </products>
