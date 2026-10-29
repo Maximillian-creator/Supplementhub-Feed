@@ -1404,7 +1404,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>iron-plus-topical-patch-30-day-supply-30-patches</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Copy_20of_20IRP-004_20UK_20PMD_20Iron_20Oct_202025-2_20_281_29.webp?v=1768000833</image>
@@ -4887,7 +4887,7 @@
     <tags>low_vat_rate</tags>
     <price>33.78</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>slow-flow-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Slow-Flow-front_11352026-7350-4924-ab91-ffb12babe29d.png?v=1764585594</image>
@@ -6846,7 +6846,7 @@
     <tags>low_vat_rate</tags>
     <price>42.23</price>
     <compare_at_price>103.54</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>sibo-mmc-180-vcapsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/7666d2aa-4044-4d9e-8273-bb8176111688-358-358.png?v=1764586858</image>
@@ -11346,7 +11346,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>hdt-equilibrium-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_28-HdT-Equilibrium.png?v=1764585669</image>
@@ -14700,7 +14700,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>balance-oil-liquid-omega-6-3-473-18-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T142026.635.webp?v=1764585746</image>
@@ -19294,7 +19294,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-glutathione-plus-60-lozenges-seeking-health-1</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GLUT-PLUS-LOZ_1_Front_R.webp?v=1776118716</image>
@@ -19558,7 +19558,7 @@
     <tags>low_vat_rate</tags>
     <price>114.44</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-glutamine-pulver-504-g-thorne</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-08-08T153423.110.webp?v=1764586522</image>
@@ -25091,7 +25091,7 @@
   </product>
   <product>
     <sku>BCARE_007</sku>
-    <barcode>5033290797607</barcode>
+    <barcode>5033290121266</barcode>
     <title>Methyl Multinutrient 60 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
@@ -25131,7 +25131,7 @@
   </product>
   <product>
     <sku>BCARE_019</sku>
-    <barcode>5033290246907</barcode>
+    <barcode>5033290001223</barcode>
     <title>Female Multinutrient 90 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
