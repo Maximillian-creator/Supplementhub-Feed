@@ -14747,7 +14747,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>137.33</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-236-59-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T141006.678.webp?v=1764586185</image>
@@ -15310,7 +15310,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>liposomal-ovarian-inositol-120-capsules-codeage</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1000_front_20_281_29.webp?v=1771975127</image>
@@ -16997,7 +16997,7 @@
     <tags>low_vat_rate</tags>
     <price>39.99</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pancreatin-ox-bile-extract-60-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_36.png?v=1764586554</image>
@@ -18701,7 +18701,7 @@
     <tags>low_vat_rate</tags>
     <price>30.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>performance-unflavoured-electrolytes</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Unflavoured_20Electrolytes_2031_20portions_20NoordCode_01.webp?v=1764586177</image>
