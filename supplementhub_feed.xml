@@ -1196,7 +1196,7 @@
     <tags>low_vat_rate</tags>
     <price>76.06</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>strongbones-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0297NRHEurope_StrongBones180capsules_e7e0aa74-b79e-4d53-bfdb-db8958ae7f23.png?v=1764586660</image>
@@ -14767,7 +14767,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-118-29-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T133630.016.webp?v=1764586354</image>
@@ -20045,11 +20045,7 @@
     <title>Saffron - 60 Capsules | New Roots Herbal</title>
     <vendor>New Roots Herbal</vendor>
     <product_type/>
-    <description>&lt;p&gt;&lt;span style='font-family: &quot;Noto Sans&quot;;'&gt;﻿&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;&lt;b&gt;Saffron &lt;/b&gt;is a spice derived from the dried stigmas and styles of the Crocus sativus flower. The main bioactive compounds in saffron stigmas are: &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;crocins&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;, crocetin, picrocrocin and &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;. In addition, saffron also contains other active components such as carotenoids, zeaxanthin, lycopene, beta-carotene and polysaccharides. Saffron, in addition to its culinary use, has been used in traditional medicine, among other uses, to promote a healthy mood balance.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;New Roots Herbal Saffron provides clinically studied saffron (Crocus sativus) stigmas extract (&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;™) of the highest quality. Our saffron extract is standardised to 3.5% &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;®, by HPLC. &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® is a patented combination of the active substances in saffron: crocin, &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt; and picrocrocin.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;The quality of &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® lies in its origins, cultivated in fields in Castilla-La Mancha, the selection of the Crocus sativus L. species and the exclusive patented low-temperature extraction process that allows the bioactive compounds to be preserved at a minimal energy cost.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Saffron contributes to emotional balance, helps to support the relaxation and maintain a positive mood.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2038 pending European approval.&lt;/font&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Saffron helps to maintain good comfort before and during menstrual cycle&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2251 pending European approval.&lt;/font&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Saffron stimulates the libido, improves erection, contributes to the increase of sperm volume and relaxes muscles&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2427 pending European approval.&lt;/font&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Vegan. Ovo-lactovegetarian. Gluten free. Dairy free.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;</description>
+    <description>&lt;p&gt;&lt;span style='font-family: &quot;Noto Sans&quot;;'&gt;﻿&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;&lt;b&gt;Saffron &lt;/b&gt;is a spice derived from the dried stigmas and styles of the Crocus sativus flower. The main bioactive compounds in saffron stigmas are: &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;crocins&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;, crocetin, picrocrocin and &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;. In addition, saffron also contains other active components such as carotenoids, zeaxanthin, lycopene, beta-carotene and polysaccharides. Saffron, in addition to its culinary use, has been used in traditional medicine, among other uses, to promote a healthy mood balance.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;New Roots Herbal Saffron provides clinically studied saffron (Crocus sativus) stigmas extract (&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;™) of the highest quality. Our saffron extract is standardised to 3.5% &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;®, by HPLC. &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® is a patented combination of the active substances in saffron: crocin, &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt; and picrocrocin.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;The quality of &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® lies in its origins, cultivated in fields in Castilla-La Mancha, the selection of the Crocus sativus L. species and the exclusive patented low-temperature extraction process that allows the bioactive compounds to be preserved at a minimal energy cost.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Vegan. Ovo-lactovegetarian. Gluten free. Dairy free.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
@@ -24946,7 +24942,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>24.46</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-malate-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_magnesium_malate_web.webp?v=1793173180</image>
@@ -24966,7 +24962,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>25.70</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-powder-90g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_magnesium_powder_web.webp?v=1793173254</image>
@@ -25046,7 +25042,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>22.19</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nutrisorb-methyl-b-complex-15ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_methyl_b_complex_web.webp?v=1793173359</image>
@@ -25066,7 +25062,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>51.03</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>methyl-multinutrient-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_methyl_multinutrient_web.webp?v=1793173432</image>
@@ -25086,7 +25082,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>35.08</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>methyl-pregnancy-multinutrient-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_methyl_pregnancy_multinutrient_web.webp?v=1793173508</image>
@@ -25146,7 +25142,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>50.99</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>quercetin-complex-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_quercetin_web.webp?v=1793173636</image>
@@ -25166,7 +25162,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>22.19</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nutrisorb-iron-15ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_iron_web.webp?v=1793173688</image>
@@ -25186,7 +25182,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>26.12</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>slippery-elm-complex-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_slippery_elm_complex_web.webp?v=1793173703</image>
@@ -25206,7 +25202,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>28.36</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>magnesium-taurate-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_magnesium_taurate_web.webp?v=1793173717</image>
@@ -25226,7 +25222,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>45.52</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mega-epa-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_mega_epa_90_web.webp?v=1793173761</image>
@@ -25246,7 +25242,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>27.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>methyl-b-complex-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_methyl_b_complex_web.webp?v=1793173774</image>
@@ -25266,7 +25262,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>56.24</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>male-multinutrient-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_male_multinutrient_web.webp?v=1793173828</image>
@@ -25306,7 +25302,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>28.75</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nutrisorb-methyl-b12-15ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_nutrisorb_methyl_b12_web.webp?v=1793173901</image>
