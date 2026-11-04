@@ -534,7 +534,7 @@
     <tags>low_vat_rate</tags>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ideal-bowel-support-l-plantarum-299v-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_18_35e736cf-adfc-410b-84a0-5ab0d8875df2.png?v=1764586782</image>
@@ -2655,26 +2655,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>QSL_024</sku>
-    <barcode>653341623508</barcode>
-    <title>EU Ultra Binder (Universal Toxin Binder) - 120g | Quicksilver Scientific</title>
-    <vendor>Quicksilver Scientific</vendor>
-    <product_type/>
-    <description>&lt;p&gt;EU Ultra Binder &lt;span style=&quot;letter-spacing: 0px;&quot;&gt;is designed &lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;by Quicksilver Scientific.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;- Easy-to-use by simply adding to water&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>110.08</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>ultra-binder-universal-toxin-binder-120g</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraBinder120gPowder2000_Render.png?v=1772838993</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>179.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>QSL_053</sku>
     <barcode>644216047505</barcode>
     <title>Immune Charge+  ®Shots - Box of 12 (12ml each) | Quicksilver Scientific</title>
@@ -3937,26 +3917,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>51.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>SH_128</sku>
-    <barcode>810007527895</barcode>
-    <title>ProBiota Woman - 30 Capsules | Seeking Health</title>
-    <vendor>Seeking Health</vendor>
-    <product_type/>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;ProBiota Woman is a specialised blend of 10 different types of probiotics in a prebiotic base.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;ProBiota Woman contains Lactobacillus and Bifidobacterium species. This formula also contains inulin, a prebiotic fibre sourced from chicory root.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
-    <price>51.22</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>probiota-woman-60-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_medium_87b59f02-28b6-49d9-9d16-5beb333ae5fc.jpg?v=1764585841</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>46.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -12030,35 +11990,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>HG_02</sku>
-    <barcode>860007205804</barcode>
-    <title>HoloZyme - 180 Capsules | Healthy Gut</title>
-    <vendor>Healthy Gut</vendor>
-    <product_type/>
-    <description>&lt;p&gt;Effective and easy to use. Now, you can have activated full spectrum enzyme coverage to go out to eat, work, and play without wondering if you’ll end up with gut discomfort.&lt;/p&gt;&lt;p&gt;Healthy Gut's fully activated &lt;strong&gt;HoloZyme&lt;/strong&gt; reduces occasional gut related complaints including gas, bloating, loose stools, undigested foods, tummy pain, and cramping. &lt;/p&gt;&lt;p&gt;Most customers feel the difference right away…&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Fast Acting&lt;/li&gt;
-&lt;li&gt;Patent Proven Formula&lt;/li&gt;
-&lt;li&gt;All Natural&lt;/li&gt;
-&lt;li&gt;Clinically Proven (6 studies)&lt;/li&gt;
-&lt;li&gt;No Fillers&lt;/li&gt;
-&lt;li&gt;100% Effective Range pH 1.7- pH 11.0&lt;/li&gt;
-&lt;li&gt;Professional Grade&lt;/li&gt;
-&lt;li&gt;Non-GMO&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Digestive enzymes are special molecules that speed up the breakdown of food into usable nutrients. And when properly activated, some of these enzymes are absorbed into the body and help support a healthy immune system.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>107.90</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>holozyme-180-capsules-healthy-gut</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2816_29.webp?v=1770333632</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>159.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>HG_03</sku>
     <barcode>860007205835</barcode>
     <title>HoloImmune - 30 Capsules | Healthy Gut</title>
@@ -13556,46 +13487,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>523.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>NC_006</sku>
-    <barcode>8719327511152</barcode>
-    <title>Organic Power Cacao - 300g | NoordCode</title>
-    <vendor>NoordCode</vendor>
-    <product_type/>
-    <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;NoordCode Power Cocoa combines polyphenol-rich, raw organic Criollo cocoa with powerful mushroom extracts from KÄÄPÄ Mushrooms. Maca, Ceylon cinnamon, vanilla and inulin round out the formula for a functional and tasty cocoa powder. Delicious as a cocoa drink and excellent as an addition to (sweet) dishes.\nCriollo cocoa is known for its unique, rich flavour which is held as the highest standard of quality. Only 5% of the world's cocoa comes from Criollo cocoa trees. Its production and processing is completely focused on maintaining its outstanding flavour. This unique product is therefore hugely popular among cocoa lovers.\n\nBean to bar production\nNoordCode uses cocoa powder made according to the bean to bar concept. Bean to bar means that the chocolate producer controls all processing steps from the cocoa (bean) to the chocolate bar. The producer has a direct relationship with cocoa farmers and pays a fair price for cocoa. This allows farmers to focus on producing superior cocoa sustainably.\nThe cocoa powder in Power Cacao comes from Peru. NoordCode opts for maximum polyphenol retention and minimising the risk of mould growth when processing.\n\nConcentrated mushroom extracts from KÄÄPÄ Mushrooms\r\nKÄÄPÄ Mushrooms is a Finnish producer of potent mushroom extracts. They use the fruiting bodies of organically grown or wild-picked mushrooms, where most of the useful substances can be found. Ultrasonic Assisted Extraction (UAE) gently breaks open the mushroom cells to extract as many useful substances from the mushrooms as possible. The extract of water and alcohol is then sprayed into powder containing the useful mushroom substances. KÄÄPÄ Mushrooms' powder extracts are a perfect addition to NoordCode Power Cocoa in terms of function and flavour.\r\n\r\n225 mg Lion's Mane extract\r\nLion's Mane (Hericium erinaceus) gets its name from the floppy spines reminiscent of a lion's mane. Lion's Mane is found in Europe, North America and Asia and is traditionally used in China.\r\nKÄÄPÄ Mushrooms grows Lion's Mane itself on birch logs organically.\r\nEach serving of Power Cacao contains 225 mg of Lion's Mane extract.\r\n\r\n135 mg Chaga extract\r\nChaga (Inonotus obliquus) is found in the northern regions of Europe and Asia and has been traditionally used there for centuries. The fungus grows mainly in birch trees and has a characteristic cracked, blackened appearance with a red-orange core.\r\nKÄÄPÄ Mushrooms makes their extract with wild-harvested chaga from Lapland, in northern Finland. Due to the cold winters and unpolluted nature, you can find the best quality and most effective chaga in Lapland.\r\nEach serving of Power Cacao contains 135 mg of Chaga extract.&amp;quot;}&quot; data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Power Cocoa combines polyphenol-rich, raw organic Criollo cocoa with powerful mushroom extracts from KÄÄPÄ Mushrooms. Maca, Ceylon cinnamon, vanilla and inulin round out the formula for a functional and tasty cocoa powder. Delicious as a cocoa drink and excellent as an addition to (sweet) dishes.&lt;br&gt;Criollo cocoa is known for its unique, rich flavour which is held as the highest standard of quality. Only 5% of the world's cocoa comes from Criollo cocoa trees. Its production and processing is completely focused on maintaining its outstanding flavour. This unique product is therefore hugely popular among cocoa lovers.&lt;br&gt;&lt;br&gt;Bean to bar production&lt;br&gt;NoordCode uses cocoa powder made according to the bean to bar concept. Bean to bar means that the chocolate producer controls all processing steps from the cocoa (bean) to the chocolate bar. The producer has a direct relationship with cocoa farmers and pays a fair price for cocoa. This allows farmers to focus on producing superior cocoa sustainably.&lt;br&gt;The cocoa powder in Power Cacao comes from Peru. NoordCode opts for maximum polyphenol retention and minimising the risk of mould growth when processing.&lt;br&gt;&lt;br&gt;Concentrated mushroom extracts from KÄÄPÄ Mushrooms&lt;br&gt;KÄÄPÄ Mushrooms is a Finnish producer of potent mushroom extracts. They use the fruiting bodies of organically grown or wild-picked mushrooms, where most of the useful substances can be found. Ultrasonic Assisted Extraction (UAE) gently breaks open the mushroom cells to extract as many useful substances from the mushrooms as possible. The extract of water and alcohol is then sprayed into powder containing the useful mushroom substances. KÄÄPÄ Mushrooms' powder extracts are a perfect addition to NoordCode Power Cocoa in terms of function and flavour.&lt;br&gt;&lt;br&gt;225 mg Lion's Mane extract&lt;br&gt;Lion's Mane (Hericium erinaceus) gets its name from the floppy spines reminiscent of a lion's mane. Lion's Mane is found in Europe, North America and Asia and is traditionally used in China.&lt;br&gt;KÄÄPÄ Mushrooms grows Lion's Mane itself on birch logs organically.&lt;br&gt;Each serving of Power Cacao contains 225 mg of Lion's Mane extract.&lt;br&gt;&lt;br&gt;135 mg Chaga extract&lt;br&gt;Chaga (Inonotus obliquus) is found in the northern regions of Europe and Asia and has been traditionally used there for centuries. The fungus grows mainly in birch trees and has a characteristic cracked, blackened appearance with a red-orange core.&lt;br&gt;KÄÄPÄ Mushrooms makes their extract with wild-harvested chaga from Lapland, in northern Finland. Due to the cold winters and unpolluted nature, you can find the best quality and most effective chaga in Lapland.&lt;br&gt;Each serving of Power Cacao contains 135 mg of Chaga extract.&lt;/span&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>32.69</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>organic-power-cacao-300g-noordcode</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Power_20cacao.png?v=1764586270</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>313.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>NC_018</sku>
-    <barcode>8720648640131</barcode>
-    <title>Organic Pure Whey - Single Servings 360g | NoordCode</title>
-    <vendor>NoordCode</vendor>
-    <product_type/>
-    <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.\n\nGrass-fed, free-grazing cows from the Alps\nThe milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.\n\nOnly whey protein, with no additives or flavours\nPure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.\n\nSoft processing without irradiation\nNoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.&lt;br&gt;&lt;br&gt;Grass-fed, free-grazing cows from the Alps&lt;br&gt;The milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.&lt;br&gt;&lt;br&gt;Only whey protein, with no additives or flavours&lt;br&gt;Pure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.&lt;br&gt;&lt;br&gt;Soft processing without irradiation&lt;br&gt;NoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&lt;/span&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>35.96</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>organic-pure-whey-360g-noordcode</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_18_232839ab-dbc4-4d97-adba-4bb671ec6f64.png?v=1764586609</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>427.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -15444,26 +15335,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>53.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>SKD_007</sku>
-    <barcode>5060854700193</barcode>
-    <title>Regulation Serum - 30ml | Skin Diligent</title>
-    <vendor>Skin Diligent</vendor>
-    <product_type/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;Why you need this serum:&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;REGULATION SERUM is specially formulated to address common skin concerns, including congested pores, redness, excess sebum, blackheads, and blemishes associated with various types of acne, such as bacterial (acne vulgaris), fungal, and hormonal acne. It also helps to reduce the appearance of hyperpigmentation caused by acne, aging, or sun exposure.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;Why this serum is different:&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;REGULATION SERUM features a cutting-edge epigenetic formula designed to support acne-prone skin with proven results. It offers a gentle yet effective alternative to harsh acne treatments and acts as an SOS solution for occasional blemishes. The serum also works to reduce the appearance of dark spots and hyperpigmentation.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Its advanced formulation targets skin concerns while helping to strengthen the skin’s barrier. This multi-functional serum is designed to brighten the look of acne marks, UV sunspots, and other hyperpigmentation by supporting the skin’s natural defenses and reducing melanin production.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>56.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>regulation-serum-30ml-skin-diligent</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/102_2048x_66aff76f-043e-44ae-8c40-2fefad943c2a.webp?v=1764586435</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>86.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -17960,7 +17831,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-d3-1280mg-omega-3-plus-1000iu-d3-lemon-60-softgels-nordic-naturals</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/nn-0241_front_neu__1__16159_1000x1000_jpg.jpg?v=1764586431</image>
