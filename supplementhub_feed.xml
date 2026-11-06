@@ -1196,7 +1196,7 @@
     <tags>low_vat_rate</tags>
     <price>76.06</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>strongbones-180-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0297NRHEurope_StrongBones180capsules_e7e0aa74-b79e-4d53-bfdb-db8958ae7f23.png?v=1764586660</image>
@@ -6635,7 +6635,7 @@
     <tags>low_vat_rate</tags>
     <price>49.66</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>candifense-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_288_29.jpg?v=1764586579</image>
@@ -11020,7 +11020,7 @@
     <tags>low_vat_rate</tags>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dgl-plus-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0168-DGL-Plus_c87a250b-4d3f-4405-873e-5995ab093af2.png?v=1764585796</image>
@@ -19940,7 +19940,7 @@
     <tags>low_vat_rate</tags>
     <price>51.27</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ovapress-70g-new-roots-herbal</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/EFE2712-NewRootsEurope---OvaPress-202-g-_288-oz-jar-9.png?v=1792534852</image>
@@ -21247,7 +21247,7 @@
     <tags>low_vat_rate</tags>
     <price>13.61</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>gaba-ease-15-capsules-vitanica</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/ge15.png?v=1769124167</image>
@@ -23873,7 +23873,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>67.75</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>berberine-250-120-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/2207030904_max.webp?v=1781043837</image>
