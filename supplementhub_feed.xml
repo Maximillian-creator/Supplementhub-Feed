@@ -1016,7 +1016,7 @@
     <tags>low_vat_rate</tags>
     <price>15.25</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pau-darco-500-mg-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NOW_34-Pau-D-Arco_03fe913c-7225-495e-9d44-b399ad17cd41.png?v=1764586066</image>
@@ -10122,56 +10122,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MW_12</sku>
-    <barcode>4260591790285</barcode>
-    <title>Immune Defence - 120 Capsules | Immunity Support | MakeWell</title>
-    <vendor>MakeWell</vendor>
-    <product_type/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;MakeWell Immune Defence herbal supplements, s&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;cientifically formulated,  features a mix of pure herbal ingredients including Astragalus, Cordyceps, Rhodiola, Andogrographis and olive leaf extract. We also added Vitamin C as Ester-C®.&lt;/span&gt;&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
-&lt;li&gt;Andrographis paniculata increases the physiological resistance of the organism in case of severe ambiance conditions.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3220 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps to soften respiratory troubles like coughs, sore throats in a natural way and gives respiratory comfort.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3219 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps maintaining mobility and flexibility of joints, helps the physiological blood fluidity, contributes to the resistance during the premenstrual cycle and to relieve the menopause symptoms.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3221 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps to maintain a healthy liver function, supporting the digestion and the body purification and is useful to maintain the physiological purifying functions.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3222 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata support the body´s defence and helps to supports the immune system&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3728 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps support the body's natural immunity, contributes to the resistance of the organism, especially at the level of the upper respiratory tract&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3955 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus helps to maintain a healthy (micro) vascular system&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3254 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus tonic that contributes to the  adaptogenic activity is traditionally wellknown for its tonic and stimulating activities, contributes to recover  physical  and mental well-being and helps the physical and mental resistance.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3255 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus helps maintaining mobility and flexibility of joints, contribute to the resistance during the premenstrual cycle and contributes to relieve the menopause symptoms.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3259 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus helps the physiological blood fluidity, traditionally known for helping the blood circulation and vascular pressure.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3260 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus is useful to protect the skin from UV-induced oxidative damage and  free radicals which cause cells and tissues damage and has  anti-oxidant and anti-ageing activity.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3261 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus stimulates human sperm motility&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3262 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus supports the natural defences&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3735 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus increases the physiological resistance of the organism in case of severe ambiance conditions.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3736 pending European approval.&lt;/li&gt;
-&lt;li&gt;Olive keeps normal blood pressure&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2856 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root helps maintain normal function of the circulatory system, in this way providing cells with oxygen and nutrients&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2376 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root normalizes intestinal tract function and is for the gastrointestinal tract health&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2484 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root helps organism to adapt for emotional stress, physical effort, helps to stimulate the nervous system, has beneficial effect in fatigue and headaches induced by stress, beneficial for the sleep difficulties, poor appetite, decline in work performance, helps to stimulate perception, improve state of mind, helps to support potency, has beneficial effect on cardiovascular system because it helps to protect against stress and hypertension&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2659 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root gives endurance for sports performances, strength and condition, is a plant antioxidant for cell protection and an adaptogen that protects during physical stress.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2829 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root contributes to normal blood circulation, which is associated with brain performance, reactivity, optimal mental and cognitive activity&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3877 pending European approval.&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to maintain the normal function of the immune system during and after intense physical exercise&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal collagen formation for the normal function of blood vessels, bones, cartilage, skin, teeth &amp;amp; gums&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal energy-yielding metabolism&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal functioning of the nervous system&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal psychological function&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to the normal function of the immune system&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to the reduction of tiredness and fatigue&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/li&gt;
-&lt;li&gt;Vitamin C increases iron absorption&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>82.83</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>immune-defence-120-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_L_ImmuneDefence_464fb147-ad0c-4d3e-8208-29d7db2f0911.jpg?v=1764586504</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>90.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>MW_08</sku>
     <barcode>4260591790247</barcode>
     <title>MITO Immune - 90 Capsules | Chronic Fatigue &amp; Immunity Support | MakeWell</title>
@@ -10181,7 +10131,7 @@
     <tags>low_vat_rate</tags>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mito-immune-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_MITO_0932994b-ddcf-447e-b91a-b0fbb05fb70a.jpg?v=1764585630</image>
@@ -10189,26 +10139,6 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>80.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>MW_14</sku>
-    <barcode>4260591790322</barcode>
-    <title>S-Acetyl-Glutathione 300 - 60 Capsules | Oxidative stress &amp; Inflammation Protection | MakeWell</title>
-    <vendor>MakeWell</vendor>
-    <product_type/>
-    <description>&lt;p&gt;MakeWell's pioneering S-Acetyl-Glutathione 300 supplement contains an innovative, pure acetylated glutathione. Glutathione is an important antioxidant with numerous functions in the body. Pioneering the use of advanced Acetylated Glutathione means it can also be utilised in its purest form, without any additives and resulting in a powerful dose of 300 mg per capsule.&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>148.23</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>s-acetyl-glutathione-300-60-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_SAG_269db88e-9192-42bf-9a0b-429943c3bfc3.jpg?v=1764585979</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>90.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
@@ -11357,26 +11287,6 @@
     <quantity>0</quantity>
     <handle>vitex-reproductive-formula-60-liquid-phyto-caps-gaia-herbs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-PRO-VitexReproductiveFormula_LAQ87060_102_PDP_a3c258d3-36d0-4325-be49-fb558620cbdd.png?v=1764586778</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>162.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>GH_49</sku>
-    <barcode>751063150859</barcode>
-    <title>Bacopa - 60 Liquid Phyto Capsules | Gaia Herbs</title>
-    <vendor>Gaia Herbs</vendor>
-    <product_type/>
-    <description>&lt;span data-mce-fragment=&quot;1&quot;&gt;Gaia’s Bacopa Monnieri is considered a Nootropic — a supplement that supports mental performance and can play an important role in maintaining cognitive health. After an extensive search around the world, we were unable to find Bacopa that met our rigorous quality standards. In keeping with our commitment to using only the finest plants, we decided to grow and cultivate some of the highest quality Bacopa monnieri in the world, in our own Gaia Greenhouse in North Carolina, becoming one of the only U.S. grown sources for this Ayurvedic herb.&lt;/span&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>35.96</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>bacopa-60-liquid-phyto-capsules-gaia-herbs</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Bacopa_LAQ68060_103_PDP_ad1f4240-8399-4607-9bd7-4cad12592bd4.png?v=1764586507</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
@@ -12940,26 +12850,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MEL_28</sku>
-    <barcode>852546005151</barcode>
-    <title>Probiotics (20 Billion CFU) - 30 Capsules | Mother Earth Labs</title>
-    <vendor>Mother Earth Labs Inc</vendor>
-    <product_type/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;Stabilized Probiotic Blend, 20 Billion CFUs, with 9 Clinically Studied Strains&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Mother Earth Labs Probiotics is specifically designed to survive stomach acid so it can go to work colonizing and thriving in your gut.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;li&gt;Arabinogalactan (extract from larch tree) is prebiotic, supports gut regularity, increases the production of short-chain fatty acids (SCFA) in the intestinal tract and is bifidogenic&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 1442 pending European approval.&lt;/li&gt;&lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>41.41</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>probiotics-20-billion-cfu-30-capsules-mother-earth-labs</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Probiotics-Single_c3cfdc0a-5950-493a-868b-e9c34fd985cb.png?v=1764586363</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>34.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>MEL_30</sku>
     <barcode>852546005366</barcode>
     <title>Algal Omega - 60 Softgels | Mother Earth Labs</title>
@@ -13903,26 +13793,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>PRV_006</sku>
-    <barcode>8720589500105</barcode>
-    <title>Liposomal Quercetin – 60 Capsules | Purovitalis</title>
-    <vendor>Purovitalis</vendor>
-    <product_type/>
-    <description>&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Purovitalis™ Liposomal Quercetin is specially designed as a natural supplement. Quercetin can naturally be found in many superfoods.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;*&lt;b&gt;Disclaimer:&lt;/b&gt; We provide only high-quality, practitioner-approved supplements. Legal restrictions prevent full disclosure of product potency and effectiveness. For more information, please refer to a medical library.&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <price>41.41</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>liposomal-quercetin-60-capsules-purovitalis</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3_7sow8k_98ba001c-fbdc-47ff-8b22-a4518e6c03fb.png?v=1764585655</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>185.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>PRV_005</sku>
     <barcode>8720726160162</barcode>
     <title>Liposomal Resveratrol – 60 Capsules | Purovitalis</title>
@@ -13954,7 +13824,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pure-collagen-450g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Collagen_915ca8c8-8e5f-4815-8d46-86b0b7b26109.png?v=1764586533</image>
@@ -21037,7 +20907,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>33.55</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>eskimo-3-bright-kids-fish-oil-jelly-splats-27-jellies-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Eskimo-3_Splats_Bright_Kids_Jelly_Splats.webp?v=1768433036</image>
