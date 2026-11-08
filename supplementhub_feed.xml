@@ -14674,7 +14674,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-650g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Whey_20.png?v=1764586443</image>
@@ -15197,7 +15197,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>108.99</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>s-acetyl-glutathione-300-60-capsules-oxidative-stress-protection-makewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_EU_SAG_S_white.jpg?v=1764585564</image>
