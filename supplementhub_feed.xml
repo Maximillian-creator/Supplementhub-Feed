@@ -414,7 +414,7 @@
     <tags>low_vat_rate</tags>
     <price>69.75</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pro-som-sleep-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/pro-som.png?v=1764586255</image>
@@ -3674,7 +3674,7 @@
     <tags>low_vat_rate</tags>
     <price>39.90</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-multivitamin-minus-one-45-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MULTI-ONE-MF-CAP_1_Front_R_medium_26f9a0fb-855a-4cdc-b6e9-c328259e60a0.webp?v=1772666216</image>
@@ -6615,7 +6615,7 @@
     <tags>low_vat_rate</tags>
     <price>36.36</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>caprylic-acid-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_286_29.jpg?v=1764586326</image>
@@ -9025,7 +9025,7 @@
     <tags>low_vat_rate</tags>
     <price>35.96</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>l-glutamine-850-mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0154-L-Glutamine-850mg.jpg?v=1764586227</image>
@@ -9526,7 +9526,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>saw-palmetto-60-liquid-phyto-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Saw-Palmetto_LAP21060_102_PDP_dd83b0f8-8598-499e-afbf-7fd95e50cd00.png?v=1764585991</image>
@@ -9634,7 +9634,7 @@
     <tags>low_vat_rate</tags>
     <price>20.70</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>taurine-1000mg-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/LE_122-Taurine.png?v=1764586673</image>
@@ -10694,7 +10694,7 @@
     <tags>low_vat_rate</tags>
     <price>40.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>7-salt-magnesium-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/7-Salt-Magnesium-UK-Biogena-60Kps-125cc-2012_low.jpg?v=1764586602</image>
