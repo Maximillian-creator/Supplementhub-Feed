@@ -664,7 +664,7 @@
     <barcode>871791110083</barcode>
     <price>69.75</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>Pro-Som™ by Integrative Therapeutics contains L-theanine. This formula also includes magnesium and magnolia bark. </description>
     <tags>low_vat_rate</tags>
@@ -868,7 +868,7 @@
     <barcode>790011030287</barcode>
     <price>40.32</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Ideal Bowel Support LP299v® is a probiotic that contains the Lactobacillus plantarum 299v (LP299V®) probiotic strain.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;• Room temperature stable&lt;br data-mce-fragment=&quot;1&quot;&gt;• Resists stomach and bile salts&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -1580,7 +1580,7 @@
     <barcode>733739047250</barcode>
     <price>15.25</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;Pau D'Arco is is derived from the inner bark of tabebuia trees, which are native to the Amazon rainforest&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -3893,37 +3893,6 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_014-D3K2_44caa9da-10ae-4420-acf6-f1d44acfa280.png?v=1764586311,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_014-D3K2-ING_fd62282c-237a-4c70-8447-af34787ab531.jpg?v=1764586311</image_links>
   </product>
   <product>
-    <handle>ultra-binder-universal-toxin-binder-120g</handle>
-    <title>EU Ultra Binder (Universal Toxin Binder) - 120g | Quicksilver Scientific</title>
-    <vendor>Quicksilver Scientific</vendor>
-    <product_type/>
-    <sku>QSL_024</sku>
-    <barcode>653341623508</barcode>
-    <price>110.08</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p&gt;EU Ultra Binder &lt;span style=&quot;letter-spacing: 0px;&quot;&gt;is designed &lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;by Quicksilver Scientific.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;- Easy-to-use by simply adding to water&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>179.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraBinder120gPowder2000_Render.png?v=1772838993</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraBinder120gPowder2000_Render.png?v=1772838993</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/eu-ultra-binder.png?v=1772838993</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/UltraBinder120gPowder2000_Render.png?v=1772838993,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/eu-ultra-binder.png?v=1772838993</image_links>
-  </product>
-  <product>
     <handle>immune-charge-box-of-12-12ml-each</handle>
     <title>Immune Charge+  ®Shots - Box of 12 (12ml each) | Quicksilver Scientific</title>
     <vendor>Quicksilver Scientific</vendor>
@@ -5649,7 +5618,7 @@
     <barcode>810007520926</barcode>
     <price>39.90</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Multivitamin One MF delivers a broad spectrum of essential vitamins and minerals in a single daily capsule, formulated without methylated nutrient forms. Folate is provided as calcium folinate (235 µg) and vitamin B12 as hydroxocobalamin and adenosylcobalamin (25 µg), rather than as methylfolate or methylcobalamin — forms the body converts to their active state through its own metabolic pathways. The formula is also free of vitamin C, calcium, magnesium, and iron, allowing these individual nutrients to be added separately according to personal need.&lt;/p&gt;&lt;p&gt;Several nutrients in this formula contribute to normal immune system function, including vitamin D, vitamin B6, folate, vitamin B12, zinc, and selenium. Thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, pantothenic acid, and iodine each contribute to normal energy-yielding metabolism, with niacin, pantothenic acid, biotin, vitamin B6, folate, and vitamin B12 also contributing to the reduction of tiredness and fatigue. Vitamin E, riboflavin, zinc, selenium, copper, and manganese contribute to the protection of cells from oxidative stress, while folate, vitamin B12, and zinc each have a role in the process of cell division.&lt;/p&gt;&lt;p&gt;Iodine, provided as potassium iodide, contributes to normal cognitive function and normal thyroid function. Biotin contributes to the maintenance of normal hair and skin, and to normal function of the nervous system. Vitamin K2 (as menaquinone-7) contributes to the maintenance of normal bones and to normal blood clotting. Vitamin A contributes to normal vision.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -6088,40 +6057,6 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-HIS-CAP_1_Front_R_eba7bb20-14ce-4a9e-ac0a-f9e90f6fac52.png?v=1764585690,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-HIS-CAP_1_Info-New-Look_R_09709eed-2168-420b-a718-3d57c104ff6f.png?v=1764585690,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-HIS-CAP_1_Supp-Lbl_R_f5b5eff5-da49-4414-ad9f-0b6eff8057b9.png?v=1764585690,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-HIS-CAP_1_Info-Panel_R_bf5e417c-4383-4b45-9841-9042e1fb022b.png?v=1764585690,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-HIS-CAP_2_Supp-Panel_R_976047bc-4b1f-4766-acbc-acd6bd486e19.png?v=1764585690</image_links>
-  </product>
-  <product>
-    <handle>probiota-woman-60-capsules</handle>
-    <title>ProBiota Woman - 30 Capsules | Seeking Health</title>
-    <vendor>Seeking Health</vendor>
-    <product_type/>
-    <sku>SH_128</sku>
-    <barcode>810007527895</barcode>
-    <price>51.22</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;ProBiota Woman is a specialised blend of 10 different types of probiotics in a prebiotic base.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;ProBiota Woman contains Lactobacillus and Bifidobacterium species. This formula also contains inulin, a prebiotic fibre sourced from chicory root.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>46.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_medium_87b59f02-28b6-49d9-9d16-5beb333ae5fc.jpg?v=1764585841</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_medium_87b59f02-28b6-49d9-9d16-5beb333ae5fc.jpg?v=1764585841</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_2_Supp-Panel_medium_4994b448-a9d1-41c8-8f64-9389eefc649f.jpg?v=1764585841</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_4_Delivery-Method_medium_d9331f33-d66c-44b3-96d2-320b110e3d3f.jpg?v=1764585841</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_medium_87b59f02-28b6-49d9-9d16-5beb333ae5fc.jpg?v=1764585841,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_2_Supp-Panel_medium_4994b448-a9d1-41c8-8f64-9389eefc649f.jpg?v=1764585841,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PB-WOM-CAP_4_Delivery-Method_medium_d9331f33-d66c-44b3-96d2-320b110e3d3f.jpg?v=1764585841</image_links>
   </product>
   <product>
     <handle>riboflavin-400mg-60-capsules</handle>
@@ -9829,7 +9764,7 @@
     <barcode>790011200123</barcode>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Citicoline (CDP choline) is an intermediary in the production of phosphatidylcholine, a major constituent of grey matter in the brain.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;More information about this product&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot; style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -10246,7 +10181,7 @@
     <barcode>810014390048</barcode>
     <price>36.36</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Caprylic Acid is a short-chain fatty acid.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;• Formulated without gluten, dairy, soy or artificial sweeteners. GMO free and paleo friendly&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Buffered with calcium and magnesium caprylates to help these capsules reach the large intestine and colon intact. Gentler on the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -10280,7 +10215,7 @@
     <barcode>810014390437</barcode>
     <price>49.66</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Candifense® is a safe, gentle and effective enzyme-based supplement designed to manage overgrowth of candida and other opportunistic yeasts. Formulated to support microbe balance in the GI tract.&lt;/p&gt;&lt;p&gt;• Creates an inhospitable environment to yeast overgrowth in the gut&lt;/p&gt;&lt;p&gt;• Will not harm friendly gut bacteria&lt;/p&gt;&lt;p&gt;• Helps support healthy Candida populations&lt;/p&gt;&lt;p&gt;• Natural alternative, contains plant-based enzyme blend&lt;/p&gt;&lt;p&gt;• Can create a beneficial environment for beneficial probiotics&lt;/p&gt;&lt;p&gt;• Formulated without gluten, dairy, soy or artificial sweeteners. GMO free and paleo friendly&lt;/p&gt;&lt;p&gt;Yeast cell walls are notoriously difficult to break down, which becomes a particular problem with increased levels of pathogenic yeasts, such as candida. This enzyme blend contains cellulases which are able to break down yeast cell walls without causing damage to healthy bacteria in the gut, thus promoting a healthier intestinal balance.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -13821,7 +13756,7 @@
     <barcode>766298022307</barcode>
     <price>35.96</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;L-Glutamine 850 mg is a convenient and easy way to obtain the amino acid glutamine in a professional strength capsule. &lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;l-Glutamine is the most abundant amino acid in the body&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>low_vat_rate</tags>
@@ -15488,67 +15423,6 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_S_GIFloraImmune_ec01e2da-7d1c-4c39-8dc8-d2350cc8c7cc.jpg?v=1764585900,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_S_GIFloraImmune_b2c70f48-3589-4f33-a12f-9d27080f4237.jpg?v=1764585900,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_13_7b996d58-667b-4188-9839-48c926a03dc4.webp?v=1764585900</image_links>
   </product>
   <product>
-    <handle>immune-defence-120-capsules</handle>
-    <title>Immune Defence - 120 Capsules | Immunity Support | MakeWell</title>
-    <vendor>MakeWell</vendor>
-    <product_type/>
-    <sku>MW_12</sku>
-    <barcode>4260591790285</barcode>
-    <price>82.83</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;MakeWell Immune Defence herbal supplements, s&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;cientifically formulated,  features a mix of pure herbal ingredients including Astragalus, Cordyceps, Rhodiola, Andogrographis and olive leaf extract. We also added Vitamin C as Ester-C®.&lt;/span&gt;&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;
-&lt;li&gt;Andrographis paniculata increases the physiological resistance of the organism in case of severe ambiance conditions.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3220 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps to soften respiratory troubles like coughs, sore throats in a natural way and gives respiratory comfort.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3219 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps maintaining mobility and flexibility of joints, helps the physiological blood fluidity, contributes to the resistance during the premenstrual cycle and to relieve the menopause symptoms.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3221 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps to maintain a healthy liver function, supporting the digestion and the body purification and is useful to maintain the physiological purifying functions.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3222 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata support the body´s defence and helps to supports the immune system&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3728 pending European approval.&lt;/li&gt;
-&lt;li&gt;Andrographis paniculata helps support the body's natural immunity, contributes to the resistance of the organism, especially at the level of the upper respiratory tract&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3955 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus helps to maintain a healthy (micro) vascular system&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3254 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus tonic that contributes to the  adaptogenic activity is traditionally wellknown for its tonic and stimulating activities, contributes to recover  physical  and mental well-being and helps the physical and mental resistance.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3255 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus helps maintaining mobility and flexibility of joints, contribute to the resistance during the premenstrual cycle and contributes to relieve the menopause symptoms.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3259 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus helps the physiological blood fluidity, traditionally known for helping the blood circulation and vascular pressure.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3260 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus is useful to protect the skin from UV-induced oxidative damage and  free radicals which cause cells and tissues damage and has  anti-oxidant and anti-ageing activity.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3261 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus stimulates human sperm motility&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3262 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus supports the natural defences&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3735 pending European approval.&lt;/li&gt;
-&lt;li&gt;Astragalus increases the physiological resistance of the organism in case of severe ambiance conditions.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3736 pending European approval.&lt;/li&gt;
-&lt;li&gt;Olive keeps normal blood pressure&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2856 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root helps maintain normal function of the circulatory system, in this way providing cells with oxygen and nutrients&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2376 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root normalizes intestinal tract function and is for the gastrointestinal tract health&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2484 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root helps organism to adapt for emotional stress, physical effort, helps to stimulate the nervous system, has beneficial effect in fatigue and headaches induced by stress, beneficial for the sleep difficulties, poor appetite, decline in work performance, helps to stimulate perception, improve state of mind, helps to support potency, has beneficial effect on cardiovascular system because it helps to protect against stress and hypertension&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2659 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root gives endurance for sports performances, strength and condition, is a plant antioxidant for cell protection and an adaptogen that protects during physical stress.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2829 pending European approval.&lt;/li&gt;
-&lt;li&gt;Golden root contributes to normal blood circulation, which is associated with brain performance, reactivity, optimal mental and cognitive activity&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 3877 pending European approval.&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to maintain the normal function of the immune system during and after intense physical exercise&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal collagen formation for the normal function of blood vessels, bones, cartilage, skin, teeth &amp;amp; gums&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal energy-yielding metabolism&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal functioning of the nervous system&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to normal psychological function&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to the normal function of the immune system&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to the reduction of tiredness and fatigue&lt;/li&gt;
-&lt;li&gt;Vitamin C contributes to the regeneration of the reduced form of vitamin E&lt;/li&gt;
-&lt;li&gt;Vitamin C increases iron absorption&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>90.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_L_ImmuneDefence_464fb147-ad0c-4d3e-8208-29d7db2f0911.jpg?v=1764586504</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_L_ImmuneDefence_464fb147-ad0c-4d3e-8208-29d7db2f0911.jpg?v=1764586504</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_L_ImmuneDefence_d8953a13-893b-401b-9945-5dd527481eca.jpg?v=1764586504</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_L_ImmuneDefence_464fb147-ad0c-4d3e-8208-29d7db2f0911.jpg?v=1764586504,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_L_ImmuneDefence_d8953a13-893b-401b-9945-5dd527481eca.jpg?v=1764586504</image_links>
-  </product>
-  <product>
     <handle>mito-immune-90-capsules</handle>
     <title>MITO Immune - 90 Capsules | Chronic Fatigue &amp; Immunity Support | MakeWell</title>
     <vendor>MakeWell</vendor>
@@ -15557,7 +15431,7 @@
     <barcode>4260591790247</barcode>
     <price>41.41</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;MITO Immune is MakeWell's innovative immune and energy-focused formula designed to naturally support chronic fatigue syndrome. &lt;/p&gt;&lt;p&gt;This multivitamin formula has added Quatrefolic® (active folic acid), for improved bioavailability and water solubility. This is further fortified by the addition of key ingredients such as Zinc, Vitamin C, and Selenium. These ingredients work together to contribute to the regular function of the energy-yielding metabolism and the health of the immune system.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -15584,40 +15458,6 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_MITO_0932994b-ddcf-447e-b91a-b0fbb05fb70a.jpg?v=1764585630,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_M_MITO_eb196bda-dd41-4c49-8340-178acb77d3c4.jpg?v=1764585630,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_08_70b03eb7-9b4c-4c32-bb50-673cfdb92efe.webp?v=1764585630,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_08_2801_29.webp?v=1764585630</image_links>
-  </product>
-  <product>
-    <handle>s-acetyl-glutathione-300-60-capsules</handle>
-    <title>S-Acetyl-Glutathione 300 - 60 Capsules | Oxidative stress &amp; Inflammation Protection | MakeWell</title>
-    <vendor>MakeWell</vendor>
-    <product_type/>
-    <sku>MW_14</sku>
-    <barcode>4260591790322</barcode>
-    <price>148.23</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p&gt;MakeWell's pioneering S-Acetyl-Glutathione 300 supplement contains an innovative, pure acetylated glutathione. Glutathione is an important antioxidant with numerous functions in the body. Pioneering the use of advanced Acetylated Glutathione means it can also be utilised in its purest form, without any additives and resulting in a powerful dose of 300 mg per capsule.&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>90.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_SAG_269db88e-9192-42bf-9a0b-429943c3bfc3.jpg?v=1764585979</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_SAG_269db88e-9192-42bf-9a0b-429943c3bfc3.jpg?v=1764585979</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_M_SAG_676fd959-3fb3-4a41-9ef1-400a87b00bcb.jpg?v=1764585979</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_14_04d7f913-4c16-449e-b191-25c440fb25d1.webp?v=1764585979</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/zinzo_MW_Packshot_M_SAG_269db88e-9192-42bf-9a0b-429943c3bfc3.jpg?v=1764585979,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_M_SAG_676fd959-3fb3-4a41-9ef1-400a87b00bcb.jpg?v=1764585979,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_14_04d7f913-4c16-449e-b191-25c440fb25d1.webp?v=1764585979</image_links>
   </product>
   <product>
     <handle>tbb-120-capsules</handle>
@@ -16415,7 +16255,7 @@
     <barcode>9008740009735</barcode>
     <price>40.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;div&gt;
 &lt;div style='color: rgb(124, 115, 135); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; font-size: 11px;'&gt;7-Salt Magnesium delivers seven magnesium compounds. With this, Biogena product development has created a capsule with an ideal mixture of various soluble and magnesium-rich compounds. This provides a good magnesium supply.&lt;/div&gt;
@@ -16782,7 +16622,7 @@
     <barcode>766298024578</barcode>
     <price>31.60</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;span data-mce-fragment=&quot;1&quot;&gt;DGL Plus from Pure Encapsulations - A supplement designed to promote healthy stomach lining and support the body's natural defence mechanisms.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -17313,37 +17153,6 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-PRO-VitexReproductiveFormula_LAQ87060_102_PDP_a3c258d3-36d0-4325-be49-fb558620cbdd.png?v=1764586778,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Herbs-PRO-VitexReproductiveFormula_LAQ87060_102_SupplementFacts_3c68a62a-11a9-42c6-87c8-1c80511bf6d4.jpg?v=1764586778</image_links>
-  </product>
-  <product>
-    <handle>bacopa-60-liquid-phyto-capsules-gaia-herbs</handle>
-    <title>Bacopa - 60 Liquid Phyto Capsules | Gaia Herbs</title>
-    <vendor>Gaia Herbs</vendor>
-    <product_type/>
-    <sku>GH_49</sku>
-    <barcode>751063150859</barcode>
-    <price>35.96</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;span data-mce-fragment=&quot;1&quot;&gt;Gaia’s Bacopa Monnieri is considered a Nootropic — a supplement that supports mental performance and can play an important role in maintaining cognitive health. After an extensive search around the world, we were unable to find Bacopa that met our rigorous quality standards. In keeping with our commitment to using only the finest plants, we decided to grow and cultivate some of the highest quality Bacopa monnieri in the world, in our own Gaia Greenhouse in North Carolina, becoming one of the only U.S. grown sources for this Ayurvedic herb.&lt;/span&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>162.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Bacopa_LAQ68060_103_PDP_ad1f4240-8399-4607-9bd7-4cad12592bd4.png?v=1764586507</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Bacopa_LAQ68060_103_PDP_ad1f4240-8399-4607-9bd7-4cad12592bd4.png?v=1764586507</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GH_49_8dbd7fa1-04a5-4068-95d0-f52a8d8c05bb.webp?v=1764586507</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Gaia-Pro-Bacopa_LAQ68060_103_PDP_ad1f4240-8399-4607-9bd7-4cad12592bd4.png?v=1764586507,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GH_49_8dbd7fa1-04a5-4068-95d0-f52a8d8c05bb.webp?v=1764586507</image_links>
   </product>
   <product>
     <handle>mico-vir-reishi-cordyceps-70-capsules-hifas-da-terra</handle>
@@ -18318,55 +18127,6 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_1_Front_R_medium_750d5aa4-4939-4f35-ab2a-3621786e0c31.webp?v=1764586369,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_1_Info-New-Look_R.png?v=1764586369,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_1_Info-Panel_R.png?v=1764586369,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_1_Supp-Lbl_R.png?v=1764586369,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/DOPA-NUT-CAPS_2_Supp-Panel_R.png?v=1764586369</image_links>
-  </product>
-  <product>
-    <handle>holozyme-180-capsules-healthy-gut</handle>
-    <title>HoloZyme - 180 Capsules | Healthy Gut</title>
-    <vendor>Healthy Gut</vendor>
-    <product_type/>
-    <sku>HG_02</sku>
-    <barcode>860007205804</barcode>
-    <price>107.90</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p&gt;Effective and easy to use. Now, you can have activated full spectrum enzyme coverage to go out to eat, work, and play without wondering if you’ll end up with gut discomfort.&lt;/p&gt;&lt;p&gt;Healthy Gut's fully activated &lt;strong&gt;HoloZyme&lt;/strong&gt; reduces occasional gut related complaints including gas, bloating, loose stools, undigested foods, tummy pain, and cramping. &lt;/p&gt;&lt;p&gt;Most customers feel the difference right away…&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Fast Acting&lt;/li&gt;
-&lt;li&gt;Patent Proven Formula&lt;/li&gt;
-&lt;li&gt;All Natural&lt;/li&gt;
-&lt;li&gt;Clinically Proven (6 studies)&lt;/li&gt;
-&lt;li&gt;No Fillers&lt;/li&gt;
-&lt;li&gt;100% Effective Range pH 1.7- pH 11.0&lt;/li&gt;
-&lt;li&gt;Professional Grade&lt;/li&gt;
-&lt;li&gt;Non-GMO&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Digestive enzymes are special molecules that speed up the breakdown of food into usable nutrients. And when properly activated, some of these enzymes are absorbed into the body and help support a healthy immune system.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>159.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2816_29.webp?v=1770333632</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2816_29.webp?v=1770333632</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/holozyme-2025-09-flat-lable-180.jpg?v=1770333632</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/holozyme-180-2-1120x1120.png?v=1770333632</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/New-formula-V3-2-1120x1120.png?v=1770333632</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/New-Look-Holozyme-1-1120x1120.png?v=1770333632</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_2816_29.webp?v=1770333632,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/holozyme-2025-09-flat-lable-180.jpg?v=1770333632,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/holozyme-180-2-1120x1120.png?v=1770333632,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/New-formula-V3-2-1120x1120.png?v=1770333632,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/New-Look-Holozyme-1-1120x1120.png?v=1770333632</image_links>
   </product>
   <product>
     <handle>holoimmune-30-capsules-healthy-gut</handle>
@@ -19393,7 +19153,7 @@
     <barcode>766298018768</barcode>
     <price>43.59</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p&gt;Boswellia AKBA by Pure Encapsulations is a potent supplement containing the herbal extract boswellia. It has been used for many hundreds of years and is also known as Indian Frankincense. &lt;/p&gt;&lt;p&gt;The AKBA form of boswellia is more absorbable and more potent. Boswellia AKBA contains the compound 5-LIOXIN® which contains 10x more AKBA (the active compound) than standard boswellia extracts. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;Helps keep joints cool and comfortable.&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;*&lt;/span&gt;
@@ -19773,37 +19533,6 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/JAW_01-60_f0755744-9696-4082-a805-db775a76ab8c.png?v=1764586706,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71l8JadEfLL._AC_SL1500_9ec21183-24fe-4e20-91f2-16b85017e5c8.jpg?v=1764586706,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/713q-JreStL._AC_SL1500_068061b8-adb7-4519-a822-92e246b494fc.jpg?v=1764586706,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/81je9VEPQEL._AC_SL1500_a10e9f57-7b7d-4631-b17e-dbcde8bce97b.jpg?v=1764586706,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71UgLpvI55L._AC_SL1500_dcf86e95-6724-4ea6-8afa-e04db2ca90b3.jpg?v=1764586706</image_links>
-  </product>
-  <product>
-    <handle>probiotics-20-billion-cfu-30-capsules-mother-earth-labs</handle>
-    <title>Probiotics (20 Billion CFU) - 30 Capsules | Mother Earth Labs</title>
-    <vendor>Mother Earth Labs Inc</vendor>
-    <product_type/>
-    <sku>MEL_28</sku>
-    <barcode>852546005151</barcode>
-    <price>41.41</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;Stabilized Probiotic Blend, 20 Billion CFUs, with 9 Clinically Studied Strains&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Mother Earth Labs Probiotics is specifically designed to survive stomach acid so it can go to work colonizing and thriving in your gut.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;ul style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;li&gt;Arabinogalactan (extract from larch tree) is prebiotic, supports gut regularity, increases the production of short-chain fatty acids (SCFA) in the intestinal tract and is bifidogenic&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 1442 pending European approval.&lt;/li&gt;&lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*Disclaimer: &lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>34.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Probiotics-Single_c3cfdc0a-5950-493a-868b-e9c34fd985cb.png?v=1764586363</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Probiotics-Single_c3cfdc0a-5950-493a-868b-e9c34fd985cb.png?v=1764586363</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Probiotics-SF_5ddc1a96-0c26-4efd-89a6-c971063d1a86.png?v=1764586363</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Probiotics-Single_c3cfdc0a-5950-493a-868b-e9c34fd985cb.png?v=1764586363,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Probiotics-SF_5ddc1a96-0c26-4efd-89a6-c971063d1a86.png?v=1764586363</image_links>
   </product>
   <product>
     <handle>algal-omega-60-softgels-mother-earth-labs</handle>
@@ -20476,77 +20205,6 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Complete_20collagen.png?v=1764586700,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2811_29.jpg?v=1764586700,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2810_29.jpg?v=1764586700,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_289_29.webp?v=1764586700</image_links>
   </product>
   <product>
-    <handle>organic-power-cacao-300g-noordcode</handle>
-    <title>Organic Power Cacao - 300g | NoordCode</title>
-    <vendor>NoordCode</vendor>
-    <product_type/>
-    <sku>NC_006</sku>
-    <barcode>8719327511152</barcode>
-    <price>32.69</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value=&quot;{&amp;quot;1&amp;quot;:2,&amp;quot;2&amp;quot;:&amp;quot;NoordCode Power Cocoa combines polyphenol-rich, raw organic Criollo cocoa with powerful mushroom extracts from KÄÄPÄ Mushrooms. Maca, Ceylon cinnamon, vanilla and inulin round out the formula for a functional and tasty cocoa powder. Delicious as a cocoa drink and excellent as an addition to (sweet) dishes.\nCriollo cocoa is known for its unique, rich flavour which is held as the highest standard of quality. Only 5% of the world's cocoa comes from Criollo cocoa trees. Its production and processing is completely focused on maintaining its outstanding flavour. This unique product is therefore hugely popular among cocoa lovers.\n\nBean to bar production\nNoordCode uses cocoa powder made according to the bean to bar concept. Bean to bar means that the chocolate producer controls all processing steps from the cocoa (bean) to the chocolate bar. The producer has a direct relationship with cocoa farmers and pays a fair price for cocoa. This allows farmers to focus on producing superior cocoa sustainably.\nThe cocoa powder in Power Cacao comes from Peru. NoordCode opts for maximum polyphenol retention and minimising the risk of mould growth when processing.\n\nConcentrated mushroom extracts from KÄÄPÄ Mushrooms\r\nKÄÄPÄ Mushrooms is a Finnish producer of potent mushroom extracts. They use the fruiting bodies of organically grown or wild-picked mushrooms, where most of the useful substances can be found. Ultrasonic Assisted Extraction (UAE) gently breaks open the mushroom cells to extract as many useful substances from the mushrooms as possible. The extract of water and alcohol is then sprayed into powder containing the useful mushroom substances. KÄÄPÄ Mushrooms' powder extracts are a perfect addition to NoordCode Power Cocoa in terms of function and flavour.\r\n\r\n225 mg Lion's Mane extract\r\nLion's Mane (Hericium erinaceus) gets its name from the floppy spines reminiscent of a lion's mane. Lion's Mane is found in Europe, North America and Asia and is traditionally used in China.\r\nKÄÄPÄ Mushrooms grows Lion's Mane itself on birch logs organically.\r\nEach serving of Power Cacao contains 225 mg of Lion's Mane extract.\r\n\r\n135 mg Chaga extract\r\nChaga (Inonotus obliquus) is found in the northern regions of Europe and Asia and has been traditionally used there for centuries. The fungus grows mainly in birch trees and has a characteristic cracked, blackened appearance with a red-orange core.\r\nKÄÄPÄ Mushrooms makes their extract with wild-harvested chaga from Lapland, in northern Finland. Due to the cold winters and unpolluted nature, you can find the best quality and most effective chaga in Lapland.\r\nEach serving of Power Cacao contains 135 mg of Chaga extract.&amp;quot;}&quot; data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Power Cocoa combines polyphenol-rich, raw organic Criollo cocoa with powerful mushroom extracts from KÄÄPÄ Mushrooms. Maca, Ceylon cinnamon, vanilla and inulin round out the formula for a functional and tasty cocoa powder. Delicious as a cocoa drink and excellent as an addition to (sweet) dishes.&lt;br&gt;Criollo cocoa is known for its unique, rich flavour which is held as the highest standard of quality. Only 5% of the world's cocoa comes from Criollo cocoa trees. Its production and processing is completely focused on maintaining its outstanding flavour. This unique product is therefore hugely popular among cocoa lovers.&lt;br&gt;&lt;br&gt;Bean to bar production&lt;br&gt;NoordCode uses cocoa powder made according to the bean to bar concept. Bean to bar means that the chocolate producer controls all processing steps from the cocoa (bean) to the chocolate bar. The producer has a direct relationship with cocoa farmers and pays a fair price for cocoa. This allows farmers to focus on producing superior cocoa sustainably.&lt;br&gt;The cocoa powder in Power Cacao comes from Peru. NoordCode opts for maximum polyphenol retention and minimising the risk of mould growth when processing.&lt;br&gt;&lt;br&gt;Concentrated mushroom extracts from KÄÄPÄ Mushrooms&lt;br&gt;KÄÄPÄ Mushrooms is a Finnish producer of potent mushroom extracts. They use the fruiting bodies of organically grown or wild-picked mushrooms, where most of the useful substances can be found. Ultrasonic Assisted Extraction (UAE) gently breaks open the mushroom cells to extract as many useful substances from the mushrooms as possible. The extract of water and alcohol is then sprayed into powder containing the useful mushroom substances. KÄÄPÄ Mushrooms' powder extracts are a perfect addition to NoordCode Power Cocoa in terms of function and flavour.&lt;br&gt;&lt;br&gt;225 mg Lion's Mane extract&lt;br&gt;Lion's Mane (Hericium erinaceus) gets its name from the floppy spines reminiscent of a lion's mane. Lion's Mane is found in Europe, North America and Asia and is traditionally used in China.&lt;br&gt;KÄÄPÄ Mushrooms grows Lion's Mane itself on birch logs organically.&lt;br&gt;Each serving of Power Cacao contains 225 mg of Lion's Mane extract.&lt;br&gt;&lt;br&gt;135 mg Chaga extract&lt;br&gt;Chaga (Inonotus obliquus) is found in the northern regions of Europe and Asia and has been traditionally used there for centuries. The fungus grows mainly in birch trees and has a characteristic cracked, blackened appearance with a red-orange core.&lt;br&gt;KÄÄPÄ Mushrooms makes their extract with wild-harvested chaga from Lapland, in northern Finland. Due to the cold winters and unpolluted nature, you can find the best quality and most effective chaga in Lapland.&lt;br&gt;Each serving of Power Cacao contains 135 mg of Chaga extract.&lt;/span&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>313.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Power_20cacao.png?v=1764586270</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Power_20cacao.png?v=1764586270</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2811_29_shwfzy.webp?v=1764586270</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2810_29_ks5y04.webp?v=1764586270</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Power_20cacao.png?v=1764586270,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2811_29_shwfzy.webp?v=1764586270,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2810_29_ks5y04.webp?v=1764586270</image_links>
-  </product>
-  <product>
-    <handle>organic-pure-whey-360g-noordcode</handle>
-    <title>Organic Pure Whey - Single Servings 360g | NoordCode</title>
-    <vendor>NoordCode</vendor>
-    <product_type/>
-    <sku>NC_018</sku>
-    <barcode>8720648640131</barcode>
-    <price>35.96</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.\n\nGrass-fed, free-grazing cows from the Alps\nThe milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.\n\nOnly whey protein, with no additives or flavours\nPure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.\n\nSoft processing without irradiation\nNoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.&lt;br&gt;&lt;br&gt;Grass-fed, free-grazing cows from the Alps&lt;br&gt;The milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.&lt;br&gt;&lt;br&gt;Only whey protein, with no additives or flavours&lt;br&gt;Pure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.&lt;br&gt;&lt;br&gt;Soft processing without irradiation&lt;br&gt;NoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&lt;/span&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>427.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_18_232839ab-dbc4-4d97-adba-4bb671ec6f64.png?v=1764586609</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_18_232839ab-dbc4-4d97-adba-4bb671ec6f64.png?v=1764586609</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_283_29.webp?v=1764586609</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2834_29.webp?v=1764586609</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2833_29.webp?v=1764586609</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/NC_18_232839ab-dbc4-4d97-adba-4bb671ec6f64.png?v=1764586609,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_283_29.webp?v=1764586609,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2834_29.webp?v=1764586609,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/image_20_2833_29.webp?v=1764586609</image_links>
-  </product>
-  <product>
     <handle>mag-six-60-capsules-noordcode</handle>
     <title>Mag Six - 60 Capsules | NoordCode</title>
     <vendor>NoordCode</vendor>
@@ -21064,46 +20722,6 @@
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KIDS-MULTIMF-TAB_1_Front_1.webp?v=1780997101,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/kids-multivitamin-chewable-60-tablets-seeking-health.jpg?v=1764586187,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/KIDS-MULTIMF-TAB_2_Supp-Panel_medium_da45b885-5aed-44ed-afa4-4e8b617e13b6.png?v=1764586187</image_links>
   </product>
   <product>
-    <handle>liposomal-quercetin-60-capsules-purovitalis</handle>
-    <title>Liposomal Quercetin – 60 Capsules | Purovitalis</title>
-    <vendor>Purovitalis</vendor>
-    <product_type/>
-    <sku>PRV_006</sku>
-    <barcode>8720589500105</barcode>
-    <price>41.41</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Purovitalis™ Liposomal Quercetin is specially designed as a natural supplement. Quercetin can naturally be found in many superfoods.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;*&lt;b&gt;Disclaimer:&lt;/b&gt; We provide only high-quality, practitioner-approved supplements. Legal restrictions prevent full disclosure of product potency and effectiveness. For more information, please refer to a medical library.&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</description>
-    <tags>all_products_tag, low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>185.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3_7sow8k_98ba001c-fbdc-47ff-8b22-a4518e6c03fb.png?v=1764585655</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3_7sow8k_98ba001c-fbdc-47ff-8b22-a4518e6c03fb.png?v=1764585655</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2833_29.jpg?v=1764585655</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2834_29.jpg?v=1764585655</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2835_29.jpg?v=1764585655</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2836_29.jpg?v=1764585655</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/3_7sow8k_98ba001c-fbdc-47ff-8b22-a4518e6c03fb.png?v=1764585655,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2833_29.jpg?v=1764585655,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2834_29.jpg?v=1764585655,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2835_29.jpg?v=1764585655,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Website_20Launch_20_2836_29.jpg?v=1764585655</image_links>
-  </product>
-  <product>
     <handle>liposomal-resveratrol-60-capsules-purovitalis</handle>
     <title>Liposomal Resveratrol – 60 Capsules | Purovitalis</title>
     <vendor>Purovitalis</vendor>
@@ -21154,7 +20772,7 @@
     <barcode>8720648640285</barcode>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Pure Collagen is sourced from European grass-fed cows. The cows eat grass throughout the year. They are not fed any hormones or antibiotics so the end product is as high-quality as it can be. NoordCode uses a new processing method to further improve the quality of collagen hydrolysate. The new method produces a finer collagen powder with an even more neutral taste. This makes the collagen powder more pleasant to consume and more absorbable in the body. The purity has been tested in an independent laboratory. Pure Collagen is halal-certified.&quot;}' data-sheets-userformat='{&quot;2&quot;:33555393,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Pure Collagen is sourced from European grass-fed cows. The cows eat grass throughout the year. They are not fed any hormones or antibiotics so the end product is as high-quality as it can be. NoordCode uses a new processing method to further improve the quality of collagen hydrolysate. The new method produces a finer collagen powder with an even more neutral taste. This makes the collagen powder more pleasant to consume and more absorbable in the body. The purity has been tested in an independent laboratory. Pure Collagen is halal-certified.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -22235,7 +21853,7 @@
     <barcode>743474910054</barcode>
     <price>78.47</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;BodyBio PC is for everyone because everyone is made up of cells. (70 trillion of them!) You give those cells the nutrients they need, and they’ll reward you with health and vitality at every age.&lt;/span&gt;&lt;/div&gt;&lt;div style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;*&lt;/span&gt;&lt;b style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Disclaimer:&lt;/b&gt;&lt;span style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt; Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</description>
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
@@ -22495,7 +22113,7 @@
     <barcode>8719327511176</barcode>
     <price>45.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;span data-sheets-root=&quot;1&quot; data-sheets-value='{&quot;1&quot;:2,&quot;2&quot;:&quot;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.\n\nGrass-fed, free-grazing cows from the Alps\nThe milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.\n\nOnly whey protein, with no additives or flavours\nPure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.\n\nSoft processing without irradiation\nNoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&quot;}' data-sheets-userformat='{&quot;2&quot;:33569729,&quot;3&quot;:{&quot;1&quot;:1},&quot;9&quot;:1,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Calibri&quot;,&quot;16&quot;:11,&quot;28&quot;:1}' style=&quot;font-size: 11pt; font-family: Calibri, Arial; text-align: center;&quot;&gt;NoordCode Pure Whey is organically produced, pure whey protein concentrate. The milk comes from grass-fed cows grazing in the Alps. 80% protein. For muscle maintenance, growth and recovery.&lt;br&gt;&lt;br&gt;Grass-fed, free-grazing cows from the Alps&lt;br&gt;The milk for NoordCode Pure Whey comes from cows that graze in the Alps. The cows eat only grass or grass products from pastures that have never been exposed to pesticides. They are raised according to organic guidelines and receive no hormones or antibiotics. As a result, the milk is of the highest quality.&lt;br&gt;&lt;br&gt;Only whey protein, with no additives or flavours&lt;br&gt;Pure Whey contains only whey protein concentrate, as the name says. It contains no flavours or other additives. This makes it a versatile product that you can use in whatever way you like.&lt;br&gt;&lt;br&gt;Soft processing without irradiation&lt;br&gt;NoordCode Pure Whey is prepared using gentle heating without irradiation. This keeps as much protein as possible intact while making the whey protein concentrate food-safe.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
@@ -23119,7 +22737,7 @@
     <barcode>850043333890</barcode>
     <price>57.76</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p class=&quot;description&quot; style='margin-top: -4px; margin-bottom: 14px; padding: 0px 0px 10px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px;'&gt;Codeage Liposomal Ovarian Inositol+ is a dietary supplement designed for women. This advanced inositol supplement formula features a unique blend of &lt;span class=&quot;a-text-bold&quot; style=&quot;font-weight: 700 !important;&quot;&gt;Myo-Inositol and D-Chiro-Inosito&lt;/span&gt;l. Myo-inositol is a nutrient structurally similar to the B-vitamin family. It is often considered a part of the B-complex vitamins (vitamin B8). This myo inositol d chiro inositol supplement features a liposomal delivery system is designed to help support the absorption and bioavailability of ingredients. &lt;span style=&quot;letter-spacing: 0px;&quot;&gt;This myo inositol and d chiro inositol formula also contains &lt;/span&gt;&lt;span class=&quot;a-text-bold&quot; style=&quot;letter-spacing: 0px; font-weight: 700 !important;&quot;&gt;5-MTHF folate&lt;/span&gt;&lt;span style=&quot;letter-spacing: 0px;&quot;&gt;, &lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;description&quot; style='margin-top: -4px; margin-bottom: 14px; padding: 0px 0px 10px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px;'&gt;Codeage Liposomal myo inositol supplement also offers &lt;span class=&quot;a-text-bold&quot; style=&quot;font-weight: 700 !important;&quot;&gt;Coenzyme Q10 Phytosome&lt;/span&gt;. This unique form of &lt;span class=&quot;a-text-bold&quot; style=&quot;font-weight: 700 !important;&quot;&gt;CoQ10&lt;/span&gt; is bound to phospholipids to help with absorption and bioavailability.&lt;/p&gt;&lt;p class=&quot;description&quot; style='margin-top: -4px; margin-bottom: 14px; padding: 0px 0px 10px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px;'&gt;This myo inositol supplement also comes with a &lt;span class=&quot;a-text-bold&quot; style=&quot;font-weight: 700 !important;&quot;&gt;Wild Blueberry complex&lt;/span&gt; and &lt;span class=&quot;a-text-bold&quot; style=&quot;font-weight: 700 !important;&quot;&gt;Pomegranate&lt;/span&gt; extracts.&lt;/p&gt;&lt;p class=&quot;description&quot; style='margin-top: -4px; margin-bottom: 14px; padding: 0px 0px 10px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px;'&gt;Formulated for women, Codeage Liposomal Ovarian Inositol+ is &lt;span class=&quot;a-text-bold&quot; style=&quot;font-weight: 700 !important;&quot;&gt;vegan, non-GMO, gluten-free&lt;/span&gt;, soy-free, and dairy-free. This myo inositol and d chiro inositol supplement is &lt;span class=&quot;a-text-bold&quot; style=&quot;font-weight: 700 !important;&quot;&gt;manufactured in the USA &lt;/span&gt;with global ingredients for quality.&lt;/p&gt;&lt;p class=&quot;description&quot; style='margin-top: -4px; margin-bottom: 14px; padding: 0px 0px 10px; color: rgb(15, 17, 17); font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; font-size: 14px;'&gt;Part or all the ingredients provided in this inositol vitamin and liposomal inositol supplement formula can be received in adequate or extra amounts from food and regular diet alone. Individual results may vary and depend on a lot of factors, including age, health conditions, diet, genetic markup, lifestyle, physical activity and regular exercise. This liposomal inositol capsules formula offers an alternative to inositol tablets or inositol powder formats.&lt;/p&gt;&lt;ul&gt;
 &lt;li style=&quot;margin-top: -4px; margin-bottom: 14px; padding: 0px 0px 10px;&quot;&gt;&lt;font color=&quot;#0f1111&quot; face=&quot;Amazon Ember, Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Folate contributes to maternal tissue growth during pregnancy&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;
@@ -23318,7 +22936,7 @@
     <barcode>4260591790636</barcode>
     <price>108.99</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>MakeWell's pioneering S-Acetyl-Glutathione 300 supplement features an innovative, pure acetylated glutathione formula. Glutathione, a critical antioxidant, is vital for numerous bodily functions and is scientificallyrecognised for its anti-inflammatory and antioxidant properties.S-Acetyl Glutathione (SAG) offers enhanced stability and absorption compared to regular GSH. Chemically altered with an added acetyl group on the sulfur atom, SAG remains intact through the digestive system and is directly absorbed by cells, providing superior bioavailability. As a prodrug, SAG converts into active intracellular GSH, ensuring maximum efficacy in combating oxidative stress and supporting overall health. Research shows that SAG is more stable in blood plasma than regular Glutathione and can increase intracellular GSH levels, offering robust antioxidant defence and support for various health-related areas.</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -23339,46 +22957,6 @@
       </image>
     </images>
     <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_EU_SAG_S_white.jpg?v=1764585564,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Label_SAG.jpg?v=1764585564</image_links>
-  </product>
-  <product>
-    <handle>regulation-serum-30ml-skin-diligent</handle>
-    <title>Regulation Serum - 30ml | Skin Diligent</title>
-    <vendor>Skin Diligent</vendor>
-    <product_type/>
-    <sku>SKD_007</sku>
-    <barcode>5060854700193</barcode>
-    <price>56.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity/>
-    <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;Why you need this serum:&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;REGULATION SERUM is specially formulated to address common skin concerns, including congested pores, redness, excess sebum, blackheads, and blemishes associated with various types of acne, such as bacterial (acne vulgaris), fungal, and hormonal acne. It also helps to reduce the appearance of hyperpigmentation caused by acne, aging, or sun exposure.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;strong&gt;Why this serum is different:&lt;/strong&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;REGULATION SERUM features a cutting-edge epigenetic formula designed to support acne-prone skin with proven results. It offers a gentle yet effective alternative to harsh acne treatments and acts as an SOS solution for occasional blemishes. The serum also works to reduce the appearance of dark spots and hyperpigmentation.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Its advanced formulation targets skin concerns while helping to strengthen the skin’s barrier. This multi-functional serum is designed to brighten the look of acne marks, UV sunspots, and other hyperpigmentation by supporting the skin’s natural defenses and reducing melanin production.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <option1>Default Title</option1>
-    <option2/>
-    <option1_name>Title</option1_name>
-    <option2_name/>
-    <variant_title>Default Title</variant_title>
-    <weight>86.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/102_2048x_66aff76f-043e-44ae-8c40-2fefad943c2a.webp?v=1764586435</image>
-    <images>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/102_2048x_66aff76f-043e-44ae-8c40-2fefad943c2a.webp?v=1764586435</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20Packaging.jpg?v=1764586435</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20tests.jpg?v=1764586435</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20before_20after_20_281_29.jpg?v=1764586435</src>
-      </image>
-      <image>
-        <src>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20before_20after.jpg?v=1764586435</src>
-      </image>
-    </images>
-    <image_links>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/102_2048x_66aff76f-043e-44ae-8c40-2fefad943c2a.webp?v=1764586435,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20Packaging.jpg?v=1764586435,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20tests.jpg?v=1764586435,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20before_20after_20_281_29.jpg?v=1764586435,https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Serum_20Regulation_20-_20before_20after.jpg?v=1764586435</image_links>
   </product>
   <product>
     <handle>liposomal-glutathione-cacao-mint-50ml-quicksilver-scientific</handle>
@@ -23757,7 +23335,7 @@
     <barcode>766298024820</barcode>
     <price>38.14</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;span data-mce-fragment=&quot;1&quot;&gt;Vitamin D3 (vegan) 2000 IU (50 ug) provides pure vitamin D as D3, the preferred form of vitamin D. Vitamin D contributes to the maintenance of normal muscle function and normal bones. Vitamin D also contributes to the normal function of the immune system.&lt;/span&gt;</description>
     <tags>low_vat_rate, Practitioner Only</tags>
@@ -26974,7 +26552,7 @@
     <barcode>768990017940</barcode>
     <price>49.04</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;Nordic Naturals, Ultimate Omega-D3, 1280mg Omega-3 plus, 1000IU D3, lemon, 60 softgels.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: sans-serif;&quot;&gt;Ultimate Omega®-D3 combines healthy doses of two essential nutrients for optimal wellness, omega-3 EPA+DHA and vitamin D3, in a concentrated serving.*&lt;/span&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;1280 mg total omega-3s; 1000 IU Vitamin D3&lt;/li&gt;
@@ -29840,11 +29418,7 @@
     <compare_at_price/>
     <available>true</available>
     <quantity/>
-    <description>&lt;p&gt;&lt;span style='font-family: &quot;Noto Sans&quot;;'&gt;﻿&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;&lt;b&gt;Saffron &lt;/b&gt;is a spice derived from the dried stigmas and styles of the Crocus sativus flower. The main bioactive compounds in saffron stigmas are: &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;crocins&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;, crocetin, picrocrocin and &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;. In addition, saffron also contains other active components such as carotenoids, zeaxanthin, lycopene, beta-carotene and polysaccharides. Saffron, in addition to its culinary use, has been used in traditional medicine, among other uses, to promote a healthy mood balance.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;New Roots Herbal Saffron provides clinically studied saffron (Crocus sativus) stigmas extract (&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;™) of the highest quality. Our saffron extract is standardised to 3.5% &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;®, by HPLC. &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® is a patented combination of the active substances in saffron: crocin, &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt; and picrocrocin.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;The quality of &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® lies in its origins, cultivated in fields in Castilla-La Mancha, the selection of the Crocus sativus L. species and the exclusive patented low-temperature extraction process that allows the bioactive compounds to be preserved at a minimal energy cost.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Saffron contributes to emotional balance, helps to support the relaxation and maintain a positive mood.&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2038 pending European approval.&lt;/font&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Saffron helps to maintain good comfort before and during menstrual cycle&lt;span style=&quot;white-space:pre&quot;&gt;	&lt;/span&gt;Health claim ID 2251 pending European approval.&lt;/font&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;font color=&quot;#1b0c31&quot; face=&quot;noto-sans, Noto Sans, Helvetica, Arial, sans-serif&quot;&gt;Saffron stimulates the libido, improves erection, contributes to the increase of sperm volume and relaxes muscles&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Health claim ID 2427 pending European approval.&lt;/font&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Vegan. Ovo-lactovegetarian. Gluten free. Dairy free.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;</description>
+    <description>&lt;p&gt;&lt;span style='font-family: &quot;Noto Sans&quot;;'&gt;﻿&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;&lt;b&gt;Saffron &lt;/b&gt;is a spice derived from the dried stigmas and styles of the Crocus sativus flower. The main bioactive compounds in saffron stigmas are: &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;crocins&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;, crocetin, picrocrocin and &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;color: rgb(27, 12, 49); text-align: justify; letter-spacing: 0px; font-family: noto-sans;&quot;&gt;. In addition, saffron also contains other active components such as carotenoids, zeaxanthin, lycopene, beta-carotene and polysaccharides. Saffron, in addition to its culinary use, has been used in traditional medicine, among other uses, to promote a healthy mood balance.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;New Roots Herbal Saffron provides clinically studied saffron (Crocus sativus) stigmas extract (&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;™) of the highest quality. Our saffron extract is standardised to 3.5% &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;®, by HPLC. &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Lepticrosalides&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® is a patented combination of the active substances in saffron: crocin, &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;safranal&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt; and picrocrocin.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;The quality of &lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;affron&lt;/span&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;® lies in its origins, cultivated in fields in Castilla-La Mancha, the selection of the Crocus sativus L. species and the exclusive patented low-temperature extraction process that allows the bioactive compounds to be preserved at a minimal energy cost.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;br&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;Vegan. Ovo-lactovegetarian. Gluten free. Dairy free.&lt;/span&gt;&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif; text-align: justify;'&gt;&lt;span class=&quot;cf0&quot; style=&quot;font-family: noto-sans;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: noto-sans;&quot;&gt;&lt;b&gt;*Disclaimer: &lt;/b&gt;Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.&lt;/span&gt;</description>
     <tags>low_vat_rate</tags>
     <option1>Default Title</option1>
     <option2/>
@@ -29870,7 +29444,7 @@
     <barcode>628747427128</barcode>
     <price>51.27</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;OvaPress is a food supplement with myo-inositol, L-citrulline and acetyl-L-carnitine, combined with zinc, folate and chromium, in a powder to dissolve in water or juice.&lt;/p&gt;&lt;p&gt;Zinc contributes to normal fertility and reproduction, to normal carbohydrate metabolism and has a role in the process of cell division. Folate also has a role in the process of cell division. Chromium contributes to the maintenance of normal blood glucose levels.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -31411,7 +30985,7 @@
     <barcode>7391325900100</barcode>
     <price>33.55</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;625&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;Metagenics Eskimo-3 Bright Kids Fish Oil Jelly Splats are chewable omega-3 food supplements designed specifically for children. The product provides omega-3 fatty acids derived from purified fish oil together with vitamin D3 and additional nutrients. The jelly splats are formulated as soft, chewable pastilles with a natural orange flavour to make daily omega-3 supplementation easier for children who may not consume enough oily fish or who dislike traditional fish oil liquids or capsules.&lt;/p&gt;&lt;p data-start=&quot;1834&quot; data-end=&quot;2219&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;The fish oil used in Eskimo-3 products is purified to help reduce environmental contaminants. The jelly splats are naturally flavoured and sweetened with xylitol and sorbitol and do not contain added sugar or artificial sweeteners. The chewable format is intended to improve compliance and make daily supplementation more appealing for children.&lt;/p&gt;&lt;p data-start=&quot;1834&quot; data-end=&quot;2219&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;br style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;&lt;/p&gt;&lt;p data-start=&quot;1834&quot; data-end=&quot;2219&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;span class=&quot;&quot; data-state=&quot;closed&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p data-start=&quot;2221&quot; data-end=&quot;2824&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;• Provides omega-3 fatty acids from purified fish oil&lt;br data-start=&quot;2274&quot; data-end=&quot;2277&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;• Each jelly splat provides approximately 362 mg omega-3 including 270 mg DHA and 54 mg EPA&lt;br data-start=&quot;2368&quot; data-end=&quot;2371&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;• Contains vitamin D3 (10 µg / 400 IU) to support immune function and bone health&lt;br data-start=&quot;2452&quot; data-end=&quot;2455&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;• Includes choline and biotin for additional nutritional support&lt;br data-start=&quot;2519&quot; data-end=&quot;2522&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;• Natural orange-flavoured chewable jelly format designed for children&lt;br data-start=&quot;2592&quot; data-end=&quot;2595&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;• Naturally sweetened with xylitol and sorbitol, with no added sugar or artificial sweeteners&lt;br data-start=&quot;2688&quot; data-end=&quot;2691&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;• Suitable for children aged 3 years and over&lt;br data-start=&quot;2736&quot; data-end=&quot;2739&quot; style=&quot;line-height: 20px; letter-spacing: 0px;&quot;&gt;• Contains 27 chewable jelly pastilles per pack&lt;/p&gt;&lt;p data-start=&quot;2221&quot; data-end=&quot;2824&quot; style=&quot;font-size: 14px; font-family: Figtree; line-height: 20px; color: rgb(32, 26, 50);&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;li style=&quot;line-height: 20px;&quot;&gt;&lt;font color=&quot;#201a32&quot; face=&quot;Figtree&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vitamin D contributes to normal absorption of calcium and phosphorus&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;
@@ -31754,7 +31328,7 @@
     <barcode>708118013034</barcode>
     <price>13.61</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;GABA Ease™ has been formulated to support the nervous system and promote a calm mood.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• GABA is a calming neurotransmitter in the nervous system&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• Helps to support calmness&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• Can contribute to facilitate relaxation&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• With vitamin B6 to support GABA production in the brain&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• Helpful during hormonal irritability&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;• Can help relieve occasional stress&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;This formula offers a combination of researched nutrients combined with traditional herbal medicine, that promotes a calming effect during occasional stress, nervous tension, and hormonal irritability. It contains GABA, the main inhibitory neurotransmitter in the nervous system. It also offers vitamin B6, to facilitate the production of GABA in the brain, and includes some traditional herbal tonics for the nervous system like passionflower, skullcap and oats. It contributes to facilitate relaxation and lower anxious moods.&lt;/p&gt;&lt;p style='color: rgb(27, 12, 49); font-family: noto-sans, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif;'&gt;Suggested use is 2 capsules one or two times per day.&lt;/p&gt;</description>
     <tags>low_vat_rate</tags>
@@ -35534,7 +35108,7 @@
     <barcode>5028392000137</barcode>
     <price>67.75</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>250mg of Berberine HCl to support microbial balance in the gut and blood sugar control. A practical Metagenics formula designed for daily supplementation, featuring: 250mg Berberine: From Berberis aristata extract to support digestive function and microbial balance; Microbial Balance: With berberine, long used in traditional medicine for gut health support; Blood Sugar Control: Berberine has been shown to support glucose metabolism and insulin sensitivity; Milk Thistle (50mg): Improves the bioavailability and absorption of berberine; Convenient Capsules: Easy-to-swallow for convenient dosing.</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -36836,7 +36410,7 @@
     <barcode>5033290261900</barcode>
     <price>24.46</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Magnesium Malate is a complex of magnesium and malic acid, providing a well‑absorbed form of magnesium.&lt;/p&gt;&lt;p&gt;Each daily dose provides 117mg of magnesium, from magnesium malate. Magnesium contributes to normal energy-yielding metabolism, normal muscle function, normal psychological function, the reduction of tiredness and fatigue, and the maintenance of normal bones and teeth.&lt;/p&gt;&lt;p&gt;Malic acid is naturally found in food and plays a role in energy metabolism.&lt;/p&gt;&lt;p&gt;Magnesium Malate is formulated without unnecessary additives and is free from common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -36864,7 +36438,7 @@
     <barcode>5033290120900</barcode>
     <price>25.70</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Magnesium Powder is an easy-to-use complex of magnesium malate and citrate, providing 200mg of magnesium per daily dose.&lt;/p&gt;&lt;p&gt;Magnesium contributes to normal energy-yielding metabolism, normal muscle function, normal psychological function, the reduction of tiredness and fatigue, and the maintenance of normal bones and muscle function.&lt;/p&gt;&lt;p&gt;Malic acid and citric acid are naturally found in food and the body, and play a role in energy metabolism.&lt;/p&gt;&lt;p&gt;Magnesium Powder mixes easily into water or juice, offering an alternative to tablets or capsules. It is formulated without unnecessary additives or common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -36976,7 +36550,7 @@
     <barcode>5033290339159</barcode>
     <price>22.19</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Nutrisorb Methyl B Complex is a liquid B vitamin formula in a simple, purified water base, providing folate as methylfolate and vitamin B12 as methylcobalamin.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, vitamin B6, folate, vitamin B12 and pantothenic acid contribute to normal energy-yielding metabolism and to the normal function of the nervous system. Niacin, vitamin B6, folate and vitamin B12 contribute to normal psychological function. Vitamin B6 and pantothenic acid contribute to the regulation of hormonal activity. Folate and vitamin B12 contribute to normal blood formation and normal homocysteine metabolism, and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Taken as drops under the tongue or mixed into a drink, it offers an alternative to tablets or capsules. Nutrisorb Methyl B Complex is free from unnecessary additives and common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37004,7 +36578,7 @@
     <barcode>5033290121266</barcode>
     <price>51.03</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Methyl Multinutrient is a high-potency multivitamin and mineral formula, with the dose split across two vegetable capsules. Folate is provided as methylfolate, vitamin B12 as methylcobalamin, and vitamin D3 as a vegan form derived from lichen.&lt;/p&gt;&lt;p&gt;Vitamin B6, B12 and folate contribute to normal homocysteine metabolism and to the normal function of the immune system. Vitamin B6, folate and vitamin B12 also contribute to normal psychological function and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, pantothenic acid and biotin contribute to normal energy-yielding metabolism, as do magnesium and iron, which also contribute to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Zinc contributes to normal fertility and reproduction. Vitamin C, vitamin D3, vitamin A, copper, zinc and selenium contribute to normal immune function. Vitamin C, vitamin E, zinc, copper, manganese and selenium contribute to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function, and vitamin D3 and vitamin K2 contribute to the maintenance of normal bones.&lt;/p&gt;&lt;p&gt;Methyl Multinutrient is formulated without unnecessary additives or common allergens, and all ingredients are vegan.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;&lt;p&gt;Grapeseed extract is associated with circulatory health through antioxidant action.* &lt;br&gt;&lt;small&gt;*Health claim pending European authorisation.&lt;/small&gt;&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37032,7 +36606,7 @@
     <barcode>5033290001230</barcode>
     <price>35.08</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Methyl Pregnancy Multinutrient is a high-potency multivitamin and mineral formula for conception, pregnancy and breastfeeding, with the dose split across two vegetable capsules.&lt;/p&gt;&lt;p&gt;Folate is provided as methylfolate, vitamin B12 as methylcobalamin, and vitamin D3 as a vegan form derived from lichen.&lt;/p&gt;&lt;p&gt;Folate contributes to normal maternal tissue growth during pregnancy, to normal blood formation, and to normal homocysteine metabolism. Zinc contributes to normal fertility and reproduction. Vitamin B6 contributes to the regulation of hormonal activity. Iron contributes to normal formation of red blood cells and haemoglobin, and to the reduction of tiredness and fatigue. Vitamin D3 contributes to the normal function of the immune system and to the maintenance of normal bones, teeth and muscle function. Vitamin C contributes to normal immune function and to normal collagen formation. Iodine contributes to normal thyroid function and normal cognitive function.&lt;/p&gt;&lt;p&gt;Methyl Pregnancy Multinutrient is formulated without unnecessary additives or common allergens, and all ingredients are vegan.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37116,7 +36690,7 @@
     <barcode>5033290260903</barcode>
     <price>50.99</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Quercetin Complex brings together four well‑studied nutrients — quercetin, bromelain, nettle leaf extract and vitamin C — in a single daily formula.&lt;/p&gt;&lt;p&gt;Each daily dose provides 900mg of quercetin, a flavonoid compound sourced from Sophora japonica flower. The formula is completed with 90mg of vitamin C, which contributes to the normal function of the immune system and to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Quercetin Complex is formulated without unnecessary additives and is free from common allergens in its core formulation. It's supplied in a vegetable capsule, making the product suitable for both vegetarians and vegans.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years, and this product reflects that same approach: named nutrients, stated doses, and no filler ingredients.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37144,7 +36718,7 @@
     <barcode>5033290180157</barcode>
     <price>22.19</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Nutrisorb Iron is a liquid iron formula in a simple purified water base, providing 7mg of iron as ferrous gluconate per 10-drop daily intake.&lt;/p&gt;&lt;p&gt;Iron contributes to normal red blood cell and haemoglobin formation, to normal oxygen transport in the body, to normal energy-yielding metabolism, to normal cognitive function, to normal immune function, and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Ferrous gluconate is an organic iron form, which some individuals find better tolerated than inorganic iron salts.&lt;/p&gt;&lt;p&gt;Taken as drops under the tongue or mixed into liquids, Nutrisorb Iron offers an alternative to tablets or capsules. It is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37172,7 +36746,7 @@
     <barcode>5033290311902</barcode>
     <price>26.12</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Slippery Elm Complex is a botanical complex combining slippery elm, marshmallow root and gamma oryzanol.&lt;/p&gt;&lt;p&gt;Slippery elm (&lt;em&gt;Ulmus fulva&lt;/em&gt;) inner bark provides mucilage to coat and support the digestive tract.* Marshmallow root (&lt;em&gt;Althaea officinalis&lt;/em&gt;), provided as a 4:1 extract equivalent to 450mg of marshmallow root, helps to support the digestion and is soothing for the mouth and throat.** Gamma oryzanol is a component derived from rice bran (&lt;em&gt;Oryza sativa&lt;/em&gt;).&lt;/p&gt;&lt;p&gt;Slippery Elm Complex is supplied in easy-to-swallow vegetable capsules and is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;&lt;p&gt;&lt;small&gt;*Health claim pending European authorisation (ID 3890).&lt;br&gt;**Health claim pending European authorisation (ID 3722 / 3723).&lt;/small&gt;&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37200,7 +36774,7 @@
     <barcode>5033290183608</barcode>
     <price>28.36</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Magnesium Taurate is a complex of magnesium and taurine, providing a well‑absorbed form of magnesium.&lt;/p&gt;&lt;p&gt;Each daily dose provides 146mg of magnesium, from magnesium taurate. Magnesium contributes to normal psychological function, to normal muscle function (including the heart muscle), and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Taurine is a conditionally‑essential amino acid, naturally found in high concentrations in the heart muscle, retina, bile, and nervous tissue.&lt;/p&gt;&lt;p&gt;Magnesium Taurate is formulated without unnecessary additives and is supplied in a vegetable capsule, making it suitable for both vegetarians and vegans.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37228,7 +36802,7 @@
     <barcode>5033290803902</barcode>
     <price>45.52</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Mega EPA is a pure fish oil capsule providing 524mg EPA and 375mg DHA per daily intake, from a natural triglyceride fish oil.&lt;/p&gt;&lt;p&gt;DHA and EPA contribute to normal heart function at a daily intake of 250mg DHA and EPA. DHA also contributes to the maintenance of normal brain function and vision at a daily intake of 250mg DHA.&lt;/p&gt;&lt;p&gt;Mega EPA is made using small fish — sardines, anchovies and mackerel — sourced low down the food chain to minimise pollutant exposure, from fisheries certified by Friends of the Sea. Natural mixed tocopherols (vitamin E) are added, which contribute to the protection of cells from oxidative stress and help maintain the oil's stability. Sweet orange oil is included to avoid a fishy aftertaste.&lt;/p&gt;&lt;p&gt;Mega EPA is free from bovine gelatin and unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37256,7 +36830,7 @@
     <barcode>5033290356606</barcode>
     <price>27.78</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Methyl B Complex is a high-potency B vitamin formula providing the metabolically active forms of key B vitamins, including folate as methylfolate, vitamin B12 as methylcobalamin and adenosylcobalamin, and vitamin B6 as pyridoxal-5-phosphate.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, pantothenic acid, biotin and vitamin B12 contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Niacin, vitamin B6, folate and vitamin B12 contribute to normal psychological function. Vitamin B6, folate and vitamin B12 also contribute to normal homocysteine metabolism, and vitamin B12 and folate contribute to normal blood formation.&lt;/p&gt;&lt;p&gt;Vitamin B6 contributes to the regulation of hormonal activity, and pantothenic acid contributes to normal synthesis of steroid hormones.&lt;/p&gt;&lt;p&gt;Methyl B Complex is supplied in easy-to-swallow vegetable capsules and is free from yeast and unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37284,7 +36858,7 @@
     <barcode>5033290247607</barcode>
     <price>56.24</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Male Multinutrient is a high-potency multivitamin and mineral formula for men's health.&lt;/p&gt;&lt;p&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood and to normal fertility and reproduction. Vitamin B1 contributes to normal heart function. Vitamin B1, B2, niacin, vitamin B6, folate, vitamin B12, pantothenic acid and biotin contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Selenium, zinc and copper contribute to normal immune function and to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function.&lt;/p&gt;&lt;p&gt;Nettle root is included as a 4:1 extract, equivalent to 100mg of nettle root. CoEnzyme Q10 occurs naturally in the body, including the heart, liver, kidneys and muscle. Lycopene is a carotenoid, provided here from tomato extract.&lt;/p&gt;&lt;p&gt;Male Multinutrient is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
@@ -37340,7 +36914,7 @@
     <barcode>5033290342159</barcode>
     <price>28.75</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity/>
     <description>&lt;p&gt;BioCare Nutrisorb Methyl B12 is a liquid vitamin B12 formula in a simple purified water base, providing 500µg of vitamin B12 as methylcobalamin and adenosylcobalamin per daily intake.&lt;/p&gt;&lt;p&gt;Vitamin B12 contributes to the reduction of tiredness and fatigue, to the normal function of the nervous system, and to normal homocysteine metabolism.&lt;/p&gt;&lt;p&gt;Taken as drops under the tongue or mixed into liquids, Nutrisorb Methyl B12 offers an alternative to tablets or capsules.&lt;/p&gt;&lt;p&gt;Nutrisorb Methyl B12 is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
