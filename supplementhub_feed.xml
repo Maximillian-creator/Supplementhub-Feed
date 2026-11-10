@@ -9988,7 +9988,7 @@
     <tags>low_vat_rate</tags>
     <price>56.67</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>app-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_APP_white_fee7bf07-b76a-4305-a8c0-473ca2923ee6.jpg?v=1764586240</image>
@@ -14132,7 +14132,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>67.57</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>tudca-tauroursodeoxycholic-acid-supplement-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA.webp?v=1774048710</image>
@@ -17861,7 +17861,7 @@
     <tags>low_vat_rate</tags>
     <price>47.48</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>once-daily-multivitamin-60-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VNONE60.REV00_Front.jpg?v=1764585831</image>
