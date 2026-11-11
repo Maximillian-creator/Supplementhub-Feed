@@ -10570,7 +10570,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>lipocalm-50ml</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_039-LipoCalm_d37f129c-4dc5-4a63-99d0-4e2d95fcf422.png?v=1764586863</image>
@@ -10910,7 +10910,7 @@
     <tags>low_vat_rate</tags>
     <price>64.30</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>dim-ultra-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0098-DIM-Ultra.jpg?v=1764586855</image>
@@ -11353,7 +11353,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>nac-glycine-powder-159g-pure-encapsulations</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0170-NAC-Glycine-Powder_a139968c-31f2-4b98-9f65-f3406395c952.png?v=1764586857</image>
@@ -13824,7 +13824,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pure-collagen-450g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Collagen_915ca8c8-8e5f-4815-8d46-86b0b7b26109.png?v=1764586533</image>
@@ -16670,7 +16670,7 @@
     <tags>low_vat_rate</tags>
     <price>85.01</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>kidney-care-100ml-quicksilver-scientific</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/QSL_070-Kidney-Care.png?v=1764586735</image>
@@ -17234,7 +17234,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>biofilm-disruptor-60-capsules-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Biofilm_20Disruptor_20-_2060_20Capsules_20Amy_20Myers_20MD_01.webp?v=1764585921</image>
@@ -18402,7 +18402,7 @@
     <tags>low_vat_rate</tags>
     <price>34.87</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>thyroid-32-5-90-capsules-priority-one</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Thyroid_32.5_R3-View_1_2000x2000_506dc966-db48-431c-99b1-772c5226f9aa.jpg?v=1764586177</image>
@@ -19840,7 +19840,7 @@
     <tags>low_vat_rate</tags>
     <price>54.16</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-pc-90-softgels-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-PC-SG_R_medium_20_281_29.webp?v=1764586521</image>
@@ -22083,7 +22083,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nuadha-1000-90-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/nuadha-1000-132caps.webp?v=1773967132</image>
@@ -22392,7 +22392,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>88.28</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>nuaepa-1200-90-caps</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/nuaepa-1200-30caps.webp?v=1772752871</image>
@@ -24583,7 +24583,7 @@
     <tags/>
     <price>132.40</price>
     <compare_at_price>147.12</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>preconception-and-pregnancy-nutrition-protocol</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Preconception_Pregnancy_Nutrition_Protocol_1200x400_d3fe7692-8e07-463b-90f3-3db358e7b497.png?v=1790861262</image>
