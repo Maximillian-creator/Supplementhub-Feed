@@ -2484,7 +2484,7 @@
     <tags>low_vat_rate</tags>
     <price>22.88</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>selenium-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0118-Selenium.jpg?v=1764586754</image>
@@ -5677,7 +5677,7 @@
     <tags>low_vat_rate</tags>
     <price>46.86</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>l-theanine-200mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_87_c59a6cab-5157-4796-b097-e521d9c44264.png?v=1764586382</image>
@@ -5717,7 +5717,7 @@
     <tags>low_vat_rate</tags>
     <price>44.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>r-form-lipoic-acid-100mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_93_ae46e0dc-2fd7-41d1-a1d3-1fdef0873f08.png?v=1764586646</image>
@@ -6385,7 +6385,7 @@
     <tags>low_vat_rate</tags>
     <price>49.04</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>citicoline-cdp-choline-250mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71j16H05m_2BL._AC_SL1500.jpg?v=1764586770</image>
@@ -6615,7 +6615,7 @@
     <tags>low_vat_rate</tags>
     <price>36.36</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>caprylic-acid-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_286_29.jpg?v=1764586326</image>
@@ -6635,7 +6635,7 @@
     <tags>low_vat_rate</tags>
     <price>49.66</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>candifense-120-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_288_29.jpg?v=1764586579</image>
@@ -7020,7 +7020,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>betaine-hcl-pepsin-and-gentian-root-extract-225-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_10-Betaine-HCl-Pepsin_dca5c5a4-84bc-4e7c-95f6-d18b6649e861.png?v=1764585869</image>
@@ -7084,7 +7084,7 @@
     <tags>low_vat_rate</tags>
     <price>60.31</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultra-pure-fish-oil-700-120-softgels</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_51_2badf336-7dfb-4e79-908e-69ac456d78a2.png?v=1764585593</image>
@@ -8190,7 +8190,7 @@
     <tags>low_vat_rate</tags>
     <price>111.69</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>castor-oil-pack</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CAS_01_dffc3eba-57b5-42df-afd6-ca4fd9ea97a4.png?v=1764585996</image>
@@ -10910,7 +10910,7 @@
     <tags>low_vat_rate</tags>
     <price>64.30</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>dim-ultra-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0098-DIM-Ultra.jpg?v=1764586855</image>
@@ -11635,7 +11635,7 @@
     <tags>low_vat_rate</tags>
     <price>16.34</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mushroom-coffee-box-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/download_20_281_29_3fue5g.webp?v=1776810401</image>
@@ -12311,7 +12311,7 @@
     <tags>low_vat_rate</tags>
     <price>75.20</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>allithiamine-b1-50mg-250-capsules-ecological-formulas</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/AllThiamineEcologicalFormulas_01.webp?v=1789079221</image>
@@ -14132,7 +14132,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>67.57</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>tudca-tauroursodeoxycholic-acid-supplement-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TUDCA.webp?v=1774048710</image>
@@ -14199,7 +14199,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>32.69</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>butyrate-sodium-60-capsules-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T111442.983.webp?v=1764586185</image>
@@ -14508,7 +14508,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>137.33</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-236-59-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T141006.678.webp?v=1764586185</image>
@@ -14528,7 +14528,7 @@
     <tags>all_products_tag, body_bio, low_vat_rate</tags>
     <price>78.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bodybio-pc-liquid-phosphatidylcholine-118-29-ml-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-18T133630.016.webp?v=1764586354</image>
@@ -15040,7 +15040,7 @@
     <tags>low_vat_rate</tags>
     <price>152.59</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-urolithin-a-60-capsules-codeage</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/CA_009-1.png?v=1764585651</image>
@@ -15071,7 +15071,7 @@
     <tags>low_vat_rate</tags>
     <price>57.76</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liposomal-ovarian-inositol-120-capsules-codeage</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/1000_front_20_281_29.webp?v=1771975127</image>
@@ -16738,7 +16738,7 @@
     <tags>low_vat_rate</tags>
     <price>39.99</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pancreatin-ox-bile-extract-60-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_36.png?v=1764586554</image>
@@ -16779,7 +16779,7 @@
     <tags>low_vat_rate</tags>
     <price>55.58</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>paleo-protein-double-chocolate-20-servings-amy-myers-md</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Paleo_20Protein_20Double_20Chocolate_20-_2020_20ServingsAmy_20Myers_20MD_01.webp?v=1764586264</image>
@@ -17142,7 +17142,7 @@
     <tags>low_vat_rate</tags>
     <price>29.42</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>kyolic-aged-garlic-extract-cardiovascular-formula-100-wakunaga</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20_2877_29_5mtbtk.png?v=1764586349</image>
@@ -17341,7 +17341,7 @@
     <tags>body_bio, low_vat_rate</tags>
     <price>25.06</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>liquid-mineral-manganese-body-bio</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-09-25T155037.016.webp?v=1764586348</image>
@@ -17881,7 +17881,7 @@
     <tags>low_vat_rate</tags>
     <price>27.17</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>once-daily-multivitamin-30-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VNONE60.REV00_Front_903a05a3-1c23-470e-b0a5-7585aed3f13a.jpg?v=1764586262</image>
@@ -24571,6 +24571,43 @@
     <option1>Default Title</option1>
     <option2/>
     <weight>152.0</weight>
+    <weight_unit>GRAMS</weight_unit>
+  </product>
+  <product>
+    <sku>NUM_001</sku>
+    <barcode>5056678800195</barcode>
+    <title>Magnesium Bisglycinate (Non-Buffered) - 90 Capsules | NuMatter</title>
+    <vendor>NuMatter</vendor>
+    <product_type/>
+    <description>&lt;p&gt;Not all magnesium is created equal — and the form matters as much as the dose. NuMatter Magnesium Bisglycinate uses Albion® TRAACS, a fully reacted, non-buffered chelate recognised for its high bioavailability. This bisglycinate structure is gentle on digestion, without the harsh laxative effect associated with some other magnesium forms.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Key Benefits of Magnesium Bisglycinate&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;b&gt;High absorption&lt;/b&gt; — The bisglycinate chelate helps magnesium pass through the digestive tract efficiently, making it one of the most bioavailable forms.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Gentle on the stomach&lt;/b&gt; — Unlike magnesium oxide or citrate, bisglycinate is far less likely to cause digestive discomfort or laxative effects.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Contributes to normal muscle function&lt;/b&gt; — Magnesium plays a key role in how muscles contract and relax.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Contributes to normal nervous system function and normal psychological function&lt;/b&gt; — supporting the body's natural signalling processes.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Helps reduce tiredness and fatigue&lt;/b&gt; — one of magnesium's core, well-established roles in the body.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Contributes to normal energy-yielding metabolism&lt;/b&gt; — magnesium is required for the body's natural energy production processes.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Contributes to normal protein synthesis and electrolyte balance&lt;/b&gt; — supporting everyday physiological function.&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;Ideal for long-term use&lt;/b&gt; — Its gentle nature makes it suitable for daily supplementation without the side effects associated with harsher forms.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;NuMatter Magnesium Bisglycinate delivers pure, fully reacted Albion® TRAACS magnesium bisglycinate, a practitioner-trusted chelated form known for its excellent absorption and gentle digestive feel. Designed for customers who want a premium, stomach-friendly magnesium, it offers reliable bioavailability without the discomfort often associated with harsher magnesium types.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Non-buffered&lt;/strong&gt; on a supplement bottle means the mineral is provided in its &lt;strong&gt;pure form&lt;/strong&gt;, without being mixed or &quot;buffered&quot; with a cheaper, inorganic compound. This form is far less likely to cause digestive discomfort or laxative effects, making it ideal for consistent, long-term daily use.&lt;/p&gt;&lt;p&gt;Each capsule contains 500 mg of Albion® TRAACS magnesium bisglycinate, delivering 50 mg of fully chelated elemental magnesium. NuMatter prioritises purity, absorption and quality, offering a premium magnesium designed with real, well-substantiated benefits.&lt;/p&gt;</description>
+    <tags>all_products_tag, low_vat_rate</tags>
+    <price>26.99</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>0</quantity>
+    <handle>magnesium-bisglycinate-90-capsules-numatter</handle>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Front_20NUM_01-Magnesium-Bisglycinate.png?v=1790288385</image>
+    <variant_title>Default Title</variant_title>
+    <option1>Default Title</option1>
+    <option2/>
+    <weight>45.0</weight>
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
