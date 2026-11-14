@@ -10578,26 +10578,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>BB_13</sku>
-    <barcode>899870002258</barcode>
-    <title>GI Detox INT - 60 Capsules | Biocidin Botanicals</title>
-    <vendor>Biocidin Botanicals</vendor>
-    <product_type/>
-    <description>&lt;p&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; white-space-collapse: preserve;&quot;&gt;This supplement contains activated Charcoal, aloe vera gel, Velay green clay, Apple pectin, Organic silicon and Humic acid. Serving size is 1. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;More information about this product&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 13px; white-space-collapse: preserve;&quot;&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>56.67</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>gi-detox-int-60-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/GI_Detox-INT-s.png?v=1764585587</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>64.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>AAM_10-90</sku>
     <barcode>855571001778</barcode>
     <title>Floraphage (Bacteriophage) - 90 Capsules | Arthur Andrew Medical</title>
@@ -18177,7 +18157,7 @@
     <tags>low_vat_rate</tags>
     <price>29.77</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>performance-lemon-orange-electrolytes-sachets-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Lemon_20Orange_20Electrolytes_20-_2031_20Portions_20NoordCode_01.webp?v=1764585739</image>
