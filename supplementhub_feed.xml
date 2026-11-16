@@ -334,7 +334,7 @@
     <tags>low_vat_rate</tags>
     <price>47.03</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>zinc-carnosine-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Zinc_20Carnosine_20-_2060_20Capsules_20_20Seeking_20Health_01.webp?v=1764586484</image>
@@ -6392,7 +6392,7 @@
     <tags>low_vat_rate</tags>
     <price>80.65</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>lactoferrin-250-mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71-VQQprT3L._AC_SL1500_7b2d9291-6527-472e-bcc5-00da9617fc08.jpg?v=1764585911</image>
@@ -20423,7 +20423,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>63.30</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>omegagenics-high-strength-omega-3-fish-oil-60-softgels-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OmegaGenics_High_Strength_60_WEB.webp?v=1768432658</image>
