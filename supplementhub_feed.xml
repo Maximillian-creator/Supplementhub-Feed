@@ -5059,7 +5059,7 @@
     <tags>low_vat_rate</tags>
     <price>35.63</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>b-12-methyl-folate-1-000-mcg-800mcg-100-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_06-B12-Methyl-Folate_94d0d264-47e5-4836-942e-8e7b3b1d5b73.png?v=1764586728</image>
@@ -9245,7 +9245,7 @@
     <tags>low_vat_rate</tags>
     <price>42.50</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>support-liver-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BM_17-Support-Liver.jpg?v=1764586789</image>
@@ -13751,7 +13751,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pure-collagen-450g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Collagen_915ca8c8-8e5f-4815-8d46-86b0b7b26109.png?v=1764586533</image>
@@ -20307,7 +20307,7 @@
     <tags>low_vat_rate</tags>
     <price>54.50</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>bromelain-2400-500mg-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Untitled_20design_20_286_29.png?v=1765755428</image>
@@ -20423,7 +20423,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>63.30</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>omegagenics-high-strength-omega-3-fish-oil-60-softgels-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OmegaGenics_High_Strength_60_WEB.webp?v=1768432658</image>
@@ -20793,7 +20793,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>33.55</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>eskimo-3-bright-kids-fish-oil-jelly-splats-27-jellies-metagenics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Eskimo-3_Splats_Bright_Kids_Jelly_Splats.webp?v=1768433036</image>
@@ -20933,7 +20933,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>48.44</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>digestive-enzymes-hcl-complex</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Saw_Palmetto__2B_Stinging_Nettle_Complex_60_WEB.webp?v=1768433209</image>
@@ -24546,7 +24546,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>14.68</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>evening-primrose-oil-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_evening_primrose_oil_web.webp?v=1793173032</image>
@@ -24562,7 +24562,7 @@
     <title>Collagen Complex 60 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Complete Collagen Powder combines bioactive collagen peptides (VERISOL®), eggshell membrane (Ovomet®) — a source of collagen types I, V and X, and elastin — silica from bamboo extract, and vitamin C.&lt;/p&gt;&lt;p&gt;Vitamin C contributes to normal collagen formation for the normal function of bones, teeth, cartilage, gums, skin and blood vessels. Vitamin C also contributes to normal immune function, to the reduction of tiredness and fatigue, and to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Collagen is a structural protein found throughout the body's connective tissue, including skin, tendons, ligaments and bone. Elastin is a protein found in the extracellular matrix of connective tissue, alongside collagen.&lt;/p&gt;&lt;p&gt;Complete Collagen Powder is a tasteless powder that mixes easily into food or hot and cold drinks, and is formulated without unnecessary additives. Each pack provides approximately 30 days' supply at 3g per day, in recyclable packaging.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <description>&lt;p&gt;Collagen Complex combines type 1 marine collagen and hyaluronic acid with vitamin C, zinc and a selection of flavonoids, in a daily portion of 2 capsules.&lt;/p&gt;&lt;p&gt;Vitamin C contributes to normal collagen formation for the normal function of skin, bones and cartilage, and to the protection of cells from oxidative stress. Zinc contributes to the maintenance of normal skin and bones, and to normal DNA and protein synthesis. The formula also provides Nutritide® IM50, a yeast-derived source of nucleotides, together with the flavonoids hesperidin and rutin, and rosehip powder.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>49.85</price>
     <compare_at_price/>
@@ -24582,7 +24582,7 @@
     <title>Thyroid Complex 60 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Thyroid Complex combines iodine, selenium and B vitamins with tyrosine, zinc and N-acetyl cysteine.&lt;/p&gt;&lt;p&gt;Iodine and selenium contribute to normal thyroid function. Vitamin B2 and niacin (B3) contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Selenium also contributes to the protection of cells from oxidative stress and to normal immune function. Zinc contributes to normal DNA synthesis and normal immune function. Vitamin C contributes to normal immune function and to normal collagen formation. Vitamin A contributes to normal vision and normal immune function. Vitamin B1 contributes to normal nervous system function.&lt;/p&gt;&lt;p&gt;Tyrosine is an amino acid used by the thyroid gland as a building block for thyroid hormone production. N-acetyl cysteine is a derivative of the amino acid cysteine.&lt;/p&gt;&lt;p&gt;Thyroid Complex is formulated without unnecessary additives or common allergens.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <description>&lt;p&gt;BioCare Thyroid Complex combines iodine, selenium and B vitamins with tyrosine, zinc and N-acetyl cysteine.&lt;/p&gt;&lt;p&gt;Iodine and selenium contribute to normal thyroid function. Vitamin B2 and niacin (B3) contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Selenium also contributes to the protection of cells from oxidative stress and to normal immune function. Zinc contributes to normal DNA synthesis and normal immune function. Vitamin C contributes to normal immune function and to normal collagen formation for the normal function of blood vessels, bones, cartilage, gums, skin and teeth. Vitamin A contributes to normal vision and normal immune function. Vitamin B1 contributes to normal nervous system function.&lt;/p&gt;&lt;p&gt;Tyrosine is an amino acid. N-acetyl cysteine is a derivative of the amino acid cysteine.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>30.60</price>
     <compare_at_price/>
@@ -24682,7 +24682,7 @@
     <title>Polyzyme 90 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Polyzyme is an enzyme complex providing 13 distinct enzymes in a single capsule, taken with each main meal.&lt;/p&gt;&lt;p&gt;Proteases break down proteins into smaller peptides and amino acids; protease 3.0 has an acidic pH optimum, and protease 4.5 a less acidic pH optimum. Lipase breaks down fats into fatty acids and glycerol. Amylase, diastase and glucoamylase break down starches into sugars. Lactase breaks down lactose, the sugar found in dairy products. Invertase breaks down sucrose. Cellulase and xylanase break down components of plant fibre. Alpha galactosidase breaks down galacto-oligosaccharides found in legumes. Phytase breaks down phytic acid, found in grains, nuts, seeds and legumes. Bromelain is a proteolytic enzyme derived from pineapple.&lt;/p&gt;&lt;p&gt;Polyzyme is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <description>&lt;p&gt;BioCare Polyzyme is an enzyme complex providing 13 distinct enzymes in a single capsule, taken with each main meal.&lt;/p&gt;&lt;p&gt;Proteases break down proteins into smaller peptides and amino acids; protease 3.0 has an acidic pH optimum, and protease 4.5 a less acidic pH optimum. Lipase breaks down fats into fatty acids and glycerol. Amylase, diastase and glucoamylase break down starches into sugars. Lactase breaks down lactose, the sugar found in dairy products. Invertase breaks down sucrose. Cellulase and xylanase break down components of plant fibre. Alpha galactosidase breaks down galacto-oligosaccharides found in legumes. Phytase breaks down phytic acid, found in grains, nuts, seeds and legumes. Bromelain is a proteolytic enzyme derived from pineapple.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>62.49</price>
     <compare_at_price/>
@@ -24722,7 +24722,7 @@
     <title>Methyl Multinutrient 60 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Methyl Multinutrient is a high-potency multivitamin and mineral formula, with the dose split across two vegetable capsules. Folate is provided as methylfolate, vitamin B12 as methylcobalamin, and vitamin D3 as a vegan form derived from lichen.&lt;/p&gt;&lt;p&gt;Vitamin B6, B12 and folate contribute to normal homocysteine metabolism and to the normal function of the immune system. Vitamin B6, folate and vitamin B12 also contribute to normal psychological function and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, pantothenic acid and biotin contribute to normal energy-yielding metabolism, as do magnesium and iron, which also contribute to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Zinc contributes to normal fertility and reproduction. Vitamin C, vitamin D3, vitamin A, copper, zinc and selenium contribute to normal immune function. Vitamin C, vitamin E, zinc, copper, manganese and selenium contribute to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function, and vitamin D3 and vitamin K2 contribute to the maintenance of normal bones.&lt;/p&gt;&lt;p&gt;Methyl Multinutrient is formulated without unnecessary additives or common allergens, and all ingredients are vegan.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;&lt;p&gt;Grapeseed extract is associated with circulatory health through antioxidant action.* &lt;br&gt;&lt;small&gt;*Health claim pending European authorisation.&lt;/small&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;BioCare Methyl Multinutrient is a high-potency multivitamin and mineral formula, with the dose split across two vegetable capsules. Folate is provided as methylfolate, vitamin B12 as methylcobalamin, and vitamin D3 as a vegan form derived from lichen.&lt;/p&gt;&lt;p&gt;Vitamin B6, B12 and folate contribute to normal homocysteine metabolism and to the normal function of the immune system. Vitamin B6, folate and vitamin B12 also contribute to normal psychological function and to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Vitamin B1, B2, niacin, pantothenic acid and biotin contribute to normal energy-yielding metabolism, as do magnesium and iron, which also contribute to the reduction of tiredness and fatigue.&lt;/p&gt;&lt;p&gt;Zinc contributes to normal fertility and reproduction. Vitamin C, vitamin D3, vitamin A, copper, zinc and selenium contribute to normal immune function. Vitamin C, vitamin E, zinc, copper, manganese and selenium contribute to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function, and vitamin D3 and vitamin K2 contribute to the maintenance of normal bones.&lt;/p&gt;&lt;p&gt;All ingredients are vegan.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>51.03</price>
     <compare_at_price/>
@@ -24762,11 +24762,11 @@
     <title>Female Multinutrient 90 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Female Multinutrient is a high-potency multivitamin and mineral formula for women's health, with the dose split across three vegetable capsules. Folate is provided as methylfolate and vitamin B12 as methylcobalamin.&lt;/p&gt;&lt;p&gt;Vitamin B6 contributes to the regulation of hormonal activity and to normal psychological function. Zinc contributes to normal fertility and reproduction and to the maintenance of normal skin, hair and nails. Iron contributes to normal formation of red blood cells and haemoglobin, and to normal cognitive function. Vitamin B1, B2, niacin, vitamin B6, folate, vitamin B12, pantothenic acid and biotin contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Vitamin D3 contributes to normal immune function and to the maintenance of normal bones. Vitamin C, zinc and selenium contribute to normal immune function and to the protection of cells from oxidative stress. Magnesium contributes to the maintenance of normal bones and to normal muscle function.&lt;/p&gt;&lt;p&gt;Green tea extract is included as a 10:1 extract, equivalent to 200mg of green tea. Rosemary extract is included as a 10:1 extract, equivalent to 50mg of rosemary, standardised botanicals traditionally used in European herbal practice.&lt;/p&gt;&lt;p&gt;Female Multinutrient is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <description>&lt;p&gt;BioCare Female Multinutrient is a high-potency multivitamin and mineral formula for women's health, with the dose split across three vegetable capsules. Folate is provided as methylfolate and vitamin B12 as methylcobalamin.&lt;/p&gt;&lt;p&gt;Vitamin B6 contributes to the regulation of hormonal activity and to normal psychological function. Zinc contributes to normal fertility and reproduction and to the maintenance of normal skin, hair and nails. Iron contributes to normal formation of red blood cells and haemoglobin, and to normal cognitive function. Vitamin B1, B2, niacin, vitamin B6, vitamin B12, pantothenic acid and biotin contribute to normal energy-yielding metabolism. Vitamin B2, niacin, vitamin B6, folate, vitamin B12 and pantothenic acid contribute to the reduction of tiredness and fatigue. Vitamin D3 contributes to normal immune function and to the maintenance of normal bones. Vitamin C, zinc and selenium contribute to normal immune function and to the protection of cells from oxidative stress. Magnesium contributes to the maintenance of normal bones and to normal muscle function.&lt;/p&gt;&lt;p&gt;Green tea extract is included as a 10:1 extract, equivalent to 200mg of green tea leaf, and rosemary extract as a 10:1 extract, equivalent to 50mg of rosemary leaf.&lt;/p&gt;&lt;p&gt;Female Multinutrient is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>51.64</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>female-multinutrient-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_female_multinutrient_web.webp?v=1793173558</image>
@@ -24786,7 +24786,7 @@
     <tags>all_products_tag, low_vat_rate</tags>
     <price>20.75</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>vitamin-c-powder-60g</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/biocare_vitamin_c_powder_web.webp?v=1793173586</image>
@@ -24802,7 +24802,7 @@
     <title>Quercetin Complex 90 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Quercetin Complex brings together four well‑studied nutrients — quercetin, bromelain, nettle leaf extract and vitamin C — in a single daily formula.&lt;/p&gt;&lt;p&gt;Each daily dose provides 900mg of quercetin, a flavonoid compound sourced from Sophora japonica flower. The formula is completed with 90mg of vitamin C, which contributes to the normal function of the immune system and to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;Quercetin Complex is formulated without unnecessary additives and is free from common allergens in its core formulation. It's supplied in a vegetable capsule, making the product suitable for both vegetarians and vegans.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years, and this product reflects that same approach: named nutrients, stated doses, and no filler ingredients.&lt;/p&gt;</description>
+    <description>&lt;p&gt;BioCare Quercetin Complex brings together four well‑studied ingredients — quercetin, bromelain, nettle leaf extract and vitamin C — in a single daily formula.&lt;/p&gt;&lt;p&gt;Each daily dose provides 900mg of quercetin, a flavonoid compound sourced from Sophora japonica flower. The formula is completed with 90mg of vitamin C, which contributes to the normal function of the immune system and to the protection of cells from oxidative stress.&lt;/p&gt;&lt;p&gt;It's supplied in a vegetable capsule, making the product suitable for both vegetarians and vegans.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years, and this product reflects that same approach: named ingredients and stated doses.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>50.99</price>
     <compare_at_price/>
@@ -24882,7 +24882,7 @@
     <title>Mega EPA 90 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Mega EPA is a pure fish oil capsule providing 524mg EPA and 375mg DHA per daily intake, from a natural triglyceride fish oil.&lt;/p&gt;&lt;p&gt;DHA and EPA contribute to normal heart function at a daily intake of 250mg DHA and EPA. DHA also contributes to the maintenance of normal brain function and vision at a daily intake of 250mg DHA.&lt;/p&gt;&lt;p&gt;Mega EPA is made using small fish — sardines, anchovies and mackerel — sourced low down the food chain to minimise pollutant exposure, from fisheries certified by Friends of the Sea. Natural mixed tocopherols (vitamin E) are added, which contribute to the protection of cells from oxidative stress and help maintain the oil's stability. Sweet orange oil is included to avoid a fishy aftertaste.&lt;/p&gt;&lt;p&gt;Mega EPA is free from bovine gelatin and unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <description>&lt;p&gt;BioCare Mega EPA is a pure fish oil capsule providing a rich 524mg EPA and 375mg DHA per daily intake of two capsules, from a natural triglyceride fish oil of outstanding quality.&lt;/p&gt;&lt;p&gt;DHA and EPA contribute to normal heart function at a daily intake of 250mg DHA and EPA. DHA also contributes to the maintenance of normal brain function and vision at a daily intake of 250mg DHA.&lt;/p&gt;&lt;p&gt;Mega EPA is made using small fish — sardines, anchovies and mackerel — sourced low down the food chain to minimise pollutant exposure, from sustainable fisheries certified by Friends of the Sea. Natural mixed tocopherols are added to help maintain the oil's stability. Sweet orange oil is included to avoid a fishy aftertaste.&lt;/p&gt;&lt;p&gt;Mega EPA comes in easy to swallow capsules made with fish gelatin, and is free from bovine gelatin.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>45.52</price>
     <compare_at_price/>
@@ -24922,7 +24922,7 @@
     <title>Male Multinutrient 60 Capsules | BioCare</title>
     <vendor>BioCare</vendor>
     <product_type/>
-    <description>&lt;p&gt;BioCare Male Multinutrient is a high-potency multivitamin and mineral formula for men's health.&lt;/p&gt;&lt;p&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood and to normal fertility and reproduction. Vitamin B1 contributes to normal heart function. Vitamin B1, B2, niacin, vitamin B6, folate, vitamin B12, pantothenic acid and biotin contribute to normal energy-yielding metabolism and to the reduction of tiredness and fatigue. Selenium, zinc and copper contribute to normal immune function and to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function.&lt;/p&gt;&lt;p&gt;Nettle root is included as a 4:1 extract, equivalent to 100mg of nettle root. CoEnzyme Q10 occurs naturally in the body, including the heart, liver, kidneys and muscle. Lycopene is a carotenoid, provided here from tomato extract.&lt;/p&gt;&lt;p&gt;Male Multinutrient is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
+    <description>&lt;p&gt;BioCare Male Multinutrient is a high-potency multivitamin and mineral formula for men's health.&lt;/p&gt;&lt;p&gt;Zinc contributes to the maintenance of normal testosterone levels in the blood and to normal fertility and reproduction. Vitamin B1 contributes to normal heart function. Vitamin B1, B2, niacin, vitamin B6, vitamin B12, pantothenic acid and biotin contribute to normal energy-yielding metabolism. Vitamin B2, niacin, vitamin B6, folate, vitamin B12 and pantothenic acid contribute to the reduction of tiredness and fatigue. Selenium, zinc and copper contribute to normal immune function and to the protection of cells from oxidative stress. Iodine contributes to normal thyroid function.&lt;/p&gt;&lt;p&gt;Nettle root is included as a 4:1 extract, equivalent to 100mg of nettle root. CoEnzyme Q10 occurs naturally in the body, including the heart, liver, kidneys and muscle. Lycopene is a carotenoid, provided here from tomato extract.&lt;/p&gt;&lt;p&gt;Male Multinutrient is formulated without unnecessary additives.&lt;/p&gt;&lt;p&gt;BioCare has been formulating nutritional supplements for over 30 years.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
     <price>56.24</price>
     <compare_at_price/>
