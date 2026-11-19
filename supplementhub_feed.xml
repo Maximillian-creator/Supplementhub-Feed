@@ -978,26 +978,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>NUR_06</sku>
-    <barcode>628747602068</barcode>
-    <title>Liver - 90 Capsules | New Roots Herbal</title>
-    <vendor>New Roots Herbal</vendor>
-    <product_type/>
-    <description>&lt;p data-mce-fragment=&quot;1&quot;&gt;New Roots' Liver supplement is a combination of 7 plant extracts that provide beneficial support to liver health and liver function.&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;• Contains milk thistle to help protect the liver&lt;br data-mce-fragment=&quot;1&quot;&gt;• Supports liver detoxification&lt;br data-mce-fragment=&quot;1&quot;&gt;• Contains curcumin to help prevent liver toxicity&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to lowering levels of toxins&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to healthier skin&lt;br data-mce-fragment=&quot;1&quot;&gt;• Can contribute to overall health&lt;br data-mce-fragment=&quot;1&quot;&gt;&lt;br data-mce-fragment=&quot;1&quot;&gt;This formulation supports the liver and its function, offering a well-rounded plan for reconstruction, cleansing and detoxification. It provides protection for smokers and drinkers and people who live or work in highly polluted areas. It can enhance the liver’s ability to eliminate toxins, and contributes to healthier glowing skin.&lt;/p&gt;&lt;p data-mce-fragment=&quot;1&quot;&gt;Suggested use is 1-2 capsules 3 times daily.&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>82.83</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>0</quantity>
-    <handle>liver-90-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/FE0206NRHEurope_Liver90capsules_99c72bcb-ac1f-4668-9835-d2f35a293cb4.png?v=1764586346</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>112.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>NUR_07</sku>
     <barcode>628747602327</barcode>
     <title>Menopeace - 60 Capsules | New Roots Herbal</title>
@@ -3047,7 +3027,7 @@
     <tags>low_vat_rate</tags>
     <price>55.63</price>
     <compare_at_price>65.39</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>histaminx-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HISTA-X-CAP_1_Front_R.png?v=1764585964</image>
@@ -3847,7 +3827,7 @@
     <tags>low_vat_rate</tags>
     <price>25.64</price>
     <compare_at_price>27.24</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>trace-minerals-complex-ii-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/TRAC-MIN-II-CAP_1_Front_R.png?v=1764586565</image>
@@ -6226,7 +6206,7 @@
     <available>true</available>
     <quantity>0</quantity>
     <handle>citicoline-cdp-choline-250mg-60-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/71j16H05m_2BL._AC_SL1500.jpg?v=1764586770</image>
+    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/jarrow_cdpcholine_20_281_29.webp?v=1795044025</image>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
     <option2/>
@@ -6698,7 +6678,7 @@
     <tags>low_vat_rate</tags>
     <price>15.25</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>acs-200-silver-gel-60ml-1</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/results_rna_-_gel_60ml_silver_dd08f003-490b-4ccf-a63f-e4b4bb929c75.jpg?v=1764586849</image>
@@ -11001,7 +10981,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hdt-equilibrium-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_28-HdT-Equilibrium.png?v=1764585669</image>
@@ -11021,7 +11001,7 @@
     <tags>low_vat_rate</tags>
     <price>38.14</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>hdt-microbiota-60-capsules-hifas-da-terra</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/HDT_29-HdT-Microbiota.png?v=1764586202</image>
@@ -11433,7 +11413,7 @@
     <tags>low_vat_rate</tags>
     <price>16.34</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>mushroom-coffee-box-12-sachets-london-nootropics</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/download_20_281_29_3fue5g.webp?v=1776810401</image>
@@ -13189,7 +13169,7 @@
     <tags/>
     <price>16.10</price>
     <compare_at_price>41.41</compare_at_price>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>ultimate-omega-formula-60-softgels-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Ultimate_20omega_20formula.png?v=1764585570</image>
@@ -13596,7 +13576,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>pure-collagen-450g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Collagen_915ca8c8-8e5f-4815-8d46-86b0b7b26109.png?v=1764586533</image>
@@ -14446,7 +14426,7 @@
     <tags>low_vat_rate</tags>
     <price>45.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>organic-pure-whey-650g-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pure_20Whey_20.png?v=1764586443</image>
@@ -17992,7 +17972,7 @@
     <tags>low_vat_rate</tags>
     <price>29.77</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>performance-lemon-orange-electrolytes-sachets-noordcode</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Lemon_20Orange_20Electrolytes_20-_2031_20Portions_20NoordCode_01.webp?v=1764585739</image>
@@ -18163,7 +18143,7 @@
     <tags>low_vat_rate</tags>
     <price>30.47</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>performance-unflavoured-electrolytes</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Performance_20Unflavoured_20Electrolytes_2031_20portions_20NoordCode_01.webp?v=1764586177</image>
@@ -24824,26 +24804,6 @@
     <available>false</available>
     <quantity>0</quantity>
     <handle>immune-support-daily-defense-drops-hifas-da-terra</handle>
-    <image/>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>81.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
-    <sku>HDT_39</sku>
-    <barcode>8436561603053</barcode>
-    <title>Clear Mind - Happy Gut - Drops | Hifas da Terra</title>
-    <vendor>Hifas da Terra</vendor>
-    <product_type/>
-    <description>&lt;p&gt;Happy Gut from The Mushroom Pharmacy by Hifas da Terra is a liquid food supplement that combines two mushroom extracts with vitamin B3. Each daily dose provides shiitake mycelium extract (Lentinula edodes, Lentizumib® 3.0) and an organic lion's mane fruiting body extract (Hericium erinaceus, Herizumib®). Lion's mane has a long history of culinary and traditional use in East Asia.&lt;/p&gt;&lt;p&gt;Vitamin B3 is added as nicotinamide. Vitamin B3 helps to maintain the mucous membranes in a healthy condition and contributes to normal psychological function.&lt;/p&gt;&lt;p&gt;The drops are alcohol-free and are sweetened with steviol glycosides. Happy Gut is vegan, gluten-free and made in Europe.&lt;/p&gt;</description>
-    <tags>all_products_tag</tags>
-    <price>0.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>clear-mind-happy-gut-drops-hifas-da-terra</handle>
     <image/>
     <variant_title>Default Title</variant_title>
     <option1>Default Title</option1>
