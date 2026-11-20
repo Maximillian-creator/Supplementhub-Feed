@@ -703,7 +703,7 @@
     <tags>low_vat_rate</tags>
     <price>52.31</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>lugols-iodine-90-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mother_Earth_Lugol_27s_Iodine_Caps.png?v=1764586767</image>
@@ -5928,7 +5928,7 @@
     <tags>low_vat_rate</tags>
     <price>49.58</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>bio-revive-beta-immune-30-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/BetaImmune__Web_ProductRender_4127dd7c-ea23-4131-af2d-d25e4dad6cad.png?v=1764586077</image>
@@ -8543,7 +8543,7 @@
     <tags>low_vat_rate</tags>
     <price>37.05</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>epa-dha-essentials-90-softgel-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/PUR_0007-EPA-DHA-Essentials-90s.jpg?v=1764586401</image>
@@ -19712,7 +19712,7 @@
     <tags>low_vat_rate</tags>
     <price>24.15</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>melatonin-liquid-50-ml-new-roots-herbal</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Plytix_20Images_20-_202025-10-03T145257.652.webp?v=1764586261</image>
