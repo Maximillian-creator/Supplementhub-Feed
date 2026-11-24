@@ -645,26 +645,6 @@
     <weight_unit>GRAMS</weight_unit>
   </product>
   <product>
-    <sku>MBL_05</sku>
-    <barcode/>
-    <title>RestorFlora - 50 Capsules | Microbiome Labs</title>
-    <vendor>Microbiome Labs</vendor>
-    <product_type/>
-    <description>&lt;p&gt;RestorFlora™ is a probiotic that combines three well-studied and widely used probiotic strains – Saccharomyces boulardii, Bacillus subtilis, and Bacillus clausii.&lt;br data-mce-fragment=&quot;1&quot;&gt;This combination of clinically studied friendly probiotic yeast and probiotic bacteria offers comprehensive digestive flora support with an advanced, dual-action approach. RestorFlora™ has the ability to effectively colonize in the digestive tract.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;More information about this product&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Unfortunately, due to legislation concerning supplements, we are not allowed to provide (complete) information about this product. For more information we refer you to a library of medicine&lt;/p&gt;&lt;p&gt;&lt;em&gt;You may receive the old packaging - see images&lt;/em&gt;&lt;/p&gt;</description>
-    <tags>low_vat_rate</tags>
-    <price>59.94</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>restorflora-50-capsules</handle>
-    <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MBL-RestorFlora-UK-Bottle-FRONT_20_281_29_20_281_29.jpg?v=1774909084</image>
-    <variant_title>Default Title</variant_title>
-    <option1>Default Title</option1>
-    <option2/>
-    <weight>64.0</weight>
-    <weight_unit>GRAMS</weight_unit>
-  </product>
-  <product>
     <sku>MCL_01</sku>
     <barcode>866133000313</barcode>
     <title>Lauricidin (Monolaurin) - 227g | Lauricidin</title>
@@ -4970,7 +4950,7 @@
     <tags>low_vat_rate</tags>
     <price>67.57</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>blood-sugar-support</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_11_a8939dec-290e-43e3-ab08-fc63a210a4ae.png?v=1764585868</image>
@@ -11433,7 +11413,7 @@
     <tags>low_vat_rate</tags>
     <price>65.66</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>n-acetyl-l-cysteine-nac-600mg-200-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VTL_35-200_22aa265e-446e-4685-a5bb-42aa9e6202d7.png?v=1764585582</image>
@@ -17582,7 +17562,7 @@
     <tags>low_vat_rate</tags>
     <price>27.17</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>once-daily-multivitamin-30-capsules-vital-nutrients</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/VNONE60.REV00_Front_903a05a3-1c23-470e-b0a5-7585aed3f13a.jpg?v=1764586262</image>
@@ -19541,7 +19521,7 @@
     <tags>low_vat_rate</tags>
     <price>54.16</price>
     <compare_at_price>50.13</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>optimal-pc-90-softgels-seeking-health</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/OP-PC-SG_R_medium_20_281_29.webp?v=1764586521</image>
@@ -24321,7 +24301,7 @@
     <tags/>
     <price>132.40</price>
     <compare_at_price>147.12</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>preconception-and-pregnancy-nutrition-protocol</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Preconception_Pregnancy_Nutrition_Protocol_1200x400_d3fe7692-8e07-463b-90f3-3db358e7b497.png?v=1790861262</image>
