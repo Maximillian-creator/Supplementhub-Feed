@@ -10452,7 +10452,7 @@
     <tags>low_vat_rate</tags>
     <price>40.37</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <quantity>0</quantity>
     <handle>7-salt-magnesium-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/7-Salt-Magnesium-UK-Biogena-60Kps-125cc-2012_low.jpg?v=1764586602</image>
@@ -10496,7 +10496,7 @@
     <tags>low_vat_rate</tags>
     <price>56.67</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>mucosa-formula-60-capsules</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Mucosa-Smart-Formula-UK-Biogena-60Kps-125cc-2012_low_ef631c2c-8846-42e4-81c0-2419d27dc38d.jpg?v=1764585737</image>
@@ -11778,7 +11778,7 @@
     <tags>low_vat_rate</tags>
     <price>56.67</price>
     <compare_at_price>70.84</compare_at_price>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>avp-120-capsules-makewell</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/MW_Packshot_EU_AVP_L_white_20231107_eb03d572-ad4d-4524-952b-25ebde47d175.jpg?v=1764586089</image>
@@ -16035,7 +16035,7 @@
     <tags>low_vat_rate</tags>
     <price>59.94</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <quantity>0</quantity>
     <handle>pregnancy-support-30-capsules-microbiome-labs</handle>
     <image>https://cdn.shopify.com/s/files/1/0589/9078/8776/files/Pregnancy_20Support_20-_2030_20Capsules_20_20Microbiome_20Labs_01_o6dqm7.webp?v=1764586349</image>
@@ -21762,7 +21762,7 @@
 &lt;li&gt;DHA and EPA contribute to the maintenance of normal blood pressure&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;*Disclaimer: Our supplements are trusted and selected by practitioners. Legislation limits the information we can share. For complete details, please refer to a medical library.</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>62.77</price>
+    <price>70.62</price>
     <compare_at_price>78.47</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21792,7 +21792,7 @@
 &lt;div class=&quot;mt-3 w-full empty:hidden&quot;&gt;&lt;div class=&quot;text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]&quot;&gt;&lt;/div&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>33.13</price>
+    <price>37.27</price>
     <compare_at_price>41.41</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21812,7 +21812,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;46&quot; data-end=&quot;180&quot;&gt;&lt;strong data-start=&quot;46&quot; data-end=&quot;180&quot;&gt;NuaDHA® 500 is a food supplement providing 500 mg of docosahexaenoic acid (DHA) per softgel in a chewable, lemon-flavoured format.&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;182&quot; data-end=&quot;393&quot;&gt;The formulation delivers DHA derived from marine fish oil, offering a consistent source of omega-3 fatty acids in a convenient daily format. DHA is an essential fatty acid that must be obtained through the diet.&lt;/p&gt;&lt;p data-start=&quot;395&quot; data-end=&quot;638&quot;&gt;The softgel format allows for flexible intake and can be swallowed whole, chewed, or opened so the contents can be mixed with foods such as yogurt or purées. This format is suitable for individuals who prefer alternatives to standard capsules.&lt;/p&gt;&lt;p data-start=&quot;640&quot; data-end=&quot;766&quot;&gt;The formulation includes added vitamin E, which is commonly used in oil-based products to help maintain stability and quality.&lt;/p&gt;&lt;p data-start=&quot;768&quot; data-end=&quot;935&quot;&gt;Omega-3 fatty acids such as DHA are often included in dietary routines where intake of oily fish may be limited. The product is designed for straightforward daily use.&lt;/p&gt;&lt;p data-start=&quot;937&quot; data-end=&quot;1092&quot;&gt;&lt;strong data-start=&quot;937&quot; data-end=&quot;1092&quot;&gt;DHA contributes to the maintenance of normal brain function and normal vision. This beneficial effect is obtained with a daily intake of 250 mg of DHA.&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;1094&quot; data-end=&quot;1186&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaDHA® 500 is intended for use as part of a varied a&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>23.53</price>
+    <price>35.31</price>
     <compare_at_price>39.23</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21842,7 +21842,7 @@
 &lt;div class=&quot;mt-3 w-full empty:hidden&quot;&gt;&lt;div class=&quot;text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]&quot;&gt;&lt;/div&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>33.13</price>
+    <price>37.27</price>
     <compare_at_price>41.41</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21862,7 +21862,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;146&quot;&gt;NuaMetabol® is a food supplement formulated with a combination of botanical extracts, micronutrients, and coenzyme Q10, presented in capsule form.&lt;/p&gt;&lt;p data-start=&quot;148&quot; data-end=&quot;479&quot;&gt;The formulation includes plant-derived ingredients such as hibiscus, bergamot, olive, and cinnamon extracts, together with coenzyme Q10, chromium, and B vitamins. These components provide a range of naturally occurring compounds characteristic of botanical extracts and nutrients commonly included in multi-ingredient formulations.&lt;/p&gt;&lt;p data-start=&quot;481&quot; data-end=&quot;660&quot;&gt;Products of this type are often incorporated into dietary routines where attention is given to overall nutritional intake and lifestyle factors such as diet and physical activity.&lt;/p&gt;&lt;p data-start=&quot;662&quot; data-end=&quot;841&quot;&gt;The product is provided in a biodegradable container and is suitable for individuals following a vegan lifestyle. The recommended intake is one capsule per day, taken with a meal.&lt;/p&gt;&lt;p data-start=&quot;843&quot; data-end=&quot;935&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaMetabol® is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>25.28</price>
+    <price>28.44</price>
     <compare_at_price>31.60</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21891,7 +21891,7 @@
 &lt;div class=&quot;mt-3 w-full empty:hidden&quot;&gt;&lt;div class=&quot;text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]&quot;&gt;&lt;/div&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>27.89</price>
+    <price>31.38</price>
     <compare_at_price>34.87</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21911,7 +21911,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;134&quot;&gt;Neuronua® is a food supplement formulated with a combination of botanical extracts, vitamins, and minerals, presented in capsule form.&lt;/p&gt;&lt;p data-start=&quot;136&quot; data-end=&quot;574&quot;&gt;The formulation includes extracts of bacopa (&lt;em data-start=&quot;181&quot; data-end=&quot;198&quot;&gt;Bacopa monnieri&lt;/em&gt;), rhodiola (&lt;em data-start=&quot;211&quot; data-end=&quot;227&quot;&gt;Rhodiola rosea&lt;/em&gt;), ginseng (&lt;em data-start=&quot;239&quot; data-end=&quot;254&quot;&gt;Panax ginseng&lt;/em&gt;), and sage (&lt;em data-start=&quot;267&quot; data-end=&quot;287&quot;&gt;Salvia officinalis&lt;/em&gt;), together with B vitamins, vitamin D, and selenium. These ingredients provide a range of naturally occurring compounds such as bacosides, rosavins, salidrosides, ginsenosides, and rosmarinic acid, which are characteristic of the respective plants. &lt;/p&gt;&lt;p data-start=&quot;576&quot; data-end=&quot;767&quot;&gt;The product combines plant-derived ingredients with micronutrients commonly included in nutritional formulations that incorporate vitamins and botanical extracts in a structured daily format.&lt;/p&gt;&lt;p data-start=&quot;769&quot; data-end=&quot;918&quot;&gt;The capsule format allows for convenient intake, with a recommended daily use of two capsules taken with meals. &lt;/p&gt;&lt;p data-start=&quot;920&quot; data-end=&quot;1130&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;Neuronua® is suitable for individuals looking to incorporate a multi-ingredient formulation into their daily routine. The product is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>25.28</price>
+    <price>28.44</price>
     <compare_at_price>31.60</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21931,7 +21931,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;37&quot; data-end=&quot;195&quot;&gt;&lt;strong data-start=&quot;37&quot; data-end=&quot;195&quot;&gt;Nualgae® DHA is a food supplement providing omega-3 fatty acids derived from microalgae (&lt;em data-start=&quot;128&quot; data-end=&quot;144&quot;&gt;Schizochytrium&lt;/em&gt; sp.), presented in a plant-based softgel format.&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;197&quot; data-end=&quot;409&quot;&gt;The formulation delivers DHA together with EPA from a non-marine animal source. Microalgae are the original producers of marine omega-3 fatty acids, which are naturally accumulated in fish through the food chain.&lt;/p&gt;&lt;p data-start=&quot;411&quot; data-end=&quot;636&quot;&gt;The softgel capsule is made from plant-based gelatin, making the product suitable for individuals following vegetarian or vegan dietary preferences, as well as those seeking an alternative to fish-derived omega-3 supplements.&lt;/p&gt;&lt;p data-start=&quot;638&quot; data-end=&quot;829&quot;&gt;Omega-3 fatty acids such as DHA and EPA are often included in dietary routines where intake of oily fish may be limited. The product provides a consistent and convenient option for daily use.&lt;/p&gt;&lt;p data-start=&quot;831&quot; data-end=&quot;1133&quot;&gt;&lt;strong data-start=&quot;831&quot; data-end=&quot;986&quot;&gt;DHA contributes to the maintenance of normal brain function and normal vision. This beneficial effect is obtained with a daily intake of 250 mg of DHA.&lt;/strong&gt;&lt;br data-start=&quot;986&quot; data-end=&quot;989&quot;&gt;&lt;strong data-start=&quot;989&quot; data-end=&quot;1133&quot;&gt;EPA and DHA contribute to the normal function of the heart. This beneficial effect is obtained with a daily intake of 250 mg of EPA and DHA.&lt;/strong&gt;&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>37.49</price>
+    <price>42.17</price>
     <compare_at_price>46.86</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21951,7 +21951,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;204&quot;&gt;NuaDHA Vision® is a food supplement combining omega-3 fatty acids with a complementary blend of vitamins, minerals, and plant-derived compounds, presented in a dual-format system of softgels and capsules.&lt;/p&gt;&lt;p data-start=&quot;206&quot; data-end=&quot;602&quot;&gt;The formulation includes DHA-rich fish oil provided in softgel form, together with a capsule blend containing ingredients such as vitamin C, vitamin E, zinc, copper, lutein, zeaxanthin, taurine, and selected botanical extracts. These components provide a range of naturally occurring compounds, including carotenoids and micronutrients characteristic of this type of multi-ingredient formulation.&lt;/p&gt;&lt;p data-start=&quot;604&quot; data-end=&quot;759&quot;&gt;The combination of softgels and capsules allows for a structured daily intake of omega-3 fatty acids alongside additional nutrients in a convenient format.&lt;/p&gt;&lt;p data-start=&quot;761&quot; data-end=&quot;919&quot;&gt;Products of this type are commonly included in dietary routines where intake of marine-derived nutrients and carotenoid-containing ingredients may be limited.&lt;/p&gt;&lt;p data-start=&quot;921&quot; data-end=&quot;1016&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaDHA Vision® is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>49.69</price>
+    <price>55.91</price>
     <compare_at_price>62.12</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21971,7 +21971,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;195&quot;&gt;NuaEquizenter® is a food supplement formulated with a combination of botanical extracts and micronutrients, including bacopa extract, green tea extract, and B vitamins, presented in capsule form.&lt;/p&gt;&lt;p data-start=&quot;197&quot; data-end=&quot;469&quot;&gt;The formulation brings together ingredients commonly used in nutritional products that combine plant-derived compounds with vitamins. Bacopa and green tea extracts provide characteristic phytochemicals, while B vitamins are included as part of a broad nutritional profile.&lt;/p&gt;&lt;p data-start=&quot;471&quot; data-end=&quot;679&quot;&gt;Products of this type are often incorporated into dietary routines during periods of increased mental or physical demand, where consistency of intake and overall dietary patterns are taken into consideration.&lt;/p&gt;&lt;p data-start=&quot;681&quot; data-end=&quot;797&quot;&gt;The capsules are provided in a biodegradable container and are suitable for individuals following a vegan lifestyle.&lt;/p&gt;&lt;p data-start=&quot;799&quot; data-end=&quot;900&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaEquizenter® is intended for daily use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>27.02</price>
+    <price>30.40</price>
     <compare_at_price>33.78</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -21991,7 +21991,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;157&quot;&gt;Hidroxinua® 25 is a food supplement containing a natural olive extract standardised for hydroxytyrosol (HT), a phenolic compound naturally present in olives.&lt;/p&gt;&lt;p data-start=&quot;159&quot; data-end=&quot;367&quot;&gt;Each softgel provides a minimum of 25 mg of hydroxytyrosol, with levels that may reach up to 29 mg per softgel, offering a concentrated and consistent intake of olive polyphenols in a convenient daily format.&lt;/p&gt;&lt;p data-start=&quot;369&quot; data-end=&quot;599&quot;&gt;Hydroxytyrosol is one of the characteristic phenolic compounds found in olives and olive-derived ingredients. Products containing olive extracts are commonly included in dietary routines that incorporate plant-derived polyphenols.&lt;/p&gt;&lt;p data-start=&quot;601&quot; data-end=&quot;786&quot;&gt;The formulation is presented in softgel form and includes olive-derived ingredients in a lipid-based matrix, with vitamin E commonly used to help maintain product stability and quality.&lt;/p&gt;&lt;p data-start=&quot;788&quot; data-end=&quot;935&quot;&gt;Hidroxinua® 25 is designed for daily use, typically taken with food, and can be incorporated into a varied and balanced diet and healthy lifestyle.&lt;/p&gt;&lt;p data-start=&quot;937&quot; data-end=&quot;1128&quot;&gt;Olive oil polyphenols contribute to the protection of blood lipids from oxidative stress. This beneficial effect is obtained with a daily intake of 5 mg of hydroxytyrosol and its derivatives.&lt;/p&gt;&lt;p data-start=&quot;1130&quot; data-end=&quot;1253&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;Hidroxinua® 25 provides a standardised amount of hydroxytyrosol per softgel, allowing for controlled and consistent intake.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>27.89</price>
+    <price>31.38</price>
     <compare_at_price>34.87</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22011,7 +22011,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;177&quot;&gt;NuaEPA® 1200 is a food supplement providing a highly concentrated source of omega-3 fatty acids, with eicosapentaenoic acid (EPA) as the main component, in softgel capsule form.&lt;/p&gt;&lt;p data-start=&quot;179&quot; data-end=&quot;417&quot;&gt;Each softgel contains a high proportion of omega-3 fatty acids (approximately 93%), of which more than 90% is EPA, derived from marine fish oil. The formulation is designed to deliver omega-3 in a concentrated and consistent daily format.&lt;/p&gt;&lt;p data-start=&quot;419&quot; data-end=&quot;585&quot;&gt;The oil is presented in a purified form and includes added vitamin E, which is commonly used in oil-based formulations to help maintain stability and product quality.&lt;/p&gt;&lt;p data-start=&quot;587&quot; data-end=&quot;787&quot;&gt;Omega-3 fatty acids such as EPA and DHA are often included in dietary patterns where intake of oily fish or marine-derived nutrients may be limited. The softgel format allows for convenient daily use.&lt;/p&gt;&lt;p data-start=&quot;789&quot; data-end=&quot;1232&quot;&gt;EPA and DHA contribute to the normal function of the heart. This beneficial effect is obtained with a daily intake of 250 mg of EPA and DHA. EPA and DHA contribute to the maintenance of normal blood pressure. This beneficial effect is obtained with a daily intake of 3 g of EPA and DHA. EPA and DHA contribute to the maintenance of normal blood triglyceride levels. This beneficial effect is obtained with a daily intake of 2 g of EPA and DHA.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>27.02</price>
+    <price>30.40</price>
     <compare_at_price>33.78</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22031,7 +22031,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;135&quot;&gt;Reishinua® (capsules) is a food supplement formulated with a combination of mushroom and botanical extracts, presented in capsule form.&lt;/p&gt;&lt;p data-start=&quot;137&quot; data-end=&quot;466&quot;&gt;The formulation includes a dry extract of reishi mushroom (&lt;em data-start=&quot;196&quot; data-end=&quot;215&quot;&gt;Ganoderma lucidum&lt;/em&gt;), together with dry extracts of perilla (&lt;em data-start=&quot;257&quot; data-end=&quot;277&quot;&gt;Perilla frutescens&lt;/em&gt;), ginger (&lt;em data-start=&quot;288&quot; data-end=&quot;309&quot;&gt;Zingiber officinale&lt;/em&gt;), and sophora (&lt;em data-start=&quot;325&quot; data-end=&quot;343&quot;&gt;Sophora japonica&lt;/em&gt;), a natural source of quercetin. These ingredients provide a range of characteristic plant and mushroom-derived compounds.&lt;/p&gt;&lt;p data-start=&quot;468&quot; data-end=&quot;621&quot;&gt;Dry extracts are used as a concentrated form of plant material, allowing for a defined and consistent content of active constituents within each capsule.&lt;/p&gt;&lt;p data-start=&quot;623&quot; data-end=&quot;833&quot;&gt;Products of this type are commonly incorporated into dietary routines that include botanical extracts and plant-derived compounds, particularly during seasonal changes or variations in environmental conditions.&lt;/p&gt;&lt;p data-start=&quot;835&quot; data-end=&quot;1016&quot;&gt;The capsules are provided in a biodegradable container and are suitable for individuals following a vegan lifestyle. Recommended intake is typically 1–2 capsules taken before meals.&lt;/p&gt;&lt;p data-start=&quot;1018&quot; data-end=&quot;1109&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;Reishinua® is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>30.51</price>
+    <price>34.32</price>
     <compare_at_price>38.14</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22051,7 +22051,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;165&quot;&gt;AndroNuaDHA® is a food supplement formulated with a combination of omega-3 fatty acids, micronutrients, and antioxidant compounds, presented in softgel capsule form.&lt;/p&gt;&lt;p data-start=&quot;167&quot; data-end=&quot;436&quot;&gt;The formulation includes DHA-rich fish oil together with selected vitamins, minerals, and additional components commonly used in multi-ingredient nutritional formulations. These ingredients provide a range of compounds characteristic of omega-3 oils and micronutrients.&lt;/p&gt;&lt;p data-start=&quot;438&quot; data-end=&quot;590&quot;&gt;Products of this type are often incorporated into dietary routines where intake of marine-derived nutrients and associated micronutrients is considered.&lt;/p&gt;&lt;p data-start=&quot;592&quot; data-end=&quot;694&quot;&gt;The softgel format allows for convenient daily intake and can be integrated into a structured routine.&lt;/p&gt;&lt;p data-start=&quot;696&quot; data-end=&quot;789&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;AndroNuaDHA® is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>37.49</price>
+    <price>42.17</price>
     <compare_at_price>46.86</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22071,7 +22071,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;47&quot; data-end=&quot;228&quot;&gt;&lt;strong data-start=&quot;47&quot; data-end=&quot;228&quot;&gt;NuaEPA® 1200 is a food supplement providing a highly concentrated source of omega-3 fatty acids, with eicosapentaenoic acid (EPA) as the main component, in softgel capsule form.&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;230&quot; data-end=&quot;454&quot;&gt;Each softgel contains a high proportion of omega-3 fatty acids, with EPA representing the predominant component. The formulation delivers marine-derived omega-3 in a concentrated format, designed for consistent daily intake.&lt;/p&gt;&lt;p data-start=&quot;456&quot; data-end=&quot;622&quot;&gt;The oil is presented in a purified form and includes added vitamin E, which is commonly used in oil-based formulations to help maintain product stability and quality.&lt;/p&gt;&lt;p data-start=&quot;624&quot; data-end=&quot;830&quot;&gt;Omega-3 fatty acids such as EPA are often included in dietary patterns where intake of oily fish or marine-derived nutrients may be limited. The softgel format allows for convenient and straightforward use.&lt;/p&gt;&lt;p data-start=&quot;832&quot; data-end=&quot;925&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaEPA® 1200 is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>70.62</price>
+    <price>79.45</price>
     <compare_at_price>88.28</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22104,7 +22104,7 @@
 &lt;div class=&quot;mt-3 w-full empty:hidden&quot;&gt;&lt;div class=&quot;text-center&quot;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;div aria-hidden=&quot;true&quot; class=&quot;pointer-events-none -mt-px h-px translate-y-[calc(var(--scroll-root-safe-area-inset-bottom)-14*var(--spacing))]&quot;&gt;&lt;/div&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>31.38</price>
+    <price>35.31</price>
     <compare_at_price>39.23</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22124,7 +22124,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;46&quot; data-end=&quot;204&quot;&gt;&lt;strong data-start=&quot;46&quot; data-end=&quot;204&quot;&gt;NuaDHA® 400 is a food supplement providing omega-3 fatty acids with docosahexaenoic acid (DHA) as the main component, delivered in small softgel capsules.&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;206&quot; data-end=&quot;424&quot;&gt;Each softgel contains a high concentration of omega-3 fatty acids, with DHA representing the predominant component. The formulation provides DHA derived from marine fish oil in a consistent and convenient daily format.&lt;/p&gt;&lt;p data-start=&quot;426&quot; data-end=&quot;567&quot;&gt;The smaller softgel size is designed to facilitate ease of swallowing, making it suitable for individuals who prefer smaller capsule formats.&lt;/p&gt;&lt;p data-start=&quot;569&quot; data-end=&quot;735&quot;&gt;The oil is presented in a purified form and includes added vitamin E, which is commonly used in oil-based formulations to help maintain stability and product quality.&lt;/p&gt;&lt;p data-start=&quot;737&quot; data-end=&quot;920&quot;&gt;DHA is an essential fatty acid that must be obtained through the diet. Omega-3 fatty acids such as DHA are often included in dietary routines where intake of oily fish may be limited.&lt;/p&gt;&lt;p data-start=&quot;922&quot; data-end=&quot;1077&quot;&gt;&lt;strong data-start=&quot;922&quot; data-end=&quot;1077&quot;&gt;DHA contributes to the maintenance of normal brain function and normal vision. This beneficial effect is obtained with a daily intake of 250 mg of DHA.&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;1079&quot; data-end=&quot;1171&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaDHA® 400 is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>30.51</price>
+    <price>34.32</price>
     <compare_at_price>38.14</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22144,7 +22144,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;192&quot;&gt;Reishinua® (vials) is a food supplement formulated with a combination of mushroom extracts, botanical extracts, bee-derived ingredients, and micronutrients, presented in drinkable vial format.&lt;/p&gt;&lt;p data-start=&quot;194&quot; data-end=&quot;533&quot;&gt;The formulation includes reishi extract together with dry extracts of Iceland lichen (&lt;em data-start=&quot;280&quot; data-end=&quot;300&quot;&gt;Cetraria islandica&lt;/em&gt;), perilla (&lt;em data-start=&quot;312&quot; data-end=&quot;332&quot;&gt;Perilla frutescens&lt;/em&gt;), and elderberry (&lt;em data-start=&quot;351&quot; data-end=&quot;367&quot;&gt;Sambucus nigra&lt;/em&gt;). It also contains freeze-dried royal jelly (standardised to 6% HDA) and propolis (standardised to 10% galangin), alongside zinc, iron, vitamin D, and beta-carotene.&lt;/p&gt;&lt;p data-start=&quot;535&quot; data-end=&quot;778&quot;&gt;Dry extracts are used as a concentrated form of plant material, providing a defined content of characteristic compounds. The formulation combines botanical and bee-derived ingredients with selected vitamins and minerals in a structured format.&lt;/p&gt;&lt;p data-start=&quot;780&quot; data-end=&quot;959&quot;&gt;The liquid vial format allows for flexible intake and can be consumed directly or mixed with water or juice. Intake can be adjusted according to individual preference and routine.&lt;/p&gt;&lt;p data-start=&quot;961&quot; data-end=&quot;1076&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;Reishinua® is designed for daily use and can be incorporated into a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>21.79</price>
+    <price>24.51</price>
     <compare_at_price>27.24</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22164,7 +22164,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;0&quot; data-end=&quot;124&quot;&gt;NuaLipid® is a food supplement formulated with a combination of botanical extracts and vitamin D3, presented in tablet form.&lt;/p&gt;&lt;p data-start=&quot;126&quot; data-end=&quot;534&quot;&gt;The formulation includes extracts of apple (&lt;em data-start=&quot;170&quot; data-end=&quot;184&quot;&gt;Malus pumila&lt;/em&gt;), bergamot (&lt;em data-start=&quot;197&quot; data-end=&quot;214&quot;&gt;Citrus bergamia&lt;/em&gt;), artichoke (&lt;em data-start=&quot;228&quot; data-end=&quot;245&quot;&gt;Cynara scolymus&lt;/em&gt;), olive (&lt;em data-start=&quot;255&quot; data-end=&quot;270&quot;&gt;Olea europaea&lt;/em&gt;), and sugar cane (&lt;em data-start=&quot;289&quot; data-end=&quot;312&quot;&gt;Saccharum officinarum&lt;/em&gt;), providing characteristic plant compounds such as polyphenols, hydroxytyrosol, and policosanols. These ingredients are combined in a structured formulation designed for daily intake. &lt;/p&gt;&lt;p data-start=&quot;536&quot; data-end=&quot;752&quot;&gt;Each capsule provides defined amounts of these extracts, including olive extract standardised to deliver hydroxytyrosol, along with vitamin D3 as part of the overall composition. &lt;/p&gt;&lt;p data-start=&quot;754&quot; data-end=&quot;1027&quot;&gt;The product is free from sugars, gluten, lactose, and genetically modified organisms, and is suitable for vegetarian use. It is provided in a biodegradable container and designed for convenient daily intake, typically taken with meals. &lt;/p&gt;&lt;p data-start=&quot;1029&quot; data-end=&quot;1236&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaLipid® combines plant-derived ingredients and micronutrients commonly used in multi-ingredient nutritional formulations. It is intended for use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>27.89</price>
+    <price>31.38</price>
     <compare_at_price>34.87</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
@@ -22184,7 +22184,7 @@
     <product_type/>
     <description>&lt;p data-start=&quot;47&quot; data-end=&quot;162&quot;&gt;&lt;strong data-start=&quot;47&quot; data-end=&quot;162&quot;&gt;NuaDHA 1000 is a food supplement providing a concentrated source of docosahexaenoic acid (DHA) in softgel form.&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;164&quot; data-end=&quot;396&quot;&gt;Each softgel contains a high proportion of omega-3 fatty acids, with DHA as the principal component, derived from marine fish oil. The formulation is designed to deliver a consistent intake of omega-3 in a convenient capsule format.&lt;/p&gt;&lt;p data-start=&quot;398&quot; data-end=&quot;547&quot;&gt;The oil is presented in a purified form and includes added vitamin E, which is commonly used in oil-based formulations to maintain product stability.&lt;/p&gt;&lt;p data-start=&quot;549&quot; data-end=&quot;718&quot;&gt;Omega-3 fatty acids such as DHA are often included in dietary routines where intake of oily fish may be limited. The softgel format allows for straightforward daily use.&lt;/p&gt;&lt;p data-start=&quot;720&quot; data-end=&quot;871&quot;&gt;DHA contributes to the maintenance of normal brain function and normal vision. This beneficial effect is obtained with a daily intake of 250 mg of DHA.&lt;/p&gt;&lt;p data-start=&quot;873&quot; data-end=&quot;971&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt;NuaDHA 1000 is intended for daily use as part of a varied and balanced diet and healthy lifestyle.&lt;/p&gt;</description>
     <tags>all_products_tag, low_vat_rate</tags>
-    <price>25.28</price>
+    <price>28.44</price>
     <compare_at_price>31.60</compare_at_price>
     <available>true</available>
     <quantity>0</quantity>
